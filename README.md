@@ -5,7 +5,7 @@ LEMBAS formulation (Nilsson *et al.* 2022). Node activities propagate along lite
 signed edges until the network reaches a steady state; transcription-factor activities read out
 of that state predict measured TF activity and gene expression.
 
-This repository reproduces the three perturbation predictions reported in the manuscript:
+This repository reproduces the three perturbation predictions reported:
 
 | case | what it represents | command |
 |---|---|---|
@@ -167,22 +167,8 @@ python scripts/run_step48_tf_influence.py      # readout-layer TF influence
 `run_step40_contributions.py` decomposes a node's response into `weight × Δ(source)` over its
 in-edges, which is how the manuscript attributes a prediction to specific interactions.
 
-## 6. Figures
 
-```bash
-python figures/make_panel_b_methods.py         # method comparison, out-of-fold
-python figures/make_panel_b1_fold0.py          # the same on fold 0 alone
-python figures/make_panel_cv.py                # cross-validation
-python figures/make_panel_e_dynasore.py        # the two dynasore routes
-python figures/make_si09_pparg_chain.py        # SI: one unsigned edge, 388 genes
-python figures/make_si10_two_misses.py         # SI: the two scored misses
-```
-
-Each writes `.pdf` (vector, editable text) and `.png` to `figures/rendered/`, and prints a legend
-note stating what the panel does and does not support. `figures/README.md` lists which run
-produces each panel's inputs.
-
-## 7. Repository layout
+## 6. Repository layout
 
 ```
 lembas_par2/        the model: core solver, network assembly, loss, training, evaluation
@@ -199,7 +185,7 @@ curation/           this study's curated decisions and pre-registrations
 config.yaml         every parameter, path and threshold, with the reason for each in comments
 ```
 
-## 8. Reproducibility notes
+## 7. Reproducibility notes
 
 * **Five seeds, always.** Several reported quantities change sign between seeds. Scripts default
   to seeds 0–4 and report medians with the spread.
@@ -215,7 +201,7 @@ config.yaml         every parameter, path and threshold, with the reason for eac
 * `curation/*_prereg_*.md` record analyses whose rules were fixed before they were run. Where a
   model revision was made after the comparison data had been seen, the manuscript says so.
 
-## 9. Citing
+## 8. Citing
 
 Please cite the manuscript, and the LEMBAS method it builds on:
 
@@ -224,7 +210,7 @@ Please cite the manuscript, and the LEMBAS method it builds on:
 
 The curated data sources carry their own citation requirements; `data/README.md` lists them.
 
-## 10. Licence
+## 9. Licence
 
 Code in this repository is released under the MIT Licence (see `LICENSE`).
 
