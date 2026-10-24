@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACO1,Aco1,S138-p,451387,DFNRRADsLQKNQDL,"protein degradation; molecular association, regulation; enzymatic activity, inhibited","cell growth, induced",12972614; 16424901; 19269970; 28768766,Aconitase,maintain cell  viability,,,
+ACO1,Aco1,S711-p,455225,REFNSYGsRRGNDAV,"activity, inhibited",,15636585,Aconitase_C,,,,

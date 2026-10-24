@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3C3,Pik3c3,K840-sm,31077507,LEPDKTVkKVQDKFR,"enzymatic activity, induced","autophagy, induced",23569248,,,,,
+PIK3C3,Pik3c3,K781-ac,280006401,PPPMKLNkEMVEGMG,"enzymatic activity, inhibited","autophagy, inhibited",28844862,PI3_PI4_kinase,nutrient starvation-induced autophagy,,,
+PIK3C3,Pik3c3,S249-p,35483209,ESSPILTsFELVKVP,,"carcinogenesis, induced; autophagy, induced; cell growth, induced; apoptosis, inhibited",26118643; 33531625,,,,,
+PIK3C3,Pik3c3,K328-ub,964535368,YYLTNQEkALTKFLK,protein degradation,"autophagy, inhibited; transcription, inhibited",37596251,PI3Ka,,,,
+PIK3C3,Pik3c3,Y231-p,32674003,VKCDDKEyGIVYYEK,"intracellular localization; enzymatic activity, induced",,24582588,,,,,
+PIK3C3,Pik3c3,T668-p,14662701,ENLDLKLtPYKVLAT,"enzymatic activity, inhibited",,20513426,,,,,
+PIK3C3,Pik3c3,T159-p,14659500,DGSEPTKtPGRTSST,"molecular association, regulation; enzymatic activity, inhibited","endocytosis, altered",20513426,PI3K_C2,inhibits autophagy,beclin 1,Becn1,DISRUPTS
+PIK3C3,Pik3c3,K29-ac,280006402,KIGSLEGkREQKSYK,"molecular association, regulation; enzymatic activity, inhibited","autophagy, inhibited",28844862,,nutrient starvation-induced autophagy,beclin 1,Becn1,DISRUPTS
+PIK3C3,Pik3c3,K771-ac,280006400,YILGRDPkPLPPPMK,"enzymatic activity, inhibited","autophagy, inhibited",28844862,PI3_PI4_kinase,nutrient starvation-induced autophagy,,,
+PIK3C3,Pik3c3,Y310-p,32674002,PPTKQLTyEEQDLVW,intracellular localization,,24582588,PI3Ka,,,,

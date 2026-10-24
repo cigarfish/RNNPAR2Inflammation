@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FMNL2,Fmnl2,S1072-p,48891101,RADAVRRsVRRRFDD,"molecular association, regulation; intracellular localization","endocytosis, induced; cell motility, induced",26256210,,"localization from the plasma membrane to endosomal membrane compartments, promoted cell invasion",ITGA5,Itga5,INDUCES
+FMNL2,Fmnl2,S1016-p,3209661,MEQQDPKsPSHKSKR,intracellular localization,"cell cycle regulation; cell adhesion, induced; cytoskeletal reorganization",29930204,,,,,
+FMNL2,Fmnl2,T202-p,4689209,HSALRYNtLPSRRTL,,cytoskeletal reorganization,25456499,,spine development,,,
+FMNL2,Fmnl2,S1072-p,1868070803,ARTAKRGsRFFCEPV,"receptor internalization, induced",,31751425,,integrin beta 1 internalization,,,

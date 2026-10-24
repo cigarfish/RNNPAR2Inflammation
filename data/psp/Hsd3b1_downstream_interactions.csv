@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSD3B2,Hsd3b1,S95-p,1410340101,FGVTHREsIMNVNVK,"enzymatic activity, altered",,30580688,3Beta_HSD,Regulate steroidogenic enzyme activity,,,

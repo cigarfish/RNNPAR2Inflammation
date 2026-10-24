@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GOLGA2,Golga2,S37-p,454438,REYQQRNsPGVPTGA,"molecular association, regulation",,26165940; 9753325,,,KPNA1,Kpna1,INDUCES
+GOLGA2,Golga2,S37-p,454438,REYQQRNsPGVPTGA,"molecular association, regulation",,26165940; 9753325,,,TAP,Tap1,DISRUPTS

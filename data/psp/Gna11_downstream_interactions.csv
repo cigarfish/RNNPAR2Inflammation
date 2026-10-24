@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNA11,Gna11,S154-p,471084,RRREYQLsDSAKYYL,"molecular association, regulation; receptor desensitization, altered",,17056873; 17646429,G-alpha,,5-HT(2A),Htr2a,DISRUPTS

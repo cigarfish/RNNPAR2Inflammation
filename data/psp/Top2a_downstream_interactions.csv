@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TOP2A,Top2a,S1247-p,452238,KNENTEGsPQEDGVE,sumoylation; intracellular localization,cell cycle regulation,30871006,,,,,
+TOP2A,Top2a,T1343-p,448763,FSDFDEKtDDEDFVP,intracellular localization,,11699638,,,,,
+TOP2A,Top2a,T1244-p,3180474,KKIKNENtEGSPQED,sumoylation,cell cycle regulation,30871006,,influences sumoylation of K1240,,,
+TOP2A,Top2a,S1525-p,448764,PIKYLEEsDEDDLF_,"molecular association, regulation; intracellular localization; enzymatic activity, induced","cell cycle regulation; chromatin organization, altered; apoptosis, induced",18171681; 19098900; 27407105,,required for the decatenation checkpoint; required for normal sister chromatid segregationi late mitosis,MDC1,Mdc1,INDUCES
+TOP2A,Top2a,S1213-p,452237,QMAEVLPsPRGQRVI,intracellular localization,cell cycle regulation,11699638; 27407105; 30871006,,,,,
+TOP2A,Top2a,K1240-sm,15511902,KKNKKKIkNENTEGS,intracellular localization,,30871006,,influences mitotic localization of TOP2A,,,
+TOP2A,Top2a,S1365-p,18016961,TKTSPKLsNKELKPQ,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",,21254166,,,FBXW7,Fbxw7,INDUCES
+TOP2A,Top2a,K662-sm,55439454,KKQIDDRkEWLTNFM,"activity, induced; intracellular localization",,30871006,TOPRIM_C,influences mitotic localization of TOP2A,,,
+TOP2A,Top2a,S1106-p,448761,DEEENEEsDNEKETE,"molecular association, regulation; enzymatic activity, induced",,12569090; 19043076,DNA_topoisoIV,,,,
+TOP2A,Top2a,S1361-p,455094,SPPKTKTsPKLSNKE,"protein degradation; molecular association, regulation; ubiquitination",,21254166,,,FBXW7,Fbxw7,INDUCES
+TOP2A,Top2a,S1337-p,477804,LDSDEDFsDFDEKTD,"intracellular localization; enzymatic activity, induced","cell cycle regulation; apoptosis, induced",18171681,,required for normal sister chromatid segregationi late mitosis,,,

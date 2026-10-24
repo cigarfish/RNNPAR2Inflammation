@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MVB12B,Mvb12b,K290-ub,15167003,KSLAEIEkEYEYSFR,intracellular localization,,20654576,DUF2464,,,,
+MVB12B,Mvb12b,Y243-p,15167001,STRTDYEyQHSNLYA,protein degradation; ubiquitination,,20654576,DUF2464,,,,
+MVB12B,Mvb12b,Y241-p,6209987,RNSTRTDyEYQHSNL,protein degradation; ubiquitination,,20654576,DUF2464,,,,
+MVB12B,Mvb12b,K264-ub,15167002,VPFMISEkFSCVPES,intracellular localization,,20654576,DUF2464,,,,

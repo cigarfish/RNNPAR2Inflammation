@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRPF19,Prpf19,S149-p,25247501,VPQAVPSsQPSVVGA,,"DNA repair, induced; apoptosis, inhibited",22529335,,cell life span extension,,,
+PRPF19,Prpf19,Y405-p,31823502,IAFSENGyYLATAAD,"molecular association, regulation; intracellular localization",,24332808,WD40,,RFA2,Rpa2,INDUCES
+PRPF19,Prpf19,Y405-p,31823502,IAFSENGyYLATAAD,"molecular association, regulation; intracellular localization",,24332808,WD40,,H2AX,H2ax,INDUCES
+PRPF19,Prpf19,T193-p,17331800,ERKKRGKtVPEELVK,"molecular association, regulation; intracellular localization",,20629186,,involved in neuronal differentiation,14-3-3 beta,Ywhab,INDUCES
+PRPF19,Prpf19,T193-p,17331800,ERKKRGKtVPEELVK,"molecular association, regulation; intracellular localization",,20629186,,involved in neuronal differentiation,CDC5L,Cdc5l,INDUCES

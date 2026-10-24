@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VRK3,Vrk3,S108-p,4762306,RPPTPKSsPQKTRKS,"molecular association, regulation; intracellular localization; enzymatic activity, induced","apoptosis, inhibited",27346674,,"recruitment of phospho-ERK to VHR,  VHR phosphatase activity increased, increased Bak and Bax expression,",ERK2,Mapk1,INDUCES

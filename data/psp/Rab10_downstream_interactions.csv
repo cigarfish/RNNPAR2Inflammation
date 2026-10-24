@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB10,Rab10,T73-p,471953,AGQERFHtITTSYYR,"molecular association, regulation; intracellular localization","autophagy, inhibited",32853409; 34515301; 38358348,Ras,,GDI2,Gdi2,DISRUPTS
+RAB10,Rab10,T73-p,471953,AGQERFHtITTSYYR,"molecular association, regulation; intracellular localization","autophagy, inhibited",32853409; 34515301; 38358348,Ras,,GDI1,Gdi1,DISRUPTS
+RAB10,Rab10,T73-p,471953,AGQERFHtITTSYYR,"molecular association, regulation; intracellular localization","autophagy, inhibited",32853409; 34515301; 38358348,Ras,,VPS13C,Vps13c,INDUCES
+RAB10,Rab10,T73-p,471953,AGQERFHtITTSYYR,"molecular association, regulation; intracellular localization","autophagy, inhibited",32853409; 34515301; 38358348,Ras,,EHBP1L1,Ehbp1l1,INDUCES

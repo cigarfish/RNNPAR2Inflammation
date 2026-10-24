@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RUVBL1,Ruvbl1,T239-p,41608704,KEIIQDVtLHDLDVA,,cell cycle regulation,26201077,TIP49,,,,
+RUVBL1,Ruvbl1,R205-m2,63128908,GAVKRQGrCDTYATE,,"DNA repair, induced",28238654,TIP49,,,,
+RUVBL1,Ruvbl1,K7-me,1885694102,_MKIEEVkSTTKTQR,protein stabilization; ubiquitination,"cell motility, induced",37439412,, promotes CRC malignancy and metastasis; GART methylation inhibits low level ubiquitylation of K7 RUVBL1,,,
+RUVBL1,Ruvbl1,K225-sm,2798313,EEYVPLPkGDVHKKK,intracellular localization,"cell growth, induced; transcription, induced",18087039,TIP49,,,,

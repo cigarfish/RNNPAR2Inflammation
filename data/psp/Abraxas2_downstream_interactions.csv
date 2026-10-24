@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABRAXAS2,Abraxas2,Y377-p,3196742,EDSDDSDyENLIDPT,"molecular association, regulation",,30755420,,interaction with LNK further regulates LNK interaction with BRISC,LNK,Sh2b3,INDUCES

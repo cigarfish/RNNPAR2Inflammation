@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM25,Trim25,Y278-p,450585,NSKFDTIyQILLKKK,"ubiquitination; enzymatic activity, induced","transcription, induced; signaling pathway regulation",30100205,,induces K63-linked polyubiquitination of RIG-I,,,
+TRIM25,Trim25,K439-ub,12332222,NSTSLKAkVLETFLA,protein degradation; protein stabilization; intracellular localization,,35079021,,USP44 recruits and stabilizes TRIM25 and inhibits its ubiquitylation  and promotes the ubiquitiylation and degradation of Ku80. USP44 increases the radiosensitivity of NPC nasopharyngeal carcinoma cells (NPC) in vivo. ,,,
+TRIM25,Trim25,S100-p,2526112,PARASAPsPNAQVAC,"molecular association, regulation",,38438346,,,ITPKB,Itpkb,INDUCES
+TRIM25,Trim25,S12-p,1868624700,CPLAEELsCSICLEP,"protein stabilization; molecular association, regulation; activity, inhibited","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",31186535,,dimerization decreased in S12D mutant,TRIM25,Trim25,DISRUPTS

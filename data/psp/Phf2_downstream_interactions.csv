@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHF2,Phf2,S1056-p,11138771,FLTQRRPsASSPNNN,"molecular association, regulation","transcription, induced",21532585,,"demethylation of Mrf-2 K336, complex is then targeted to promoters and removes repressive H3K9m2",Mrf-2,Mrfap1,INDUCES
+PHF2,Phf2,S899-p,4169511,RSKKRKGsDDAPYSP,"molecular association, regulation","transcription, induced",21532585,,"demethylation of Mrf-2 K336, complex is then targeted to promoters and removes repressive H3K9m2",Mrf-2,Mrfap1,INDUCES
+PHF2,Phf2,S757-p,20936500,NARVKKEsGSSAAGI,"molecular association, regulation","transcription, induced",21532585,,"demethylation of Mrf-2 K336, complex is then targeted to promoters and removes repressive H3K9m2",Mrf-2,Mrfap1,INDUCES
+PHF2,Phf2,S655-p,3175945,KALRPPTsPGVFGAL,,"carcinogenesis, inhibited; cell motility, inhibited",36872368,,"AMPKA2 induced PHF2-S655 phosphorylation suppresses cell migration, invasion, and metastasis.",,,
+PHF2,Phf2,S954-p,20936501,QKSKKKKsAKRKLTP,"molecular association, regulation","transcription, induced",21532585,,"demethylation of Mrf-2 K336, complex is then targeted to promoters and removes repressive H3K9m2",Mrf-2,Mrfap1,INDUCES

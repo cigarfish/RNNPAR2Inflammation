@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NSF,Nsf,T645-p,53340201,RKLLIIGtTSRKDVL,"enzymatic activity, induced",,26758690,AAA,"increases NSF ATPase activity, increases the rate of SNARE complex disassembling",,,
+NSF,Nsf,Y83-p,453414,QEIEVSLyTFDKAKQ,"molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","exocytosis, inhibited",15322554; 31194868,CDC48_N,,SNAP-alpha,Snapin,DISRUPTS
+NSF,Nsf,Y83-p,453414,QEIEVSLyTFDKAKQ,"molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","exocytosis, inhibited",15322554; 31194868,CDC48_N,,PTP1B,Ptpn1,INDUCES

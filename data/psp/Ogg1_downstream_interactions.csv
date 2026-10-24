@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OGG1,Ogg1,K338-ac,40320204,EPPAKRRkGSKGPEG,,"DNA repair, induced; apoptosis, inhibited",25660075,,,,,
+OGG1,Ogg1,K341-ub,1877126900,AKRRKGSkGPEG___,"enzymatic activity, inhibited","DNA repair, induced",33282879,,reduced cell survival in response to IR,,,
+OGG1,Ogg1,S280-p,10036105,HIAQRDYsWHPTTSQ,"enzymatic activity, inhibited",,19674107,HhH-GPD,,,,
+OGG1,Ogg1,K341-ac,40320203,AKRRKGSkGPEG___,,"DNA repair, induced; apoptosis, inhibited",25660075,,,,,
+OGG1,Ogg1,S231-p,10036106,WLQQLREsSYEEAHK,"enzymatic activity, inhibited",,19674107,HhH-GPD,,,,
+OGG1,Ogg1,S232-p,10036104,LQQLRESsYEEAHKA,"enzymatic activity, inhibited",,19674107,HhH-GPD,,,,
+OGG1,Ogg1,S326-p,10036103,FSADLRQsRHAQEPP,"enzymatic activity, inhibited",,19674107,,,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCOA1,Ncoa1,K774-sm,2407404,SLDDVKVkVEKKEQM,intracellular localization,"transcription, induced",12529333,,,PR,pr,INDUCES
+NCOA1,Ncoa1,T1426-p,18958502,KPTSGPQtPQAQQKS,,"transcription, induced",21550420,,,,,
+NCOA1,Ncoa1,S1185-p,449064,GTPPASTsPFSQLAA,,"transcription, altered",11073973; 12163482,DUF1518,,,,
+NCOA1,Ncoa1,K732-sm,2407403,VQGNSSIkLELDASK,intracellular localization,"transcription, induced",12529333,,,PR,pr,INDUCES
+NCOA1,Ncoa1,T1179-p,449063,NYGTNPGtPPASTSP,,"transcription, altered",11073973; 12163482,DUF1518,,,,

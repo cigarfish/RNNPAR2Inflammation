@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF1C,Kif1c,Y726-p,34551194,RRAPRRVyQIPQRRR,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",35654143,,,PTPN21,Ptpn21,INDUCES
+KIF1C,Kif1c,Y654-p,1886771800,LQDLENQyRKEKEEA,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",35654143,,,PTPN21,Ptpn21,INDUCES
+KIF1C,Kif1c,Y671-p,1018176,LLEQQRLyADSDSGD,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",35654143,,,PTPN21,Ptpn21,INDUCES
+KIF1C,Kif1c,Y757-p,1886771805,QAVKEICyEVALADF,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",35654143,,,PTPN21,Ptpn21,INDUCES

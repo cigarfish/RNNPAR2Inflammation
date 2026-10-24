@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DKC1,Dkc1,K39-sm,31910300,HAEEFLIkPESKVAK,"protein stabilization; enzymatic activity, induced",,23660516,,,,,
+DKC1,Dkc1,K467-sm,1881186501,PAAPQLIkKEKKKSK,intracellular localization,,33526451,,disrupts subnuclear localization,NOLA1,Nola1,INDUCES
+DKC1,Dkc1,K43-sm,31910301,FLIKPESkVAKLDTS,protein stabilization,,23660516,,,,,

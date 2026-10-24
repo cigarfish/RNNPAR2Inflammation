@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM2A,Kdm2a,T632-p,482318,EVDQNEEtQDFEKKL,"molecular association, regulation","DNA repair, induced",25823024,PHD_4,,,,

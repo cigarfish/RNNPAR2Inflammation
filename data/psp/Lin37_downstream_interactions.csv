@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LIN37,Lin37,S182-p,453530,ACRSRIPsPLQPEMQ,"molecular association, regulation",,21498570,LIN37,,LIN52,Lin52,INDUCES

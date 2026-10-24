@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD4,Cd4,S440-p,469618,SQIKRLLsEKKTCQC,intracellular localization,,15494497,Tcell_CD4_C,,,,
+CD4,Cd4,S433-p,451188,RRQAERMsQIKRLLS,"protein degradation; receptor internalization, altered; intracellular localization",,15494497; 1674746,Tcell_CD4_C,,,,

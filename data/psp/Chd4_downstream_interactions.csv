@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHD4,Chd4,S428-p,470519,WEAKEDNsEGEEILE,"molecular association, regulation","chromatin organization, altered; transcription, induced",29907651,,,,,
+CHD4,Chd4,S310-p,471449,SKRKRSSsEDDDLDV,"molecular association, regulation","chromatin organization, altered; transcription, induced",29907651,,,,,
+CHD4,Chd4,S308-p,471447,FGSKRKRsSSEDDDL,"molecular association, regulation","chromatin organization, altered; transcription, induced",29907651,,,,,
+CHD4,Chd4,S1349-p,481897,QVNYNDGsQEDRDWQ,"molecular association, regulation; intracellular localization",,21219611,DUF1087,required for efficient repair of double strand DNA breaks,,,

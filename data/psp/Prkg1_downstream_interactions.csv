@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKG1,Prkg1,S65-p,51573802,TTRAQGIsAEPQTYR,"ubiquitination; enzymatic activity, induced",,12080049; 19168131,,,,,
+PRKG1,Prkg1,T59-p,1870119330,THIGPRTtRAQGISA,"enzymatic activity, induced",,12609995,,,,,
+PRKG1,Prkg1,S81-p,452147,RTKRQAIsAEPTAFD,"enzymatic activity, induced",,12080049,,,,,
+PRKG1,Prkg1,T517-p,452153,GFGKKTWtFCGTPEY,"phosphorylation; enzymatic activity, induced","transcription, altered",10644746,Pkinase,promotes phosphorylation of p38 and ATF2-dependent transcription,,,

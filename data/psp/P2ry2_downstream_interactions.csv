@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+P2RY2,P2ry2,S243-p,2909200,LPRAKRKsVRTIAVV,"receptor desensitization, altered; intracellular localization",,16311903,7tm_1,,,,
+P2RY2,P2ry2,S356-p,2909202,IEDVLGSsEDSRRTE,"receptor desensitization, altered; intracellular localization",,16311903,,,,,
+P2RY2,P2ry2,T344-p,2909201,GLRRSDRtDMQRIED,"receptor desensitization, altered; intracellular localization",,16311903,,,,,

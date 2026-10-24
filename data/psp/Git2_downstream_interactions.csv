@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GIT2,Git2,S384-p,30999681,NNQHSVEsQDNDQPD,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,,nuclear foci formation,MDC1,Mdc1,INDUCES
+GIT2,Git2,S384-p,30999681,NNQHSVEsQDNDQPD,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,,nuclear foci formation,H2AX,H2ax,INDUCES
+GIT2,Git2,S384-p,30999681,NNQHSVEsQDNDQPD,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,,nuclear foci formation,NBS1,Nbn,INDUCES
+GIT2,Git2,S384-p,30999681,NNQHSVEsQDNDQPD,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,,nuclear foci formation,PARP1,Parp1,INDUCES
+GIT2,Git2,T195-p,38539203,VYGADPGtQDSSGKT,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,Ank_2,nuclear foci formation,MDC1,Mdc1,INDUCES
+GIT2,Git2,T195-p,38539203,VYGADPGtQDSSGKT,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,Ank_2,nuclear foci formation,H2AX,H2ax,INDUCES
+GIT2,Git2,T195-p,38539203,VYGADPGtQDSSGKT,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,Ank_2,nuclear foci formation,NBS1,Nbn,INDUCES
+GIT2,Git2,T195-p,38539203,VYGADPGtQDSSGKT,"molecular association, regulation; intracellular localization","DNA repair, induced",25605334,Ank_2,nuclear foci formation,PARP1,Parp1,INDUCES

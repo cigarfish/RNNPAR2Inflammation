@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VPS28,Vps28,K58-ub,15498694,ALEKAYIkDCVSPSE,protein degradation,,37565750,VPS28,,,,
+VPS28,Vps28,K25-ub,1885585208,PELYEEVkLYKNARE,protein degradation,,37565750,,,,,

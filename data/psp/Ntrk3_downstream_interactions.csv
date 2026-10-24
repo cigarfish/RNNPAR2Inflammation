@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NTRK3,Ntrk3,Y705-p,464876,FGMSRDVySTDYYRL,,"carcinogenesis, induced; cell growth, induced; signaling pathway regulation",10702799,PK_Tyr_Ser-Thr,,,,
+NTRK3,Ntrk3,Y516-p,450003,PVIENPQyFRQGHNC,,"cell growth, altered",11877382,,,,,
+NTRK3,Ntrk3,Y709-p,464877,RDVYSTDyYRLFNPS,,"carcinogenesis, induced; signaling pathway regulation",10702799,PK_Tyr_Ser-Thr,,,,
+NTRK3,Ntrk3,Y710-p,464878,DVYSTDYyRLFNPSG,,"carcinogenesis, induced; signaling pathway regulation",10702799,PK_Tyr_Ser-Thr,,,,

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ECT2,Ect2,T790-p,1412327900,NTKDMDStLSRASRA,intracellular localization,,30542068,,correlates with cytoplasmic localization,,,
+ECT2,Ect2,T444-p,457522,TKSSKSStPVPSKQS,"activity, induced; molecular association, regulation","transcription, altered",16247472,,phosphorylation important for RhoA activation,PLK1,Plk1,INDUCES
+ECT2,Ect2,T359-p,483847,YLYEKANtPELKKSV,"molecular association, regulation; intracellular localization","carcinogenesis, altered; cell growth, altered",21189248,, regulates association with PKCI-Par6 complex; activates Rac1,,,
+ECT2,Ect2,T846-p,457521,RAFSFSKtPKRALRR,intracellular localization,cell cycle regulation,22172673,,,,,
+ECT2,Ect2,T327-p,483847,YLYEKANtPELKKSV,"molecular association, regulation",cytoskeletal reorganization,28692064,,cytoskeletal rearrangements  during interphase,PLK1,Plk1,INDUCES
+ECT2,Ect2,T327-p,483847,YLYEKANtPELKKSV,"molecular association, regulation",cytoskeletal reorganization,28692064,,cytoskeletal rearrangements  during interphase,RHOA,Rhoa,INDUCES
+ECT2,Ect2,T373-p,456870,VSMLSLNtPNSNRKR,"activity, induced; protein conformation",,16170345,,,,,

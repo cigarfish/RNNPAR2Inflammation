@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CRMP1,Crmp1,T101-p,11539300,RAALVGGtTMIIDHV,,cell cycle regulation,19799413,Amidohydro_1,,,,
+CRMP1,Crmp1,T509-p,454314,PVYEVPAtPKYATPA,,cytoskeletal reorganization,18003833,,Phosphorylation induces  increased density of synaptic clusters and neurite projection.  ,,,
+CRMP1,Crmp1,S522-p,1295503,PAPSAKSsPSKHQPP,,cytoskeletal reorganization,18003833,,Phosphorylation induces  increased density of synaptic clusters and neurite projection.  ,,,
+CRMP1,Crmp1,T102-p,11539301,AALVGGTtMIIDHVV,,cell cycle regulation,19799413,Amidohydro_1,,,,

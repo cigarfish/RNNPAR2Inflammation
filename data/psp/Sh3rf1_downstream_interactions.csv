@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH3RF1,Sh3rf1,S304-p,482847,KNTKKRHsFTSLTMA,"molecular association, regulation","apoptosis, inhibited",17535800,,,RAC1,Rac1,INDUCES

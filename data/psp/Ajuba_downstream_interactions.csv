@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AJUBA,Ajuba,S119-p,483805,EPTAPALsPRSSFAS,,"cell cycle regulation; cell growth, induced",27226586,,mitotic phosphorylation  promotse cell proliferation and anchorage-independent growth,,,
+AJUBA,Ajuba,S39-p,18011036,GPGKGRLsGLGGPRK,,"autophagy, induced",34706234,,induces mitophagy,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKD1,Pkd1,S4166-p,2859800,EPLPSRSsRGSKVSP,,"cell differentiation, altered",17980165,,,,,
+PKD1,Pkd1,S4252-p,466929,SLQGRRSsRAPAGSS,,"cell differentiation, altered",17980165,,,,,

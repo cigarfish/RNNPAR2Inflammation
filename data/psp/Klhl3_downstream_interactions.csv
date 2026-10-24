@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KLHL3,Klhl3,S433-p,36440206,PMNTRRSsVGVGVVE,"protein stabilization; molecular association, regulation; ubiquitination; protein conformation",signaling pathway regulation,25313067; 26435498; 27727489; 27942049; 30718414,Kelch_1,,WNK4,Wnk4,DISRUPTS

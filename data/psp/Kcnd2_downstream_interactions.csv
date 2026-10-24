@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCND2,Kcnd2,K579-sm,1879723001,SRSSLNAkMEECVKL,,"endocytosis, inhibited",34795560,,"~37?70% increase in channel surface expression and IA Gmax, 65 %reduction in ternary complexes internalization with KChIP2a and DPP10c",,,
+KCND2,Kcnd2,S552-p,450462,VSGSHQGsIQELSTI,protein stabilization; intracellular localization,,20045463,,KCNIP4-mediated enhancement of channel surface expression,,,

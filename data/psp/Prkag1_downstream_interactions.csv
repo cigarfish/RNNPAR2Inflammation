@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKAG1,Prkag1,T284-p,1827354810,LKCYLHEtLETIINR,"activity, induced; intracellular localization","autophagy, induced",31983282,CBS,Phosphorylation at S192 and T284 plays important role in lysosomal activation of AMPK through lysosomal localization of the AMPK complex.,,,
+PRKAG1,Prkag1,S192-p,1827354809,KPEFMSKsLEELQIG,"activity, induced; intracellular localization","autophagy, induced",31983282,CBS,Phosphorylation at S192 and T284 plays important role in lysosomal activation of AMPK through lysosomal localization of the AMPK complex.,,,

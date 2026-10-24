@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZFP36,Zfp36,S186-p,451151,PVLRQSIsFSGLPSG,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, induced; RNA stability, induced",28548957; 37210725,,,,,
+ZFP36,Zfp36,S60-p,451150,RLPGRSTsLVEGRSC,"molecular association, regulation","carcinogenesis, induced; RNA stability, induced",37210725,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CUL5,Cul5,S730-p,963800,MKMRKKIsNAQLQTE,"intracellular localization; activity, inhibited; neddylation; phosphorylation","cell cycle regulation; cell growth, inhibited; cell growth, altered",10898738; 12917106; 19917606; 21635549,Cullin_Nedd8,,,,

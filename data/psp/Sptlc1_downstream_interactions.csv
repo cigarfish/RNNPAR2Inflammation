@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPTLC1,Sptlc1,Y164-p,27930808,KTEEAIIySYGFATI,"intracellular localization; enzymatic activity, inhibited","apoptosis, inhibited",23629659,Aminotran_1_2,,,,

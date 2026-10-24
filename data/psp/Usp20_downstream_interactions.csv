@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP20,Usp20,S132-p,469013,AVADEGEsESEDDDL,protein stabilization,"carcinogenesis, induced",38124786,,"inhibits ubiquitination, induces oxaliplatin and ferroptosis resistance",,,
+USP20,Usp20,S368-p,454447,PAEAQPPsPRSSSPC,protein stabilization,"carcinogenesis, induced",38124786,,"inhibits ubiquitination, induces oxaliplatin and ferroptosis resistance",,,
+USP20,Usp20,S333-p,7323248,RMKDRKFsWGQQRTN,"molecular association, regulation; ubiquitination; enzymatic activity, inhibited",,25666616,,regulates lysosomal trafficking and ubiquitination of ADRB2,ADRB2,Adrb2,DISRUPTS

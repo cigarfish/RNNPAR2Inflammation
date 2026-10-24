@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR5A2,Nr5a2,S510-p,456465,LPEIRAIsMQAEEYL,"activity, induced; intracellular localization","transcription, induced",16109788; 37285077,Hormone_recep,,,,

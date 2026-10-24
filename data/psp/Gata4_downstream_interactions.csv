@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATA4,Gata4,S262-p,450013,IKPQRRLsASRRVGL,"activity, induced; molecular association, regulation","transcription, induced",16109788; 26946174,,,,,
+GATA4,Gata4,S105-p,449604,AYTPPPVsPRFSFPG,protein degradation,"cell differentiation, inhibited; cell growth, induced",21447557,GATA-N,,,,
+GATA4,Gata4,K256-ub,1883526402,GINRPLIkPQRRLSA,protein degradation; ubiquitination,,35659652,,negatively modulated cardiomyocyte hypertrophy,,,
+GATA4,Gata4,K329-ac,1877203101,PKNLNKSkTPAAPSG,,"apoptosis, inhibited; transcription, induced",32239217,,,,,
+GATA4,Gata4,K312-ac,18380901,PRPLAMRkEGIQTRK,protein stabilization,"cell growth, induced; apoptosis, inhibited; transcription, induced",29590644,,,,,
+GATA4,Gata4,K327-ac,1877203100,RKPKNLNkSKTPAAP,,"apoptosis, inhibited; transcription, induced",32239217,,,,,

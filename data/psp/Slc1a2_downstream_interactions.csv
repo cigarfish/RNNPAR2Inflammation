@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC1A2,Slc1a2,K571-sm,12004400,SVEEEPWkREK____,"molecular association, regulation; intracellular localization",,17823119,,,PML,Pml,INDUCES
+SLC1A2,Slc1a2,K551-ub,4667700,SVIVDECkVTLAANG,"molecular association, regulation",,35938532,,"formation of oligomers, epileptic seizures inhibited by APAP treatment",GLT1,Slc1a2,INDUCES

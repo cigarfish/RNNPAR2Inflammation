@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GTF2B,Gtf2b,S65-p,13823200,DKATKDPsRVGDSQN,"molecular association, regulation","transcription, induced",20226668,,,CSTF2,Cstf2,INDUCES
+GTF2B,Gtf2b,K238-ac,458997,AATHIARkAVELDLV,"molecular association, regulation","transcription, altered",12931194,TFIIB,,GTF2F2,Gtf2f2,INDUCES

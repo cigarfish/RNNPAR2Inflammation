@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL1R1,Il1r1,K409-ub,964520698,DCDIFVFkVLPEVLE,protein degradation,,30442668,TIR,,,,
+IL1R1,Il1r1,Y496-p,450889,ELEKIQDyEKMPESI,"molecular association, regulation",,9821957,TIR,,PIK3R1,Pik3r1,INDUCES

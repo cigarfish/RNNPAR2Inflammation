@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD247,Cd247,Y153-p,455204,STATKDTyDALHMQA,"molecular association, regulation",,16337488,ITAM,,PI4K2A,Pi4k2a,INDUCES
+CD247,Cd247,Y123-p,448934,KDKMAEAySEIGMKG,intracellular localization; phosphorylation,,16919488; 18760640,ITAM,,,,
+CD247,Cd247,Y72-p,448936,QQGQNQLyNELNLGR,phosphorylation,,16919488,ITAM,required for ERK phosphorylation after SDF1a treatment,,,
+CD247,Cd247,Y83-p,449322,NLGRREEyDVLDKRR,,"carcinogenesis, inhibited; signaling pathway regulation",30131370,ITAM,,,,
+CD247,Cd247,Y142-p,448932,GKGHDGLyQGLSTAT,"molecular association, regulation; intracellular localization; protein conformation; phosphorylation","carcinogenesis, inhibited; cell growth, induced; signaling pathway regulation",16337488; 16919488; 19229850; 23202272; 30131370; 33676898,ITAM,induces T- cell activation,PI4K2A,Pi4k2a,INDUCES
+CD247,Cd247,Y142-p,448932,GKGHDGLyQGLSTAT,"molecular association, regulation; intracellular localization; protein conformation; phosphorylation","carcinogenesis, inhibited; cell growth, induced; signaling pathway regulation",16337488; 16919488; 19229850; 23202272; 30131370; 33676898,ITAM,induces T- cell activation,SHC1,Shc1,INDUCES
+CD247,Cd247,Y111-p,448933,KNPQEGLyNELQKDK,intracellular localization,"carcinogenesis, inhibited; signaling pathway regulation",18760640; 30131370,ITAM,,,,

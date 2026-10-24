@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SGO1,Sgo1,S507-p,486242,TDLCFLNsPIFKQKK,,"chromatin organization, altered",17621308,,required for proper association between the kinetochore and spindle microtubules,,,
+SGO1,Sgo1,T346-p,15406076,LEEGVHLtPFRQKVS,"molecular association, regulation; intracellular localization",cell cycle regulation,23242214; 24055156,,,PPP2CA,Ppp2ca,INDUCES
+SGO1,Sgo1,T346-p,15406076,LEEGVHLtPFRQKVS,"molecular association, regulation; intracellular localization",cell cycle regulation,23242214; 24055156,,,STAG1,Stag1,INDUCES
+SGO1,Sgo1,T346-p,15406076,LEEGVHLtPFRQKVS,"molecular association, regulation; intracellular localization",cell cycle regulation,23242214; 24055156,,,STAG2,Stag2,INDUCES
+SGO1,Sgo1,S14-p,486241,LKKSFQDsLEDIKKR,,"chromatin organization, altered",17621308,,required for proper association between the kinetochore and spindle microtubules,,,

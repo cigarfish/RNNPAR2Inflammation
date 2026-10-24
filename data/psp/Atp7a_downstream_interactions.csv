@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP7A,Atp7a,T327-p,478062,KYNASSVtPESLRKA,protein conformation,,21258844,HMA,S339 alters the dynamics of domain by increasing the flexibility whereas T327 decreasing the flexibility in Cu bound MBD3,,,
+ATP7A,Atp7a,S339-p,9768104,RKAIEAVsPGLYRVS,protein conformation,,21258844,HMA,S339 alters the dynamics of domain by increasing the flexibility whereas T327 decreasing the flexibility in Cu bound MBD3,,,
+ATP7A,Atp7a,S1466-p,4733428,YSRASINsLLSDKRS,protein stabilization; intracellular localization,,29301787,,translocation to membrane ,,,
+ATP7A,Atp7a,S1432-p,4733392,QIGQKSPsEISVHVG,intracellular localization,,19576997,,required for post-Golgi exocytic trafficking (Cu -responsive),,,
+ATP7A,Atp7a,S1424-p,50479822,SYELPARsQIGQKSP,protein stabilization; intracellular localization,,29301787,,translocation to membrane ,,,
+ATP7A,Atp7a,S1463-p,4733422,IVNYSRAsINSLLSD,protein stabilization; intracellular localization,,29301787,,translocation to membrane ,,,
+ATP7A,Atp7a,S1469-p,9768107,ASINSLLsDKRSLNS,intracellular localization,,19576997,,required for post-Golgi exocytic trafficking (Cu -responsive),,,

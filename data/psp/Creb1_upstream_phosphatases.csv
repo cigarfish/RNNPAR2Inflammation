@@ -1,0 +1,7 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Creb1,Ppp2ca,PPP2CA,PPP2CA,CREB1,S100,"Phosphatases, in vitro"
+Creb1,Ppp2ca,PPP2CA,PPP2CA,CREB1,S107,"Phosphatases, in vitro"
+Creb1,Ppp2ca,PPP2CA,PPP2CA,CREB1,S94,"Phosphatases, in vitro"
+Creb1,Ppp2ca,PPP2CA,PPP2CA,CREB1,S97,"Phosphatases, in vitro"
+Creb1,Pten,PTEN,PTEN,CREB1,S119,"Phosphatases, in vitro"
+Creb1,Ppp2ca,PPP2CA,PPP2CA,CREB1,S142,Putative upstream phosphatases

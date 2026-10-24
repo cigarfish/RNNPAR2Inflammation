@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFB6,Ndufb6,S29-p,23253630,WLKDQELsPREPVLP,"activity, induced",cell cycle regulation,24746669,NDUF_B6,increases mitochondrial respiration for G/2M transition,,,
+NDUFB6,Ndufb6,T5-p,33402202,___MTGYtPDEKLRL,"activity, induced",cell cycle regulation,24746669,NDUF_B6,increases mitochondrial respiration for G/2M transition,,,
+NDUFB6,Ndufb6,S55-p,33402203,NKFLENKsPWRKMVH,"activity, induced",cell cycle regulation,24746669,NDUF_B6,increases mitochondrial respiration for G/2M transition,,,

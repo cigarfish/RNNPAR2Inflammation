@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLR2F,Polr2f,S2-p,465588,______MsDNEDNFD,"molecular association, regulation",,39481383,,,PCF11,Pcf11,INDUCES

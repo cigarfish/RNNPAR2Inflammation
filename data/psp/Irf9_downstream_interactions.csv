@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRF9,Irf9,S252-p,1881230100,AEPSGSEsSMEQVLF,,"transcription, altered",36662450,,,,,
+IRF9,Irf9,S253-p,1881230102,EPSGSESsMEQVLFP,,"transcription, altered",36662450,,,,,

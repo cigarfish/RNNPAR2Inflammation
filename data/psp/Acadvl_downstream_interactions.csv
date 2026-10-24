@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACADVL,Acadvl,K299-ac,3811946,THGPPEKkMGIKASN,"molecular association, regulation; enzymatic activity, induced",,25811481,Acyl-CoA_dh_M,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES
+ACADVL,Acadvl,K507-sc,40477504,LLLGEAGkQLRRRAG,"molecular association, regulation",,25811481,,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES
+ACADVL,Acadvl,K482-sc,33359415,QGCMDKGkELSGLGS,"molecular association, regulation",,25811481,,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES
+ACADVL,Acadvl,K298-ac,1194905,ITHGPPEkKMGIKAS,"molecular association, regulation",,25811481,Acyl-CoA_dh_M,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES
+ACADVL,Acadvl,K492-sc,40477506,SGLGSALkNPFGNAG,"molecular association, regulation",,25811481,,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES
+ACADVL,Acadvl,S586-p,22680600,VVVLSRAsRSLSEGH,"enzymatic activity, induced","cell growth, induced; apoptosis, inhibited",19889959,,,,,
+ACADVL,Acadvl,K507-ac,40477505,LLLGEAGkQLRRRAG,"molecular association, regulation",,25811481,,both SIRT3 and SIRT5 KO show reduced afinity for CRLS1,CRLS1,Crls1,INDUCES

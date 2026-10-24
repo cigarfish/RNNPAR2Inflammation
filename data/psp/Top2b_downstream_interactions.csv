@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TOP2B,Top2b,S1134-p,34733062,SSDSGTPsGPDFNYI,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, induced",32015321,DNA_topoisoIV,,BTRC,Btrc,INDUCES
+TOP2B,Top2b,S1130-p,23154509,HDDSSSDsGTPSGPD,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, induced",32015321,DNA_topoisoIV,,BTRC,Btrc,INDUCES

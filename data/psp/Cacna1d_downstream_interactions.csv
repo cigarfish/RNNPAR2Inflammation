@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CACNA1D,Cacna1d,S1490-p,465731,DEFKRIWsEYDPEAK,"activity, induced",,16763033,GPHH,required for IGF-1 induced channel potentiation,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSME3,Psme3,K195-ac,11318346,KLVSKIAkYPHVEDY,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell cycle regulation; cell growth, induced",23612972,PA28_beta,PSME3 heptamerization,PSME3,Psme3,INDUCES
+PSME3,Psme3,K14-sm,25344502,VDQEVKLkVDSFRER,"protein stabilization; intracellular localization; enzymatic activity, induced",,21445096,PA28_alpha,,,,
+PSME3,Psme3,S247-p,15413789,EKIKRPRsSNAETLY,"molecular association, regulation","apoptosis, induced",25361978,PA28_beta,inhibits SIRT1 to induce phosphorylation of PSME3,DBC-1,Brd4,INDUCES
+PSME3,Psme3,K12-sm,25344503,LKVDQEVkLKVDSFR,"protein stabilization; intracellular localization; enzymatic activity, induced",,21445096,PA28_alpha,,,,
+PSME3,Psme3,K6-sm,25344504,__MASLLkVDQEVKL,"protein stabilization; intracellular localization; enzymatic activity, induced",,21445096,,,,,

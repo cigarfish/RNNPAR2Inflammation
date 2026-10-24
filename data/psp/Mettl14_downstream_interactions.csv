@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+METTL14,Mettl14,S399-p,15427105,IERLRPKsPPPKSKS,"molecular association, regulation",,27281194,,,METTL3,Mettl3,INDUCES

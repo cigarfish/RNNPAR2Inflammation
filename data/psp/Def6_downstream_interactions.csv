@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DEF6,Def6,S597-p,4756642,SQGNRTPsPNSNEQQ,"activity, induced; molecular association, regulation","transcription, induced",28993769,,"TCR stimulation-induced activation of NFAT, IL2, and IFNG,  FasLG, CTLA4 and CD25 transcription ",IP3R1,Itpr1,INDUCES
+DEF6,Def6,Y210-p,25687500,SMAIHEVyQELIQDV,"molecular association, regulation; intracellular localization; protein conformation",,22829599,,cytoplasmic granule formation,DCP1A,Dcp1a,INDUCES
+DEF6,Def6,T595-p,5750922,WGSQGNRtPSPNSNE,"activity, induced; molecular association, regulation","transcription, induced",28993769,,"TCR stimulation-induced activation of NFAT, IL2, and IFNG,  FasLG, CTLA4 and CD25 transcription ",IP3R1,Itpr1,INDUCES
+DEF6,Def6,Y222-p,18505504,QDVLKQGyLWKRGHL,"molecular association, regulation; intracellular localization; protein conformation",,22829599,PH,cytoplasmic granule formation,DCP1A,Dcp1a,INDUCES

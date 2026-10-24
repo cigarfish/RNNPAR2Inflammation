@@ -1,0 +1,13 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc1	ENTITYB_Loc2	ENTITYB_phospho	EFFECT	SCORE
+MA	Ppp3ca	cytoplasm	0	Bad	cytoplasm	Mitochondrion	0	carry	0.999
+MA	Casp8	cytoplasm	0	Bid	cytoplasm	Mitochondrion	1	carry	0.999
+MA	Mapk8	cytoplasm	0	Bcl2l11	cytoplasm	Mitochondrion	1	carry	0.999
+MA	Mapk8	cytoplasm	0	Bmf	cytoplasm	Mitochondrion	1	carry	0.999
+MA	Bax	mitochondrion	1	Cycs	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bax	mitochondrion	1	Htra2	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bax	mitochondrion	1	Diablo	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bax	mitochondrion	1	Hspd1	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bak1	mitochondrion	1	Cycs	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bak1	mitochondrion	1	Htra2	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bak1	mitochondrion	1	Diablo	mitochondrion	cytoplasm	0	carry	0.999
+MA	Bak1	mitochondrion	1	Hspd1	mitochondrion	cytoplasm	0	carry	0.999

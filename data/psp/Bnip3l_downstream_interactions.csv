@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BNIP3L,Bnip3l,S34-p,65958200,PPPAGLNsSWVELPM,"molecular association, regulation","autophagy, induced",28442745,BNIP3,,LC3B,Map1lc3b,INDUCES
+BNIP3L,Bnip3l,S35-p,65958201,PPAGLNSsWVELPMN,"molecular association, regulation","autophagy, induced",28442745,BNIP3,,LC3B,Map1lc3b,INDUCES

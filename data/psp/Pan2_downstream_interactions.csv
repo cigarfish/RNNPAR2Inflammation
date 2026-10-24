@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAN2,Pan2,S1003-p,50792538,TKSTIKPsQMSVARI,"molecular association, regulation; ubiquitination; enzymatic activity, induced","DNA repair, induced",33097710,RNase_T,Increase deubiquitination/regulates CtIP deubiquitination,POLR1B,Polr1b,INDUCES
+PAN2,Pan2,S1003-p,50792538,TKSTIKPsQMSVARI,"molecular association, regulation; ubiquitination; enzymatic activity, induced","DNA repair, induced",33097710,RNase_T,Increase deubiquitination/regulates CtIP deubiquitination,RAD51,Rad51,INDUCES

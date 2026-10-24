@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RCC1,Rcc1,S20-p,2850003,PADAIPKsKKVKVSH,"molecular association, regulation",,18568422,,,KPNA4,Kpna4,DISRUPTS
+RCC1,Rcc1,S29-p,2850004,KVKVSHRsHSTEPGL,"molecular association, regulation",,18568422,,,KPNA4,Kpna4,DISRUPTS
+RCC1,Rcc1,S26-p,2850002,KSKKVKVsHRSHSTE,"molecular association, regulation",,18568422,,,KPNA4,Kpna4,DISRUPTS
+RCC1,Rcc1,S11-p,452007,KRIAKRRsPPADAIP,"molecular association, regulation; intracellular localization","cell cycle regulation; cytoskeletal reorganization; cell growth, altered",15203004; 17855385; 18568422; 34356619,,,KPNA4,Kpna4,DISRUPTS
+RCC1,Rcc1,T32-p,2850001,VSHRSHStEPGLVLT,"molecular association, regulation",,18568422,,,KPNA4,Kpna4,DISRUPTS

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APPL1,Appl1,S410-p,25802100,SFQQRHEsLRPAAGQ,"molecular association, regulation; receptor recycling, induced; receptor recycling, altered","endocytosis, inhibited",17765681; 29212031,,,OCRL,Ocrl,DISRUPTS
+APPL1,Appl1,S401-p,449251,ALEAVTPsPSFQQRH,,signaling pathway regulation,21562756,,adiponectin signalling pathway,,,
+APPL1,Appl1,S430-p,13204434,ARTSSSGsLGSESTN,,signaling pathway regulation,22685300,,mediates stress-induced insulin resistance,,,
+APPL1,Appl1,K160-ub,40212807,KRENDKVkYEVTEDV,intracellular localization,,23909487,BAR_3,Akt activation and gluconeogenesis ,,,

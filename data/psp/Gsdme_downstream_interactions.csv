@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GSDME,Gsdme,T6-p,50777052,__MFAKAtRNFLREV,"protein stabilization; molecular association, regulation; intracellular localization; protein conformation; activity, inhibited","apoptosis, inhibited; signaling pathway regulation",30976076; 37460805,Gasdermin,,DFNA5,Gsdme,DISRUPTS
+GSDME,Gsdme,T6-p,50777052,__MFAKAtRNFLREV,"protein stabilization; molecular association, regulation; intracellular localization; protein conformation; activity, inhibited","apoptosis, inhibited; signaling pathway regulation",30976076; 37460805,Gasdermin,,CASP3,Casp3,DISRUPTS

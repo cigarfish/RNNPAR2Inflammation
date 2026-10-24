@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLSPN,Clspn,S34-p,467251,PSDSGQGsYETIGPL,"protein degradation; molecular association, regulation",cell cycle regulation,16885022,,claspin degradation is necessary for termination of the DNA replication checkpoint.,BTRC,Btrc,INDUCES
+CLSPN,Clspn,T916-p,455334,DELLDLCtGKFTSQA,"molecular association, regulation","chromatin organization, altered",15707391; 16963448,,regulates Chk1 activity in response to hydroxyurea,Chk1,Chek1,INDUCES
+CLSPN,Clspn,S30-p,467250,EADSPSDsGQGSYET,"protein degradation; molecular association, regulation",cell cycle regulation,16885022,,claspin degradation is necessary for termination of the DNA replication checkpoint.,BTRC,Btrc,INDUCES
+CLSPN,Clspn,S945-p,455335,EELLNLCsGKFTSQD,"molecular association, regulation",,15707391,,,Chk1,Chek1,INDUCES

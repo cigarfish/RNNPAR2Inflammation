@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STRAP,Strap,S179-p,11267003,ATMTEVKsLNFNMSV,phosphorylation,"apoptosis, altered",19880523,,negatively regulates ASK1 phosphorylation and ASK1-mediated signaling ,,,
+STRAP,Strap,T175-p,11267002,LWDHATMtEVKSLNF,phosphorylation,"apoptosis, altered",19880523,,negatively regulates ASK1 phosphorylation and ASK1-mediated signaling ,,,
+STRAP,Strap,K148-ac,1876755701,GHTSGIKkALWCSED,protein stabilization,"transcription, induced",32527012,WD40,upregulation and stabilization of p53 as well as its targets,,,
+STRAP,Strap,K156-ac,1876755702,ALWCSEDkQILSADD,protein stabilization,"transcription, induced",32527012,WD40,upregulation and stabilization of p53 as well as its targets,,,
+STRAP,Strap,K147-ac,1876755700,SGHTSGIkKALWCSE,protein stabilization,"transcription, induced",32527012,WD40,upregulation and stabilization of p53 as well as its targets,,,

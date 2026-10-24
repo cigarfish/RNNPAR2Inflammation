@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK11A,Cdk11b,T370-p,35521302,KHEYFREtPLPIDPS,"enzymatic activity, induced","carcinogenesis, inhibited; cell adhesion, altered; transcription, inhibited; signaling pathway regulation",25106495; 26470709,,"inhibited the VEGF promoter activity, inhibits angiogenesis;  breast cancer metastasis inhibited, integrin B3 promoter activity inhibited, ERalpha protein levels repressed; inhibiting the invasion of breast cancer cells",,,

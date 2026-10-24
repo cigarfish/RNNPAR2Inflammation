@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCQ,Prkcq,T219-p,457380,SAINSREtMFHKERF,intracellular localization,,16252004,,phosphorylation of site may be important in antigen receptor-mediated signaling ,,,
+PRKCQ,Prkcq,T538-p,447907,LGDAKTNtFCGTPDY,"enzymatic activity, induced","carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited; signaling pathway regulation; transcription, altered",11772397; 16252004; 21983831; 35403545,Pkinase,,,,
+PRKCQ,Prkcq,S695-p,447906,QNMFRNFsFMNPGME,"protein stabilization; molecular association, regulation; enzymatic activity, induced",,11772397; 15364937; 16252004,Pkinase_C,assayed in vitro,PDK1,Pdk1,INDUCES
+PRKCQ,Prkcq,Y90-p,448588,SETTVELySLAERCR,"molecular association, regulation; intracellular localization; enzymatic activity, induced","transcription, altered",10652356; 17548359,,,,,
+PRKCQ,Prkcq,S676-p,447905,LNEKPRLsFADRALI,"enzymatic activity, induced","transcription, altered",11772397; 16252004,Pkinase_C,inhibits transcription; assayed in vitro,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARAP1,Arap1,Y231-p,3209592,PEFDDSDyDEVPEEG,,"endocytosis, altered",20554524,,inhibits EGFR internalization,,,

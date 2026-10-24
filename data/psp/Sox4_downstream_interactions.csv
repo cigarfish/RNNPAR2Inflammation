@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOX4,Sox4,K95-ac,49182101,EISKRLGkRWKLLKD,,"chromatin organization, altered; cell differentiation, induced; transcription, induced",26291311,HMG_box,,,,

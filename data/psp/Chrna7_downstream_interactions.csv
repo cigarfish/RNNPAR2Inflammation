@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHRNA7,Chrna7,Y442-p,457467,KILEEVRyIANRFRC,"activity, inhibited",,16251431,Neur_chan_memb,,,,
+CHRNA7,Chrna7,Y386-p,457466,ASNGNLLyIGFRGLD,"activity, inhibited",,16251431,Neur_chan_memb,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP16,Dusp16,Y271-p,1880104204,DMSLDEAyRFVKEKR,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","transcription, inhibited; signaling pathway regulation",36272649,,"dephosphorylates p38 MAPK or JNK, regulates MAPK signaling",JNK1(NOT_REPORTED,Mapk8,UNKNOWN
+DUSP16,Dusp16,Y271-p,1880104204,DMSLDEAyRFVKEKR,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","transcription, inhibited; signaling pathway regulation",36272649,,"dephosphorylates p38 MAPK or JNK, regulates MAPK signaling",P38A,Mapk14,INDUCES
+DUSP16,Dusp16,S446-p,449606,TNKLCQFsPVQELSE,protein stabilization,,15689616,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP2K7,Map2k7,T275-p,447698,LVDSKAKtRSAGCAA,"enzymatic activity, induced","transcription, altered",9312068,Pkinase,,,,
+MAP2K7,Map2k7,K18-sm,1880604600,SRLEAKLkQENREAR,"molecular association, regulation; phosphorylation",,29352108,,inhibits phosphorylation,JNK1,Mapk8,DISRUPTS
+MAP2K7,Map2k7,S271-p,447697,ISGRLVDsKAKTRSA,"enzymatic activity, induced","transcription, altered",9312068,Pkinase,,,,

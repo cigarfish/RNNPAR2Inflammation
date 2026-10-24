@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP14,Usp14,S432-p,31083558,THQGRSSsSGHYVSW,protein degradation; ubiquitination,,26523394,UCH,"regulate the UPS in a ubiquitin-dependent manner,  regulate global 273 protein degradation ",,,

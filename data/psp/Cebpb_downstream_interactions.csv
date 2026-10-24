@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEBPB,Cebpb,T235-p,447878,SSSSPPGtPSPADAK,"activity, induced; sumoylation; protein stabilization; molecular association, regulation; ubiquitination; phosphorylation","cell differentiation, altered; transcription, induced; transcription, altered",12213825; 16009338; 17540774; 18647749; 19723873; 21980398; 23782693; 33762327; 38378783,,inhibits ubiquitination,EHMT2 iso4,Ehmt2,DISRUPTS
+CEBPB,Cebpb,T235-p,447878,SSSSPPGtPSPADAK,"activity, induced; sumoylation; protein stabilization; molecular association, regulation; ubiquitination; phosphorylation","cell differentiation, altered; transcription, induced; transcription, altered",12213825; 16009338; 17540774; 18647749; 19723873; 21980398; 23782693; 33762327; 38378783,,inhibits ubiquitination,p300,Ep300,INDUCES
+CEBPB,Cebpb,K264-ac,458939,SQVKSKAkKTVDKHS,"molecular association, regulation","transcription, inhibited",12574125,,,,,
+CEBPB,Cebpb,S325-p,11180067,EQLSRELsTLRNLFK,,"transcription, induced",1314426,,,,,
+CEBPB,Cebpb,T266-p,448447,VKSKAKKtVDKHSDE,"molecular association, regulation",,15738002,,,,,
+CEBPB,Cebpb,K265-ac,458940,QVKSKAKkTVDKHSD,"molecular association, regulation","transcription, inhibited",12574125,,,,,
+CEBPB,Cebpb,K174-sm,6140810,PPPPAELkAEPGFEP,"molecular association, regulation","transcription, inhibited",12810706; 18820298,,,HDAC4,Hdac4,INDUCES
+CEBPB,Cebpb,S76-p,456166,HERAIDFsPYLEPLG,phosphorylation,"transcription, induced",20730378; 23782693,,,,,
+CEBPB,Cebpb,Y78-p,9397201,RAIDFSPyLEPLGAP,protein stabilization,"cell cycle regulation; apoptosis, altered; transcription, induced",19563810,,,,,
+CEBPB,Cebpb,R3-m2,12626408,_____MQrLVAWDPA,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",20111005,,,SMARCC1,Smarcc1,DISRUPTS
+CEBPB,Cebpb,R3-m2,12626408,_____MQrLVAWDPA,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",20111005,,,MED23,Med23,DISRUPTS
+CEBPB,Cebpb,R3-m2,12626408,_____MQrLVAWDPA,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",20111005,,,SMARCB1,Smarcb1,DISRUPTS
+CEBPB,Cebpb,R3-m2,12626408,_____MQrLVAWDPA,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",20111005,,,SMARCA2,Smarca2,DISRUPTS
+CEBPB,Cebpb,R3-m2,12626408,_____MQrLVAWDPA,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",20111005,,,MED26,Med26,DISRUPTS
+CEBPB,Cebpb,S223-p,2902801,VPSGSSGsLSTSSSS,protein conformation,,22080951,,,,,
+CEBPB,Cebpb,S288-p,452156,NNIAVRKsRDKAKMR,intracellular localization,,9374525,bZIP_2,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PER1,Per1,S714-p,465536,ALANKAEsVVSVTSQ,protein stabilization; intracellular localization,,24857656,," contribute to accelerate clock; accelerated degradation of the phosphorylation de?cient PER1 S214G mutant, more rapid nuclear import",,,

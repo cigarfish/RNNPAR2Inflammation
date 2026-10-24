@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FFAR4,Ffar4,T365-p,33638004,KGAILTDtSVKRNDL,"receptor internalization, induced; molecular association, regulation",,24817122,,,ARR3,Arr3,INDUCES
+FFAR4,Ffar4,T347-p,31014807,PEKGAILtDTSVKRN,"activity, induced",,27852822,,,,,
+FFAR4,Ffar4,S350-p,31014808,GAILTDTsVKRNDLS,"activity, induced",,27852822,,,,,
+FFAR4,Ffar4,S373-p,31014806,SVKRNDLsIISG___,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARR3,Arr3,INDUCES
+FFAR4,Ffar4,S373-p,31014806,SVKRNDLsIISG___,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARRB1,Arrb1,INDUCES
+FFAR4,Ffar4,S366-p,31014808,GAILTDTsVKRNDLS,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARR3,Arr3,INDUCES
+FFAR4,Ffar4,S366-p,31014808,GAILTDTsVKRNDLS,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARRB1,Arrb1,INDUCES
+FFAR4,Ffar4,T363-p,31014807,PEKGAILtDTSVKRN,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARR3,Arr3,INDUCES
+FFAR4,Ffar4,T363-p,31014807,PEKGAILtDTSVKRN,"receptor internalization, induced; molecular association, regulation",,24412271; 24817122,,,ARRB1,Arrb1,INDUCES

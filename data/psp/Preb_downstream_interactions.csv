@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PREB,Preb,Y10-p,1868624703,RRRAPELyRAPFPLY,"activity, inhibited",signaling pathway regulation,31227593,,regulates endoplasmic reticulum (ER) signaling ,,,

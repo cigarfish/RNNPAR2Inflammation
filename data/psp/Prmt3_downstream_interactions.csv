@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRMT3,Prmt3,Y87-p,17489700,HKHGLEFyGYIKLIN,"molecular association, regulation; enzymatic activity, inhibited",,21059412,,,RPS2,Rps2,INDUCES

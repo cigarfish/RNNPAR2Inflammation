@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RASAL2,Rasal2,S237-p,468582,PKLKESRsHESLLSP,,"carcinogenesis, induced",31759919,,,,,
+RASAL2,Rasal2,S351-p,1872043503,TLFARTTsKTKADNI,"molecular association, regulation","carcinogenesis, induced; autophagy, induced",33563064,C2,binding to PIK3C3 induces PIK3C3 bindidng to PtdIns,beclin 1,Becn1,INDUCES
+RASAL2,Rasal2,S351-p,1872043503,TLFARTTsKTKADNI,"molecular association, regulation","carcinogenesis, induced; autophagy, induced",33563064,C2,binding to PIK3C3 induces PIK3C3 bindidng to PtdIns,PIK3C3,Pik3c3,INDUCES
+RASAL2,Rasal2,S351-p,1872043503,TLFARTTsKTKADNI,"molecular association, regulation","carcinogenesis, induced; autophagy, induced",33563064,C2,binding to PIK3C3 induces PIK3C3 bindidng to PtdIns,ATG14,Atg14,INDUCES

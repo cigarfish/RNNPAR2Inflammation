@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNB2,Gnb2,K23-ub,8100707,NQIRDARkACGDSTL,phosphorylation,signaling pathway regulation,34342229,,KCTD2/KCTD5-CUL3-RING E3 ligase promotes cAMP signaling in cancer-derived cell lines,,,

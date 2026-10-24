@@ -1,0 +1,11 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Akt1,Phlpp1,PHLPP1,PHLPP,AKT1,S473,Putative upstream phosphatases
+Akt1,Phlpp2,PHLPP2,PHLPP2,AKT1,S473,Putative upstream phosphatases
+Akt1,Ppp1ca,PPP1CA,PPP1CA,AKT1,S473,Putative upstream phosphatases
+Akt1,Ppp1ca,PPP1CA,PPP1CA,AKT1,T450,Putative upstream phosphatases
+Akt1,Ppp2ca,PPP2CA,PPP2CA,AKT1,S473,Putative upstream phosphatases
+Akt1,Ppp2ca,PPP2CA,PPP2CA,AKT1,T308,Putative upstream phosphatases
+Akt1,Ppp2ca,PPP2CA,PPP2CA,AKT1,T450,Putative upstream phosphatases
+Akt1,Pten,PTEN,PTEN,AKT1,S473,Putative upstream phosphatases
+Akt1,Pten,PTEN,PTEN,AKT1,T308,Putative upstream phosphatases
+Akt1,Ptpn6,PTPN6,SHP-1,AKT1,Y315,Putative upstream phosphatases

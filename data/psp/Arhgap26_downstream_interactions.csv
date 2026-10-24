@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP26,Arhgap26,S671-p,1885436902,PPNPSPTsPLSPSWP,,"autophagy, induced",38474413,,induces mitophagy,,,
+ARHGAP26,Arhgap26,S668-p,1885436900,NSLPPNPsPTSPLSP,,"autophagy, induced",38474413,,induces mitophagy,,,
+ARHGAP26,Arhgap26,T670-p,1885436500,LPPNPSPtSPLSPSW,phosphorylation,"autophagy, induced",38474413,,induces mitophagy; primes phosphorylation at S668 and S671,,,

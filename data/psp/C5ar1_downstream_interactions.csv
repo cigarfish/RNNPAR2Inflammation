@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+C5AR1,C5ar1,S317-p,450056,RLRKSLPsLLRNVLT,"molecular association, regulation",,12464600,,,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S317-p,450056,RLRKSLPsLLRNVLT,"molecular association, regulation",,12464600,,,ARRB2,Arrb2,INDUCES
+C5AR1,C5ar1,S338-p,448820,ESKSFTRsTVDTMAQ,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S338-p,448820,ESKSFTRsTVDTMAQ,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB2,Arrb2,INDUCES
+C5AR1,C5ar1,S332-p,448822,EESVVREsKSFTRST,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S332-p,448822,EESVVREsKSFTRST,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB2,Arrb2,INDUCES
+C5AR1,C5ar1,S334-p,448819,SVVRESKsFTRSTVD,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin to the plasma membrane,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S334-p,448819,SVVRESKsFTRSTVD,"molecular association, regulation; receptor desensitization, altered",,10636859; 12464600; 17145764,,induces translocation of beta-arrestin to the plasma membrane,ARRB2,Arrb2,INDUCES
+C5AR1,C5ar1,S327-p,448821,RNVLTEEsVVRESKS,"molecular association, regulation; receptor desensitization, altered",,12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S327-p,448821,RNVLTEEsVVRESKS,"molecular association, regulation; receptor desensitization, altered",,12464600; 17145764,,induces translocation of beta-arrestin into the plasma membrane,ARRB2,Arrb2,INDUCES
+C5AR1,C5ar1,S314-p,450055,FQGRLRKsLPSLLRN,"molecular association, regulation",,12464600,,,ARRB1,Arrb1,INDUCES
+C5AR1,C5ar1,S314-p,450055,FQGRLRKsLPSLLRN,"molecular association, regulation",,12464600,,,ARRB2,Arrb2,INDUCES

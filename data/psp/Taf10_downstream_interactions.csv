@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAF10,Taf10,K189-m3,57824500,GSSRSKSkDRKYTLT,,"transcription, induced",25959397,,oxidation inhibits transcription,,,

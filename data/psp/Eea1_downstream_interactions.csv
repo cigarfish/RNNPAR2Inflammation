@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EEA1,Eea1,T1392-p,456871,CSAKNALtPSSKKPV,"activity, induced; intracellular localization",,16138080,FYVE,Phosphorylation required for efficient binding to endosome membranes.  Aspartate mutation can restore EEA1 fusion activity in the absence of p38a.,,,

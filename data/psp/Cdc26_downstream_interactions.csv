@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC26,Cdc26,T7-p,10815632,_MLRRKPtRLELKLD,"molecular association, regulation; ubiquitination",,25723520,ANAPC_CDC26,Ubiquitination of PLK1; affects APC/C assembly,APC4,Anapc4,DISRUPTS
+CDC26,Cdc26,T7-p,10815632,_MLRRKPtRLELKLD,"molecular association, regulation; ubiquitination",,25723520,ANAPC_CDC26,Ubiquitination of PLK1; affects APC/C assembly,CDC16,Cdc16,DISRUPTS

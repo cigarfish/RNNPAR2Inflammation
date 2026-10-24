@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNJ10,Kcnj10,Y9-p,3477640,TSVAKVYySQTTQTE,"activity, induced",,23873931,,"induce whole cell K current, and may regulate channel number in plasma membrane",,,

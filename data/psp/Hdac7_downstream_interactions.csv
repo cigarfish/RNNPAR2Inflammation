@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC7,Hdac7,S155-p,455620,FPLRKTVsEPNLKLR,intracellular localization; phosphorylation,"cell motility, altered; cytoskeletal reorganization; transcription, altered; cell growth, altered",15623513; 16980613; 18509061; 18617643,,important for VEGF-induced aorta ring angiogenesis; nucleo-cytoplasmic shuttling,,,
+HDAC7,Hdac7,S181-p,470131,NPLLRKEsAPPSLRR,intracellular localization,"transcription, induced",17962809,,,,,
+HDAC7,Hdac7,S358-p,455621,WPLSRTRsEPLPPSA,intracellular localization,"cell motility, altered; cytoskeletal reorganization; transcription, altered; cell growth, altered",15623513; 18509061; 18617643,,important for VEGF-induced aorta ring angiogenesis; nucleo-cytoplasmic shuttling,,,
+HDAC7,Hdac7,S486-p,452459,RPLSRAQsSPAAPAS,intracellular localization,"cell motility, altered; cytoskeletal reorganization; transcription, altered; cell growth, altered",15623513; 18509061; 18617643,,important for VEGF-induced aorta ring angiogenesis; nucleo-cytoplasmic shuttling,,,

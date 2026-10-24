@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD22,Cd22,Y807-p,450943,HKRQVGDyENVIPDF,"molecular association, regulation",,34526379,,,GRB2,Grb2,INDUCES

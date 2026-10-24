@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP5F1A,Atp5f1a,K531-ac,466473,GTIRADGkISEQSDA,,"cell growth, inhibited",32002124,ATP-synt_ab_C,tumor growth inhibited (increased in K506/531R mutant) ,,,
+ATP5F1A,Atp5f1a,K506-ac,7248095,LEPSKITkFENAFLS,,"cell growth, inhibited",32002124,ATP-synt_ab_C,tumor growth inhibited (increased in K506/531R mutant) ,,,
+ATP5F1A,Atp5f1a,Y243-p,461991,SDEKKKLyCIYVAIG,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; autophagy, inhibited",35895804,ATP-synt_ab,inhibits phosphorylation of downstream proteins,ATPIF1,Atpif1,DISRUPTS
+ATP5F1A,Atp5f1a,Y246-p,477314,KKKLYCIyVAIGQKR,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; autophagy, inhibited",35895804,ATP-synt_ab,inhibits phosphorylation of downstream proteins,ATPIF1,Atpif1,DISRUPTS

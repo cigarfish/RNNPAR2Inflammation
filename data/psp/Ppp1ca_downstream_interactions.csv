@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP1CA,Ppp1ca,K141-m1,1885585210,YGFYDECkRRYNIKL,"molecular association, regulation","autophagy, inhibited",37605006,,"disrupts holoenzyme assembly and subsequent TFEB activation, promotes NPC senescence and IDD progression",TFEB,Tfeb,DISRUPTS
+PPP1CA,Ppp1ca,T320-p,448686,NPGGRPItPPRNSAK,"enzymatic activity, inhibited; activity, inhibited; phosphorylation","cell cycle regulation; cell differentiation, altered; cytoskeletal reorganization",12202491; 17202132; 21996745; 35081344,,inhibits MAP4 phosphorylation,,,

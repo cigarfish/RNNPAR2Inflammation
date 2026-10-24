@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLAMF7,Slamf7,Y284-p,455053,HSGENTEyDTIPHTN,intracellular localization; phosphorylation,,25312647,,Y284 is needed for tyrosine phosphorylation of SHIP-1 in response to SLAMF7 engagement,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GDI2,Gdi2,S382-p,5829589,PIEQKFVsISDLLVP,"molecular association, regulation",,33914026,GDI,,RAB5A,Rab5a,INDUCES
+GDI2,Gdi2,S382-p,5829589,PIEQKFVsISDLLVP,"molecular association, regulation",,33914026,GDI,,RAB11A,Rab11a,INDUCES

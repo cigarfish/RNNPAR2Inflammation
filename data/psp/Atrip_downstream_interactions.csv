@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATRIP,Atrip,S72-p,454389,TLASQALsQCPAAAR,intracellular localization,,15451423,,,,,
+ATRIP,Atrip,S239-p,485777,VIKPEACsPQFGKTS,,cell cycle regulation,17616665,,required for checkpoint function,BRCA1,Brca1,INDUCES
+ATRIP,Atrip,S68-p,454388,EELDTLAsQALSQCP,intracellular localization,,15451423,,,,,
+ATRIP,Atrip,S224-p,485778,APSVSHVsPRKNPSV,,cell cycle regulation,17638878,,important for the G2-M checkpoint arrest in response to DNA damage,,,
+ATRIP,Atrip,K32-ac,6217746,GTGHPPSkRARGFSA,,"cell cycle regulation; DNA repair, inhibited",26854234,,ATR checkpoint ,,,

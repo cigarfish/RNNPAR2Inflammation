@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GSS,Gss,Y270-p,3560332,VVYFRDGyMPRQYSL,"enzymatic activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited",38295166,GSH_synth_ATP; GSH_synthase,"Inhibits glutathione synthesis, induces cellular oxidative stress",,,

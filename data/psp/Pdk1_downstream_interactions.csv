@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDK1,Pdk1,T346-p,13831355,APRPRVEtSRAVPLA,"enzymatic activity, induced","cell growth, induced",27505672,HATPase_c,mitochondrial Akt-PDK1 signaling in maintaining tumor cell proliferation in hypoxia,,,
+PDK1,Pdk1,T338-p,54390604,LFNYMYStAPRPRVE,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",26942675; 31578148,HATPase_c,,,,
+PDK1,Pdk1,Y243-p,462384,ARRLCDLyYINSPEL,intracellular localization,,22195962,,localized to mitochondria in cancer cells,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GJD2,Gjd2,S315-p,471389,PNFGRTQsSDSAYV_,"molecular association, regulation",,33110101,,,PSD-95,Dlg4,DISRUPTS

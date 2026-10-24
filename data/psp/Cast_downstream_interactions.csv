@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAST,Cast,S133-p,7320476,DKKKEKKsLTPAVPV,"enzymatic activity, inhibited",,36984009,Calpain_inhib,inhibits calpain activity,,,
+CAST,Cast,S655-p,25733148,QDPIDALsGDLDSCP,"activity, induced",,29581866,,,,,

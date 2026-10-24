@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSD17B4,Hsd17b4,S318-p,7445507,NHTSRATsTATSGFA,"protein degradation; molecular association, regulation; ubiquitination","cell growth, induced; transcription, induced",33762355,,,SKP2,Skp2,INDUCES
+HSD17B4,Hsd17b4,S318-p,7445507,NHTSRATsTATSGFA,"protein degradation; molecular association, regulation; ubiquitination","cell growth, induced; transcription, induced",33762355,,,SPOP,Spop,DISRUPTS
+HSD17B4,Hsd17b4,K669-ac,461239,AKWTIDLkSGSGKVY,protein degradation,"carcinogenesis, inhibited; autophagy, induced",28296597; 32678070,SCP2,,,,

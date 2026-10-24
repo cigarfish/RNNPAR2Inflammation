@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IQGAP2,Iqgap2,T716-p,18964300,EYMHRRQtFIDNTDS,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,21460214; 21776420,,"recruitment of active Rac to the complex, membrane ruffling; membrane ruffles",RAC1,Rac1,INDUCES
+IQGAP2,Iqgap2,T716-p,18964300,EYMHRRQtFIDNTDS,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,21460214; 21776420,,"recruitment of active Rac to the complex, membrane ruffling; membrane ruffles",AKAP11,Akap11,INDUCES

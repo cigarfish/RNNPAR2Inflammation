@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS6KA2,Rps6ka2,S218-p,1883400,DHDKRAYsFCGTIEY,"molecular association, regulation; enzymatic activity, induced",,16337591; 7642538,Pkinase,,AKAP6,Akap6,DISRUPTS

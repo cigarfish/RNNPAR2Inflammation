@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FANCI,Fanci,S556-p,11952934,VLGSLSSsQCSQSLS,"molecular association, regulation; ubiquitination","DNA repair, induced; cell growth, inhibited",25843623; 32117957,FANCI_HD2,prevents deubiquitination of FANCD2; inhibits dormant origin firing,FANCD2,Fancd2,INDUCES
+FANCI,Fanci,S556-p,11952934,VLGSLSSsQCSQSLS,"molecular association, regulation; ubiquitination","DNA repair, induced; cell growth, inhibited",25843623; 32117957,FANCI_HD2,prevents deubiquitination of FANCD2; inhibits dormant origin firing,MCM5,Mcm5,DISRUPTS
+FANCI,Fanci,K523-ub,486579,CLILVLRkAMFANQL,intracellular localization,"DNA repair, induced; DNA repair, inhibited",17460694; 20971953; 21896657; 22855611,FANCI_S2,,,,
+FANCI,Fanci,S565-p,114809700,CSQSLSVsQVHVDVH,"molecular association, regulation; ubiquitination",,28636932; 32117957,FANCI_HD2,prevents deubiquitination of FANCD2,,,
+FANCI,Fanci,S559-p,11952935,SLSSSQCsQSLSVSQ,"molecular association, regulation; ubiquitination","DNA repair, induced; cell growth, inhibited",25843623; 28636932; 32117957,FANCI_HD2,prevents deubiquitination of FANCD2; inhibits dormant origin firing,FANCD2,Fancd2,INDUCES
+FANCI,Fanci,S559-p,11952935,SLSSSQCsQSLSVSQ,"molecular association, regulation; ubiquitination","DNA repair, induced; cell growth, inhibited",25843623; 28636932; 32117957,FANCI_HD2,prevents deubiquitination of FANCD2; inhibits dormant origin firing,MCM5,Mcm5,DISRUPTS

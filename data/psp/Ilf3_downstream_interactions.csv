@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ILF3,Ilf3,S382-p,456735,EEDGEEKsPSKKKKK,intracellular localization,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; RNA stability, induced",32123579,,,,,
+ILF3,Ilf3,S647-p,3496801,RGRGRGGsIRGRGRG,intracellular localization,"translation, altered; transcription, altered",18097023; 20870937,,regulates IL-2 production in T cells; required for NFAT90 export;  stabilizes IL-2 mRNA,,,
+ILF3,Ilf3,T188-p,17734001,EKVLAGEtLSVNDPP,intracellular localization,,24920670,DZF,"cytoplasmic retention, which increases its association with and assembly of large RNA granules",,,
+ILF3,Ilf3,S482-p,449210,DSSKGEDsAEETEAK,protein stabilization,cell cycle regulation,21401756,,,,,
+ILF3,Ilf3,T315-p,17734000,RQQREDItQSAQHAL,intracellular localization,,24920670,DZF,"cytoplasmic retention, which increases its association with and assembly of large RNA granules",,,

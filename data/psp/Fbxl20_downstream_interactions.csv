@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXL20,Fbxl20,S255-p,1875005606,KLQSLCAsGCSNITD,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,S251-p,1875005604,RGCHKLQsLCASGCS,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,S139-p,1875005600,DATCTSLsKFCSKLR,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,T417-p,467016,HAYFAPVtPPPSVGG,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,S425-p,4149424,PPPSVGGsRQRFCRC,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,S421-p,467840,APVTPPPsVGGSRQR,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,,,FBXO31,Fbxo31,INDUCES
+FBXL20,Fbxl20,S143-p,1875005602,TSLSKFCsKLRHLDL,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",34587475,LRR_6,,FBXO31,Fbxo31,INDUCES

@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC25B,Cdc25b,S375-p,455380,ARVLRSKsLCHDEIE,"molecular association, regulation",,11333986,M-inducer_phosp,,14-3-3 beta,Ywhab,INDUCES
+CDC25B,Cdc25b,S230-p,470115,AFAQRPSsAPDLMCL,"protein degradation; molecular association, regulation; enzymatic activity, inhibited",,17003105; 21558810; 23840880,M-inducer_phosp,protects against proteosome degradation of centrosomal centrin,14-3-3 sigma,Sfn,INDUCES
+CDC25B,Cdc25b,T355-p,3189697,NKRRRSVtPPEEQQE,,cell cycle regulation,23708659,M-inducer_phosp,,,,
+CDC25B,Cdc25b,S321-p,459625,KCQRLFRsPSMPCSV,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced",,20801879,M-inducer_phosp,"S321 phosphorylation disrupts binding of S323 to 14-3-3, resulting in S323 dephosphorylation",14-3-3 beta,Ywhab,DISRUPTS
+CDC25B,Cdc25b,S321-p,459625,KCQRLFRsPSMPCSV,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced",,20801879,M-inducer_phosp,"S321 phosphorylation disrupts binding of S323 to 14-3-3, resulting in S323 dephosphorylation",14-3-3 epsilon,Ywhae,DISRUPTS
+CDC25B,Cdc25b,S146-p,465509,PVRLLGHsPVLRNIT,intracellular localization,cell cycle regulation,12107172,M-inducer_phosp,,,,
+CDC25B,Cdc25b,S50-p,20503402,PVRAAASsPVTTLTQ,phosphorylation,,21640712,,induces phosphorylation at other sites by PLK1 ,,,
+CDC25B,Cdc25b,S323-p,448409,QRLFRSPsMPCSVIR,"molecular association, regulation",cell cycle regulation,11333986; 15629715,M-inducer_phosp,,14-3-3 beta,Ywhab,INDUCES
+CDC25B,Cdc25b,S323-p,448409,QRLFRSPsMPCSVIR,"molecular association, regulation",cell cycle regulation,11333986; 15629715,M-inducer_phosp,,14-3-3 epsilon,Ywhae,INDUCES
+CDC25B,Cdc25b,S309-p,448409,QRLFRSPsMPCSVIR,phosphorylation,,17548358,M-inducer_phosp,phospho-p38  are Cdc25B S309-p are colocalized during prophase.  ,P38A,Mapk14,INDUCES
+CDC25B,Cdc25b,S42-p,11452201,GSHGLLGsPVRAAAS,,"cell growth, inhibited",25297629,,"induces immunogenicity, phospho-peptidesfor  T-cell  recognition showed some control of tumor growth in vivo",,,
+CDC25B,Cdc25b,S101-p,9819902,DAGLCMDsPSPMDPH,protein degradation; ubiquitination,cell cycle regulation,19638579; 21807946,M-inducer_phosp,,,,
+CDC25B,Cdc25b,S151-p,7998663,FAIRRFQsMPVRLLG,"molecular association, regulation",,21558810,M-inducer_phosp,,14-3-3 beta,Ywhab,INDUCES
+CDC25B,Cdc25b,S151-p,7998663,FAIRRFQsMPVRLLG,"molecular association, regulation",,21558810,M-inducer_phosp,,14-3-3 sigma,Sfn,INDUCES
+CDC25B,Cdc25b,S151-p,7998663,FAIRRFQsMPVRLLG,"molecular association, regulation",,21558810,M-inducer_phosp,,14-3-3 epsilon,Ywhae,INDUCES
+CDC25B,Cdc25b,S353-p,452008,VQNKRRRsVTPPEEQ,,cell cycle regulation,15128871; 16082213; 23708659,M-inducer_phosp,,,,
+CDC25B,Cdc25b,S169-p,455885,VLRNITNsQAPDGRR,"molecular association, regulation; enzymatic activity, induced",,21558810,M-inducer_phosp,,14-3-3 sigma,Sfn,DISRUPTS
+CDC25B,Cdc25b,S169-p,455885,VLRNITNsQAPDGRR,"molecular association, regulation; enzymatic activity, induced",,21558810,M-inducer_phosp,,14-3-3 beta,Ywhab,DISRUPTS
+CDC25B,Cdc25b,S169-p,455885,VLRNITNsQAPDGRR,"molecular association, regulation; enzymatic activity, induced",,21558810,M-inducer_phosp,,14-3-3 epsilon,Ywhae,DISRUPTS
+CDC25B,Cdc25b,S103-p,9819903,GLCMDSPsPMDPHMA,protein degradation; ubiquitination,,21807946,M-inducer_phosp,,,,

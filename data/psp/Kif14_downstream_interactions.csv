@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF14,Kif14,S1220-p,114810404,NLHSSHSsGLMDKSS,intracellular localization,,28630147,,spindle localization of Kif14 in anaphase,,,
+KIF14,Kif14,S56-p,31882103,NDDPLLRsAGKVRDI,intracellular localization,,28630147,,spindle localization of Kif14 in anaphase,,,
+KIF14,Kif14,S607-p,114810406,NLIDLAGsERCSTAH,intracellular localization,,28630147,Kinesin,spindle localization of Kif14 in anaphase,,,
+KIF14,Kif14,S1219-p,114810407,KNLHSSHsSGLMDKS,intracellular localization,,28630147,,spindle localization of Kif14 in anaphase,,,
+KIF14,Kif14,S1217-p,114810405,PIKNLHSsHSSGLMD,intracellular localization,,28630147,,spindle localization of Kif14 in anaphase,,,

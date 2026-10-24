@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DHCR24,Dhcr24,T110-p,476314,RVGKYKKtHKNIMIN,"enzymatic activity, induced",,24363437,FAD_binding_4,,,,
+DHCR24,Dhcr24,Y507-p,449497,QDAFPEVyDKICKAA,"enzymatic activity, induced",,24363437,,,,,
+DHCR24,Dhcr24,Y299-p,473187,KLNSIGNyYKPWFFK,"protein stabilization; enzymatic activity, induced",,24363437,,,,,
+DHCR24,Dhcr24,Y300-p,473188,LNSIGNYyKPWFFKH,protein stabilization,,24363437,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ST13,St13,S346-p,21006300,AQNPANMsKYQSNPK,"receptor internalization, induced","exocytosis, induced",21728385,STI1,required for agonist-induced internalization of CXCR4,,,

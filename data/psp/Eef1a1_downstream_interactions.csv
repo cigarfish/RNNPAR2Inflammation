@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EEF1A1,Eef1a1,K36-me,1067201,YKCGGIDkRTIEKFE,,"translation, induced",28520920,GTP_EFTU,,,,
+EEF1A1,Eef1a1,K165-m2,3898709,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,L3MBTL iso4,L3mbtl2,INDUCES
+EEF1A1,Eef1a1,K165-m2,3898709,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,EEF1D,Eef1d,DISRUPTS
+EEF1A1,Eef1a1,K165-m2,3898709,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,eEF1B,Eef1b2,DISRUPTS
+EEF1A1,Eef1a1,K165-m2,3898709,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,EEF1G,Eef1g,DISRUPTS
+EEF1A1,Eef1a1,S396-p,31884110,DGPKFLKsGDAAIVD,,"translation, inhibited",33354788,GTP_EFTU_D3,,,,
+EEF1A1,Eef1a1,K439-ub,3932560,TVAVGVIkAVDKKAA,protein degradation,"carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited; signaling pathway regulation",37973952,GTP_EFTU_D3,regulates the eEF1A1/SP1/HGF signaling pathway,,,
+EEF1A1,Eef1a1,S316-p,41451801,GFNVKNVsVKDVRRG,methylation,,38199565,GTP_EFTU_D2,S316 phosphorylation inhibits K318 methylation,,,
+EEF1A1,Eef1a1,S300-p,15629200,EMHHEALsEALPGDN,"molecular association, regulation","cell cycle regulation; translation, altered; carcinogenesis, altered; cell growth, altered",20832312,GTP_EFTU_D2,inhibits aa-tRNA binding by eEF1A-1 ,,,
+EEF1A1,Eef1a1,K55-m2,3898705,EMGKGSFkYAWVLDK,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited; translation, induced",23583077; 30612740; 32347192,GTP_EFTU,,L3MBTL iso4,L3mbtl2,INDUCES
+EEF1A1,Eef1a1,S21-p,5434136,GHVDSGKsTTTGHLI,"protein degradation; molecular association, regulation; ubiquitination","apoptosis, induced",22378069,GTP_EFTU,,EEF1A2,Eef1a2,INDUCES
+EEF1A1,Eef1a1,K165-m3,15382301,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",28108655,GTP_EFTU,,EEF1D,Eef1d,DISRUPTS
+EEF1A1,Eef1a1,K165-m3,15382301,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",28108655,GTP_EFTU,,eEF1B,Eef1b2,DISRUPTS
+EEF1A1,Eef1a1,K165-m3,15382301,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",28108655,GTP_EFTU,,EEF1G,Eef1g,DISRUPTS
+EEF1A1,Eef1a1,K165-m1,8113920,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,L3MBTL iso4,L3mbtl2,INDUCES
+EEF1A1,Eef1a1,K165-m1,8113920,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,EEF1D,Eef1d,DISRUPTS
+EEF1A1,Eef1a1,K165-m1,8113920,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,eEF1B,Eef1b2,DISRUPTS
+EEF1A1,Eef1a1,K165-m1,8113920,TEPPYSQkRYEEIVK,"molecular association, regulation","translation, altered",23583077; 28108655,GTP_EFTU,,EEF1G,Eef1g,DISRUPTS
+EEF1A1,Eef1a1,K55-m1,2584348,EMGKGSFkYAWVLDK,"molecular association, regulation",,23583077,GTP_EFTU,,L3MBTL iso4,L3mbtl2,INDUCES
+EEF1A1,Eef1a1,K318-m2,12193411,NVKNVSVkDVRRGNV,"molecular association, regulation",,23583077,GTP_EFTU_D2,,L3MBTL iso4,L3mbtl2,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSF1R,Csf1r,Y546-p,2866400,KYKQKPKyQVRWKII,"molecular association, regulation",,8798707,,binds to an unidentfied 55 KD phosphorylated protein in vitro. ,,,
+CSF1R,Csf1r,Y561-p,450118,ESYEGNSyTFIDPTQ,"activity, induced; molecular association, regulation",,11513742; 15297464; 7730365,,,,,
+CSF1R,Csf1r,Y699-p,451527,DPEGGVDyKNIHLEK,"molecular association, regulation",,1708091,PK_Tyr_Ser-Thr,,PIK3CB,Pik3cb,INDUCES
+CSF1R,Csf1r,Y809-p,448365,DIMNDSNyIVKGNAR,"activity, induced; phosphorylation","cell cycle regulation; transcription, altered; cell growth, altered",15217985; 15297464; 7526094; 8761310,PK_Tyr_Ser-Thr,Substitution of T38A enhances Ets-1 rescue of CSFR  defective receptor (Y809F). ,,,
+CSF1R,Csf1r,Y723-p,448364,SSQGVDTyVEMRPVS,"molecular association, regulation",,10648820,PK_Tyr_Ser-Thr,,CBL,Cbl,INDUCES
+CSF1R,Csf1r,Y708-p,451528,NIHLEKKyVRRDSGF,"activity, induced; molecular association, regulation",,9000134,PK_Tyr_Ser-Thr,,STAT1,Stat1,INDUCES

@@ -1,0 +1,24 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BRCA1,Brca1,T1394-p,1874020208,SQSDILTtQQRDTMQ,,"cell cycle regulation; carcinogenesis, altered; DNA repair, altered",34301763,,,,,
+BRCA1,Brca1,S1497-p,448730,EPGVERSsPSKCPSL,"molecular association, regulation; intracellular localization","cell growth, induced",10550055; 19683496; 21706030,,,ATM,Atm,INDUCES
+BRCA1,Brca1,S1423-p,448036,AVLEQHGsQPSNSYP,"molecular association, regulation; phosphorylation","cell cycle regulation; DNA repair, altered",10550055; 11313470; 12183412; 15159397; 25939603; 26320175; 34301763,,,ATM,Atm,INDUCES
+BRCA1,Brca1,S1191-p,10272402,GELSRSPsPFTHTHL,"protein stabilization; molecular association, regulation; intracellular localization","cell growth, induced; DNA repair, inhibited",19683496; 21706030; 32193285,,,PIN1,Pin1,INDUCES
+BRCA1,Brca1,S1164-p,36135579,GEIKEDTsFAENDIK,intracellular localization,"DNA repair, induced",26745677,,important for foci formation following DSB,,,
+BRCA1,Brca1,S694-p,4787521,QTSKRHDsDTFPELK,protein stabilization,,20085797,,,,,
+BRCA1,Brca1,S1387-p,455495,EDCSGLSsQSDILTT,,"cell cycle regulation; DNA repair, altered",12183412; 25939603; 26320175; 34301763,,,,,
+BRCA1,Brca1,S1143-p,767900,PMGSSHAsQVCSETP,intracellular localization,,17531442,,S1143 and S1280 phosphorylation contributes to BRCA1 recruitment to MMTS-induced foci. ,,,
+BRCA1,Brca1,S1457-p,450008,SEKAVLTsQKSSEYP,"molecular association, regulation","cell cycle regulation; DNA repair, altered",10550055; 26320175,,prolong mitosis and induce mitotic aberrations,ATM,Atm,INDUCES
+BRCA1,Brca1,T509-p,448039,LKRKRRPtSGLHPED,intracellular localization,"transcription, induced",17428466,,,,,
+BRCA1,Brca1,S632-p,478486,LVVSRNLsPPNCTEL,,"transcription, altered",17334399,,inhibits transcription by interfering with DNA-binding ability of BRCA1,,,
+BRCA1,Brca1,S1280-p,767901,QVILAKAsQEHHLSE,intracellular localization,,17531442,,S1143 and S1280 phosphorylation contributes to BRCA1 recruitment to MMTS-induced foci. ,,,
+BRCA1,Brca1,S308-p,451604,KAEFCNKsKQPGLAR,,cell cycle regulation,26831064,,mitotic microtubule assembly ,,,
+BRCA1,Brca1,S1524-p,448038,LQNRNYPsQEELIKV,"molecular association, regulation; ubiquitination; phosphorylation","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; DNA repair, altered; transcription, induced",10550055; 12183412; 15096610; 15159397; 26320175; 33568520; 34610268,,inhibits TOP2B ubiquitination,ATM,Atm,INDUCES
+BRCA1,Brca1,S1524-p,448038,LQNRNYPsQEELIKV,"molecular association, regulation; ubiquitination; phosphorylation","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; DNA repair, altered; transcription, induced",10550055; 12183412; 15096610; 15159397; 26320175; 33568520; 34610268,,inhibits TOP2B ubiquitination,claspin,Clspn,INDUCES
+BRCA1,Brca1,S988-p,448526,PPLFPIKsFVKTKCK,"activity, induced; intracellular localization","carcinogenesis, induced; DNA repair, induced; apoptosis, inhibited",10724175; 12427729; 14701743; 18987440; 33397362,,,,,
+BRCA1,Brca1,S114-p,18007298,FAKKENNsPEHLKDE,"molecular association, regulation; intracellular localization","DNA repair, induced",31270457,,,PIN1,Pin1,INDUCES
+BRCA1,Brca1,S114-p,18007298,FAKKENNsPEHLKDE,"molecular association, regulation; intracellular localization","DNA repair, induced",31270457,,,RAD51,Rad51,INDUCES
+BRCA1,Brca1,S1542-p,450009,EEQQLEEsGPHDLTE,"molecular association, regulation",,10550055,,,ATM,Atm,INDUCES
+BRCA1,Brca1,K119-sm,11539302,NNSPEHLkDEVSIIQ,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced",20016594,,,,,
+BRCA1,Brca1,S1189-p,450007,QKGELSRsPSPFTHT,"molecular association, regulation; intracellular localization","cell growth, induced",10550055; 19683496; 21706030,,,ATM,Atm,INDUCES
+BRCA1,Brca1,K830-ac,1880797406,RNDTEGFkYPLGHEV,,cell cycle regulation,29440709,,,,,
+BRCA1,Brca1,Y1552-p,50684000,HDLTETSyLPRQDLE,protein stabilization,,29156836,,,,,

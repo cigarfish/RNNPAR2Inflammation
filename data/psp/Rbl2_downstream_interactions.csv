@@ -1,0 +1,25 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBL2,Rbl2,S662-p,449728,GLGRSITsPTTLYDR,"molecular association, regulation",cell cycle regulation,11157749; 12006580,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S639-p,449726,DEICIAGsPLTPRRV,"molecular association, regulation",cell cycle regulation,11157749; 12006580,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S1035-p,449738,NMDAPPLsPYPFVRT,"molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 28289097,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T401-p,449723,SKALRIStPLTGVRY,"molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 28289097,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S1068-p,449740,HKNETMLsPREKIFY,"molecular association, regulation",cell cycle regulation,11157749,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T694-p,449730,DSPSDGGtPGRMPPQ,"molecular association, regulation",cell cycle regulation,11157749,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S1044-p,449739,YPFVRTGsPRRIQLS,"molecular association, regulation",cell cycle regulation,11157749; 12006580,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S688-p,449729,RLFVENDsPSDGGTP,"molecular association, regulation",cell cycle regulation,11157749,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T1097-p,449742,SMIRTGEtPTKKRGI,"molecular association, regulation; intracellular localization",cell cycle regulation,11157749; 20857408,,,KPNA1,Kpna1,DISRUPTS
+RBL2,Rbl2,T1097-p,449742,SMIRTGEtPTKKRGI,"molecular association, regulation; intracellular localization",cell cycle regulation,11157749; 20857408,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S952-p,449732,DSRSHQNsPTELNKD,"molecular association, regulation",cell cycle regulation,11157749,RB_B,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T986-p,449737,QPSSAPPtPTRLTGA,"molecular association, regulation",cell cycle regulation,11157749,RB_B,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T642-p,449727,CIAGSPLtPRRVTEV,"molecular association, regulation",cell cycle regulation,11157749,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S413-p,449724,VRYIKENsPCVTPVS,"molecular association, regulation",cell cycle regulation,11157749; 12006580,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,T417-p,449725,KENSPCVtPVSTATH,"molecular association, regulation",cell cycle regulation,11157749,RB_A,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S672-p,448254,TLYDRYSsPPASTTR,"protein degradation; molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 12435635; 28289097; 35235778,,,SKP2,Skp2,INDUCES
+RBL2,Rbl2,S672-p,448254,TLYDRYSsPPASTTR,"protein degradation; molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 12435635; 28289097; 35235778,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S672-p,448254,TLYDRYSsPPASTTR,"protein degradation; molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 12435635; 28289097; 35235778,,,LIN9,Lin9,DISRUPTS
+RBL2,Rbl2,S672-p,448254,TLYDRYSsPPASTTR,"protein degradation; molecular association, regulation","cell cycle regulation; transcription, induced",11157749; 12006580; 12435635; 28289097; 35235778,,,DKFZp686L1814,Dkfzp686l1814,DISRUPTS
+RBL2,Rbl2,S1080-p,449741,IFYYFSNsPSKRLRE,"molecular association, regulation; intracellular localization",cell cycle regulation,11157749; 12006580; 20857408,,,KPNA1,Kpna1,DISRUPTS
+RBL2,Rbl2,S1080-p,449741,IFYYFSNsPSKRLRE,"molecular association, regulation; intracellular localization",cell cycle regulation,11157749; 12006580; 20857408,,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S948-p,449731,SGSSDSRsHQNSPTE,"molecular association, regulation",cell cycle regulation,11157749,RB_B,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S966-p,449734,DRTSRDSsPVMRSSS,"molecular association, regulation",cell cycle regulation,11157749,RB_B,,E2F4,E2f4,DISRUPTS
+RBL2,Rbl2,S1112-p,449743,LLEDGSEsPAKRICP,"molecular association, regulation",cell cycle regulation,11157749; 12006580,,,E2F4,E2f4,DISRUPTS

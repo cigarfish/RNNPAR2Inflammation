@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNJ2,Kcnj2,Y242-p,2097300,RITSEGEyIPLDQID,"activity, induced; activity, inhibited","cell differentiation, altered",18216177; 21570948,IRK_C,inactivates KCNJ2 current,,,
+KCNJ2,Kcnj2,S425-p,10892807,PRPLRREsEI_____,"activity, inhibited",,19843922,,reduces an inward rectifier current of Kir2.1 V227F,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TUBB3,Tubb3,Y340-p,464858,IQSKNSSyFVEWIPN,protein stabilization; intracellular localization,cytoskeletal reorganization,35631517,Tubulin_C,,,,
+TUBB3,Tubb3,S444-p,451154,YEDDEEEsEAQGPK_,,cytoskeletal reorganization,26586574,,"microtubule stabilization, affects cytokinesis through TUBB3 S444 phosphorylation, ",,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLX4,Slx4,T1544-p,1880104206,QKPEGLEtPKGANRK,"molecular association, regulation; protein conformation",,36288699,,,MUS81,Mus81,INDUCES
+SLX4,Slx4,T1571-p,1880104210,PQYSIMEtPVLKKEL,"molecular association, regulation; protein conformation",,36288699,,,MUS81,Mus81,INDUCES
+SLX4,Slx4,T1561-p,1880104208,LPPKVPItPMPQYSI,"molecular association, regulation; protein conformation",,36288699,,,MUS81,Mus81,INDUCES

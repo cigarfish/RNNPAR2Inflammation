@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAGLN2,Tagln2,S163-p,468770,KENPRNFsDNQLQEG,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",21577206,,,ACTB,Actb,DISRUPTS
+TAGLN2,Tagln2,S83-p,19083400,PVKKIQAsTMAFKQM,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",21577206,CH,,ACTB,Actb,DISRUPTS
+TAGLN2,Tagln2,S145-p,31885453,ARDDGLFsGDPNWFP,protein stabilization,"carcinogenesis, induced; cell growth, induced",30041673,,essential for Kras- regulated cell proliferation,,,

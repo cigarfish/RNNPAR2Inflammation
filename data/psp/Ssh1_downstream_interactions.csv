@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SSH1,Ssh1,T826-p,35524905,AGLVRKHtKELERLK,phosphorylation,,25100728,,induce coflin dephosphorylation,,,
+SSH1,Ssh1,S402-p,10989184,MGVSRSAsTVIAYAM,"molecular association, regulation; enzymatic activity, inhibited","cell motility, altered",21525957,DSPc,,,,
+SSH1,Ssh1,S937-p,455274,SNLTRSSsSDSIHSV,"molecular association, regulation; intracellular localization; activity, inhibited","cell motility, altered",15159416; 19567672; 21525957,,,14-3-3 beta,Ywhab,INDUCES
+SSH1,Ssh1,S978-p,455275,SPLKRSHsLAKLGSL,"molecular association, regulation; intracellular localization; activity, inhibited; phosphorylation","cell motility, altered",15159416; 19329994; 19567672; 21525957,,,14-3-3 beta,Ywhab,INDUCES
+SSH1,Ssh1,S978-p,455275,SPLKRSHsLAKLGSL,"molecular association, regulation; intracellular localization; activity, inhibited; phosphorylation","cell motility, altered",15159416; 19329994; 19567672; 21525957,,,14-3-3 zeta,Ywhaz,INDUCES
+SSH1,Ssh1,S834-p,10793641,KELERLKsVPADPAP,"molecular association, regulation; enzymatic activity, inhibited",,21857021,,,14-3-3 beta,Ywhab,INDUCES

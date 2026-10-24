@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SAV1,Sav1,T26-p,4270990,GKYVKKEtSPLLRNL,protein conformation,"apoptosis, induced",21944251,, self-dimerization; increase in protein level,,,
+SAV1,Sav1,Y273-p,1870435804,CAPSVPRyDQPPPVT,"molecular association, regulation; protein conformation; phosphorylation",signaling pathway regulation,32905778,,"inhibits LATS1 phosphorylation, regulates Hippo signaling pathway",DDN,Ddn,INDUCES
+SAV1,Sav1,Y273-p,1870435804,CAPSVPRyDQPPPVT,"molecular association, regulation; protein conformation; phosphorylation",signaling pathway regulation,32905778,,"inhibits LATS1 phosphorylation, regulates Hippo signaling pathway",SAV1,Sav1,DISRUPTS
+SAV1,Sav1,Y273-p,1870435804,CAPSVPRyDQPPPVT,"molecular association, regulation; protein conformation; phosphorylation",signaling pathway regulation,32905778,,"inhibits LATS1 phosphorylation, regulates Hippo signaling pathway",MST1,Mst1,DISRUPTS
+SAV1,Sav1,S36-p,21507300,LLRNLMPsFIRHGPT,protein conformation,"apoptosis, induced",21944251,, self-dimerization; increase in protein level,,,
+SAV1,Sav1,S27-p,7447103,KYVKKETsPLLRNLM,protein conformation,"apoptosis, induced",21944251,, self-dimerization; increase in protein level,,,
+SAV1,Sav1,S269-p,21507301,YRHPCAPsVPRYDQP,protein conformation,"apoptosis, induced",21944251,, self-dimerization; increase in protein level,,,

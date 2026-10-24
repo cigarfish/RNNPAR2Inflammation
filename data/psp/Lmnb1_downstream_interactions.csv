@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LMNB1,Lmnb1,S395-p,448732,LKLSPSPsSRVTVSR,,cell cycle regulation,8663071,,,,,
+LMNB1,Lmnb1,T575-p,3177672,ELFHQQGtPRASNRS,"molecular association, regulation; intracellular localization",,28542436,,,Oct1,Pou2f1,DISRUPTS
+LMNB1,Lmnb1,K134-ac,33363078,DLNGAQIkLREYEAA,protein stabilization,"cell cycle regulation; DNA repair, inhibited",33533922,Filament,"K134 acetylation may stabilize LMNB1, maintaining nuclear periphery integrity during viral infections, impacts G1 to S phase cell cycle transition, reduces laminar association with chromatin, delays recruitment of cNHEJ repair factor 53BP1 to DNA repair foci",,,
+LMNB1,Lmnb1,S405-p,448733,VTVSRASsSRSVRTT,,cell cycle regulation,8663071,,,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IFI16,Ifi204,K99-ac,35700306,PALSRKRkKEVDATS,intracellular localization,,22691496,,,,,
+IFI16,Ifi204,K3-ub,1877844700,_____MGkKYKNIVL,protein degradation,signaling pathway regulation,31665637,,IFI16 degradation inhibits viral DNA-induced IFN-I production,STING,Tmem173,INDUCES
+IFI16,Ifi204,K128-ac,4129126,EATPGAQkRKKSTKE,intracellular localization,,22691496,,,,,
+IFI16,Ifi204,K4-ub,1877844702,____MGKkYKNIVLL,protein degradation,signaling pathway regulation,31665637,,IFI16 degradation inhibits viral DNA-induced IFN-I production,STING,Tmem173,INDUCES
+IFI16,Ifi204,K6-ub,964520238,__MGKKYkNIVLLKG,protein degradation,signaling pathway regulation,31665637,,IFI16 degradation inhibits viral DNA-induced IFN-I production,STING,Tmem173,INDUCES

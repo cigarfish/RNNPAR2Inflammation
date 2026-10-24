@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC12A1,Slc12a1,S130-p,478420,GPKVNRPsLLEIHEQ,"activity, induced",signaling pathway regulation,21321328,AA_permease_N,WNK-SPAK-OSR1 pathway,,,
+SLC12A1,Slc12a1,T100-p,458227,TNTYYLQtFGHNTMD,,signaling pathway regulation,21321328,AA_permease_N,WNK-SPAK-OSR1 pathway,,,
+SLC12A1,Slc12a1,T105-p,458228,LQTFGHNtMDAVPKI,"activity, induced",signaling pathway regulation,21321328,AA_permease_N,WNK-SPAK-OSR1 pathway,,,
+SLC12A1,Slc12a1,S91-p,4708924,ASFHAYDsHTNTYYL,,signaling pathway regulation,21321328,AA_permease_N,WNK-SPAK-OSR1 pathway,,,

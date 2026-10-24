@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPBAR1,Gpbar1,S323-p,1877729204,AYHPSSQsSVDLDLN,"molecular association, regulation","cell growth, induced; apoptosis, inhibited",35858343,,,ARRB1,Arrb1,INDUCES
+GPBAR1,Gpbar1,S310-p,1877729200,WGRASRDsPGPSIAY,"molecular association, regulation","cell growth, induced; apoptosis, inhibited",35858343,,,ARRB1,Arrb1,INDUCES
+GPBAR1,Gpbar1,S324-p,1877729206,YHPSSQSsVDLDLN_,"molecular association, regulation","cell growth, induced; apoptosis, inhibited",35858343,,,ARRB1,Arrb1,INDUCES
+GPBAR1,Gpbar1,S321-p,1877729202,SIAYHPSsQSSVDLD,"molecular association, regulation","cell growth, induced; apoptosis, inhibited",35858343,,,ARRB1,Arrb1,INDUCES

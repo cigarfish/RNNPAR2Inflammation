@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PEX14,Pex14,S232-p,455420,NRRQFPPsPSAPKIP,"molecular association, regulation; protein conformation",,32854114,,,PEX14,Pex14,INDUCES

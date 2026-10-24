@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GIT1,Git1,T765-p,1868139202,KQLVTITtREKKQ__,"molecular association, regulation",,30737283,GIT1_C,,liprin alpha 1,Ppfia1,DISRUPTS
+GIT1,Git1,T765-p,1868139202,KQLVTITtREKKQ__,"molecular association, regulation",,30737283,GIT1_C,,PXN,Pxn,INDUCES
+GIT1,Git1,S700-p,465672,PALEPVRsSLRLLNA,"molecular association, regulation",cytoskeletal reorganization,16797488,GIT1_C,,PXN iso2,Pxn,INDUCES
+GIT1,Git1,S46-p,25784901,RSLGRHIsIVKHLRH,intracellular localization,"cell motility, induced; cell adhesion, induced",22893698,ArfGap,,,,
+GIT1,Git1,Y383-p,481671,DLDDQHDyDSVASDE,intracellular localization,"cell motility, altered; cytoskeletal reorganization",20689073,, important for podosome formation and PLC gamma activation,,,
+GIT1,Git1,Y246-p,12243296,PDHKNGHyIIPQMAD,"molecular association, regulation; protein conformation; activity, inhibited","cell motility, induced",24699139,,,PXN,Pxn,INDUCES
+GIT1,Git1,Y284-p,15702201,EELAMDVyDEVDRRE,"molecular association, regulation; protein conformation; activity, inhibited","cell motility, induced",24699139,GIT_SHD,,PXN,Pxn,INDUCES
+GIT1,Git1,Y321-p,15702200,FLPVNPEySATRNQG,"molecular association, regulation; intracellular localization","cell motility, induced; cell adhesion, altered",22302306,,GIT1 Y321 is necessary  for FAK activation localization at focal adhesions,FAK,Ptk2,INDUCES
+GIT1,Git1,Y545-p,448965,ELEDDAIySVHVPAG,"molecular association, regulation","cell motility, induced",25742295,,"phosphorylation-dephosphorylation required for coordinated cell movement, Y545-p was essential for Git1-mediated protrusion activity.",PXN,Pxn,DISRUPTS
+GIT1,Git1,Y545-p,448965,ELEDDAIySVHVPAG,"molecular association, regulation","cell motility, induced",25742295,,"phosphorylation-dephosphorylation required for coordinated cell movement, Y545-p was essential for Git1-mediated protrusion activity.",Hic-5,Tgfb1i1,DISRUPTS

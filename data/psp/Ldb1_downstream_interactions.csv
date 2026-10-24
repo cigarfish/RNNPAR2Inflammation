@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LDB1,Ldb1,K134-ub,14512104,SMVTQHGkPMFTQVC,protein degradation,,32229578,LIM_bind,,,,
+LDB1,Ldb1,K365-ub,1877171202,PPSSQESkSENPTSQ,protein degradation,,32229578,,,,,
+LDB1,Ldb1,K170-ub,14512104,SMVTQHGkPMFTQVC,protein degradation; protein stabilization,,20423330,LIM_bind,"differential regulation of protein expression-mono-ubiquitination promotes stabilization, poly-ubiquitination induces degradation",,,

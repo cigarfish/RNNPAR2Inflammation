@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AKAP13,Akap13,S1565-p,452184,LSPFRRHsWGPGKNA,"molecular association, regulation; activity, inhibited; phosphorylation",,15229649; 15324660; 36402225,,regulates phosphorylation at T2467,14-3-3 beta,Ywhab,INDUCES
+AKAP13,Akap13,S1565-p,452184,LSPFRRHsWGPGKNA,"molecular association, regulation; activity, inhibited; phosphorylation",,15229649; 15324660; 36402225,,regulates phosphorylation at T2467,14-3-3 sigma,Sfn,INDUCES
+AKAP13,Akap13,S1565-p,452184,LSPFRRHsWGPGKNA,"molecular association, regulation; activity, inhibited; phosphorylation",,15229649; 15324660; 36402225,,regulates phosphorylation at T2467,14-3-3 gamma,Ywhag,INDUCES
+AKAP13,Akap13,T2467-p,487261,SLPRRAEtFGGFDSH,"molecular association, regulation",,36402225,,,14-3-3 sigma,Sfn,INDUCES

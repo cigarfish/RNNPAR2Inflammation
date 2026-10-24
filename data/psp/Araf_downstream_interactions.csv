@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARAF,Araf,T442-p,3306325,IFLHEGLtVKIGDFG,"enzymatic activity, induced",,18662992,PK_Tyr_Ser-Thr,,,,
+ARAF,Araf,T455-p,3306307,FGLATVKtRWSGAQP,"enzymatic activity, induced",,18662992,PK_Tyr_Ser-Thr,,,,
+ARAF,Araf,S582-p,481007,PKIERSAsEPSLHRT,"enzymatic activity, induced",,18662992,,,,,
+ARAF,Araf,S432-p,3306310,IIHRDLKsNNIFLHE,"enzymatic activity, induced",,18662992,PK_Tyr_Ser-Thr,,,,
+ARAF,Araf,S264-p,3306300,SPSPASVsSGRKSPH,"enzymatic activity, induced",,18662992,,,,,
+ARAF,Araf,Y301-p,455521,LGYRDSGyYWEVPPS,"activity, induced",,9020159,,,,,
+ARAF,Araf,T452-p,3306308,IGDFGLAtVKTRWSG,"enzymatic activity, induced",,18662992,PK_Tyr_Ser-Thr,,,,
+ARAF,Araf,S257-p,467474,SDGTPRGsPSPASVS,"enzymatic activity, induced",,18662992,,,,,
+ARAF,Araf,S262-p,3306309,RGSPSPAsVSSGRKS,"enzymatic activity, induced",,18662992,,,,,
+ARAF,Araf,S214-p,3180426,LQRIRSTsTPNVHMV,"enzymatic activity, induced",,18662992,,,,,
+ARAF,Araf,Y302-p,455522,GYRDSGYyWEVPPSE,"activity, induced",,9020159,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LDHA,Ldha,S161-p,31882218,PKNRVIGsGCNLDSA,"protein stabilization; molecular association, regulation",,36239424,,inhibits nuclear ubiquitination/ polyubiquitination,14-3-3 epsilon,Ywhae,INDUCES
+LDHA,Ldha,Y10-p,454712,TLKDQLIyNLLKEEQ,"molecular association, regulation; protein conformation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; apoptosis, induced; cell growth, induced; apoptosis, inhibited",21969607; 28122247; 28218905; 33572095; 34452627; 35115484; 35525866; 37507768,,,LDH-A,Ldha,INDUCES
+LDHA,Ldha,Y83-p,3780568,KIVSGKDyNVTANSK,"enzymatic activity, induced",,21969607,Ldh_1_N,,,,
+LDHA,Ldha,K5-ac,461532,___MATLkDQLIYNL,"protein degradation; molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited; cell motility, inhibited",23523103,,,HSC70,Hspa8,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN18,Ptpn18,Y303-p,450260,LQNASPHyQNIKENC,"molecular association, regulation",,14679216,,,TEC,Tec,INDUCES
+PTPN18,Ptpn18,Y354-p,450261,GHAMADTyAVVQKRG,"molecular association, regulation",,14679216,,,TEC,Tec,INDUCES
+PTPN18,Ptpn18,Y389-p,449000,SAEEAPLySKVTPRA,"molecular association, regulation",,14679216; 23322602,,,TEC,Tec,INDUCES
+PTPN18,Ptpn18,Y389-p,449000,SAEEAPLySKVTPRA,"molecular association, regulation",,14679216; 23322602,,,SH2D1B(NOT_REPORTED,Sh2d1b1,UNKNOWN
+PTPN18,Ptpn18,Y389-p,449000,SAEEAPLySKVTPRA,"molecular association, regulation",,14679216; 23322602,,,Arg(NOT_REPORTED,Abl2,UNKNOWN
+PTPN18,Ptpn18,Y281-p,450259,AVQTEEQyRFLYHTV,"molecular association, regulation",,14679216,Y_phosphatase,,TEC,Tec,INDUCES

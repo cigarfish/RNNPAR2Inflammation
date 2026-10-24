@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK6,Mapk6,T698-p,13830502,KSIQATLtPSAMKSS,protein stabilization,,20236090,,,,,
+MAPK6,Mapk6,S189-p,448267,YSHKGHLsEGLVTKW,"molecular association, regulation; intracellular localization",,21317288,Pkinase,,MAPKAPK5,Mapkapk5,INDUCES
+MAPK6,Mapk6,S688-p,13830503,QFHSPVGsPLKSIQA,protein stabilization,,20236090,,,,,
+MAPK6,Mapk6,S684-p,13830500,IGIPQFHsPVGSPLK,protein stabilization,,20236090,,,,,
+MAPK6,Mapk6,S705-p,13830501,TPSAMKSsPQIPHQT,protein stabilization,,20236090,,,,,

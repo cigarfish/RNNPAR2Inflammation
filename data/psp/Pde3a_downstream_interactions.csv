@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE3A,Pde3a,S428-p,456821,IPKRLRRsLPPGLLR,"molecular association, regulation; enzymatic activity, induced","cell growth, induced",16153182; 19261611; 25961942,,,14-3-3 beta,Ywhab,INDUCES
+PDE3A,Pde3a,S428-p,456821,IPKRLRRsLPPGLLR,"molecular association, regulation; enzymatic activity, induced","cell growth, induced",16153182; 19261611; 25961942,,,14-3-3 sigma,Sfn,INDUCES
+PDE3A,Pde3a,S312-p,456900,SKSHRRTsLPCIPRE,"enzymatic activity, induced",,19261611,,,,,
+PDE3A,Pde3a,S292-p,471415,VFKRRRRsSSVVSAE,"molecular association, regulation; enzymatic activity, induced",,25593322,,,SERCA2,Atp2a2,INDUCES
+PDE3A,Pde3a,S292-p,471415,VFKRRRRsSSVVSAE,"molecular association, regulation; enzymatic activity, induced",,25593322,,,AKAP7(NOT_REPORTED,Akap7,UNKNOWN
+PDE3A,Pde3a,S438-p,456984,PGLLRRVsSTWTTTT,"enzymatic activity, induced","cell growth, induced",25961942,,,,,
+PDE3A,Pde3a,S293-p,471416,FKRRRRSsSVVSAEM,"molecular association, regulation; enzymatic activity, induced",,25593322,,,SERCA2,Atp2a2,INDUCES
+PDE3A,Pde3a,S293-p,471416,FKRRRRSsSVVSAEM,"molecular association, regulation; enzymatic activity, induced",,25593322,,,AKAP7(NOT_REPORTED,Akap7,UNKNOWN

@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GP1BA,Gp1ba,S651-p,450660,SIRYSGHsL______,"molecular association, regulation",,10559231; 18299448; 19874472,,,14-3-3 sigma,Sfn,INDUCES
+GP1BA,Gp1ba,S651-p,450660,SIRYSGHsL______,"molecular association, regulation",,10559231; 18299448; 19874472,,,14-3-3 zeta,Ywhaz,INDUCES
+GP1BA,Gp1ba,S632-p,1983279,GRRPSALsQGRGQDL,"molecular association, regulation",cytoskeletal reorganization,15054037; 18299448; 19874472,,cell spreading (not adhering efficiency),14-3-3 sigma,Sfn,INDUCES
+GP1BA,Gp1ba,S632-p,1983279,GRRPSALsQGRGQDL,"molecular association, regulation",cytoskeletal reorganization,15054037; 18299448; 19874472,,cell spreading (not adhering efficiency),14-3-3 zeta,Ywhaz,INDUCES
+GP1BA,Gp1ba,S632-p,1983279,GRRPSALsQGRGQDL,"molecular association, regulation",cytoskeletal reorganization,15054037; 18299448; 19874472,,cell spreading (not adhering efficiency),PIK3R1,Pik3r1,INDUCES
+GP1BA,Gp1ba,S601-p,11333102,WLLFLRGsLPTFRSS,"molecular association, regulation",,19875727,,,FLNA,Flna,DISRUPTS
+GP1BA,Gp1ba,S601-p,11333102,WLLFLRGsLPTFRSS,"molecular association, regulation",,19875727,,,14-3-3 zeta,Ywhaz,INDUCES
+GP1BA,Gp1ba,S601-p,11333102,WLLFLRGsLPTFRSS,"molecular association, regulation",,19875727,,,VWF,Vwf,INDUCES
+GP1BA,Gp1ba,S629-p,1983276,LVAGRRPsALSQGRG,"molecular association, regulation",,18299448; 19874472,,,14-3-3 sigma,Sfn,INDUCES
+GP1BA,Gp1ba,S629-p,1983276,LVAGRRPsALSQGRG,"molecular association, regulation",,18299448; 19874472,,,14-3-3 zeta,Ywhaz,INDUCES
+GP1BA,Gp1ba,S629-p,1983276,LVAGRRPsALSQGRG,"molecular association, regulation",,18299448; 19874472,,,PIK3R1,Pik3r1,INDUCES

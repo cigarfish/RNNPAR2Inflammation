@@ -1,0 +1,41 @@
+SUBSTRATE_GENE_MOUSE,KINASE_GENE_MOUSE,KINASE_GENE,KINASE,KIN_ACC_ID,KIN_ORGANISM,SUBSTRATE_GENE,SUB_ORGANISM,MOD_RSD,SITE_GRP_ID,SITE_+/-7_AA,DOMAIN,IN_VIVO_RXN,IN_VITRO_RXN,CST_CAT#
+Vim,Camk2a,CAMK2A,CAMK2A,Q9UQM7,human,VIM,human,S83,451816,GVRLLQDsVdFsLAd,Filament_head,X, ,3878; 12569
+Vim,Prkaca,PRKACA,PKACA,P17612,human,VIM,human,S72,449026,ssAVrLrssVPGVRL,Filament_head, ,X,
+Vim,Prkaca,PRKACA,PKACA,P17612,human,VIM,human,S73,449025,sAVrLrssVPGVRLL,Filament_head, ,X,
+Vim,Prkaca,PRKACA,PKACA,P17612,human,VIM,human,S39,451766,ttstrtysLGsALrP,Filament_head, ,X,13614
+Vim,Pak1,Pak1,PAK1,O88643,mouse,VIM,human,S66,451765,GVyAtrssAVrLrss,Filament_head, ,X,
+Vim,Pak1,Pak1,PAK1,O88643,mouse,VIM,human,S51,449416,LrPstsrsLyAssPG,Filament_head,X,X,
+Vim,Pak1,Pak1,PAK1,O88643,mouse,VIM,human,S73,449025,sAVrLrssVPGVRLL,Filament_head,X,X,
+Vim,Pak1,Pak1,PAK1,O88643,mouse,VIM,human,S39,451766,ttstrtysLGsALrP,Filament_head, ,X,13614
+Vim,Pak1,Pak1,PAK1,O88643,mouse,VIM,human,S26,451767,GtAsrPsssrsyVtt,Filament_head, ,X,
+Vim,Prkci,PRKCI,PKCI,P41743,human,VIM,human,S34,455454,srsyVttstrtysLG,Filament_head,X, ,
+Vim,Prkci,PRKCI,PKCI,P41743,human,VIM,human,S39,451766,ttstrtysLGsALrP,Filament_head,X, ,13614
+Vim,Prkci,PRKCI,PKCI,P41743,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head,X, ,3877; 7391; 18830
+Vim,Cdk1,CDK1,CDK1,P06493,human,VIM,human,S55,476052,tsrsLyAssPGGVyA,Filament_head, ,X,
+Vim,Cdk1,CDK1,CDK1,P06493,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head, ,X,3877; 7391; 18830
+Vim,Prkdc,PRKDC,DNAPK,P78527,human,VIM,human,S459,470128,GQVINEtsQHHDDLE,, ,X,
+Vim,Prkdc,PRKDC,DNAPK,P78527,human,VIM,human,S430,470126,LREtNLDsLPLVDtH,, ,X,
+Vim,Prkdc,PRKDC,DNAPK,P78527,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head, ,X,3877; 7391; 18830
+Vim,Cdk1,Cdk1,CDK1,P11440,mouse,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head, ,X,3877; 7391; 18830
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,T336,31863396,EVdALkGtNEsLERQ,Filament,X, ,
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,S83,451816,GVRLLQDsVdFsLAd,Filament_head,X,X,3878; 12569
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,S459,470128,GQVINEtsQHHDDLE,,X,X,
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,T327,3180351,RRQVQsLtCEVdALk,Filament,X,X,
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,S339,14582709,ALkGtNEsLERQMRE,Filament,X,X,
+Vim,Plk1,PLK1,PLK1,P53350,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head,X,X,3877; 7391; 18830
+Vim,Cdk5,CDK5,CDK5,Q00535,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head,X, ,3877; 7391; 18830
+Vim,Rock1,ROCK1,ROCK1,Q13464,human,VIM,human,S72,449026,ssAVrLrssVPGVRL,Filament_head,X,X,
+Vim,Rock2,ROCK2,ROCK2,O75116,human,VIM,human,S72,449026,ssAVrLrssVPGVRL,Filament_head,X, ,
+Vim,Pak1,PAK1,PAK1,Q13153,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head,X,X,3877; 7391; 18830
+Vim,Prkca,PRKCA,PKCA,P17252,human,VIM,human,S8,471087,MStrsVssssyrrMF,Filament_head, ,X,
+Vim,Prkca,PRKCA,PKCA,P17252,human,VIM,human,S9,455450,StrsVssssyrrMFG,Filament_head, ,X,
+Vim,Prkca,PRKCA,PKCA,P17252,human,VIM,human,S10,455451,trsVssssyrrMFGG,Filament_head, ,X,
+Vim,Prkca,PRKCA,PKCA,P17252,human,VIM,human,S5,471086,___MStrsVssssyr,, ,X,
+Vim,Prkca,PRKCA,PKCA,P17252,human,VIM,human,S7,455449,_MStrsVssssyrrM,Filament_head, ,X,
+Vim,Aurkb,AURKB,AurB,Q96GD4,human,VIM,human,S73,449025,sAVrLrssVPGVRLL,Filament_head,X,X,
+Vim,Mos,MOS,MOS,P00540,human,VIM,human,S459,470128,GQVINEtsQHHDDLE,, ,X,
+Vim,Mos,MOS,MOS,P00540,human,VIM,human,T458,471089,DGQVINEtsQHHDDL,, ,X,
+Vim,Prkcz,PRKCZ,PKCZ,Q05513,human,VIM,human,S34,455454,srsyVttstrtysLG,Filament_head,X, ,
+Vim,Prkcz,PRKCZ,PKCZ,Q05513,human,VIM,human,S39,451766,ttstrtysLGsALrP,Filament_head,X, ,13614
+Vim,Prkcz,PRKCZ,PKCZ,Q05513,human,VIM,human,S56,451514,srsLyAssPGGVyAt,Filament_head,X, ,3877; 7391; 18830
+Vim,Akt1,AKT1,Akt1,P31749,human,VIM,human,S39,451766,ttstrtysLGsALrP,Filament_head,X,X,13614

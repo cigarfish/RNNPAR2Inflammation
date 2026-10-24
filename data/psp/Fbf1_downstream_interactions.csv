@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBF1,Fbf1,S334-p,27449008,QSPPMASsPIQPRKG,"molecular association, regulation",cell cycle regulation,30318703,,centrosome seperation,PLK1,Plk1,INDUCES

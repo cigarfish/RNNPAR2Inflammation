@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RNF40,Rnf40,S114-p,18710201,ALLRCHEsQGELSSA,ubiquitination,"DNA repair, induced",21362549,,induces H2B-K125 ubiquitylation,,,

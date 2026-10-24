@@ -1,0 +1,7 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc1	ENTITYB_Loc2	ENTITYB_phospho	EFFECT	SCORE
+GPCR_MAPK_ERK	Cltc	vesicle	0	Arrb1	membrane	endosome	1	carry	0.999
+GPCR_MAPK_ERK	Cltc	vesicle	0	Arrb2	membrane	endosome	1	carry	0.999
+GPCR_MAPK_ERK	Dnm1	vesicle	0	Arrb1	membrane	endosome	1	carry	0.999
+GPCR_MAPK_ERK	Dnm1	vesicle	0	Arrb2	membrane	endosome	1	carry	0.999
+GPCR_MAPK_ERK	Dnm2	vesicle	0	Arrb1	membrane	endosome	1	carry	0.999
+GPCR_MAPK_ERK	Dnm2	vesicle	0	Arrb2	membrane	endosome	1	carry	0.999

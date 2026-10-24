@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAPGEF3,Rapgef3,K561-sm,1887095300,TKGQVLVkVNSAGDA,"activity, induced; molecular association, regulation; protein conformation",,38260470,,"heat-shocked mediated Rap GTPase activation, heat shock-induced activation of Rap small GTPases",RAP2A,Rap2a,INDUCES
+RAPGEF3,Rapgef3,K561-sm,1887095300,TKGQVLVkVNSAGDA,"activity, induced; molecular association, regulation; protein conformation",,38260470,,"heat-shocked mediated Rap GTPase activation, heat shock-induced activation of Rap small GTPases",RAP1A,Rap1a,INDUCES
+RAPGEF3,Rapgef3,S108-p,54400804,GLGVHSRsQVVGICQ,intracellular localization,,26929333,DEP,"GRK2-mediated inhibition of Rap1 activation, inhibits plasma membrane association",,,

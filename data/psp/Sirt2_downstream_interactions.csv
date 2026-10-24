@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIRT2,Sirt2,T101-p,31839907,PDFRSPStGLYDNLE,"molecular association, regulation",,24446434,SIR2,,Akt1,Akt1,INDUCES
+SIRT2,Sirt2,K183-sm,1881502500,IFSEVTPkCEDCQSL,"enzymatic activity, inhibited","carcinogenesis, inhibited",33316537,,"SIRT2 is the deacetylase of P38 and its enzyme activity is inhibited by its SUMOylation, SUMOylation inhibits the carcinogenic phenotype in neurblastoma cells and is a tumor suppressor in mice ",,,
+SIRT2,Sirt2,S372-p,482810,TSASPKKsPPPAKDE,"enzymatic activity, induced",,17516032,,enzymatic activity of mutant S368A/S372A (but not S386A) was reduced 44%,,,
+SIRT2,Sirt2,Y104-p,479395,RSPSTGLyDNLEKYH,protein degradation,"apoptosis, induced; transcription, inhibited",24996174,SIR2, transcription of p53 was attenuated; SIRT2 levels and stability decreases after phosphorylation;  apoptosis augmented by c-Src SIRT2 downregulation ,,,
+SIRT2,Sirt2,K340-sm,1881502501,KKSPPPAkDEARTTE,"enzymatic activity, inhibited","carcinogenesis, inhibited",33316537,,"SIRT2 is the deacetylase of P38 and its enzyme activity is inhibited by its SUMOylation, SUMOylation inhibits the carcinogenic phenotype in neurblastoma cells and is a tumor suppressor in mice ",,,
+SIRT2,Sirt2,S25-p,1983913,QEAQDSDsDSEGGAA,"molecular association, regulation; intracellular localization","transcription, induced",29694890,,,,,
+SIRT2,Sirt2,S368-p,482809,PNPSTSAsPKKSPPP,"enzymatic activity, inhibited","cell motility, altered; cell adhesion, altered; cell growth, altered",17488717; 18332217,,hyperphosphorylated during mitotic arrest;  ;  delay in cell growth of S368E mutant was observed; cell cycle-regulated phosphorylation,,,
+SIRT2,Sirt2,S331-p,482809,PNPSTSAsPKKSPPP,"activity, inhibited",cell cycle regulation,26303530,,,,,

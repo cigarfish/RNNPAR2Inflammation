@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNAP91,Snap91,S313-p,454326,SPATTVTsPNSTPAK,"molecular association, regulation",,21296491,,,PLD1,Pld1,INDUCES

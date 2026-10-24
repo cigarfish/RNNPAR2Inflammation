@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUGT1,Sugt1,S281-p,486562,KNLYPSSsPYTRNWD,"protein stabilization; molecular association, regulation; intracellular localization",cell cycle regulation,21864708; 28696259,,,RNF41,Rnf41,INDUCES
+SUGT1,Sugt1,S17-p,140698200,TSQRFFQsFSDALID,"protein stabilization; molecular association, regulation",cell cycle regulation,28696259,,,RNF41,Rnf41,INDUCES
+SUGT1,Sugt1,S321-p,23149643,QQIYSDGsDEVKRAM,"protein stabilization; molecular association, regulation",cell cycle regulation,28696259,SGS,,RNF41,Rnf41,INDUCES
+SUGT1,Sugt1,S331-p,18016406,VKRAMNKsFMESGGT,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21864708; 22869522,SGS, localization at kinetetchore; mitotic progression;  association with MIS12 complex;  kinetochore-microtubule attachments,HSP90A,Hsp90aa1,INDUCES
+SUGT1,Sugt1,S331-p,18016406,VKRAMNKsFMESGGT,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21864708; 22869522,SGS, localization at kinetetchore; mitotic progression;  association with MIS12 complex;  kinetochore-microtubule attachments,DSN1,Dsn1,INDUCES
+SUGT1,Sugt1,T265-p,455435,EGQGDVPtPKQFVAD,"protein stabilization; molecular association, regulation",cell cycle regulation,28696259,,,RNF41,Rnf41,INDUCES

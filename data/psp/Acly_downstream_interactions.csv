@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACLY,Acly,K17-ac,40662704,TGKELLYkFICTTSA,"protein degradation; molecular association, regulation","cell growth, altered",36241648,,,ARHGEF3,Arhgef3,INDUCES
+ACLY,Acly,Y1006-p,1868989001,PATPLLDyALEVEKI,"acetylation; enzymatic activity, induced","carcinogenesis, induced",32420483,Citrate_synt,,,,
+ACLY,Acly,K540-ub,59144800,FTGDHKQkFYWGHKE,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",27664236,CoA_binding,,,,
+ACLY,Acly,K554-ac,4131806,EILIPVFkNMADAMR,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced",23932781; 31197036,CoA_binding,"inhibits ubiquitination, high glucose decreases interaction",UBR4,Ubr4,INDUCES
+ACLY,Acly,K540-ac,31068004,FTGDHKQkFYWGHKE,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced",23932781; 31197036,CoA_binding,"inhibits ubiquitination, high glucose decreases interaction",UBR4,Ubr4,INDUCES
+ACLY,Acly,Y682-p,450360,SRTTDGVyEGVAIGG,"acetylation; enzymatic activity, induced","carcinogenesis, induced",32420483,Ligase_CoA,,,,
+ACLY,Acly,T447-p,455371,NASGSTStPAPSRTA,,signaling pathway regulation,26039450,,IGF1/AKT/ACL/cardiolipin/ATP pathway,,,
+ACLY,Acly,K554-ub,59144801,EILIPVFkNMADAMR,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",27664236,CoA_binding,,,,
+ACLY,Acly,S451-p,455372,STSTPAPsRTASFSE,,signaling pathway regulation,26039450,,IGF1/AKT/ACL/cardiolipin/ATP pathway,,,
+ACLY,Acly,K86-ac,11323415,DGVKSWLkPRLGQEA,"protein degradation; molecular association, regulation","cell growth, altered",36241648,,,ARHGEF3,Arhgef3,INDUCES
+ACLY,Acly,Y252-p,462909,EAYPEEAyIADLDAK,"acetylation; enzymatic activity, induced","carcinogenesis, induced",32420483,Citrate_bind,,,,
+ACLY,Acly,K546-ac,11323411,QKFYWGHkEILIPVF,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced",23932781; 31197036,CoA_binding,"inhibits ubiquitination, high glucose decreases interaction",UBR4,Ubr4,INDUCES
+ACLY,Acly,S455-p,448631,PAPSRTAsFSESRAD,,"carcinogenesis, induced; signaling pathway regulation",26039450; 36269753,,,,,
+ACLY,Acly,K546-ub,12107257,QKFYWGHkEILIPVF,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",27664236,CoA_binding,,,,
+ACLY,Acly,Y227-p,1868989000,KVDATADyICKVKWG,"acetylation; enzymatic activity, induced","carcinogenesis, induced",32420483,,,,,

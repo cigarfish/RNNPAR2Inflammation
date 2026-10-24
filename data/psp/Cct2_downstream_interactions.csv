@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCT2,Cct2,S260-p,472352,GSRVRVDsTAKVAEI,,"cell growth, altered",19332537,Cpn60_TCP1,regulates cell proliferation,,,

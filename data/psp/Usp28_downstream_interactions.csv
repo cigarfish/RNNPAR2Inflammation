@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP28,Usp28,S714-p,467253,ESSTNSSsQDYSTSQ,"molecular association, regulation; ubiquitination; enzymatic activity, induced","carcinogenesis, induced; DNA repair, induced; apoptosis, altered",16901786; 31938050; 34611298,,induces substrate  deubiquitination,KLHL2,Klhl2,DISRUPTS
+USP28,Usp28,S495-p,11952927,STSTESSsQDVESTF,"molecular association, regulation",,31938050,UCH,"ATM mediated phosphorylation disrupts inteaction, destabilizing UCK1",KLHL2,Klhl2,DISRUPTS
+USP28,Usp28,S67-p,467252,DERVKEPsQDTVATE,"molecular association, regulation; ubiquitination; enzymatic activity, induced","carcinogenesis, induced; DNA repair, induced; apoptosis, altered",16901786; 31938050; 34611298,,induces substrate  deubiquitination,KLHL2,Klhl2,DISRUPTS
+USP28,Usp28,K99-sm,36692602,IDLTHDNkDDLQAAI,"enzymatic activity, inhibited",,25359778,,,,,

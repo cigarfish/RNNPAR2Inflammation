@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAL1,Tal1,T90-p,457536,EARHRVPtTELCRPP,"protein degradation; molecular association, regulation; ubiquitination","translation, induced",15930267; 19406989,,,CHIP,Stub1,INDUCES
+TAL1,Tal1,S172-p,4704529,NRVKRRPsPYEMEIT,"molecular association, regulation","transcription, induced",22310283,,,LSD1,Kdm1a,DISRUPTS
+TAL1,Tal1,S122-p,450663,DGRMVQLsPPALAAP,protein degradation,,11904294,,,,,

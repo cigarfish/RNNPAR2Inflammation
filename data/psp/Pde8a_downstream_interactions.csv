@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE8A,Pde8a,S359-p,18261095,HKDRRKGsLDVKAVA,"molecular association, regulation; enzymatic activity, induced",signaling pathway regulation,22673573; 38325743,,"cAMP/PKA/CREB pathway, MAPK pathway",14-3-3 zeta,Ywhaz,INDUCES

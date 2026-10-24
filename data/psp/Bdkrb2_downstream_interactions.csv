@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BDKRB2,Bdkrb2,Y177-p,457134,GVRWAKLySLVIWGC,"activity, induced; phosphorylation",,16226010,7tm_1; TM, this increases ERK activation when stimulated with EGF+isoproterenol+bradykinin as compared to the WT BKR2.; Mutation of both tyrosines to phenylalanines prevents Gi protein-mediated cAMP accumulation induced by bradykinin,,,
+BDKRB2,Bdkrb2,S373-p,447664,SMGTLRTsISVERQI,"receptor desensitization, altered",,11517230,,,,,
+BDKRB2,Bdkrb2,Y347-p,452100,RKKSWEVyQGVCQKG,"activity, induced; phosphorylation",,16226010,, this increases ERK activation when stimulated with EGF+isoproterenol+bradykinin as compared to the WT BKR2.; Mutation of both tyrosines to phenylalanines prevents Gi protein-mediated cAMP accumulation induced by bradykinin,,,
+BDKRB2,Bdkrb2,Y332-p,451672,SCLNPLVyVIVGKRF,"molecular association, regulation; receptor internalization, altered; intracellular localization",,15161928,7tm_1; TM,,,,

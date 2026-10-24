@@ -1,0 +1,4 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc1	ENTITYB_Loc2	ENTITYB_phospho	EFFECT	SCORE
+NOTCH	Numb	membrane	0	Notch1	membrane	endosome	1	carry	0.999
+NOTCH	Numb	membrane	0	Notch3	membrane	endosome	1	carry	0.999
+NOTCH	Numb	membrane	0	Notch4	membrane	endosome	1	carry	0.999

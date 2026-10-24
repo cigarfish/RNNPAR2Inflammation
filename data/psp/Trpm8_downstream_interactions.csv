@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPM8,Trpm8,K423-ub,1881122800,FSTSEQDkDNWNGQL,ubiquitination; intracellular localization,,33037615,,"reduces TRPM8 on cell surface, and reduces channel currents",,,
+TRPM8,Trpm8,T17-p,12570902,MRNRRNDtLDSTRTL,"activity, induced",,20110357,,,,,
+TRPM8,Trpm8,S1041-p,34360658,KEKNMESsVCCFKNE,"receptor desensitization, inhibited",,32290846,,,,,
+TRPM8,Trpm8,S1040-p,34360655,CKEKNMEsSVCCFKN,"receptor desensitization, inhibited",,32290846,,,,,
+TRPM8,Trpm8,S9-p,12570903,SFRAARLsMRNRRND,"activity, induced",,20110357,,,,,

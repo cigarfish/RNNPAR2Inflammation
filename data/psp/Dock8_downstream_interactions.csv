@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOCK8,Dock8,S2087-p,4041179,RDSFHRSsFRKCETQ,"molecular association, regulation","cell motility, induced",28028151,,,LRCH1,Lrch1,DISRUPTS
+DOCK8,Dock8,S2082-p,3929310,VESQKRDsFHRSSFR,"molecular association, regulation","cell motility, induced",28028151,,,LRCH1,Lrch1,DISRUPTS
+DOCK8,Dock8,S2077-p,3929061,KPIFRVEsQKRDSFH,"molecular association, regulation","cell motility, induced",28028151,,,LRCH1,Lrch1,DISRUPTS

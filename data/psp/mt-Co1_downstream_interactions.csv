@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MT-CO1,mt-Co1,K319-ac,1879877104,IAIPTGVkVFSWLAT,,"apoptosis, induced",31647884,,mutant sites were found to significantly suppressed the AAPH-evoked increase in both ROS level and apoptosis,,,
+MT-CO1,mt-Co1,K481-ac,1879877106,EAFASKRkVLMVEEP,,"apoptosis, induced",31647884,,mutant sites were found to significantly suppressed the AAPH-evoked increase in both ROS level and apoptosis,,,
+MT-CO1,mt-Co1,K264-ac,1879877107,IVTYYSGkKEPFGYM,,"apoptosis, induced",31647884,,mutant sites were found to significantly suppressed the AAPH-evoked increase in both ROS level and apoptosis,,,
+MT-CO1,mt-Co1,K13-ac,1879877105,WLFSTNHkDIGTLYL,,"apoptosis, induced",31647884,,mutant sites were found to significantly suppressed the AAPH-evoked increase in both ROS level and apoptosis,,,

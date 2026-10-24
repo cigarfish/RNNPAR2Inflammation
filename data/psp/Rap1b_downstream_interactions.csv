@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAP1B,Rap1b,S179-p,451799,PGKARKKsSCQLL__,"activity, induced; molecular association, regulation; protein conformation",,19651783; 27760305,,inhibits the prenylation of Rap1B,RAP1GDS1,Rap1gds1,DISRUPTS
+RAP1B,Rap1b,S180-p,22689703,GKARKKSsCQLL___,"molecular association, regulation",,27760305,,inhibits the prenylation of Rap1B,RAP1GDS1,Rap1gds1,DISRUPTS
+RAP1B,Rap1b,K31-ub,3885122,VQGIFVEkYDPTIED,"molecular association, regulation",,37946677,Ras,maintains endothelial junctional integrity by regulating ROS activity,Afadin,Mllt4,INDUCES
+RAP1B,Rap1b,K31-ub,3885122,VQGIFVEkYDPTIED,"molecular association, regulation",,37946677,Ras,maintains endothelial junctional integrity by regulating ROS activity,talin 1,Tln1,DISRUPTS
+RAP1B,Rap1b,K31-ub,3885122,VQGIFVEkYDPTIED,"molecular association, regulation",,37946677,Ras,maintains endothelial junctional integrity by regulating ROS activity,RASIP1,Rasip1,INDUCES

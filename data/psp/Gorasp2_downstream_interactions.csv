@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GORASP2,Gorasp2,S189-p,31949801,SAWGGEGsLGCGIGY,protein conformation,,24505136,GRASP55_65,inhibits tethering,,,
+GORASP2,Gorasp2,K50-ac,33349525,INGSRLNkDNDTLKD,"molecular association, regulation",,31604796,,"Golgi fragmentation, K50 deacetylation is required for post-mitotic Golgi structure formation, GRASP55 deacetylation facilitates self-interaction",GRASP55,Gorasp2,DISRUPTS

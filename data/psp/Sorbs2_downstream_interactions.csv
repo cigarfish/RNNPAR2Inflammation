@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SORBS2,Sorbs2,S259-p,467482,DFRKRRKsEPAVGPP,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25429109,, ArgBP2 is down-regulated in some aggressively metastatic cancers,14-3-3 zeta,Ywhaz,INDUCES
+SORBS2,Sorbs2,S259-p,467482,DFRKRRKsEPAVGPP,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25429109,, ArgBP2 is down-regulated in some aggressively metastatic cancers,ACTN1,Actn1,DISRUPTS
+SORBS2,Sorbs2,Y573-p,11057708,NTKGAEDyPDPPIPH,protein conformation,,24475245,,reduced self-interaction,,,
+SORBS2,Sorbs2,Y175-p,7783536,YTYNAGLyNPPYSAQ,protein conformation,,24475245,,reduced self-interaction,,,
+SORBS2,Sorbs2,Y50-p,31834902,AVSPMSYyQRPFSPS,protein conformation,,24475245,,reduced self-interaction,,,
+SORBS2,Sorbs2,Y59-p,31834901,RPFSPSAySLPASLN,protein conformation,,24475245,,reduced self-interaction,,,
+SORBS2,Sorbs2,Y164-p,23083166,PDDDTDMyNTPYTYN,protein conformation,,24475245,,reduced self-interaction,,,

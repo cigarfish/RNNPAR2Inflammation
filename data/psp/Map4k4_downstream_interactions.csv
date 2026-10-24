@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP4K4,Map4k4,T191-p,7320315,RRNTFIGtPYWMAPE,"activity, induced; enzymatic activity, inhibited; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; cell adhesion, induced; signaling pathway regulation",12612079; 31792377,Pkinase,pLATS1 at T1079; mostly blocked invasive response; Hippo pathway,,,
+MAP4K4,Map4k4,T187-p,480118,RTVGRRNtFIGTPYW,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; cell adhesion, inhibited",12612079,Pkinase,increased networks of invading cells ,,,

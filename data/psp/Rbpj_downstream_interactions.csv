@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBPJ,Rbpj,K175-ub,41493905,SKKKQSLkNADLCIA,,"chromatin organization, altered; transcription, induced",36129980,LAG1-DNAbind,positively regulates Notch signaling,,,
+RBPJ,Rbpj,T339-p,23298201,STDKAEYtFYEGMGP,protein degradation; ubiquitination,,22302987,,,,,
+RBPJ,Rbpj,K315-ub,15496768,FQATPCPkEPNKEMI,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; transcription, induced; cell motility, inhibited",30254149,BTD,,,,

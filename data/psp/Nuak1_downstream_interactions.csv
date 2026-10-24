@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUAK1,Nuak1,S476-p,33406502,KKTQQREsGYYSSPE,"molecular association, regulation",cell cycle regulation,24785407,,,BRD8,Brd8,INDUCES
+NUAK1,Nuak1,T211-p,456032,QKDKFLQtFCGSPLY,"enzymatic activity, induced","cell cycle regulation; cell growth, inhibited; cell growth, altered",16488889; 19927127; 21317932,Pkinase,,,,
+NUAK1,Nuak1,S600-p,448726,PARQRIRsCVSAENF,"activity, induced","cell motility, altered",12409306; 15060171,,,,,
+NUAK1,Nuak1,S480-p,33406501,QRESGYYsSPERSES,"molecular association, regulation",cell cycle regulation,24785407,,,BRD8,Brd8,INDUCES

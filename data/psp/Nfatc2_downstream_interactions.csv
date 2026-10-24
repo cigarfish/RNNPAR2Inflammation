@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NFATC2,Nfatc2,S79-p,628303302,YSPLASLsGEPPGRF,"molecular association, regulation; intracellular localization","transcription, induced",29357353,,"nuclear translocation, TCR-mediated IL-2 and TNF-alpha production",PPP3CA,Ppp3ca,INDUCES

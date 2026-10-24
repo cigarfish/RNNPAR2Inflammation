@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SF3B1,Sf3b1,T244-p,455541,GRAKGSEtPGATPGS,"molecular association, regulation",,12105215,,,NIPP-1,Ppp1r8,INDUCES
+SF3B1,Sf3b1,T248-p,455542,GSETPGAtPGSKIWD,"molecular association, regulation",,12105215,,,NIPP-1,Ppp1r8,INDUCES
+SF3B1,Sf3b1,T313-p,449360,HGSGWAEtPRTDRGG,"molecular association, regulation",signaling pathway regulation,12105215; 36654851; 39642884,,DYRK1A/MyD88/IRAK/NF-kB signaling,NIPP-1,Ppp1r8,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP7,Usp7,S18-p,449238,KAGEQQLsEPEDMEM,"protein stabilization; enzymatic activity, induced","cell cycle regulation; DNA repair, inhibited; signaling pathway regulation",22361354; 28418900,,"inhibits ubiquitination and induces stability of itself and mdm2 and induces degradation of p53, regulates DNA damage signal transduction pathway",,,

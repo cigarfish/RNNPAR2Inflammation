@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUP153,Nup153,T388-p,3191107,VYFKPSLtPSGEFRK,"molecular association, regulation",,19767751,Nup153,,KPNB1,Kpnb1,DISRUPTS
+NUP153,Nup153,S529-p,452707,SPMFKFSsPIVKSTE,"molecular association, regulation",,19767751,Nup153,,KPNB1,Kpnb1,DISRUPTS

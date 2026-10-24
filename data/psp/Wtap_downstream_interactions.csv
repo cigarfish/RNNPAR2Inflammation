@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WTAP,Wtap,S341-p,3196721,AGYESVDsPTGSENS,protein stabilization,"carcinogenesis, induced; cell differentiation, induced",33217317; 34312368,,,,,
+WTAP,Wtap,T148-p,36131377,ELSAWKFtPDSQTGK,,"cell differentiation, induced",33217317,Wtap,,,,
+WTAP,Wtap,S306-p,453808,TEDDFPSsPGNGNKS,,"cell differentiation, induced",33217317,,,,,

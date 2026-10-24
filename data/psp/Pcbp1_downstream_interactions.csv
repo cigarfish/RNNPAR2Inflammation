@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCBP1,Pcbp1,T127-p,478359,IKEIREStGAQVQVA,"molecular association, regulation; intracellular localization","RNA splicing, induced; transcription, induced; translation, induced; signaling pathway regulation",17389360,KH_1,PKA-hnRNPE1 pathway,,,
+PCBP1,Pcbp1,T60-p,478358,NCPERIItLTGPTNA,"molecular association, regulation; intracellular localization","RNA splicing, induced; transcription, induced; translation, induced; signaling pathway regulation",17389360,KH_1,PKA-hnRNPE1 pathway,,,

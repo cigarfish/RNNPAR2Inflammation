@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CETN2,Cetn2,S170-p,448199,LRIMKKTsLY_____,"molecular association, regulation; protein stabilization; protein conformation","cell cycle regulation; cell growth, altered",11279195; 21731694; 31202846,,centrosome amplification,XPC,Xpc,DISRUPTS
+CETN2,Cetn2,T118-p,28735101,KLFDDDEtGKISFKN,intracellular localization,,23844208,EF-hand_7,"localization to the centrosome, capacity to form linear structures",,,
+CETN2,Cetn2,S158-p,34405001,RDGDGEVsEQEFLRI,"molecular association, regulation",,24918055,EF-hand_7,,XPC,Xpc,DISRUPTS
+CETN2,Cetn2,T138-p,471512,KELGENLtDEELQEM,"molecular association, regulation",,24918055,EF-hand_7,,XPC,Xpc,DISRUPTS

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NFKBIB,Nfkbib,S313-p,452013,EKSGPCSsSSDSDSG,"activity, induced; intracellular localization","transcription, inhibited; transcription, altered",12732617; 8887627; 9278383,,"Phosphorylation blocks NF-kB-directed transcription.; and in vivo, NFkB/Rel activation ",CCDC32,Ccdc32,INDUCES
+NFKBIB,Nfkbib,S315-p,452014,SGPCSSSsDSDSGDE,"activity, induced; intracellular localization","transcription, inhibited; transcription, altered",12732617; 8887627; 9278383,,"Phosphorylation blocks NF-kB-directed transcription.; and in vivo, NFkB/Rel activation ",CCDC32,Ccdc32,INDUCES
+NFKBIB,Nfkbib,S23-p,447916,WCDSGLGsLGPDAAA,protein degradation,,8657102,,,,,
+NFKBIB,Nfkbib,S19-p,447917,DADEWCDsGLGSLGP,protein degradation,,8657102,,,,,

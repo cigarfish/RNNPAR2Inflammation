@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LAIR1,Lair1,Y281-p,449313,PMAESITyAAVARH_,"molecular association, regulation",,10764762,,,SHP-1,Ptpn6,INDUCES
+LAIR1,Lair1,Y251-p,449020,GSSQEVTyAQLDHWA,"molecular association, regulation",signaling pathway regulation,10764762; 31932281,,TCR signaling/suppression of TCR signaling,CSK,Csk,INDUCES
+LAIR1,Lair1,Y251-p,449020,GSSQEVTyAQLDHWA,"molecular association, regulation",signaling pathway regulation,10764762; 31932281,,TCR signaling/suppression of TCR signaling,SHP-1,Ptpn6,INDUCES

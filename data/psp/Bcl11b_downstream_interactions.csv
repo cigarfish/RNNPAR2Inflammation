@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCL11B,Bcl11b,S2-p,55578701,______MsRRKQGNP,"molecular association, regulation","transcription, induced",27161321,,no effect on SUMOylation,MTA3,Mta3,DISRUPTS
+BCL11B,Bcl11b,S2-p,55578701,______MsRRKQGNP,"molecular association, regulation","transcription, induced",27161321,,no effect on SUMOylation,MTA1,Mta1,DISRUPTS

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB3A,Rab3a,T86-p,1885514000,AGQERYRtITTAYYR,"molecular association, regulation",,38512027,,,GDI1,Gdi1,DISRUPTS
+RAB3A,Rab3a,T86-p,1885514000,AGQERYRtITTAYYR,"molecular association, regulation",,38512027,,,RAB3GAP1,Rab3gap1,DISRUPTS
+RAB3A,Rab3a,T86-p,1885514000,AGQERYRtITTAYYR,"molecular association, regulation",,38512027,,,MADD,Madd,DISRUPTS

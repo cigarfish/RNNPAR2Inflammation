@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ASL,Asl,S417-p,1880040200,LQELQTIsPLFSGDV,"molecular association, regulation; methylation; intracellular localization","carcinogenesis, induced; chromatin organization, altered; transcription, induced",36270249,,induces H3K4 methylation,GABPA,Gabpa,INDUCES
+ASL,Asl,K288-ac,27614500,SSLMPQKkNPDSLEL,"enzymatic activity, inhibited",,20167786,Lyase_1,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALDOA,Aldoa,S36-p,455261,GILAADEsTGSIAKR,,"carcinogenesis, induced; cell growth, induced",31585088,Glycolytic,,,,
+ALDOA,Aldoa,K13-ac,466408,PALTPEQkKELSDIA,"intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",36209516,,increased glycolysis which leading to tumor development and metastasis ,,,

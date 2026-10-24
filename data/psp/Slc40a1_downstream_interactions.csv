@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC40A1,Slc40a1,Y302-p,25589103,FRDGWVSyYNQPVFL,"receptor internalization, inhibited",,22682226,FPN1; TM,regulates internalization partially but not hepcidin mediated internalization,,,
+SLC40A1,Slc40a1,Y538-p,25589100,VAMGHIMyFRFAQNT,"receptor internalization, inhibited",,22682226,TM,regulates internalization partially but not hepcidin mediated internalization,,,
+SLC40A1,Slc40a1,Y303-p,25589101,RDGWVSYyNQPVFLA,"receptor internalization, inhibited",,22682226,FPN1; TM,regulates internalization partially but not hepcidin mediated internalization,,,
+SLC40A1,Slc40a1,K240-sm,1881493600,LAVKAGLkEEETELK,sumoylation; ubiquitination; intracellular localization,,33490642,,"Sumoylation of K240E mutation impedes Fpn trafficking and is diffused throughout the cytoplasm, and affects iron homeostasis.",,,
+SLC40A1,Slc40a1,Y20-p,25589102,CCGSLADyLTSAKFL,"receptor internalization, inhibited",,22682226,TM,regulates internalization partially but not hepcidin mediated internalization,,,

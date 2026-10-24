@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBBP5,Rbbp5,S350-p,6747300,VEYEEREsEFDIEDE,"molecular association, regulation",,25593305,, increases the catalytic activity of MLL3,ASH2L,Ash2l,INDUCES

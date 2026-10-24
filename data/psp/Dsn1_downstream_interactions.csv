@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DSN1,Dsn1,S77-p,3212370,QERLQSKsLHLSPQE,intracellular localization,,25660545,,localization to G1 and G2 kinetochores,,,
+DSN1,Dsn1,S109-p,3595501,KETNRRKsLHPIHQG,"molecular association, regulation; intracellular localization; protein conformation",cell cycle regulation,18640974; 25601404; 27881301; 32027339; 34758321; 38459127,MIS13,,MIS12,Mis12,INDUCES
+DSN1,Dsn1,S109-p,3595501,KETNRRKsLHPIHQG,"molecular association, regulation; intracellular localization; protein conformation",cell cycle regulation,18640974; 25601404; 27881301; 32027339; 34758321; 38459127,MIS13,,CENPC1,Cenpc1,INDUCES
+DSN1,Dsn1,S331-p,10800768,SMQQLDPsPARKLLK,"molecular association, regulation",,30420662,MIS13,"Fluorescence polarization, decreased affinity of the interaction",SPC25,Spc25,DISRUPTS
+DSN1,Dsn1,S331-p,10800768,SMQQLDPsPARKLLK,"molecular association, regulation",,30420662,MIS13,"Fluorescence polarization, decreased affinity of the interaction",SPBC24,Spc24,DISRUPTS
+DSN1,Dsn1,S28-p,460419,HDHQLESsLSPVEVF,intracellular localization,,25660545,,localization to G1 and G2 kinetochores,,,
+DSN1,Dsn1,S100-p,480153,RQSWRRAsMKETNRR,"molecular association, regulation; intracellular localization; protein conformation",,18640974; 25601404; 25660545; 27881301; 34758321; 38459127,MIS13,,MIS12,Mis12,INDUCES
+DSN1,Dsn1,S100-p,480153,RQSWRRAsMKETNRR,"molecular association, regulation; intracellular localization; protein conformation",,18640974; 25601404; 25660545; 27881301; 34758321; 38459127,MIS13,,CENPC1,Cenpc1,INDUCES

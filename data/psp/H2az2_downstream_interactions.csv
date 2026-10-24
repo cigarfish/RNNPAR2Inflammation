@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+H2AZ2,H2az2,K7-ac,480255,_AGGKAGkDSGKAKA,"molecular association, regulation","transcription, induced",32356653,Histone,"K7ac preferentially engaging the binding site, acetylation at K7ac and K13ac is also the highest-affinity acetylation pattern of isoform I",FALZ,Ahnak,INDUCES
+H2AZ2,H2az2,K4-ub,52485007,____AGGkAGKDSGK,protein degradation,,26676607,Histone,,,,
+H2AZ2,H2az2,K13-ac,482540,GKDSGKAkAKAVSRS,"molecular association, regulation","transcription, induced",32356653,Histone,"K7ac preferentially engaging the binding site, acetylation at K7ac and K13ac is also the highest-affinity acetylation pattern of isoform I",FALZ,Ahnak,INDUCES

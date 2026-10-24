@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CXCR2,Cxcr2,S353-p,451049,PSFVGSSsGHTSTTL,"protein degradation; receptor desensitization, altered; receptor internalization, altered",,9079638,,,,,
+CXCR2,Cxcr2,S347-p,451046,LPKDSRPsFVGSSSG,"protein degradation; receptor desensitization, altered; receptor internalization, altered",,9079638,,,,,
+CXCR2,Cxcr2,S351-p,451047,SRPSFVGsSSGHTST,"protein degradation; receptor desensitization, altered; receptor internalization, altered",,9079638,,,,,
+CXCR2,Cxcr2,S352-p,451048,RPSFVGSsSGHTSTT,"protein degradation; receptor desensitization, altered; receptor internalization, altered",,9079638,,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP33,Arhgap33,Y1169-p,476790,PTPPEPLyVNLALGP,"molecular association, regulation; phosphorylation","cell growth, induced; cell differentiation, induced; transcription, induced; signaling pathway regulation",17664338,,"ERK5 MAP kinase pathway regulation,Cdc42/PAK signaling pathway, regulates phosphorylation of ERK5 and PAK",SHP-2,Ptpn11,INDUCES
+ARHGAP33,Arhgap33,Y406-p,465993,PLLTYQLyGKFSEAM,"activity, inhibited","cell growth, altered",16777849,RhoGAP,,,,

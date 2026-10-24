@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXO4,Fbxo4,S12-p,453026,EPRSGTNsPPPPFSD,"molecular association, regulation; ubiquitination; enzymatic activity, induced",,18598945; 21242966,,FBX4 dimerization ; promotes cyclin D1 degradation and inhibits oncogenic transformation,FBXO4,Fbxo4,INDUCES
+FBXO4,Fbxo4,S12-p,453026,EPRSGTNsPPPPFSD,"molecular association, regulation; ubiquitination; enzymatic activity, induced",,18598945; 21242966,,FBX4 dimerization ; promotes cyclin D1 degradation and inhibits oncogenic transformation,14-3-3 epsilon,Ywhae,INDUCES

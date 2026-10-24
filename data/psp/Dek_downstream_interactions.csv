@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DEK,Dek,S32-p,465616,MPGPREEsEEEEDED,"molecular association, regulation","RNA splicing, altered",16809543,,,U2AF1,U2af1,INDUCES
+DEK,Dek,T15-p,36122127,AEGEGTPtQPASEKE,"protein degradation; molecular association, regulation","RNA splicing, induced",21282377,,regulates tropomyosin alternative splicing,FBXW7,Fbxw7,INDUCES
+DEK,Dek,T67-p,27777400,KKKVERLtMQVSSLQ,"protein degradation; molecular association, regulation","RNA splicing, induced",21282377,,regulates tropomyosin alternative splicing,FBXW7,Fbxw7,INDUCES
+DEK,Dek,S19-p,465615,GTPTQPAsEKEPEMP,"molecular association, regulation","RNA splicing, altered",16809543,,,U2AF1,U2af1,INDUCES

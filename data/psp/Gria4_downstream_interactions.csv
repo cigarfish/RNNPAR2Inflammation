@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRIA4,Gria4,S862-p,448810,IRNKARLsITGSVGE,"molecular association, regulation",,16190873,,"Phosphorylation alters GluR4 binding to alpha-actinin in vitro and in vivo, but has no affect on IQGAP1 binding.",ACTN1,Actn1,DISRUPTS

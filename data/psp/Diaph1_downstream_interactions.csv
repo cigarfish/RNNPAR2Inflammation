@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DIAPH1,Diaph1,T768-p,3946102,PVLPFGLtPKKLYKP,"protein degradation; molecular association, regulation",,23325789,,induces sumoylation;  modulates mitochondrial movement,KIF1A,Kif1a,INDUCES
+DIAPH1,Diaph1,T768-p,3946102,PVLPFGLtPKKLYKP,"protein degradation; molecular association, regulation",,23325789,,induces sumoylation;  modulates mitochondrial movement,ACTB,Actb,INDUCES

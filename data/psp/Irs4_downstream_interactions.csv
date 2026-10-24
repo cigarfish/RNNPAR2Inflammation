@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRS4,Irs4,Y828-p,456293,GQNDNSEyVPMLPGK,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",35550247,,,,,
+IRS4,Irs4,S859-p,36276295,KDAASKPsGEGSFSK,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, altered; cell growth, inhibited; signaling pathway regulation",30026872,,,CHIP,Stub1,INDUCES
+IRS4,Irs4,Y847-p,1877150802,GLDKEVSyNWDPKDA,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",35550247,,,EBNA1BP2,Ebna1bp2,INDUCES
+IRS4,Irs4,Y921-p,456294,EADSSSDyVNMDFTK,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",15316024; 35550247,,,GRB2,Grb2,INDUCES
+IRS4,Irs4,Y921-p,456294,EADSSSDyVNMDFTK,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",15316024; 35550247,,,PLCG1,Plcg1,INDUCES
+IRS4,Irs4,Y921-p,456294,EADSSSDyVNMDFTK,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",15316024; 35550247,,,EBNA1BP2,Ebna1bp2,INDUCES
+IRS4,Irs4,Y921-p,456294,EADSSSDyVNMDFTK,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",15316024; 35550247,,,PIK3R1,Pik3r1,INDUCES
+IRS4,Irs4,Y656-p,1877150800,SGGRFRLyFCVDRGA,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",35550247,,,,,
+IRS4,Irs4,Y779-p,10781335,DNDSESDyMFMAPGA,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced; signaling pathway regulation",35550247,,induces the PI3K-AKT signaling pathway,EBNA1BP2,Ebna1bp2,INDUCES
+IRS4,Irs4,Y779-p,10781335,DNDSESDyMFMAPGA,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced; signaling pathway regulation",35550247,,induces the PI3K-AKT signaling pathway,PIK3R2,Pik3r2,INDUCES

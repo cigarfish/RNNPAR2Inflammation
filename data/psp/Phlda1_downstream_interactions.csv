@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHLDA1,Phlda1,S95-p,22459800,PLCLLRVsLLCALRA,protein degradation; intracellular localization,"carcinogenesis, induced; cell motility, induced; apoptosis, induced",21807936,, ; S95A mutant promotes Aurora A degradation and ubiquitylation,,,

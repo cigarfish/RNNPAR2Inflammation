@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RASGRF1,Rasgrf1,S927-p,448487,KEKYRRMsLASAGFP,"activity, induced",,10601308,,necessary but not sufficient for RasGRF1 activation,,,

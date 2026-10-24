@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBM10,Rbm10,S89-p,4033099,RRRRHRHsPTGPPGF,"molecular association, regulation","carcinogenesis, induced; RNA splicing, altered; cell growth, induced; RNA stability, induced",37334492,,,,,
+RBM10,Rbm10,Y81-p,7366800,RGDRTGRyGATDRSQ,"molecular association, regulation; intracellular localization","transcription, induced",38309577,," ; induces 3' end maturation, regulates anti-hypetrophy function",RBM21,Rbm21,INDUCES
+RBM10,Rbm10,Y500-p,473480,SEEPPVDySYYQQDE,"molecular association, regulation; intracellular localization","transcription, induced",38309577,," ; induces 3' end maturation, regulates anti-hypetrophy function",RBM21,Rbm21,INDUCES
+RBM10,Rbm10,Y971-p,7326503,LGARGSSyGVTSTES,"molecular association, regulation; intracellular localization","transcription, induced",38309577,," ; induces 3' end maturation, regulates anti-hypetrophy function",RBM21,Rbm21,INDUCES

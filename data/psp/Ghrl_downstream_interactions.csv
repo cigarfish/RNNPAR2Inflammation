@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GHRL,Ghrl,S41-p,2235100,RVQQRKEsKKPPAKL,intracellular localization; protein conformation,,18343535,Motilin_ghrelin,disrupts ghrelin structure and its binding to membranes,,,

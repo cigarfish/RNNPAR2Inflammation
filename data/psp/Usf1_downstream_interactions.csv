@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USF1,Usf1,T153-p,463815,EALLGQAtPPGTGQF,"activity, induced; acetylation","transcription, induced; transcription, inhibited",11532965; 16622840; 19389701; 21873430,,,,,
+USF1,Usf1,S309-p,40515061,EVVIKNDsN______,"molecular association, regulation","transcription, inhibited",36534975,,,,,
+USF1,Usf1,S186-p,15428820,APRTHPYsPKSEAPR,"activity, induced",,21873430,,,,,
+USF1,Usf1,K199-ac,7652100,PRTTRDEkRRAQHNE,"molecular association, regulation","transcription, inhibited",19389701,,,,,
+USF1,Usf1,S262-p,7367003,RQSNHRLsEELQGLD,"molecular association, regulation; acetylation",,23219531,,increases acetylation at USF1-K235,,,
+USF1,Usf1,K235-ac,7378203,DCSMESTkSGQSKGG,"molecular association, regulation; intracellular localization","transcription, induced",23219531,HLH,K235 acetylation induces recruitment of SMARCD3 to the promoters of lipogenic genes,SMARCD3,Smarcd3,INDUCES

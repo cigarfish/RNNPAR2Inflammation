@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK5,Cdk5,S47-p,1255792403,DDEGVPSsALREICL,"molecular association, regulation; enzymatic activity, inhibited","cell growth, induced; cell motility, inhibited",30217452,Pkinase,,CDK5R1,Cdk5r1,DISRUPTS
+CDK5,Cdk5,S159-p,448021,GIPVRCYsAEVVTLW,"enzymatic activity, induced",,10500146,Pkinase,Cdk5 is activated after phosphorylation by CK1 in vitro. ,,,
+CDK5,Cdk5,K33-ac,479772,THEIVALkRVRLDDD,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","cell growth, inhibited; transcription, inhibited",30209341; 38024857,Pkinase,pracinostat induces mitofission-associated cell death (MFAD) by inducing K33 acetylation; inhibits ATP binding,,,
+CDK5,Cdk5,Y15-p,448022,EKIGEGTyGTVFKAK,phosphorylation,,20516069,Pkinase,induces phosphorylation of its substrate STAT3,,,
+CDK5,Cdk5,T77-p,900975700,LHSDKKLtLVFEFCD,"enzymatic activity, inhibited",,29511352,Pkinase,,,,
+CDK5,Cdk5,S46-p,7445712,DDDEGVPsSALREIC,"molecular association, regulation",,39537807,Pkinase,,CCNB1,Ccnb1,DISRUPTS

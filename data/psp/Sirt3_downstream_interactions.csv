@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIRT3,Sirt3,T150-p,41655507,MVGAGIStPSGIPDF,"enzymatic activity, induced","apoptosis, inhibited",26141949,SIR2,,,,
+SIRT3,Sirt3,Y226-p,1881476100,KGLLLRLyTQNIDGL,"enzymatic activity, inhibited",,34289383,,,,,
+SIRT3,Sirt3,S159-p,41655506,SGIPDFRsPGSGLYS,"enzymatic activity, induced","apoptosis, inhibited",26141949,SIR2,,,,

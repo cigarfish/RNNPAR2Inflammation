@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STX17,Stx17,S202-p,102898200,SQQEKIDsIADHVNS,intracellular localization,"autophagy, induced",30827897,SNARE,assembly of ULK1-ATG13-FIP200 complexes; Localizes to the Golgi;  colocalization and association with LC3,ATG101,Atg101,INDUCES
+STX17,Stx17,S202-p,102898200,SQQEKIDsIADHVNS,intracellular localization,"autophagy, induced",30827897,SNARE,assembly of ULK1-ATG13-FIP200 complexes; Localizes to the Golgi;  colocalization and association with LC3,RB1CC1,Rb1cc1,INDUCES
+STX17,Stx17,S2-p,50800659,______MsEDEEKVK,"molecular association, regulation","autophagy, inhibited; signaling pathway regulation",30655294,,,VPS33A,Vps33a,INDUCES
+STX17,Stx17,S2-p,50800659,______MsEDEEKVK,"molecular association, regulation","autophagy, inhibited; signaling pathway regulation",30655294,,,VAMP7,Vamp7,DISRUPTS
+STX17,Stx17,S2-p,50800659,______MsEDEEKVK,"molecular association, regulation","autophagy, inhibited; signaling pathway regulation",30655294,,,SNAP29,Snap29,DISRUPTS
+STX17,Stx17,Y157-p,479165,SQSLTQIyALPEIPQ,"molecular association, regulation",,23006999,,regulates STX17 dependent membrane trafficking,COPB1,Copb1,DISRUPTS
+STX17,Stx17,S289-p,4774791,MMEKLTSsCPDLPSQ,"molecular association, regulation; intracellular localization","autophagy, induced",37389864,,,FLNA,Flna,INDUCES

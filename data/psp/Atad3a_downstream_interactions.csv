@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATAD3A,Atad3a,K135-ac,11322823,ARAQYQDkLARQRYE,"molecular association, regulation; activity, inhibited",,30914652,ATAD3_N,dimerization of ATAD3A is promoted by deacetylation of ATAD3A and Drp1-mediated mitochondrial fragmentation,ATAD3A,Atad3a,DISRUPTS

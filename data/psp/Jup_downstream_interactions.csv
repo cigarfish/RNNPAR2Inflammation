@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+JUP,Jup,Y550-p,456972,AAGTQQPyTDGVRME,"molecular association, regulation","transcription, induced",14517306,,,Desmoplakin,Dsp,DISRUPTS
+JUP,Jup,Y550-p,456972,AAGTQQPyTDGVRME,"molecular association, regulation","transcription, induced",14517306,,,CTNNA1,Ctnna1,INDUCES
+JUP,Jup,K57-ub,27186532,GRQYTLKkTTTYTQG,intracellular localization,"carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited; signaling pathway regulation",37409971,,"inhibits the MYC signaling pathway, inhibits gastric cancer progression, inhibits tumor growth",,,
+JUP,Jup,Y133-p,456971,AIVHLINyQDDAELA,"molecular association, regulation","transcription, induced",14517306,,,TCF4,Tcf4,DISRUPTS
+JUP,Jup,Y133-p,456971,AIVHLINyQDDAELA,"molecular association, regulation","transcription, induced",14517306,,,CTNNA1,Ctnna1,DISRUPTS
+JUP,Jup,Y133-p,456971,AIVHLINyQDDAELA,"molecular association, regulation","transcription, induced",14517306,,,Desmoplakin,Dsp,INDUCES
+JUP,Jup,Y644-p,456973,RNEGTATyAAAVLFR,"molecular association, regulation","transcription, induced",14517306,,,CDH1,Cdh1,DISRUPTS
+JUP,Jup,Y644-p,456973,RNEGTATyAAAVLFR,"molecular association, regulation","transcription, induced",14517306,,,CTNNA1,Ctnna1,DISRUPTS
+JUP,Jup,Y644-p,456973,RNEGTATyAAAVLFR,"molecular association, regulation","transcription, induced",14517306,,,Desmoplakin,Dsp,INDUCES
+JUP,Jup,S665-p,2048381,PDYRKRVsVELTNSL,,"cell adhesion, induced",32508670,,causes ultrastructural alterations at ICD,,,

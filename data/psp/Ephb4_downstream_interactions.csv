@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPHB4,Ephb4,Y596-p,450855,VYIDPFTyEDPNEAV,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell motility, induced; cell growth, induced; cytoskeletal reorganization",11929761; 16950769; 37507023,EphA2_TM,,RASA1,Rasa1,INDUCES
+EPHB4,Ephb4,Y987-p,451663,TGGPAPQy_______,protein stabilization; protein conformation,"carcinogenesis, induced",31270394,,inhibits ubiquitination,,,
+EPHB4,Ephb4,Y590-p,450854,IGHGTKVyIDPFTYE,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell growth, induced",11929761; 37507023,EphA2_TM,,RASA1,Rasa1,INDUCES

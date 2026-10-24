@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STXBP2,Stxbp2,T572-p,487544,IGSSHILtPTRFLDD,"molecular association, regulation; protein conformation","exocytosis, induced",17716669,Sec1,in vitro,STX3,Stx3,DISRUPTS
+STXBP2,Stxbp2,T572-p,487544,IGSSHILtPTRFLDD,"molecular association, regulation; protein conformation","exocytosis, induced",17716669,Sec1,in vitro,SNAP-25,Snap25,INDUCES

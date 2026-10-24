@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRADD,Tradd,S296-p,20831308,LEENELTsLAEDLLG,"molecular association, regulation","transcription, induced",21724995,Death,,FADD,Fadd,INDUCES
+TRADD,Tradd,S296-p,20831308,LEENELTsLAEDLLG,"molecular association, regulation","transcription, induced",21724995,Death,,TNF-R1,Tnfrsf1a,INDUCES
+TRADD,Tradd,S296-p,20831308,LEENELTsLAEDLLG,"molecular association, regulation","transcription, induced",21724995,Death,,RIP,Rip,INDUCES
+TRADD,Tradd,S215-p,20831309,PVVNRPLsLKDQQTF,"molecular association, regulation","transcription, induced",21724995,,,FADD,Fadd,INDUCES
+TRADD,Tradd,S215-p,20831309,PVVNRPLsLKDQQTF,"molecular association, regulation","transcription, induced",21724995,,,TNF-R1,Tnfrsf1a,INDUCES
+TRADD,Tradd,S215-p,20831309,PVVNRPLsLKDQQTF,"molecular association, regulation","transcription, induced",21724995,,,RIP,Rip,INDUCES

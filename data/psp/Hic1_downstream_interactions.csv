@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HIC1,Hic1,S713-p,1872610000,DKAAEVLsQGAHLAA,,"DNA repair, induced",33756345,,,,,
+HIC1,Hic1,K333-sm,1910102,SLLYRWMkHEPGLGS,"molecular association, regulation","DNA repair, induced; transcription, inhibited",17283066; 20547755; 23417673,,,RBBP4,Rbbp4,INDUCES
+HIC1,Hic1,K333-sm,1910102,SLLYRWMkHEPGLGS,"molecular association, regulation","DNA repair, induced; transcription, inhibited",17283066; 20547755; 23417673,,,MTA1,Mta1,INDUCES
+HIC1,Hic1,K333-ac,1910103,SLLYRWMkHEPGLGS,"molecular association, regulation","transcription, induced; transcription, inhibited",17283066; 20547755; 27725726,,impaired-expression of the HIV-1,TAT,Tat,DISRUPTS
+HIC1,Hic1,K333-ac,1910103,SLLYRWMkHEPGLGS,"molecular association, regulation","transcription, induced; transcription, inhibited",17283066; 20547755; 27725726,,impaired-expression of the HIV-1,MTA1,Mta1,DISRUPTS

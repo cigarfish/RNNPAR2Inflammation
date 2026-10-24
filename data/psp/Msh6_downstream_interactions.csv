@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MSH6,Msh6,K1126-m1,58123204,EEEQENGkAYCVLVT,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES
+MSH6,Msh6,S309-p,4274110,RMVTGNGsLKRKSSR,intracellular localization,"DNA repair, induced",36189922,,,,,

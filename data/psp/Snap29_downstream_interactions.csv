@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNAP29,Snap29,S105-p,56651951,MDQDLKIsQKHINSI,"intracellular localization; receptor recycling, altered","cell adhesion, induced",29454964,V-SNARE_C,focal adhesion structure formation;  membrane localization and for membrane fusion dependent processes,,,

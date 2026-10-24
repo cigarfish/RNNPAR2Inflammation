@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAB2,Dab2,S393-p,483635,QNGFSVKsSPNPFVG,"molecular association, regulation",,21097498,,,CLTA,Clta,INDUCES
+DAB2,Dab2,S394-p,483636,NGFSVKSsPNPFVGS,"molecular association, regulation",,21097498,,,CLTA,Clta,INDUCES
+DAB2,Dab2,S423-p,7320788,LESSVQSsPHDSIAI,intracellular localization,,21097498,,displacement of Dab2 from the membrane,,,
+DAB2,Dab2,T221-p,449256,DLFGDMStPPDLNSP,intracellular localization,,21097498,,displacement of Dab2 from the membrane,,,
+DAB2,Dab2,S723-p,18008467,KPAPRQVsLPVTKST,"molecular association, regulation; intracellular localization",,28876503; 33557943,,,ARHGAP27,Arhgap27,DISRUPTS
+DAB2,Dab2,S24-p,451211,QAAPKAPsKKEKKKG,"molecular association, regulation; intracellular localization","transcription, altered",10542228; 15280374,,N terminius of DAB2 negatively regulated TPA-induced AP-1 activity. ,ITGB3,Itgb3,INDUCES
+DAB2,Dab2,S401-p,452352,SPNPFVGsPPKGLSI,"molecular association, regulation",,21097498,,,CLTA,Clta,INDUCES

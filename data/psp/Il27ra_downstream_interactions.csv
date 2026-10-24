@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL27RA,Il27ra,Y613-p,478855,TAPLDSGyEKHFLPT,"molecular association, regulation","transcription, altered",33871355,,induces STAT1 phosphorylation,STAT1,Stat1,INDUCES

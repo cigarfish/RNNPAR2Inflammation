@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PJA2,Pja2,T389-p,18713701,RVITQREtENNQMTS,"ubiquitination; enzymatic activity, induced",signaling pathway regulation,21423175,,S342A/T389A mutant fails to ubiquitylate PKAR2A in vitro,,,
+PJA2,Pja2,S342-p,18713700,RHEAKQRsVQRWREA,"ubiquitination; enzymatic activity, induced",signaling pathway regulation,21423175,,S342A/T389A mutant fails to ubiquitylate PKAR2A in vitro,,,

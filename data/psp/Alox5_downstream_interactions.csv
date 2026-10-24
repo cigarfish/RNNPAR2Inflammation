@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALOX5,Alox5,S272-p,450169,CSLERQLsLEQEVQQ,"intracellular localization; enzymatic activity, induced",,11844797; 12670876; 16165096; 18978352; 26173130; 28257804,Lipoxygenase,,,,
+ALOX5,Alox5,S524-p,452140,GMRGRKSsGFPKSVK,"intracellular localization; enzymatic activity, inhibited",,15280375; 16230355; 26173130; 28257804,Lipoxygenase,,,,
+ALOX5,Alox5,S664-p,461913,QLPYYYLsPDRIPNS,"enzymatic activity, induced",,12670876; 36682398,,,,,

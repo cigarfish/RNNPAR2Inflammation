@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP7B,Atp7b,S478-p,11267008,APDILAKsPQSTRAV,protein stabilization; intracellular localization,,21189263,,protein trafficking,,,
+ATP7B,Atp7b,S481-p,11267006,ILAKSPQsTRAVAPQ,protein stabilization; intracellular localization,,21189263,,protein trafficking,,,
+ATP7B,Atp7b,S341-p,25786201,SGTDHRSsSSHSPGS,intracellular localization; protein conformation,,22898812,, mutant does not return to TGN in response to copper depletion;  S340/341A mutant shifts ATP7B from trans-Golgi Network (TGN) to vesicles,,,
+ATP7B,Atp7b,S340-p,25786200,GSGTDHRsSSSHSPG,intracellular localization; protein conformation,,22898812,, mutant does not return to TGN in response to copper depletion;  S340/341A mutant shifts ATP7B from trans-Golgi Network (TGN) to vesicles,,,
+ATP7B,Atp7b,S1121-p,11267007,AHSERPLsAPASHLN,protein stabilization; intracellular localization,,21189263,Hydrolase,protein trafficking,,,
+ATP7B,Atp7b,S1453-p,11267005,DDDGDKWsLLLNGRD,protein stabilization; intracellular localization,,21189263,,protein trafficking,,,

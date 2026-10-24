@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UIMC1,Uimc1,K112-ub,573781876,EEEELLRkAIAESLN,"intracellular localization; enzymatic activity, inhibited",,35938958,RAP80_UIM,,,,
+UIMC1,Uimc1,S46-p,470701,AFIVISDsDGEEPKE,"molecular association, regulation",,26719330,,,SUMO2,Sumo2,INDUCES
+UIMC1,Uimc1,S44-p,470700,EDAFIVIsDSDGEEP,"molecular association, regulation",,26719330,,,SUMO2,Sumo2,INDUCES
+UIMC1,Uimc1,S677-p,453731,TRRDLNEsPVKSFVS,,"cell cycle regulation; DNA repair, altered",23264621,,regulates sensitivity to ionizing radiation,,,

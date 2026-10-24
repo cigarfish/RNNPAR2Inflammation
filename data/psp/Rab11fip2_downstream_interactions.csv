@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB11FIP2,Rab11fip2,S227-p,465674,QRLSSAHsMSDLSGS,,"cell differentiation, altered; cytoskeletal reorganization",16775013; 22553350,,"regulates cell polarity, alters the composition of cellular junctions; important for formation of junctional complexes and cell polarity",,,

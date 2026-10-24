@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM33,Trim33,Y1048-p,15406627,MMKVVQVyADTQEIN,"molecular association, regulation; intracellular localization","transcription, induced; signaling pathway regulation",30177833,Bromodomain,regulates TGFB-SMAD2/3 signaling and epithelial to mesenchymal transition ,SMAD3,Smad3,DISRUPTS
+TRIM33,Trim33,Y524-p,15416086,QHMQQQVyAQKHQQL,"molecular association, regulation; intracellular localization","transcription, induced; signaling pathway regulation",30177833,,regulates TGFB-SMAD2/3 signaling and epithelial to mesenchymal transition ,SMAD3,Smad3,DISRUPTS
+TRIM33,Trim33,K5-ub,1885732406,___MAENkGGGEAES,protein degradation; ubiquitination,,37771771,,,,,
+TRIM33,Trim33,Y610-p,25756330,PRHSGPQySMMQPHL,"molecular association, regulation; intracellular localization","transcription, induced; signaling pathway regulation",30177833,,regulates TGFB-SMAD2/3 signaling and epithelial to mesenchymal transition ,SMAD3,Smad3,DISRUPTS

@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK7,Mapk7,Y221-p,448206,HQYFMTEyVATRWYR,,"cell cycle regulation; carcinogenesis, induced; cell motility, induced; apoptosis, inhibited; transcription, induced",20138986; 31980741; 34655447,Pkinase,,,,
+MAPK7,Mapk7,K22-sm,2887212,AEPPGPVkAEPAHTA,"molecular association, regulation; intracellular localization","cell growth, induced; transcription, induced",32209980,, nuclear translocation;  Hsp90 dissociation from the ERK5-Cdc37 complex,HSP90A,Hsp90aa1,DISRUPTS
+MAPK7,Mapk7,S754-p,21560206,LEEFLNQsFDMGVAD,intracellular localization,"transcription, induced",29483645,,oncogenic BRAF induced nuclear localization and transcription,,,
+MAPK7,Mapk7,S496-p,455518,SRLRDGPsAPLEAPE,"activity, inhibited; enzymatic activity, induced","apoptosis, induced; transcription, inhibited",22267842; 30586719; 34619528,,inhibits CHIP-Ubiquitin ligase activity; endothelial inflammation; induces PARP activity,,,
+MAPK7,Mapk7,S720-p,3195185,VTQQLSKsQVEDPLP,"intracellular localization; enzymatic activity, inhibited","transcription, altered",20667468,,,,,
+MAPK7,Mapk7,K6-sm,2887213,__MAEPLkEEDGEDG,"molecular association, regulation; intracellular localization","cell growth, induced; transcription, induced",32209980,, nuclear translocation;  Hsp90 dissociation from the ERK5-Cdc37 complex,HSP90A,Hsp90aa1,DISRUPTS
+MAPK7,Mapk7,K184-ub,63128906,QVIHRDLkPSNLLVN,"molecular association, regulation; enzymatic activity, induced","transcription, induced",28131816,Pkinase,,Fos,Fos,INDUCES
+MAPK7,Mapk7,S803-p,20572701,QREIQMDsPMLLADL,"intracellular localization; enzymatic activity, inhibited","transcription, altered",20667468,,,,,
+MAPK7,Mapk7,T733-p,455520,LPPVFSGtPKGSGAG,"intracellular localization; enzymatic activity, inhibited; phosphorylation; enzymatic activity, induced","cell growth, induced; apoptosis, inhibited; transcription, induced; transcription, altered",20667468; 25689862; 29483645; 30132833; 31201162,,MYCN protein; in DIPG cells,,,
+MAPK7,Mapk7,T219-p,448205,AEHQYFMtEYVATRW,,"cell cycle regulation; carcinogenesis, induced; cell motility, induced; apoptosis, inhibited; transcription, induced",20138986; 31980741; 34655447,Pkinase,,,,
+MAPK7,Mapk7,S567-p,20572700,VLSDNDRsLLERWTR,"intracellular localization; enzymatic activity, inhibited","transcription, altered",20667468,,,,,
+MAPK7,Mapk7,S731-p,455519,DPLPPVFsGTPKGSG,"intracellular localization; enzymatic activity, inhibited; phosphorylation; enzymatic activity, induced","cell growth, induced; apoptosis, inhibited; transcription, induced; transcription, altered",20667468; 30132833; 31201162,,MYCN protein; in DIPG cells,,,

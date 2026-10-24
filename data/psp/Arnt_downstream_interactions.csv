@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARNT,Arnt,S77-p,458309,DKERFARsDDEQSSA,"protein stabilization; molecular association, regulation; intracellular localization; activity, inhibited","transcription, induced; signaling pathway regulation; transcription, inhibited",16129408; 34912030; 35290121,,,ARNT,Arnt,INDUCES

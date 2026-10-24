@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITCH,Itch,Y420-p,454077,QFNQRFIyGNQDLFA,"molecular association, regulation",,16387660,,,JunB,Junb,DISRUPTS
+ITCH,Itch,S161-p,33522000,TTCSESAsQNDDGSR,"molecular association, regulation; enzymatic activity, induced",,23435430,,ubiquitination and degradation of c-FLIP and c-JUN,HECTD1,Hectd1,DISRUPTS
+ITCH,Itch,S687-p,397383600,IDPEFYNsLIWVKEN,"molecular association, regulation",,29212706,HECT,,UBE2L3,Ube2l3,DISRUPTS
+ITCH,Itch,S257-p,83110609,PSRPPRPsRPPPPTP,ubiquitination; intracellular localization,"carcinogenesis, induced; signaling pathway regulation",30517763,, ;  H1.2 ubiquitination; translocation to nucleus,,,
+ITCH,Itch,T222-p,459624,PSRPPPPtPRRPASV,"enzymatic activity, induced",,27203743,,HER3 ubiquitination and degradation in cancer cells,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAT6,Stat6,S407-p,21561700,PIQLQALsLPLVVIV,"molecular association, regulation; intracellular localization; phosphorylation","transcription, induced; signaling pathway regulation",22000020,STAT_bind,induces phosphorylation of Y641 and regulates cytokine signaling,STAT6,Stat6,INDUCES
+STAT6,Stat6,K383-ac,1880010904,TESVTEEkCAVLFSA,"acetylation; activity, inhibited","transcription, altered",37827979,,TRIM24 regulated STAT6-induced GATA3 expression through regulating the acetylation of STAT6,,,
+STAT6,Stat6,Y641-p,447757,MGKDGRGyVPATIKM,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell differentiation, induced; transcription, induced; signaling pathway regulation",22000020; 32015091; 34521750,,induce HSD3B1 transcription,STAT6,Stat6,INDUCES
+STAT6,Stat6,S707-p,17772900,IPPYQGLsPEESVNV,"molecular association, regulation","transcription, inhibited",21123173,STAT6_C,suppresses transcriptional activity of STAT6,,,
+STAT6,Stat6,K284-ac,1883988601,KQPPQVLkTQTKFQA,"molecular association, regulation; intracellular localization","transcription, inhibited",37308587,,attenuates the expression of genes involved in both purine metabolism and metastasis,MLLT3,Mllt3,INDUCES

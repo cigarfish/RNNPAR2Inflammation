@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLR1E,Polr1e,K373-ac,11325050,KRMMEIAkAMRLKIS,"molecular association, regulation","transcription, inhibited",24207024,RNA_pol_I_A49,hypoacetylation promotes Pol I transcription,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSMD1,Psmd1,Y950-p,23135657,EPPEPFEyIDD____,"molecular association, regulation",,31064842,,,ADRM1,Adrm1,INDUCES

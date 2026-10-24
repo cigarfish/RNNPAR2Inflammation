@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VWF,Vwf,S1613-p,1867984205,MVTGNPAsDEIKRLP,,"cell adhesion, induced",30864273,VWA,increases platelet adhesion under shear conditions,,,

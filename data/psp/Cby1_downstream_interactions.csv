@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CBY1,Cby1,S20-p,2850009,TPPRKSAsLSNLHSL,"molecular association, regulation; intracellular localization","transcription, altered",18573912; 25909186,Chibby,interaction of PGEA1 with 14-3-3 zeta contributes to the formation of trimolecular complex with CTNNB1 ,14-3-3 zeta,Ywhaz,INDUCES

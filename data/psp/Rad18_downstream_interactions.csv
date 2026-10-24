@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAD18,Rad18,S442-p,1884372202,ESDSCNSsSSDIIRD,"molecular association, regulation",,37748650,,,ANKRD32,Ankrd32,INDUCES
+RAD18,Rad18,S403-p,482231,TSVTNHFsQSKLDSP,"molecular association, regulation; intracellular localization","chromatin organization, altered",38467834,,regulates SLX4 localization at stalled forks,PCNA,Pcna,DISRUPTS
+RAD18,Rad18,S434-p,17595902,IQEVLSSsESDSCNS,"molecular association, regulation",,21098111,,promotes POLQ recruitment to stalled replication forks,POLQ,Polq,INDUCES
+RAD18,Rad18,S444-p,1884372200,DSCNSSSsDIIRDLL,"molecular association, regulation",,37748650,,,ANKRD32,Ankrd32,INDUCES

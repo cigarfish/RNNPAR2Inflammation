@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTDP1,Ctdp1,S575-p,11276300,AGESLDQsMEEEEEE,"molecular association, regulation; enzymatic activity, induced","transcription, induced",12591939,,,GTF2F2,Gtf2f2,INDUCES
+CTDP1,Ctdp1,T584-p,455468,EEEEEEDtDEDDHLI,"molecular association, regulation; enzymatic activity, induced","transcription, altered",15723518; 19215094,,,GTF2F1,Gtf2f1,INDUCES
+CTDP1,Ctdp1,S942-p,455466,SSNEDEGsSSEADEM,"molecular association, regulation; enzymatic activity, induced","transcription, altered",15723518; 19215094,FCP1_C,,GTF2F1,Gtf2f1,INDUCES
+CTDP1,Ctdp1,S740-p,453872,TKAQRENsPAAFPDR,"molecular association, regulation; enzymatic activity, induced","transcription, induced",12591939,FCP1_C,,GTF2F2,Gtf2f2,INDUCES
+CTDP1,Ctdp1,S944-p,455467,NEDEGSSsEADEMAK,"molecular association, regulation; enzymatic activity, induced","transcription, altered",15723518; 19215094,FCP1_C,,GTF2F1,Gtf2f1,INDUCES

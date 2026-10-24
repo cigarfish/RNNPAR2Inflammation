@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LTF,Ltf,K352-sm,41400402,TAIQNLRkSEEEVAA,,"transcription, inhibited",26090800,Transferrin,,,,
+LTF,Ltf,S54-gl,13421408,KVRGPPVsCIKRDSP,protein stabilization,"transcription, inhibited",20404350,Transferrin,blocking ubiquitin dependent proteolysis,,,
+LTF,Ltf,S54-p,1883890600,KVRGPPVsCIKRDSP,protein degradation,"transcription, induced",20404350,,,,,
+LTF,Ltf,K57-sm,41400403,GPPVSCIkRDSPIQC,,"transcription, inhibited",26090800,Transferrin,,,,
+LTF,Ltf,K423-ub,41400405,GYVYTAGkCGLVPVL,ubiquitination,,20404350,Transferrin,polyubiquitin acceptor site,,,
+LTF,Ltf,K423-sm,41400401,GYVYTAGkCGLVPVL,protein stabilization,"transcription, inhibited",26090800,Transferrin,,,,

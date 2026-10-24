@@ -1,0 +1,13 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc	ENTITYB_phospho	EFFECT	SCAFFOLD	SCAFFOLD_loc	COMPETE	COMPETE_loc	COMPETE_col	BINDING	SCORE
+WARBURG	Pik3r1	membrane	0	Pik3ca	membrane	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Pik3ca	membrane	0	Akt1	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Akt1	cytoplasm	1	Hk2	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Hk2	mitochondrion	0	Vdac1	mitochondrion	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Bax	mitochondrion	1	Vdac1	mitochondrion	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Vdac1	mitochondrion	0	Slc25a4	mitochondrion	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Mapk1	cytoplasm	1	Myc	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Prkaa1	cytoplasm	1	Acaca	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Myc	cytoplasm	0	Hk2	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Trp53	mitochondrion	1	Gls2	mitochondrion	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Hif1a	cytoplasm	1	Ldha	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+WARBURG	Myc	cytoplasm	0	Ldha	cytoplasm	0	activate	na	na	na	na	na	stable	0.999

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SF3B2,Sf3b2,S289-p,477883,SRQEEMNsQQEEEEM,,"DNA repair, induced",29705135,,accumulate CtIP at sites of DNA breaks ,,,
+SF3B2,Sf3b2,R508-m2,35483240,PRHWCFKrKYLQGKR,"molecular association, regulation","RNA splicing, induced",25737013; 38561334,DUF382,"memory and learning, synapse development, regulates the interaction of SF3B2 with nonconsensus anchoring sites",SMN,Smn1,INDUCES

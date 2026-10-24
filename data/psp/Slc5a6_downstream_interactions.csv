@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC5A6,Slc5a6,T286-p,20503442,QRYLSSRtEKAAVLS,"activity, inhibited",,21570947,SSF,biotin uptake inhibited,,,
+SLC5A6,Slc5a6,T78-p,62925703,VALSLLAtFQSAVAI,intracellular localization,,28052864,SSF; TM,"membrane localization, biotin uptake",,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RHOB,Rhob,K181-ub,1880605400,ATRAALQkRYGSQNG,protein degradation,cytoskeletal reorganization,29358211,,,,,
+RHOB,Rhob,K162-ub,27206515,DYLECSAkTKEGVRE,protein degradation,cytoskeletal reorganization,29358211,Ras,,,,
+RHOB,Rhob,S185-p,2853110,ALQKRYGsQNGCINC,"molecular association, regulation; activity, inhibited","endocytosis, induced; cytoskeletal reorganization",18590726; 27503856,,S185A mutant blocks NGF induced macropinocytosis,PKN1,Pkn1,DISRUPTS

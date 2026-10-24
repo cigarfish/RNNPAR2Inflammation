@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IFIH1,Ifih1,K23-ub,1880591000,SCFRARVkMYIQVEP,protein degradation,signaling pathway regulation,29117565,,RLR signaling,,,
+IFIH1,Ifih1,S828-p,40587800,GRARADEsTYVLVAH,protein conformation,"transcription, inhibited",25865883,,disrupts MDA5 multimer formation,,,
+IFIH1,Ifih1,K43-ub,1880591200,TFLPAEVkEQIQRTV,protein degradation,signaling pathway regulation,29117565,,RLR signaling,,,
+IFIH1,Ifih1,R822-m2,1885722800,AMVQARGrARADEST,"molecular association, regulation",,37639603,,inhibition of inteferon production,,,
+IFIH1,Ifih1,S88-p,27807804,EALRRTGsPLAARYM,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","transcription, induced; transcription, inhibited; signaling pathway regulation",23499489; 28250012; 36113429,CARD_2,,IRF3,Irf3,DISRUPTS
+IFIH1,Ifih1,S88-p,27807804,EALRRTGsPLAARYM,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","transcription, induced; transcription, inhibited; signaling pathway regulation",23499489; 28250012; 36113429,CARD_2,,MAVS,Mavs,DISRUPTS
+IFIH1,Ifih1,K865-sm,63243405,IHCVQNMkPEEYAHK,phosphorylation,,28250012,,dephosphorylation,,,
+IFIH1,Ifih1,K68-ub,1880591202,LLLSTLEkGVWHLGW,protein degradation,signaling pathway regulation,29117565,,RLR signaling,,,
+IFIH1,Ifih1,K743-ub,62495529,QWITENEkFAEVGVK,"activity, induced; molecular association, regulation","transcription, induced",28031478,Helicase_C,"oligomerization, activation, induces antiviral innate immunity",MDA5,Ifih1,INDUCES

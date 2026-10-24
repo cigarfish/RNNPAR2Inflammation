@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CERS4,Cers4,S349-p,7102761,SDVEESDsSEEAAAA,"enzymatic activity, induced",,26887952,,,,,
+CERS4,Cers4,S342-p,7102766,QMEKDIRsDVEESDS,"enzymatic activity, induced",,26887952,,,,,
+CERS4,Cers4,S347-p,36704607,IRSDVEEsDSSEEAA,"enzymatic activity, induced",,26887952,,,,,
+CERS4,Cers4,S350-p,7102764,DVEESDSsEEAAAAQ,"enzymatic activity, induced",,26887952,,,,,

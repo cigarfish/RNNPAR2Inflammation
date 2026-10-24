@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFA10,Ndufa10,S250-p,32001601,KTFLPEMsEKCEVLQ,"activity, induced",,28137779,dNK,electron transfer from complex I to ubiquinone,,,

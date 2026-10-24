@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HJURP,Hjurp,S448-p,3206595,LHREYCLsPRNQPRR,"molecular association, regulation; intracellular localization",cell cycle regulation,24519934,HJURP_C,Mis18 binds with HJURP and specifies the centromere localization ,OIP5,Oip5,DISRUPTS
+HJURP,Hjurp,S412-p,453537,RTLKWLIsPVKIVSR,"molecular association, regulation; intracellular localization",cell cycle regulation,24519934; 28017591,HJURP_C,prevents premature CENP-A assembly; Mis18 binds with HJURP and specifies the centromere localization ,OIP5,Oip5,DISRUPTS
+HJURP,Hjurp,S473-p,483759,MYRGGPAsPGGLQGL,"molecular association, regulation; intracellular localization",cell cycle regulation,24519934,,Mis18 binds with HJURP and specifies the centromere localization ,OIP5,Oip5,DISRUPTS
+HJURP,Hjurp,S486-p,482923,GLETRRLsLPSSKAK,"molecular association, regulation",,17256767,,,14-3-3 gamma,Ywhag,INDUCES
+HJURP,Hjurp,S210-p,27449204,GDPAKPAsSPREWDP,"molecular association, regulation",cell cycle regulation,28017591,,prevents premature CENP-A assembly,,,
+HJURP,Hjurp,S211-p,17555083,DPAKPASsPREWDPL,"molecular association, regulation",cell cycle regulation,28017591,,prevents premature CENP-A assembly,,,

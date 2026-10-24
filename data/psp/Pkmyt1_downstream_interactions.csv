@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKMYT1,Pkmyt1,S416-p,11331004,PPATPPGsPPCSLLL,"molecular association, regulation",,10504341,,,PIN1,Pin1,INDUCES
+PKMYT1,Pkmyt1,S441-p,11331000,DSLGPSLsPEAVLAR,"molecular association, regulation",,10504341,,,PIN1,Pin1,INDUCES
+PKMYT1,Pkmyt1,T412-p,11331001,QPLGPPAtPPGSPPC,"molecular association, regulation",,10504341,,,PIN1,Pin1,INDUCES
+PKMYT1,Pkmyt1,T455-p,11331003,RTVGSTStPRSRCTP,"molecular association, regulation",,10504341,,,PIN1,Pin1,INDUCES
+PKMYT1,Pkmyt1,T461-p,11331002,STPRSRCtPRDALDL,"molecular association, regulation",,10504341,,,PIN1,Pin1,INDUCES

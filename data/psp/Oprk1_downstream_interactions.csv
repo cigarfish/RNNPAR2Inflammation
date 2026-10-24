@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPRK1,Oprk1,S358-p,1975303,RMERQSTsRVRNTVQ,"ubiquitination; enzymatic activity, induced",signaling pathway regulation,18212250; 23086943,,S358 phosphorylation enhances KOR-1 ubiquitination; KOR-agonist-induced signaling for p38 MAPK/ERK1/2 activation,,,
+OPRK1,Oprk1,K349-ub,1975301,RDFCFPLkMRMERQS,"receptor internalization, induced; protein degradation",,18212250,,ubiquitination regulates but is not required for receptor downregulation ,,,
+OPRK1,Oprk1,K338-ub,1975302,AFLDENFkRCFRDFC,"receptor internalization, induced; protein degradation",,18212250,,ubiquitination regulates but is not required for receptor downregulation ,,,
+OPRK1,Oprk1,K378-ub,1975300,RDIDGMNkPV_____,"receptor internalization, induced; protein degradation",,18212250,,ubiquitination regulates but is not required for receptor downregulation ,,,

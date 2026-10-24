@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BRMS1,Brms1,S237-p,18007342,KKARAAVsPQKRKSD,"molecular association, regulation","carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited",34788285,,,SDS3,Sin3a,INDUCES
+BRMS1,Brms1,S237-p,18007342,KKARAAVsPQKRKSD,"molecular association, regulation","carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited",34788285,,,HDAC1,Hdac1,INDUCES
+BRMS1,Brms1,S237-p,18007342,KKARAAVsPQKRKSD,"molecular association, regulation","carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited",34788285,,,SIN3A,Sin3a,INDUCES
+BRMS1,Brms1,S30-p,25284673,MNGEEEEsEEERSGS,"protein degradation; molecular association, regulation; intracellular localization",,26980766,,"nuclear export to cytoplasm, degradation and metastases",14-3-3 epsilon,Ywhae,INDUCES

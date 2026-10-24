@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP9,Casp9,T125-p,449563,PEVLRPEtPRPVDIG,"activity, inhibited","apoptosis, altered; apoptosis, induced",16287866; 17466630,,inhibits apoptosis during mitosis,,,
+CASP9,Casp9,S196-p,448454,KLRRRFSsLHFMVEV,"activity, inhibited","apoptosis, induced; apoptosis, inhibited",34705620; 9812896,Peptidase_C14,,,,
+CASP9,Casp9,S183-p,448528,GLRTRTGsNIDCEKL,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,15703181; 29352269,Peptidase_C14,"forms higher order oligomers or aggregates, unfolds and disassembles the casp-9 core; inhibits the assembly of the apoptosome in response to cytochrome c",APAF,Apaf1,DISRUPTS
+CASP9,Casp9,S144-p,458346,GDVGALEsLRGNADL,"activity, inhibited","apoptosis, altered",16287866,,,,,
+CASP9,Casp9,Y153-p,455198,RGNADLAyILSMEPC,"activity, induced; molecular association, regulation; enzymatic activity, inhibited","apoptosis, induced",15657060; 29066624,,,p53,Trp53,INDUCES
+CASP9,Casp9,Y251-p,1147026600,LQFPGAVyGTDGCPV,"enzymatic activity, induced","apoptosis, induced",29844931,Peptidase_C14,,,,
+CASP9,Casp9,Y397-p,286046008,AVSVKGIyKQMPGCF,"enzymatic activity, inhibited",,29066624,Peptidase_C14,,,,

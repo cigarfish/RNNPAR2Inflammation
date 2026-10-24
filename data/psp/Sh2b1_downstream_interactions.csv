@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH2B1,Sh2b1,S161-p,21336502,SLRSVGRsVRGSVRG,intracellular localization,"cell motility, induced; cell adhesion, altered",21878491,,regulates focal adhesion size and number,,,
+SH2B1,Sh2b1,Y753-p,408589400,PRAINNQySFV____,,"cell growth, inhibited; signaling pathway regulation",29229648,,"Expression of NGF-responsive genes reduced, inhibit NGF signaling pathway",,,
+SH2B1,Sh2b1,S165-p,21336501,VGRSVRGsVRGILQW,intracellular localization,"cell motility, induced; cell adhesion, altered",21878491,,regulates focal adhesion size and number,,,

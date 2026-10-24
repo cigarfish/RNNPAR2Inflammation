@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DCTN6,Dctn6,T186-p,27933603,KTMKGSStPVKN___,"molecular association, regulation; intracellular localization",cell cycle regulation,23455152,,Dynactin 6 targets PLK1 to mitotic kinetochores.,PLK1,Plk1,INDUCES

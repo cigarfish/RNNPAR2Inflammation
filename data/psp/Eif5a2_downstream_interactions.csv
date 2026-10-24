@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF5A2,Eif5a2,K47-ac,18546316,IVEMSTSkTGKHGHA,intracellular localization,,23132580,,acetylated was localized to the nucleus while hypoacetylated was cytoplasmic,,,
+EIF5A2,Eif5a2,K121-ub,964512656,LPEGELGkEIEGKYN,protein degradation,,35064108,eIF-5a,"regulate EMT, and may inhibit the metastasis of CRC",,,
+EIF5A2,Eif5a2,K85-ub,21173814,NMDVPNIkRNDYQLI,protein degradation,,35064108,eIF-5a,"regulate EMT, and may inhibit the metastasis of CRC",,,
+EIF5A2,Eif5a2,K47-ub,964512658,IVEMSTSkTGKHGHA,protein degradation,,35064108,,"regulate EMT, and may inhibit the metastasis of CRC",,,
+EIF5A2,Eif5a2,K67-ub,21173818,GIDIFTGkKYEDICP,protein degradation,,35064108,,"regulate EMT, and may inhibit the metastasis of CRC",,,

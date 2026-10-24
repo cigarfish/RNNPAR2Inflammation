@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HERC2,Herc2,T4827-p,12122400,DSFASDStQDYLTGH,"molecular association, regulation; ubiquitination",,20023648; 22508508,,,RNF8,Rnf8,INDUCES

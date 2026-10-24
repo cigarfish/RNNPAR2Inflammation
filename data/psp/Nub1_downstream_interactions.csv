@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUB1,Nub1,K159-ub,12288848,KAMVLELkQSEEDAR,neddylation,,28099510,Ubiquitin_5,"inhibits neddylation, modulates NYREN18 K159 ubiquitination  ",,,
+NUB1,Nub1,S46-p,1868140201,KDLAKQYsDRLECCE,"molecular association, regulation; activity, inhibited",,31006160,,,SNCA,Snca,INDUCES

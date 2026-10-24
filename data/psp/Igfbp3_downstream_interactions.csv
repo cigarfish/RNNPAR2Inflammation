@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IGFBP3,Igfbp3,S183-p,471397,KKGHAKDsQRYKVDY,intracellular localization,"apoptosis, altered; cell growth, induced; apoptosis, inhibited",17108124; 23557743,,,,,
+IGFBP3,Igfbp3,S138-p,451462,PPAPGNAsESEEDRS,,"apoptosis, induced",12210764,,,,,
+IGFBP3,Igfbp3,S156-p,37046603,VESPSVSsTHRVSDP,,"apoptosis, inhibited",25525174,,involved in pioglitazone-induced regulation of IGFBP-3 ,,,
+IGFBP3,Igfbp3,S194-p,10902818,KVDYESQsTDTQNFS,phosphorylation,"apoptosis, altered",19556345,,inhibits JNK phosphorylation and apoptosis,,,
+IGFBP3,Igfbp3,S140-p,451463,APGNASEsEEDRSAG,,"apoptosis, induced",12210764,,,,,

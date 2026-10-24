@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLQ,Polq,S1486-p,1883958804,PETSLNMsDSLLFDS,"molecular association, regulation; intracellular localization","DNA repair, induced",37674080,,,TOPBP1,Topbp1,INDUCES
+POLQ,Polq,S1493-p,1883958800,SDSLLFDsFSDDYLV,"molecular association, regulation; intracellular localization","DNA repair, induced",37674080,,,TOPBP1,Topbp1,INDUCES
+POLQ,Polq,S1488-p,1883958802,TSLNMSDsLLFDSFS,"molecular association, regulation; intracellular localization","DNA repair, induced",37674080,,,TOPBP1,Topbp1,INDUCES
+POLQ,Polq,S1482-p,1883958806,CLPVPETsLNMSDSL,"molecular association, regulation; intracellular localization","DNA repair, induced",37674080,,,TOPBP1,Topbp1,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPHB3,Ephb3,Y614-p,448275,VYIDPFTyEDPNEAV,"molecular association, regulation",,9674711,EphA2_TM,,RASA1,Rasa1,INDUCES
+EPHB3,Ephb3,Y614-p,448275,VYIDPFTyEDPNEAV,"molecular association, regulation",,9674711,EphA2_TM,,Fyn,Fyn,INDUCES
+EPHB3,Ephb3,Y614-p,448275,VYIDPFTyEDPNEAV,"molecular association, regulation",,9674711,EphA2_TM,,CRK,Crk,INDUCES

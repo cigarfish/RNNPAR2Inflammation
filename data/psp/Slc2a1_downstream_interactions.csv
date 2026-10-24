@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC2A1,Slc2a1,S490-p,477830,FHPLGADsQV_____,"activity, induced; molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced; translation, induced; signaling pathway regulation",23776597; 30799198,,"Increased glucose and DHA transport, increased cell surface expression of GLUT1; induce PKM2 activation and glycolysis",GIPC1,Gipc1,INDUCES

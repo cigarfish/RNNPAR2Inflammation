@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCKDHB,Bckdhb,S318-p,3336900,DVDTICKsVIKTGRL,"enzymatic activity, inhibited",,15576032,Transketolase_C,,E1B-AP5,Usp7,DISRUPTS

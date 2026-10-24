@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PITPNM1,Pitpnm1,S382-p,451453,DFIDAFAsPVEAEGT,"molecular association, regulation",,15125835,,,PLK1,Plk1,INDUCES
+PITPNM1,Pitpnm1,T59-p,3597300,PGGSGQYtHKVYHVG,intracellular localization,,12225667,IP_trans,,,,
+PITPNM1,Pitpnm1,T794-p,451456,LEMLVPStPTSTSGA,"molecular association, regulation",,15125835,DDHD,,PLK1,Plk1,INDUCES

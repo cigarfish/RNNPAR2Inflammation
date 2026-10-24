@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TUBA1C,Tuba1c,K40-ac,479499,DGQMPSDkTIGGGDD,,cytoskeletal reorganization,23071314,Tubulin,,,,
+TUBA1C,Tuba1c,S165-p,8046500,SVDYGKKsKLEFSIY,"activity, induced; intracellular localization; protein conformation","cell motility, induced; cell motility, altered; cytoskeletal reorganization",19406749; 24574051; 35799350,Tubulin,,,,

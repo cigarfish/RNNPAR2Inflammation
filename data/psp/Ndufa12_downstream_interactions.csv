@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFA12,Ndufa12,T142-p,33402204,QEWIPPStPYK____,"activity, induced",cell cycle regulation,24746669,,increases mitochondrial respiration for G/2M transition,,,
+NDUFA12,Ndufa12,T120-p,33402205,HKFNVTGtPEQYVPY,"activity, induced",cell cycle regulation,24746669,NDUFA12,increases mitochondrial respiration for G/2M transition,,,

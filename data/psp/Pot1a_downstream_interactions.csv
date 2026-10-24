@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POT1,Pot1a,S320-p,1890614800,DSFPSSGsVSLYEVE,"molecular association, regulation",,38838667,,,CTC1,Ctc1,INDUCES
+POT1,Pot1a,S322-p,1890614802,FPSSGSVsLYEVERC,"molecular association, regulation",,38838667,,,CTC1,Ctc1,INDUCES
+POT1,Pot1a,S317-p,1890614801,EPDDSFPsSGSVSLY,"molecular association, regulation",,38838667,,,CTC1,Ctc1,INDUCES
+POT1,Pot1a,S318-p,1890614803,PDDSFPSsGSVSLYE,"molecular association, regulation",,38838667,,,CTC1,Ctc1,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSNK2B,Csnk2b,S4-p,455683,____MSSsEEVSWIS,protein stabilization,,12032843,,,,,
+CSNK2B,Csnk2b,S3-p,447647,_____MSsSEEVSWI,protein stabilization,,12032843,,,,,
+CSNK2B,Csnk2b,S2-p,447646,______MsSSEEVSW,"protein stabilization; enzymatic activity, induced",,12032843; 8269941,,,CK2B,Csnk2b,INDUCES

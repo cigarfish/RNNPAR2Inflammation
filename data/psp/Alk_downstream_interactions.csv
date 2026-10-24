@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALK,Alk,K1610-me,206219700,HYEDTILkSKNSMNQ,phosphorylation,"carcinogenesis, induced; cell growth, induced; signaling pathway regulation",28370702,,"induces AKT phosphorylation and phosphorylation of itself on other sites, regulates the EML4-ALK pathway",,,
+ALK,Alk,Y1096-p,450375,MTDYNPNyCFAGKTS,"molecular association, regulation",,30459283,,,IRS2,Irs2,INDUCES
+ALK,Alk,Y1586-p,450381,CGNVNYGyQQQGLPL,,"apoptosis, inhibited",26648752,,,,,
+ALK,Alk,Y1359-p,1016332,KNCPGPVyRIMTQCW,"molecular association, regulation","cell growth, altered",14563642,PK_Tyr_Ser-Thr,,Src,Src,INDUCES
+ALK,Alk,Y1584-p,450380,FPCGNVNyGYQQQGL,"molecular association, regulation",,30459283,,,IRS2,Irs2,INDUCES
+ALK,Alk,Y1507-p,450379,TSLWNPTyGSWFTEK,"molecular association, regulation",,17274988; 30459283,,,SHC1(NOT_REPORTED,Shc1,UNKNOWN
+ALK,Alk,Y1507-p,450379,TSLWNPTyGSWFTEK,"molecular association, regulation",,17274988; 30459283,,,IRS2,Irs2,INDUCES
+ALK,Alk,Y1507-p,450379,TSLWNPTyGSWFTEK,"molecular association, regulation",,17274988; 30459283,,,SHC3,Shc3,INDUCES
+ALK,Alk,Y1507-p,450379,TSLWNPTyGSWFTEK,"molecular association, regulation",,17274988; 30459283,,,SHC1,Shc1,INDUCES
+ALK,Alk,Y1604-p,447828,TAPGAGHyEDTILKS,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced",34270745; 35411036; 9819383,,"induces phosphorylation of downstream targets, ERK, AKT, STAT3; The complex formation leads to the tyrosine phosphorylation and activation of PLC-gamma.",PLCG1,Plcg1,INDUCES

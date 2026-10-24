@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RUNX2,Runx2,S196-p,27728401,GRSGRGKsFTLTITV,"molecular association, regulation","transcription, induced",23389849,Runt,"induction of MMP3 and MMP9 transcription, invasion of breast cancer cells",,,
+RUNX2,Runx2,S43-p,10892805,PGKMSDVsPVVAAQQ,"molecular association, regulation",,25122769,,,osterix,Sp7,INDUCES
+RUNX2,Runx2,S451-p,460684,MVPGGDRsPSRMLPP,,"transcription, inhibited",32009983,RunxI,"decreased PDK4 levels, induces cell viability",,,
+RUNX2,Runx2,S378-p,1867984202,SDPRQFPsISSLTES,,"cell differentiation, inhibited; transcription, inhibited",30910359,,in C2C12 cells,,,
+RUNX2,Runx2,S28-p,3053615,PSTSRRFsPPSSSLQ,,"transcription, altered",19264160,,,,,
+RUNX2,Runx2,T200-p,27728400,RGKSFTLtITVFTNP,"molecular association, regulation","transcription, induced",23389849,Runt,"induction of MMP3 and MMP9 transcription, invasion of breast cancer cells",,,
+RUNX2,Runx2,S347-p,7386100,SDDDTATsDFCLWPS,,"cell differentiation, inhibited; transcription, inhibited; transcription, altered",19264160; 30910359,,in C2C12 cells,,,
+RUNX2,Runx2,T198-p,27728402,SGRGKSFtLTITVFT,"molecular association, regulation","transcription, induced",23389849,Runt,"induction of MMP3 and MMP9 transcription, invasion of breast cancer cells",,,
+RUNX2,Runx2,S465-p,460684,MVPGGDRsPSRMLPP,"molecular association, regulation","cell cycle regulation; cell motility, induced; cell growth, induced; cell differentiation, induced; transcription, altered; cell growth, altered",16407259; 21913213,RunxI,,,,
+RUNX2,Runx2,S294-p,10892804,DPRQAQSsPPWSYDQ,,"transcription, induced",19801668,,,,,
+RUNX2,Runx2,S275-p,10892803,PSLNSAPsPFNPQGQ,"molecular association, regulation",,25122769,,,osterix,Sp7,INDUCES
+RUNX2,Runx2,S340-p,4169883,TDVPRRIsDDDTATS,,"transcription, altered",19264160,,,,,
+RUNX2,Runx2,S312-p,10892802,SYLSQMTsPSIHSTT,"molecular association, regulation","transcription, induced",19801668; 25122769; 27687725,,,osterix,Sp7,INDUCES
+RUNX2,Runx2,S118-p,460037,AELVRTDsPNFLCSV,"protein degradation; protein stabilization; molecular association, regulation; activity, inhibited","cell differentiation, inhibited; cell differentiation, induced; transcription, inhibited; transcription, altered",12231506; 16443755; 22247071; 29988028,Runt,regulate maintenance of osteogenesis and abrogation of adipogenesis; phosphorylation of this site inhibits osteoblastic cell differentiation,CBFB,Cbfb,DISRUPTS

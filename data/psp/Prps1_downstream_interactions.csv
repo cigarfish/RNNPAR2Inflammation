@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRPS1,Prps1,T228-p,34551795,DMADTCGtICHAADK,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced; cell growth, induced",34343500,Pribosyl_synth,inhibits ADP binding,,,
+PRPS1,Prps1,S285-p,1874748500,EDKMKHCsKIQVIDI,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited",34465890,Pribosyl_synth,,TRAF2,Traf2,INDUCES
+PRPS1,Prps1,S103-p,56655989,RQDKKDKsRAPISAK,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, induced",31253668,Pribosyltran_N,increase CCND1 expression,,,
+PRPS1,Prps1,S180-p,18014261,GGAKRVTsIADRLNV,"protein conformation; activity, inhibited","cell growth, inhibited",29074724,, tumor cell growth inhibited; converts PRPS1/2 hexamers to monomers,,,

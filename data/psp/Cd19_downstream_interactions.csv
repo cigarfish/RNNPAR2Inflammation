@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD19,Cd19,Y531-p,447639,HEEDADSyENMDNPD,"molecular association, regulation",,10933394,,,LYN,Lyn,INDUCES
+CD19,Cd19,Y531-p,447639,HEEDADSyENMDNPD,"molecular association, regulation",,10933394,,,PIK3CA,Pik3ca,INDUCES
+CD19,Cd19,Y531-p,447639,HEEDADSyENMDNPD,"molecular association, regulation",,10933394,,,VAV1,Vav1,INDUCES
+CD19,Cd19,Y500-p,447638,TSLGSQSyEDMRGIL,"molecular association, regulation",,10933394,,,LYN,Lyn,INDUCES
+CD19,Cd19,Y500-p,447638,TSLGSQSyEDMRGIL,"molecular association, regulation",,10933394,,,PIK3CA,Pik3ca,INDUCES
+CD19,Cd19,Y500-p,447638,TSLGSQSyEDMRGIL,"molecular association, regulation",,10933394,,,VAV1,Vav1,INDUCES
+CD19,Cd19,Y439-p,469560,LSQDGSGyENPEDEP,"activity, induced; molecular association, regulation; phosphorylation",,10706702,,ERK2 phosphorylation; Ca(2+) influx,PLCG2,Plcg2,INDUCES
+CD19,Cd19,Y439-p,469560,LSQDGSGyENPEDEP,"activity, induced; molecular association, regulation; phosphorylation",,10706702,,ERK2 phosphorylation; Ca(2+) influx,VAV1,Vav1,INDUCES
+CD19,Cd19,Y378-p,463123,LGGTAPSyGNPSSDV,"activity, induced; molecular association, regulation",,10706702,,,SOS1,Sos1,INDUCES
+CD19,Cd19,Y378-p,463123,LGGTAPSyGNPSSDV,"activity, induced; molecular association, regulation",,10706702,,,GRB2,Grb2,INDUCES
+CD19,Cd19,Y409-p,447935,EEEEGEGyEEPDSEE,"activity, induced; molecular association, regulation; phosphorylation",,10706702,,ERK2 phosphorylation; Ca(2+) influx,PLCG2,Plcg2,INDUCES
+CD19,Cd19,Y409-p,447935,EEEEGEGyEEPDSEE,"activity, induced; molecular association, regulation; phosphorylation",,10706702,,ERK2 phosphorylation; Ca(2+) influx,VAV1,Vav1,INDUCES
+CD19,Cd19,Y348-p,454081,GSGPQNQyGNVLSLP,"activity, induced; molecular association, regulation",,10706702,,,SOS1,Sos1,INDUCES
+CD19,Cd19,Y348-p,454081,GSGPQNQyGNVLSLP,"activity, induced; molecular association, regulation",,10706702,,,GRB2,Grb2,INDUCES

@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOTCH1,Notch1,S2524-p,467290,PDQWSSSsPHSNVSD,"protein degradation; receptor inactivation, altered",,16880534,,Alanine mutation of 4 serines (S2522/S2523/S2524/S2525) causes increased protein stability.,,,
+NOTCH1,Notch1,S2513-p,35483201,EHPFLTPsPESPDQW,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",25344755,,,FBXW7,Fbxw7,INDUCES
+NOTCH1,Notch1,K2164-ac,18899513,KVRKPSSkGLACGSK,intracellular localization,"cell growth, induced; apoptosis, inhibited",28377411,,,,,
+NOTCH1,Notch1,K1774-sm,1888587800,LWFPEGFkVSEASKK,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",29305585,,,HDAC4,Hdac4,INDUCES
+NOTCH1,Notch1,S2522-p,467288,ESPDQWSsSSPHSNV,"protein degradation; receptor inactivation, altered",,16880534,,Alanine mutation of 4 serines (S2522/S2523/S2524/S2525) causes increased protein stability.,,,
+NOTCH1,Notch1,T2511-p,483083,VPEHPFLtPSPESPD,"protein degradation; molecular association, regulation; ubiquitination; activity, inhibited","carcinogenesis, altered; carcinogenesis, inhibited; cell growth, inhibited; cell motility, altered; cell motility, inhibited; transcription, inhibited; signaling pathway regulation",25344755; 27335110; 27806347; 31605148; 38409448,,triggers degradation by FBXW7;  Notch1 signaling pathway regulation,FBXW7,Fbxw7,INDUCES
+NOTCH1,Notch1,S1900-p,20831302,GGLETGNsEEEEDAP,"molecular association, regulation; activity, inhibited; phosphorylation","transcription, induced; transcription, inhibited",21685388; 24220241,Ank_2,,RBPJ,Rbpj,INDUCES
+NOTCH1,Notch1,T1897-p,20831303,CSGGGLEtGNSEEEE,"molecular association, regulation; activity, inhibited","transcription, induced; transcription, inhibited",21685388; 24220241,,,RBPJ,Rbpj,INDUCES
+NOTCH1,Notch1,K1781-sm,1888587801,KVSEASKkKRREPLG,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",29305585,,,HDAC4,Hdac4,INDUCES
+NOTCH1,Notch1,S2521-p,467287,PESPDQWsSSSPHSN,"protein degradation; receptor inactivation, altered",,16880534,,Alanine mutation of 4 serines (S2522/S2523/S2524/S2525) causes increased protein stability.,,,
+NOTCH1,Notch1,S2523-p,467289,SPDQWSSsSPHSNVS,"protein degradation; receptor inactivation, altered",,16880534,,Alanine mutation of 4 serines (S2522/S2523/S2524/S2525) causes increased protein stability.,,,
+NOTCH1,Notch1,S2516-p,35483202,FLTPSPEsPDQWSSS,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",25344755,,,FBXW7,Fbxw7,INDUCES
+NOTCH1,Notch1,S1791-p,27457604,REPLGEDsVGLKPLK,protein degradation,cell cycle regulation,31597699,,promotes inflammatory cytokines secretion,,,
+NOTCH1,Notch1,S2439-p,1875193400,SFLSGEPsQADVQPL,protein degradation,cell cycle regulation,31597699,,,,,
+NOTCH1,Notch1,K1780-sm,1880603000,FKVSEASkKKRREPL,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",29305585,,,HDAC4,Hdac4,INDUCES
+NOTCH1,Notch1,K1782-sm,1888587802,VSEASKKkRREPLGE,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",29305585,,,HDAC4,Hdac4,INDUCES
+NOTCH1,Notch1,K2157-ac,18899504,KPGVQGKkVRKPSSK,intracellular localization,"cell growth, induced; apoptosis, inhibited",28377411,,,,,
+NOTCH1,Notch1,K2160-ac,18899502,VQGKKVRkPSSKGLA,intracellular localization,"cell growth, induced; apoptosis, inhibited",28377411,,,,,
+NOTCH1,Notch1,K2174-ac,18899510,ACGSKEAkDLKARRK,intracellular localization,"cell growth, induced; apoptosis, inhibited",28377411,,,,,

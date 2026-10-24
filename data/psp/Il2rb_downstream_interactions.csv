@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL2RB,Il2rb,Y418-p,450884,LSGEDDAyCTFPSRD,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",12200137,,,SHB,Shb,INDUCES
+IL2RB,Il2rb,Y364-p,455360,SCFTNQGyFFFHLPD,"molecular association, regulation","transcription, induced",10602027; 18348982; 7499411; 8643566,,mediated by PI3K pathway through Y364,SHC1,Shc1,INDUCES
+IL2RB,Il2rb,T476-p,41591300,PQPLGPPtPGVPDLV,,"transcription, induced",26152718,,STAT5B transcriptional activity,,,
+IL2RB,Il2rb,Y536-p,450934,LPLNTDAyLSLQELQ,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",10602027; 12200137,,,STAT5A,Stat5a,INDUCES
+IL2RB,Il2rb,Y536-p,450934,LPLNTDAyLSLQELQ,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",10602027; 12200137,,,STAT5B,Stat5b,INDUCES
+IL2RB,Il2rb,Y536-p,450934,LPLNTDAyLSLQELQ,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",10602027; 12200137,,,SHB,Shb,INDUCES

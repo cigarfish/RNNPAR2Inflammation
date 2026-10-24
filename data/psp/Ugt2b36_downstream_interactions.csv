@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UGT2B7,Ugt2b36,Y236-p,7378200,MKKWDQFySEVLGRP,"enzymatic activity, induced",,19289110,UDPGT,,,,
+UGT2B7,Ugt2b36,Y438-p,7378201,RVINDPSyKENVMKL,"enzymatic activity, induced",,19289110; 21056984,UDPGT,,,,

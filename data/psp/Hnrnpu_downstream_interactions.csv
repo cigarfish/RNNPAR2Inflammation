@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPU,Hnrnpu,S14-p,18010531,NVKKLKVsELKEELK,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered",33053167,SAP,,,,
+HNRNPU,Hnrnpu,S59-p,468001,AMEPGNGsLDLGGDS,"molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, induced",25986610; 27303920,,"transient dissociation of NEIL1 from chromatin; localizes to centrosomes, the midzone and the midbody in mitosis",NEIL1,Neil1,DISRUPTS
+HNRNPU,Hnrnpu,S59-p,468001,AMEPGNGsLDLGGDS,"molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, induced",25986610; 27303920,,"transient dissociation of NEIL1 from chromatin; localizes to centrosomes, the midzone and the midbody in mitosis",Ku70,Xrcc6,INDUCES
+HNRNPU,Hnrnpu,S26-p,476219,ELKKRRLsDKGLKAE,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered",33053167,SAP,,,,

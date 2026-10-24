@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXL19,Fbxl19,K240-ub,1881559701,GRERHLKkVGGDACL,protein degradation,"cell motility, induced",33053230,,increasing Rac1 stability,,,

@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+JAK3,Jak3,Y105-p,1884926216,LLYRIRFyFPNWFGL,phosphorylation,,37569303,,induces phosphorylation of STAT5B,,,
+JAK3,Jak3,Y939-p,2197000,QICKGMEyLGSRRCV,"molecular association, regulation; phosphorylation; enzymatic activity, induced",,18250158,PK_Tyr_Ser-Thr,possible docking site for kinase substrates; required for STAT5A Y694 phosphorylation and its further transcriptional activation,STAT5A,Stat5a,INDUCES
+JAK3,Jak3,Y841-p,1881548602,GSVELCRyDPLGDNT,"molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced",,37109511; 37569303,,,JAK3,Jak3,INDUCES
+JAK3,Jak3,Y981-p,447637,LPLDKDYyVVREPGQ,"enzymatic activity, inhibited",,9391116,PK_Tyr_Ser-Thr,,,,
+JAK3,Jak3,Y929-p,457815,DASRLLLySSQICKG,phosphorylation,,37569303,PK_Tyr_Ser-Thr,induces tyrosine phosphorylation of itself at other sites and of STAT5B,,,
+JAK3,Jak3,Y785-p,450358,NSLISSDyELLSDPT,"molecular association, regulation",,15121872; 38417019,,,SH2-B-beta,Sh2b1,INDUCES
+JAK3,Jak3,Y785-p,450358,NSLISSDyELLSDPT,"molecular association, regulation",,15121872; 38417019,,,LNK,Sh2b3,INDUCES
+JAK3,Jak3,Y980-p,447636,LLPLDKDyYVVREPG,"enzymatic activity, induced",,9391116,PK_Tyr_Ser-Thr,,,,
+JAK3,Jak3,Y904-p,2197001,SLRLVMEyLPSGCLR,"phosphorylation; enzymatic activity, induced",,18250158,PK_Tyr_Ser-Thr,required for STAT5A Y694 phosphorylation and its further transcriptional activation,,,

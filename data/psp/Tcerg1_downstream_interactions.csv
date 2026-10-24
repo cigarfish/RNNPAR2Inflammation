@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TCERG1,Tcerg1,K503-sm,13258711,EEPIKEIkEEPKEEE,,"transcription, inhibited",20215116,,sumoylation negatively regulates TCERG transcriptional activity,,,
+TCERG1,Tcerg1,K608-sm,13258710,QFSMSAIkEEQELME,,"transcription, inhibited",20215116,,sumoylation negatively regulates TCERG transcriptional activity,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNF,Ccnf,S577-p,234613503,TKRKRENsLQEDRGS,protein stabilization,cell cycle regulation,28954236,,cell-cycle progression,,,
+CCNF,Ccnf,S621-p,288031702,GYEGDQEsEGEKEGD,"activity, inhibited",,29021214,,regulation the E3 ligase activity of cyclin F,,,
+CCNF,Ccnf,T31-p,234613504,RRRPRNLtILSLPED,protein stabilization,cell cycle regulation,28954236,,cell-cycle progression,,,

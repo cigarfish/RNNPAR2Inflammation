@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MOB1B,Mob1b,T74-p,11555108,QINMLYGtITDFCTE,"molecular association, regulation",,19919647,Mob1_phocein,,NDR1,Stk38,INDUCES
+MOB1B,Mob1b,T74-p,11555108,QINMLYGtITDFCTE,"molecular association, regulation",,19919647,Mob1_phocein,,LATS2,Lats2,INDUCES
+MOB1B,Mob1b,T12-p,3545000,FGSRSSKtFKPKKNI,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,,,NDR1,Stk38,INDUCES
+MOB1B,Mob1b,T12-p,3545000,FGSRSSKtFKPKKNI,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,,,NDR2,Stk38l,INDUCES
+MOB1B,Mob1b,T12-p,3545000,FGSRSSKtFKPKKNI,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,,,LATS1,Lats1,INDUCES
+MOB1B,Mob1b,T12-p,3545000,FGSRSSKtFKPKKNI,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,,,LATS2,Lats2,INDUCES
+MOB1B,Mob1b,T35-p,3545001,LLKHAEAtLGSGNLR,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,Mob1_phocein,,NDR1,Stk38,INDUCES
+MOB1B,Mob1b,T35-p,3545001,LLKHAEAtLGSGNLR,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,Mob1_phocein,,NDR2,Stk38l,INDUCES
+MOB1B,Mob1b,T35-p,3545001,LLKHAEAtLGSGNLR,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,Mob1_phocein,,LATS1,Lats1,INDUCES
+MOB1B,Mob1b,T35-p,3545001,LLKHAEAtLGSGNLR,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",18328708; 19919647,Mob1_phocein,,LATS2,Lats2,INDUCES

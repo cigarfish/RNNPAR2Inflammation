@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLNC,Flnc,S2623-p,27449343,KSSSSRGsSYSSIPK,protein stabilization,,28028127,,,,,
+FLNC,Flnc,S2624-p,15403523,SSSSRGSsYSSIPKF,protein stabilization,,28028127,,,,,

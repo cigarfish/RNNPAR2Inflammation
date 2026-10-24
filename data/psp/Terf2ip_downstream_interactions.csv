@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TERF2IP,Terf2ip,S205-p,471278,GDAPVSPsSQKLKRK,intracellular localization,"apoptosis, induced; transcription, induced; transcription, inhibited; signaling pathway regulation",31045573; 31476350,,important for NFkB activation by TNF-alpha; endothelial cell senescence and activation;  promotes the nuclear export of the TERF2IP-TRF2 complex,,,

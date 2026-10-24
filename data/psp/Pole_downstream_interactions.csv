@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLE,Pole,S1940-p,481837,IHCGLQDsQKAGGAE,"molecular association, regulation",,27235625,,,MMS19,Mms19,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DCC,Dcc,Y1363-p,1979800,AIEPKVPyTPLLSQP,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,RASA1,Rasa1,INDUCES
+DCC,Dcc,Y1363-p,1979800,AIEPKVPyTPLLSQP,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,Lck,Lck,INDUCES
+DCC,Dcc,Y1363-p,1979800,AIEPKVPyTPLLSQP,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,Fyn,Fyn,INDUCES
+DCC,Dcc,Y1420-p,454409,TEDSANVyEQDDLSE,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,RASA1,Rasa1,INDUCES
+DCC,Dcc,Y1420-p,454409,TEDSANVyEQDDLSE,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,Lck,Lck,INDUCES
+DCC,Dcc,Y1420-p,454409,TEDSANVyEQDDLSE,"molecular association, regulation",,18253061; 26710849,Neogenin_C,,Fyn,Fyn,INDUCES

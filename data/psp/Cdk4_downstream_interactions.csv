@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK4,Cdk4,T172-p,448476,YSYQMALtPVVVTLW,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced",16782892; 19237555; 20484410; 23737759; 36446794; 36453028; 37964967,Pkinase,,,,

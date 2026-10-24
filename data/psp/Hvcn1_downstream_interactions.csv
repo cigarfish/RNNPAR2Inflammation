@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HVCN1,Hvcn1,T9-p,472529,SKFLRHFtVVGDDYH,"activity, induced; receptor internalization, induced","carcinogenesis, induced",25425665,,HVCN1s channel currents turn on more rapidly and current amplitude is increased than HVCN1-L channels Receptor-internalization more in HVCN1-L than HVCN1s,,,

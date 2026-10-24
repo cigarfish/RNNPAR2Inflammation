@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TEAD4,Tead4,S322-p,451164,GVSSQYEsPENMIIT,"activity, induced",,10764782,YBD,Mutation of S315 to alanine reduced alpha1-adrenergic activation of TEF-3.,,,

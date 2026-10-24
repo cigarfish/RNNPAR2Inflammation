@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF3A,Kif3a,S687-p,454304,KTGRRKRsAKPETVI,"molecular association, regulation; intracellular localization","exocytosis, inhibited",24338362; 25878107,,"Cargo transport, Only the phosphorylated KIF3A motor will move along the microtubules.; decrease  intracellular trafficking  and  cell surface expression of CD1d",TUBA1A,Tuba1a,INDUCES

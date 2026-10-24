@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MVD,Mvd,S96-p,476192,LARKRRNsRDGDPLP,"activity, induced","apoptosis, inhibited",25378391,,"Rac1 activation/geranylgeranylation, disruption of the mevalonate pathway induces macrophage apoptosis. ",,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC25A4,Slc25a4,K23-ac,25541520,GVAAAVSkTAVAPIE,"molecular association, regulation",,34332952,Mito_carr; TM,Acetylation at K23 reduces binding of SLC25A4 to ADP.,,,
+SLC25A4,Slc25a4,Y195-p,457913,RAAYFGVyDTAKGML,,"cell growth, altered",20007455,Mito_carr; TM,required for an efficient oxidative growth in yeast ,,,
+SLC25A4,Slc25a4,Y191-p,462625,IIIYRAAyFGVYDTA,,"cell growth, altered",20007455,Mito_carr; TM,required for an efficient oxidative growth in yeast ,,,

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIAH2,Siah2,T119-p,26371004,PTCRGALtPSIRNLA,"protein degradation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,22878263; 23044042; 26751770,,,,,
+SIAH2,Siah2,T279-p,1872043500,RRLTWEAtPRSIHDG,protein stabilization,"carcinogenesis, induced; cell motility, induced; cell growth, induced",33536006,Sina,,,,
+SIAH2,Siah2,S28-p,471339,PQPQHTPsPAAPPAA,"protein degradation; molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,19043406; 22878263; 23044042; 26751770,,,HIPK2,Hipk2,DISRUPTS
+SIAH2,Siah2,S68-p,5393502,GGGAGPVsPQHHELT,"protein degradation; molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,19043406; 22878263; 23044042; 26751770,,,HIPK2,Hipk2,DISRUPTS
+SIAH2,Siah2,S16-p,26371003,PSANKPCsKQPPPQP,"protein degradation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,22878263; 23044042,,,,,
+SIAH2,Siah2,T26-p,5393503,PPPQPQHtPSPAAPP,"protein degradation; molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,19043406; 22878263; 23044042; 26751770,,,HIPK2,Hipk2,DISRUPTS
+SIAH2,Siah2,S167-p,22878300,ICEYRPYsCPCPGAS,"enzymatic activity, induced",,21409570,Sina,,,,
+SIAH2,Siah2,S6-p,25172963,__MSRPSsTGPSANK,protein stabilization,"carcinogenesis, induced; cell motility, induced; cell growth, induced",33536006,,,,,

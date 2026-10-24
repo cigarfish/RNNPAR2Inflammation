@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LEO1,Leo1,S88-p,83111281,SERSDNRsEASERSD,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; signaling pathway regulation",30305722,,,CTNNB1,Ctnnb1,DISRUPTS
+LEO1,Leo1,S91-p,1271628700,SDNRSEAsERSDHED,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; signaling pathway regulation",30305722,,,CTNNB1,Ctnnb1,DISRUPTS
+LEO1,Leo1,S110-p,55377670,DVDQHSGsEAPNDDE,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; signaling pathway regulation",30305722,,,CTNNB1,Ctnnb1,DISRUPTS

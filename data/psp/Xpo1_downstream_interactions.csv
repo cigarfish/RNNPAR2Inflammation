@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XPO1,Xpo1,S1055-p,453528,EKHKRQMsVPGIFNP,"activity, induced; intracellular localization","autophagy, induced; signaling pathway regulation",31544310,," Hippo signaling pathway; regulates subcellular localization (nuclear exit) of NDR1 (aka STK38), Beclin1 and YAP1",,,
+XPO1,Xpo1,S391-p,3174716,SPFSTSAsPLLSGSQ,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23729730,,,RAN,Ran,INDUCES

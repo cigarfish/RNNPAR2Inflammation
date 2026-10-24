@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNE2,Ccne2,T392-p,452067,VCNGGIMtPPKSTEK,protein degradation; ubiquitination,,19084516; 9840943,,,,,
+CCNE2,Ccne2,S396-p,4271425,GIMTPPKsTEKPPGK,protein degradation; ubiquitination,,19084516,,,,,
+CCNE2,Ccne2,T74-p,5996402,SPCIIIEtPHKEIGT,protein degradation; ubiquitination,,19084516,,,,,

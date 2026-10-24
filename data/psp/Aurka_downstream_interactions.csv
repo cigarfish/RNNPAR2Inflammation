@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AURKA,Aurka,K117-me,1880481802,PEEELASkQKNEESK,"molecular association, regulation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",30013191,,,p53,Trp53,INDUCES
+AURKA,Aurka,Y148-p,457653,KGKFGNVyLAREKQS,intracellular localization,cell cycle regulation,27242098,Pkinase,centrosomal recruitment,,,
+AURKA,Aurka,K143-ub,21129736,GRPLGKGkFGNVYLA,"protein degradation; enzymatic activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited",34758762,Pkinase,,,,
+AURKA,Aurka,S283-p,3339003,GWSVHAPsSRRTTLC,protein degradation; ubiquitination,,38442201,Pkinase,,,,
+AURKA,Aurka,T287-p,457654,HAPSSRRtTLCGTLD,"enzymatic activity, inhibited; enzymatic activity, induced",,15173575; 23924325,Pkinase,,,,
+AURKA,Aurka,S342-p,457608,QETYKRIsRVEFTFP,"protein degradation; ubiquitination; enzymatic activity, induced",cell cycle regulation; cytoskeletal reorganization,16246726; 38442201,Pkinase,,,,
+AURKA,Aurka,K75-ac,1873284338,HKPVQNQkQKQLQAT,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced",28915666,,may lead to development of cancer ,,,
+AURKA,Aurka,S284-p,2370900,WSVHAPSsRRTTLCG,"protein degradation; ubiquitination; enzymatic activity, induced",,16785988; 38442201,Pkinase,,,,
+AURKA,Aurka,K125-ac,1873284340,QKNEESKkRQWALED,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced",28915666,,may lead to development of cancer ,,,
+AURKA,Aurka,K14-me,1880481800,NCISGPVkATAPVGG,"molecular association, regulation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",30013191,,,p53,Trp53,INDUCES
+AURKA,Aurka,S51-p,457655,AQRVLCPsNSSQRIP,protein stabilization,"cell cycle regulation; cell growth, induced",17229885; 17895985,,dephosphorylation by PPP2CA leads to the protein degradation; transformation,,,
+AURKA,Aurka,R304-me,1881955600,PPEMIEGrMHDEKVD,"phosphorylation; enzymatic activity, induced",,37370099,,PRMT5-induced DLG7 methylation is required for  DLG7 S725 phosphorylation,,,
+AURKA,Aurka,S89-p,25157200,TSVPHPVsRPLNNTQ,"enzymatic activity, induced",cell cycle regulation; cytoskeletal reorganization,22451695,,,,,
+AURKA,Aurka,T288-p,448784,APSSRRTtLCGTLDY,"intracellular localization; protein conformation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; autophagy, induced; cell motility, induced; apoptosis, inhibited; transcription, induced; cytoskeletal reorganization",15173575; 16082213; 16246726; 16785988; 17545617; 19669217; 20603326; 22094468; 23924325; 26165940; 27242098; 27721411; 31154600; 33744274; 33760847; 33771996; 33805672; 36372230; 38129815,Pkinase,,,,

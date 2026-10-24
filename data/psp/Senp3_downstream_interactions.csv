@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SENP3,Senp3,S26-p,4957737,GIPPAYSsPRRERLR,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,T145-p,36438202,YSKSTSLtFHWKLWG,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,S143-p,36438203,LLYSKSTsLTFHWKL,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,T142-p,36438200,MLLYSKStSLTFHWK,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,S25-p,4172600,PGIPPAYsSPRRERL,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,S139-p,36438204,AFRMLLYsKSTSLTF,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES
+SENP3,Senp3,S141-p,36438201,RMLLYSKsTSLTFHW,"molecular association, regulation; intracellular localization",,25288641,,ribosome biogenesis-28S rRNA maturation,NPM1,Npm1,INDUCES

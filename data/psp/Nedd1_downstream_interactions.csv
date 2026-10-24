@@ -1,0 +1,19 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEDD1,Nedd1,S568-p,25533011,AGVASSLsEKIADSI,"molecular association, regulation",cytoskeletal reorganization,22595525,,Promote NEDD1 activity; regulates spindle assembly in mitosis,TUBG1,Tubg1,INDUCES
+NEDD1,Nedd1,S637-p,9379000,HSLLERYsVNEGLVA,"molecular association, regulation",cell cycle regulation,19509060,,important for binding of NEDD1 with gamma-tubulin,,,
+NEDD1,Nedd1,S558-p,25533010,PNPKIASsVTAGVAS,"molecular association, regulation",cytoskeletal reorganization,22595525,,regulates spindle assembly in mitosis; Negative effect on NEDD1 function,TUBG1,Tubg1,INDUCES
+NEDD1,Nedd1,S405-p,4706050,FDDTGKSsLGDMFSP,intracellular localization,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",23273898; 31028180,,"microtubule nucleation at the central spindle during Anaphase; microtubule nucleation (vicinity of chromosomes) & spindle assembly, functional K-fibre formation, RANGTP aster formation",,,
+NEDD1,Nedd1,T550-p,6225645,PPINGSStPNPKIAS,"molecular association, regulation; phosphorylation",cell cycle regulation,19509060; 21690413,,,PLK1,Plk1,INDUCES
+NEDD1,Nedd1,S574-p,25533015,LSEKIADsIGNNRQN,"molecular association, regulation",cytoskeletal reorganization,22595525,,Promote NEDD1 activity; regulates spindle assembly in mitosis,TUBG1,Tubg1,INDUCES
+NEDD1,Nedd1,S557-p,25533019,TPNPKIAsSVTAGVA,"molecular association, regulation",cytoskeletal reorganization,22595525,,regulates spindle assembly in mitosis; Negative effect on NEDD1 function,TUBG1,Tubg1,INDUCES
+NEDD1,Nedd1,S460-p,20609205,STSVLHSsPLNVFMG,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,21690413,,,PLK1,Plk1,INDUCES
+NEDD1,Nedd1,S565-p,25533008,SVTAGVAsSLSEKIA,"molecular association, regulation",cytoskeletal reorganization,22595525,,Promote NEDD1 activity; regulates spindle assembly in mitosis,TUBG1,Tubg1,INDUCES
+NEDD1,Nedd1,T382-p,9379001,PRSINTDtLSKETDS,"molecular association, regulation",cell cycle regulation,19509060,,important for binding of NEDD1 with gamma-tubulin,,,
+NEDD1,Nedd1,S411-p,3207015,SSLGDMFsPIRDDAV,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,21690413; 22595525,,Microtubule amplification pathway regulation,HAUS8,Haus8,INDUCES
+NEDD1,Nedd1,T560-p,25533013,PKIASSVtAGVASSL,,cytoskeletal reorganization,22595525,,Negative effect on NEDD1 function,,,
+NEDD1,Nedd1,S426-p,9379002,VNKGSDEsIGKGDGF,"molecular association, regulation",cell cycle regulation,19509060,,important for binding of NEDD1 with gamma-tubulin,,,
+NEDD1,Nedd1,S397-p,4272994,GKNQDFSsFDDTGKS,"molecular association, regulation",cell cycle regulation,19509060,,important for binding of NEDD1 with gamma-tubulin,,,
+NEDD1,Nedd1,S377-p,12737836,EKAGLPRsINTDTLS,intracellular localization,cytoskeletal reorganization,22818914,,recruitment of NEDD1 and gamma-tubulin to the centrosome during mitosis,,,
+NEDD1,Nedd1,S325-p,15421692,PTTVNKRsVNVNAAS,"molecular association, regulation",cell cycle regulation,33351100,,regulation of cartwheel assembly and centriole biogenesis,TUBG1,Tubg1,DISRUPTS
+NEDD1,Nedd1,S325-p,15421692,PTTVNKRsVNVNAAS,"molecular association, regulation",cell cycle regulation,33351100,,regulation of cartwheel assembly and centriole biogenesis,SAS6,Sas6,INDUCES
+NEDD1,Nedd1,S566-p,25533016,VTAGVASsLSEKIAD,"molecular association, regulation",cytoskeletal reorganization,22595525,,Promote NEDD1 activity; regulates spindle assembly in mitosis,TUBG1,Tubg1,INDUCES

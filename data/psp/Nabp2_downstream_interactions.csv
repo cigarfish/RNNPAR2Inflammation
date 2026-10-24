@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NABP2,Nabp2,K79-sm,1877008701,KGYASVFkGCLTLYT,"protein stabilization; molecular association, regulation","apoptosis, induced",32576812,tRNA_anti-codon,"recruitment of the MRN complex to DSB sites, sumoylation enhances the sensitivity of cancer cells to DNA damage agents",NBS1,Nbn,INDUCES
+NABP2,Nabp2,K94-sm,1877008702,GRGGDLQkIGEFCMV,"protein stabilization; molecular association, regulation","apoptosis, induced",32576812,tRNA_anti-codon,"recruitment of the MRN complex to DSB sites, sumoylation enhances the sensitivity of cancer cells to DNA damage agents",NBS1,Nbn,INDUCES
+NABP2,Nabp2,S134-p,25302960,NDSNPSAsQPTTGPS,,"DNA repair, induced",28448822,,,,,
+NABP2,Nabp2,T117-p,12526701,EPNPEYStQQAPNKA,protein stabilization,,23178594; 25249620,,,FBXO15,Fbxo15,DISRUPTS

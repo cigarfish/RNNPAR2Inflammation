@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMK2B,Camk2b,T287-p,450048,SMMHRQEtVECLKKF,"molecular association, regulation","cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",35396220; 38414237,,,Calmodulin,Calm1,INDUCES
+CAMK2B,Camk2b,T307-p,2020797,LKGAILTtMLATRNF,"molecular association, regulation",,38414237,,,Calmodulin,Calm1,INDUCES
+CAMK2B,Camk2b,T306-p,451706,KLKGAILtTMLATRN,"molecular association, regulation",,38414237,,,Calmodulin,Calm1,INDUCES

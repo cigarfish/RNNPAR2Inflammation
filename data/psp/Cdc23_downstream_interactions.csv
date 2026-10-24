@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC23,Cdc23,S588-p,453023,NTPTRRVsPLNLSSV,,"DNA repair, altered",38433256,,,,,

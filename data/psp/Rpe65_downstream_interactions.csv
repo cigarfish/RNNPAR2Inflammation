@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPE65,Rpe65,C112-pa,12559508,TCAFPDPcKNIFSRF,"intracellular localization; enzymatic activity, induced",,19049981,RPE65,membrane localization,,,

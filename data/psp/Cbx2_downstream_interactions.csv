@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CBX2,Cbx2,K153-sm,55428441,KAQILVAkPELKDPI,protein degradation,"cell growth, inhibited",29467492,,inhibits ubiquitination,,,
+CBX2,Cbx2,K60-sm,1880612500,RLLLAFQkKEHEKEV,protein degradation,"cell growth, inhibited",29467492,,inhibits ubiquitination,,,
+CBX2,Cbx2,K410-sm,1880612700,TMPTDTSkSEKLASR,protein degradation,"cell growth, inhibited",29467492,,inhibits ubiquitination,,,
+CBX2,Cbx2,K199-ac,15293739,DLGAPASkLPPPLSA,"protein stabilization; molecular association, regulation; ubiquitination",,39256572,,,USP33,Usp33,INDUCES

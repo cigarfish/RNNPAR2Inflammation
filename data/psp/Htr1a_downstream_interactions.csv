@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HTR1A,Htr1a,T314-p,1867735500,LPSEAGPtPCAPASF,protein degradation; intracellular localization,signaling pathway regulation,30712943,7tm_1,5-HT signaling,,,

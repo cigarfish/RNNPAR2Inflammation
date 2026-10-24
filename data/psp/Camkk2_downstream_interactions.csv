@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMKK2,Camkk2,S100-p,4755871,HLSGRKLsLQERSQG,"molecular association, regulation; enzymatic activity, inhibited; phosphorylation",,32913128,,inhibits dephosphorylation at S495,14-3-3 beta,Ywhab,INDUCES
+CAMKK2,Camkk2,S495-p,469882,KTMIRKRsFGNPFEG,"molecular association, regulation; enzymatic activity, inhibited",,32913128,,,Calmodulin,Calm1,DISRUPTS
+CAMKK2,Camkk2,S511-p,2861414,RREERSLsAPGNLLT,"molecular association, regulation; enzymatic activity, inhibited; phosphorylation",,15209507; 32913128,,increases autophosphorylation; inhibits dephosphorylation at S495,14-3-3 beta,Ywhab,INDUCES
+CAMKK2,Camkk2,T85-p,31873289,GQEVPLDtSGSQARP,"phosphorylation; enzymatic activity, induced",signaling pathway regulation,26395653; 32216002,,"autonomous activity in the presence of EGTA was lost in a CaMKK2 T85A mutant, molecular memory; induces phosphorylation of substrate AMPK, thus inducing CAMKK2 signaling",,,

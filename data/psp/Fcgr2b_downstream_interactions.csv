@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FCGR2B,Fcgr2b,Y292-p,448507,GAENTITySLLMHPD,"molecular association, regulation",,10704309,,,SHP-2,Ptpn11,INDUCES
+FCGR2B,Fcgr2b,Y273-p,448507,GAENTITySLLMHPD,"molecular association, regulation",,27834631,,,SHP-2,Ptpn11,INDUCES

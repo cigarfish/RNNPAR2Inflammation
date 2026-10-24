@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MIS18A,Mis18a,S36-p,18012204,SLLGKRLsEDSSRHQ,,cell cycle regulation,29416714,,necessary for faithful mitotic division;  enhances PLK1 kinetochore recruitment,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBBP6,Rbbp6,S772-p,453736,RYHSRSRsPQAFRGQ,"molecular association, regulation","carcinogenesis, induced",38569015,,,SIRT6,Sirt6,INDUCES

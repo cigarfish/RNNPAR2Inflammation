@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EHMT1,Ehmt1,K450-me,1885722810,KRRRRSRkKPSGALG,,"carcinogenesis, inhibited; chromatin organization, altered; cell growth, inhibited; transcription, altered",37663929,, reprograms EHMT1-mediated transcription; K450/451R mutant was blocked by EHMT1 inhibition (UNC0642),,,
+EHMT1,Ehmt1,K451-me,1885723902,RRRRSRKkPSGALGS,,"carcinogenesis, inhibited; chromatin organization, altered; cell growth, inhibited; transcription, altered",37663929,, reprograms EHMT1-mediated transcription; K450/451R mutant was blocked by EHMT1 inhibition (UNC0642),,,

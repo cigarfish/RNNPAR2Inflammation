@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPRE,Ptpre,N30-ng,1871141701,NETTADSnETTTTSG,phosphorylation,,31722979,,mutants decrease phosphorylation,,,
+PTPRE,Ptpre,N23-ng,1871141700,LARALRGnETTADSN,phosphorylation,,31722979,,mutants decrease phosphorylation,,,

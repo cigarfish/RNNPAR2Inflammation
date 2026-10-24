@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LRP2,Lrp2,T4478-p,767906,SENGNGVtFRSGADL,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,
+LRP2,Lrp2,S4627-p,767903,PAKPKPPsRRDPTPT,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,
+LRP2,Lrp2,S4616-p,767904,VAATPPPsPSLPAKP,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,
+LRP2,Lrp2,S4527-p,767902,IFENPMYsARDSAVK,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,
+LRP2,Lrp2,T4641-p,767907,TYSATEDtFKDTANL,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,
+LRP2,Lrp2,S4587-p,767905,WNLFKRKsKQTTNFE,"receptor internalization, altered; receptor recycling, altered",,17555532,,,,,

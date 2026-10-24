@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPB8,Hspb8,S57-p,2201401,DWALPRLsSAWPGTL,protein degradation; protein conformation,,18298377,,in vitro;  decreases oligomerization and chaperone-like activity of H11,,,
+HSPB8,Hspb8,S27-p,7994902,PFRDSPLsSRLLDDG,protein conformation,,21526341,,decrease chaperone activity,,,
+HSPB8,Hspb8,S24-p,2201402,RRDPFRDsPLSSRLL,protein conformation,,21526341,,decrease chaperone activity,,,
+HSPB8,Hspb8,T87-p,467970,GVPAEGRtPPPFPGE,protein conformation,,21526341,,increase chaperone activity,,,

@@ -1,0 +1,274 @@
+﻿observation_id,contrast_id,target_type,target_raw,graph_target_id,mapping_status,observation_role,readout_type,site,effect_direction,log2fc,fold_change,quantitative_value,unit,pvalue,padj,measured,significant,source_figure,notes
+PAR2_11_C1_O01,PAR2_11_C1,signal_entity,Ca2+,SE_CA2,exact_signal,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,signaling assays,
+PAR2_11_C1_O02,PAR2_11_C1,gene,ERK1/2,Mapk1;Mapk3,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,signaling assays,
+PAR2_11_C1_O03,PAR2_11_C1,gene,RHOA,Rhoa,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,,
+PAR2_11_C1_O04,PAR2_11_C1,gene,CXCL8,,unmapped,downstream_output,transcript/secretion,,down,,,,,,,1,1,,Human CXCL8 has no simple one-to-one mouse graph target; retain observation but do not use as graph-target supervision.
+PAR2_12_C1_O01,PAR2_12_C1,gene,occludin,Ocln,exact_mouse,downstream_output,total_protein,,down,,,,,<0.01,,1,1,Fig. 5b,
+PAR2_12_C1_O02,PAR2_12_C1,gene,ZO-1,Tjp1,exact_mouse,downstream_output,total_protein,,down,,,,,0.013,,1,1,Fig. 5b,
+PAR2_12_C1_O03,PAR2_12_C1,gene,claudin-1,Cldn1,exact_mouse,downstream_output,total_protein,,down,,,,,0.048,,1,1,Fig. 5b,
+PAR2_12_C1_O04,PAR2_12_C1,phenotype,intestinal permeability,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,Fig. 6a,
+PAR2_12_C2_O01,PAR2_12_C2,gene,occludin,Ocln,exact_mouse,downstream_output,total_protein,,up,,,,,<0.01,,1,1,Fig. 5c,
+PAR2_12_C2_O02,PAR2_12_C2,gene,claudin-1,Cldn1,exact_mouse,downstream_output,total_protein,,unchanged,,,,,0.08,,1,0,Fig. 5c,Measured trend upward but not significant; retained as true measured nonresponse.
+PAR2_12_C2_O03,PAR2_12_C2,gene,ZO-1,Tjp1,exact_mouse,downstream_output,total_protein,,unchanged,,,,,,,1,0,Fig. 5c,Measured but no significant antagonist effect reported.
+PAR2_12_C2_O04,PAR2_12_C2,phenotype,intestinal permeability,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 6a,
+PAR2_13_C1_O01,PAR2_13_C1,gene,p38 MAPK,Mapk14,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O02,PAR2_13_C1,gene,AKT,Akt1,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O03,PAR2_13_C1,gene,mTOR,Mtor,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O04,PAR2_13_C1,gene,NF-kB p65,Rela,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O05,PAR2_13_C1,gene,COX2,Ptgs2,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O06,PAR2_13_C1,gene,MMP13,Mmp13,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O07,PAR2_13_C1,gene,cleaved caspase-3,Casp3,rat_mouse_ortholog,downstream_output,protein_cleavage,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O08,PAR2_13_C1,gene,LC3-II,Map1lc3b,rat_mouse_ortholog,downstream_output,total_protein,,up,,,,,,,1,1,Figs. 5-6,
+PAR2_13_C1_O09,PAR2_13_C1,gene,BAX/Bcl-2 ratio,Bax;Bcl2,rat_mouse_ortholog,mechanistic_intermediate,protein_ratio,,down,,,,,,,1,1,Fig.4C-D,composite protein-ration observation
+PAR2_15_C1_O01,PAR2_15_C1,gene,TNF-alpha,Tnf,rat_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_15_C1_O02,PAR2_15_C1,gene,COX2,Ptgs2,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,,
+PAR2_15_C1_O03,PAR2_15_C1,gene,MMP13,Mmp13,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,,
+PAR2_15_C1_O04,PAR2_15_C1,gene,p38 MAPK,Mapk14,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_15_C1_O05,PAR2_15_C1,gene,NF-kB p65,Rela,rat_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_15_C1_O06,PAR2_15_C1,gene,p62/SQSTM1,Sqstm1,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,,
+PAR2_15_C1_O07,PAR2_15_C1,gene,LC3-II,Map1lc3b,rat_mouse_ortholog,downstream_output,total_protein,,up,,,,,,,1,1,,
+PAR2_17_C1_O01,PAR2_17_C1,signal_entity,DAG,SE_DAG,exact_signal,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 5,
+PAR2_17_C1_O02,PAR2_17_C1,signal_entity,Ca2+,SE_CA2,exact_signal,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 5,
+PAR2_17_C1_O03,PAR2_17_C1,gene,FAK/PTK2,Ptk2,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 5,
+PAR2_17_C1_O04,PAR2_17_C1,gene,ERK1/2,Mapk1;Mapk3,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 5,
+PAR2_17_C1_O05,PAR2_17_C1,gene,RHOA,Rhoa,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,,
+PAR2_18_C1_O01,PAR2_18_C1,gene,AKT,Akt1,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_18_C1_O02,PAR2_18_C1,gene,NF-kB p65,Rela,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_18_C1_O03,PAR2_18_C1,gene,FoxO6,Foxo6,human_mouse_ortholog,mechanistic_intermediate,total_protein,,up,,,,,,,1,1,,
+PAR2_18_C1_O04,PAR2_18_C1,gene,IL-6,Il6,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_18_C1_O05,PAR2_18_C1,gene,IL-1beta,Il1b,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_18_C1_O06,PAR2_18_C1,gene,MnSOD,Sod2,human_mouse_ortholog,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_18_C1_O07,PAR2_18_C1,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,down,,,,,,,1,1,,
+PAR2_18_C2_O01,PAR2_18_C2,gene,AKT,Akt1,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_18_C2_O02,PAR2_18_C2,gene,NF-kB p65,Rela,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,,
+PAR2_18_C2_O03,PAR2_18_C2,gene,FoxO6,Foxo6,exact_mouse,mechanistic_intermediate,total_protein,,up,,,,,,,1,1,,
+PAR2_18_C2_O04,PAR2_18_C2,gene,IL-6,Il6,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_18_C2_O05,PAR2_18_C2,gene,IL-1beta,Il1b,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_18_C2_O06,PAR2_18_C2,gene,MnSOD,Sod2,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_18_C2_O07,PAR2_18_C2,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,down,,,,,,,1,1,,
+PAR2_19_C1_O01,PAR2_19_C1,gene,GLUT2,Slc2a2,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_19_C1_O02,PAR2_19_C1,gene,AKT pS473,Akt1,exact_mouse,mechanistic_intermediate,site_phosphorylation,S473,up,,,,,,,1,1,,
+PAR2_19_C1_O03,PAR2_19_C1,gene,GSK3beta phospho,Gsk3b,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,,
+PAR2_19_C1_O04,PAR2_19_C1,phenotype,hepatic glucose uptake,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,,
+PAR2_19_C1_O05,PAR2_19_C1,phenotype,hepatic glycogen storage,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,,
+PAR2_23_C1_O01,PAR2_23_C1,gene,MMP2,Mmp2,exact_mouse,downstream_output,enzyme_activity,,down,,,,,,,1,1,,APC-induced MMP2 activation reduced in Par2 KO fibroblasts.
+PAR2_23_C1_O02,PAR2_23_C1,gene,MMP9,Mmp9,exact_mouse,downstream_output,enzyme_activity,,unchanged,,,,,,,1,0,,Measured; PAR2 inhibition/KO had little effect. True measured nonresponse.
+PAR2_24_C1_O01,PAR2_24_C1,gene,ARG1,Arg1,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,,
+PAR2_24_C1_O02,PAR2_24_C1,gene,SMAD2/3 phospho,Smad2;Smad3,exact_mouse,mechanistic_intermediate,phosphoprotein,,unchanged,,,,,,,1,0,,Co-exposure increased pSMAD2/3 but genotype difference was not significant.
+PAR2_24_C1_O03,PAR2_24_C1,gene,STAT6 phospho,Stat6,exact_mouse,mechanistic_intermediate,phosphoprotein,,unchanged,,,,,,,1,0,,pSTAT6 induced similarly in both genotypes.
+PAR2_24_C1_O04,PAR2_24_C1,gene,NF-kB phospho,Rela,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,,NF-kB phosphorylation was increased in Par2 KO lungs in this exposure context.
+PAR2_24_C1_O05,PAR2_24_C1,phenotype,airway fibrosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,,
+PAR2_25_C1_O01,PAR2_25_C1,gene,ERK1/2 phospho,Mapk1;Mapk3,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O02,PAR2_25_C1,gene,NLRP3,Nlrp3,exact_mouse,mechanistic_intermediate,total_protein,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O03,PAR2_25_C1,gene,Caspase-1,Casp1,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O04,PAR2_25_C1,gene,IL-1beta,Il1b,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O05,PAR2_25_C1,gene,iNOS,Nos2,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O06,PAR2_25_C1,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O07,PAR2_25_C1,gene,IL-6,Il6,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C1_O08,PAR2_25_C1,signal_entity,NO,SE_NO,exact_signal,downstream_output,signal_activity,,down,,,,,,,1,1,Fig. 4,
+PAR2_25_C2_O01,PAR2_25_C2,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 6,
+PAR2_25_C2_O02,PAR2_25_C2,gene,IL-6,Il6,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 6,
+PAR2_25_C2_O03,PAR2_25_C2,gene,IL-1beta,Il1b,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 6,
+PAR2_25_C2_O04,PAR2_25_C2,gene,NLRP3,Nlrp3,exact_mouse,mechanistic_intermediate,total_protein,,down,,,,,,,1,1,Fig. 6,
+PAR2_25_C2_O05,PAR2_25_C2,gene,iNOS,Nos2,exact_mouse,mechanistic_intermediate,total_protein,,down,,,,,,,1,1,Fig. 6,
+PAR2_28_C1_O01,PAR2_28_C1,gene,CPT1alpha,Cpt1a,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_28_C1_O02,PAR2_28_C1,gene,ACOX1,Acox1,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_28_C1_O03,PAR2_28_C1,gene,Cdkn1a/p21,Cdkn1a,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C1_O04,PAR2_28_C1,gene,CCL2,Ccl2,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C1_O05,PAR2_28_C1,phenotype,kidney fibrosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,,
+PAR2_28_C2_O01,PAR2_28_C2,gene,CPT1alpha,Cpt1a,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_28_C2_O02,PAR2_28_C2,gene,ACOX1,Acox1,exact_mouse,downstream_output,transcript/protein,,up,,,,,,,1,1,,
+PAR2_28_C2_O03,PAR2_28_C2,gene,Col1a2,Col1a2,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C2_O04,PAR2_28_C2,gene,Vimentin,Vim,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C2_O05,PAR2_28_C2,gene,alpha-SMA,Acta2,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C2_O06,PAR2_28_C2,gene,CCL2,Ccl2,exact_mouse,downstream_output,transcript/protein,,down,,,,,,,1,1,,
+PAR2_28_C2_O07,PAR2_28_C2,phenotype,kidney fibrosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,,
+PAR2_31_C1_O01,PAR2_31_C1,gene,4-Oct,Pou5f1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O02,PAR2_31_C1,gene,SOX2,Sox2,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O03,PAR2_31_C1,gene,NANOG,Nanog,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O04,PAR2_31_C1,gene,SNAIL1,Snai1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O05,PAR2_31_C1,gene,SLUG,Snai2,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O06,PAR2_31_C1,gene,TWIST1,Twist1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O07,PAR2_31_C1,gene,Vimentin,Vim,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C1_O08,PAR2_31_C1,gene,E-cadherin,Cdh1,human_mouse_ortholog,downstream_output,transcript/protein,,up,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O01,PAR2_31_C2,gene,4-Oct,Pou5f1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O02,PAR2_31_C2,gene,SOX2,Sox2,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O03,PAR2_31_C2,gene,NANOG,Nanog,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O04,PAR2_31_C2,gene,SNAIL1,Snai1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O05,PAR2_31_C2,gene,SLUG,Snai2,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O06,PAR2_31_C2,gene,TWIST1,Twist1,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O07,PAR2_31_C2,gene,Vimentin,Vim,human_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,Fig. 3,
+PAR2_31_C2_O08,PAR2_31_C2,gene,E-cadherin,Cdh1,human_mouse_ortholog,downstream_output,transcript/protein,,up,,,,,,,1,1,Fig. 3,
+PAR2_33_C1_O01,PAR2_33_C1,gene,RAGE,Ager,exact_mouse,mechanistic_intermediate,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O02,PAR2_33_C1,gene,ERK1/2 phospho,Mapk1;Mapk3,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O03,PAR2_33_C1,gene,GPX4,Gpx4,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O04,PAR2_33_C1,gene,E-cadherin,Cdh1,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O05,PAR2_33_C1,gene,N-cadherin,Cdh2,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O06,PAR2_33_C1,gene,Vimentin,Vim,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O07,PAR2_33_C1,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,up,,,,,,,1,1,Figs. 5-6,
+PAR2_33_C1_O08,PAR2_33_C1,phenotype,ferroptosis,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,,
+PAR2_33_C1_O09,PAR2_33_C1,phenotype,EMT / migration,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,,
+ARRB_01_C1_O01,ARRB_01_C1,gene,AKT,Akt1,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,western blot,Arrb2 deletion hyperactivated Akt-mTOR signaling.
+ARRB_01_C1_O02,ARRB_01_C1,gene,mTOR,Mtor,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,western blot,Arrb2 deletion hyperactivated Akt-mTOR signaling.
+ARRB_01_C1_O03,ARRB_01_C1,gene,LC3B,Map1lc3b,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,western blot,
+ARRB_01_C1_O04,ARRB_01_C1,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,up,,,,,,,1,1,mitochondrial assays,
+ARRB_01_C1_O05,ARRB_01_C1,phenotype,mitochondrial membrane potential,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,mitochondrial assays,
+ARRB_01_C1_O06,ARRB_01_C1,phenotype,ATP production,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,mitochondrial assays,
+ARRB_02_C1_O01,ARRB_02_C1,gene,LC3B-II,Map1lc3b,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,mitophagy assays,
+ARRB_02_C1_O02,ARRB_02_C1,gene,PINK1,Pink1,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,mitophagy assays,
+ARRB_02_C1_O03,ARRB_02_C1,gene,Parkin,Prkn,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,mitophagy assays,
+ARRB_02_C1_O04,ARRB_02_C1,gene,p62/SQSTM1,Sqstm1,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,mitophagy assays,
+ARRB_02_C1_O05,ARRB_02_C1,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,up,,,,,,,1,1,mitochondrial assays,
+ARRB_02_C1_O06,ARRB_02_C1,phenotype,mitochondrial membrane potential,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,mitochondrial assays,
+ARRB_02_C1_O07,ARRB_02_C1,phenotype,ATP production,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,mitochondrial assays,
+ARRB_03_C1_O01,ARRB_03_C1,gene,IL-1beta,Il1b,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 2,Liver-tissue qRT-PCR after LPS.
+ARRB_03_C1_O02,ARRB_03_C1,gene,IL-6,Il6,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 2,Liver-tissue qRT-PCR after LPS.
+ARRB_03_C1_O03,ARRB_03_C1,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 2,Liver-tissue qRT-PCR after LPS.
+ARRB_03_C1_O04,ARRB_03_C1,gene,IL-10,Il10,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 2,Liver-tissue qRT-PCR after LPS.
+ARRB_03_C1_O05,ARRB_03_C1,phenotype,LPS-induced liver injury,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,in vivo liver injury,
+ARRB_03_C2_O01,ARRB_03_C2,gene,IL-1beta,Il1b,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 3,RAW264.7 qRT-PCR at 6 h after LPS.
+ARRB_03_C2_O02,ARRB_03_C2,gene,IL-6,Il6,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 3,RAW264.7 qRT-PCR at 6 h after LPS.
+ARRB_03_C2_O03,ARRB_03_C2,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 3,RAW264.7 qRT-PCR at 6 h after LPS.
+ARRB_03_C2_O04,ARRB_03_C2,gene,IL-10,Il10,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,Fig. 3,RAW264.7 qRT-PCR at 6 h after LPS.
+ARRB_03_C2_O05,ARRB_03_C2,gene,phospho-IκBα,Nfkbia,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,Fig. 4,
+ARRB_03_C2_O06,ARRB_03_C2,gene,phospho-NF-kB p65,Rela,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,Fig. 4,
+ARRB_04_C1_O01,ARRB_04_C1,gene,IL-6,Il6,exact_mouse,downstream_output,secretion,,up,,,,,,,1,1,LPS-stimulated PMN assay,
+ARRB_04_C1_O02,ARRB_04_C1,gene,CD18,Itgb2,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,PMN adhesion-marker assay,
+ARRB_04_C1_O03,ARRB_04_C1,gene,CD62L,Sell,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,PMN adhesion-marker assay,
+ARRB_04_C1_O04,ARRB_04_C1,phenotype,PMN recruitment,,not_applicable,phenotype,phenotype,,up,,1.81,,,,,1,1,in vivo PMN recruitment,Reported 81% increase.
+ARRB_04_C2_O01,ARRB_04_C2,gene,myeloperoxidase activity,Mpo,exact_mouse,downstream_output,enzyme_activity,,up,,,,,,,1,1,lung MPO assay,Index of pulmonary PMN infiltrate.
+ARRB_04_C2_O02,ARRB_04_C2,phenotype,pulmonary leukosequestration,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,CLP lung assay,
+ARRB_05_C1_O01,ARRB_05_C1,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 5,Lung transcript after IgE/antigen challenge.
+ARRB_05_C1_O02,ARRB_05_C1,gene,IL-4,Il4,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 5,Lung transcript after IgE/antigen challenge.
+ARRB_05_C1_O03,ARRB_05_C1,gene,IL-5,Il5,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 5,Lung transcript after IgE/antigen challenge.
+ARRB_05_C1_O04,ARRB_05_C1,gene,IL-13,Il13,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 5,Lung transcript after IgE/antigen challenge.
+ARRB_05_C1_O05,ARRB_05_C1,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 5,BAL cytokine.
+ARRB_05_C1_O06,ARRB_05_C1,gene,IL-13,Il13,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 5,BAL cytokine.
+ARRB_05_C1_O07,ARRB_05_C1,phenotype,eosinophil recruitment,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 6 / Supplementary Fig. S3,
+ARRB_05_C1_O08,ARRB_05_C1,phenotype,neutrophil recruitment,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 6,
+ARRB_05_C1_O09,ARRB_05_C1,phenotype,goblet cell hyperplasia,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 6,
+ARRB_06_C1_O01,ARRB_06_C1,gene,CCL7,Ccl7,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4,RNA-seq and RT-PCR in PDGFRa+ fibroblasts.
+ARRB_06_C1_O02,ARRB_06_C1,phenotype,AEC2 proliferation/renewal,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,Fig. 3,
+ARRB_06_C1_O03,ARRB_06_C1,phenotype,lung fibrosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 1,
+ERK_01_C1_O01,ERK_01_C1,gene,IL-1beta,Il1b,human_mouse_ortholog,downstream_output,secretion,,down,,,,,,,1,1,Fig. 11A,MAPK3 knockdown under heme+Pam3 PANoptosis induction.
+ERK_01_C1_O02,ERK_01_C1,gene,IL-6,Il6,human_mouse_ortholog,downstream_output,secretion,,down,,,,,,,1,1,Fig. 11A,MAPK3 knockdown under heme+Pam3 PANoptosis induction.
+ERK_01_C1_O03,ERK_01_C1,gene,TNF-alpha,Tnf,human_mouse_ortholog,downstream_output,secretion,,down,,,,,,,1,1,Fig. 11A,MAPK3 knockdown under heme+Pam3 PANoptosis induction.
+ERK_01_C1_O04,ERK_01_C1,gene,IL-18,Il18,human_mouse_ortholog,downstream_output,secretion,,down,,,,,,,1,1,Fig. 11A,MAPK3 knockdown under heme+Pam3 PANoptosis induction.
+ERK_01_C1_O05,ERK_01_C1,gene,BAX,Bax,human_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,Fig. 11C,Immunofluorescence intensity.
+ERK_01_C1_O06,ERK_01_C1,gene,PRL,Prl,human_mouse_ortholog,downstream_output,transcript,,up,,,,,,,1,1,Fig. 11B,Decidualization marker partially restored.
+ERK_01_C1_O07,ERK_01_C1,gene,IGFBP1,Igfbp1,human_mouse_ortholog,downstream_output,transcript,,up,,,,,,,1,1,Fig. 11B,Decidualization marker partially restored.
+ERK_01_C1_O08,ERK_01_C1,phenotype,F-actin organization / decidualization morphology,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,Fig. 11D,Partial restoration.
+ERK_02_C1_O01,ERK_02_C1,gene,ERK2 activation,Mapk1,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,hyperoxia lung ERK assay,Compensatory pulmonary ERK2 activation in Erk1-/- mice.
+ERK_02_C1_O02,ERK_02_C1,phenotype,hyperoxia-induced inflammation,,not_applicable,phenotype,phenotype,,unchanged,,,,,,,1,0,in vivo hyperoxia study,Measured as similar between Erk1-/- and WT under hyperoxia.
+ERK_02_C1_O03,ERK_02_C1,phenotype,oxidative stress,,not_applicable,phenotype,phenotype,,unchanged,,,,,,,1,0,in vivo hyperoxia study,Measured as similar between Erk1-/- and WT under hyperoxia.
+ERK_02_C1_O04,ERK_02_C1,phenotype,alveolar/vascular simplification,,not_applicable,phenotype,phenotype,,unchanged,,,,,,,1,0,in vivo hyperoxia study,Measured as similar between Erk1-/- and WT under hyperoxia.
+ERK_02_C2_O01,ERK_02_C2,gene,ERK2 activation,Mapk1,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,HPMEC ERK assay,ERK1 knockdown increased ERK2 activation.
+ERK_02_C2_O02,ERK_02_C2,phenotype,in vitro angiogenesis,,not_applicable,phenotype,phenotype,,unchanged,,,,,,,1,0,HPMEC assay,
+ERK_02_C2_O03,ERK_02_C2,phenotype,hyperoxia-induced H2O2 production,,not_applicable,phenotype,phenotype,,unchanged,,,,,,,1,0,HPMEC assay,
+ERK_03_C1_O01,ERK_03_C1,gene,Ace,Ace,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O02,ERK_03_C1,gene,Apoa1,Apoa1,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O03,ERK_03_C1,gene,Cdh5,Cdh5,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O04,ERK_03_C1,gene,Csf2,Csf2,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O05,ERK_03_C1,gene,Eln,Eln,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O06,ERK_03_C1,gene,Fgb,Fgb,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O07,ERK_03_C1,gene,Hbegf,Hbegf,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O08,ERK_03_C1,gene,Ifng,Ifng,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O09,ERK_03_C1,gene,Il3,Il3,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O10,ERK_03_C1,gene,Il4,Il4,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O11,ERK_03_C1,gene,Il5,Il5,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O12,ERK_03_C1,gene,Itga2,Itga2,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O13,ERK_03_C1,gene,Lama1,Lama1,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O14,ERK_03_C1,gene,Ppara,Ppara,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O15,ERK_03_C1,gene,Sele,Sele,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O16,ERK_03_C1,gene,Selplg,Selplg,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O17,ERK_03_C1,gene,Vegfa,Vegfa,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Table 1 / Table S1,Significant ERK1-deficiency change in BMDM PCR array; trend-only genes were not imported.
+ERK_03_C1_O18,ERK_03_C1,phenotype,macrophage proliferation,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 1B,
+ERK_03_C1_O19,ERK_03_C1,phenotype,chemokine-driven macrophage migration,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Fig. 2,
+ERK_04_C1_O01,ERK_04_C1,gene,Camk2a KSEA activity,Camk2a,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O02,ERK_04_C1,gene,Camk2b KSEA activity,Camk2b,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O03,ERK_04_C1,gene,Camk2d KSEA activity,Camk2d,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O04,ERK_04_C1,gene,Camk2g KSEA activity,Camk2g,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O05,ERK_04_C1,gene,Dapk3 KSEA activity,Dapk3,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O06,ERK_04_C1,gene,Rock1 KSEA activity,Rock1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O07,ERK_04_C1,gene,Rock2 KSEA activity,Rock2,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O08,ERK_04_C1,gene,Prkaca KSEA activity,Prkaca,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O09,ERK_04_C1,gene,Dmpk KSEA activity,Dmpk,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O10,ERK_04_C1,gene,Prkct KSEA activity,Prkct,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O11,ERK_04_C1,gene,Mapk7 KSEA activity,Mapk7,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O12,ERK_04_C1,gene,Prkg1 KSEA activity,Prkg1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O13,ERK_04_C1,gene,Akt1 KSEA activity,Akt1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O14,ERK_04_C1,gene,Akt2 KSEA activity,Akt2,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O15,ERK_04_C1,gene,Raf1 KSEA activity,Raf1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O16,ERK_04_C1,gene,Pak1 KSEA activity,Pak1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O17,ERK_04_C1,gene,Pak5 KSEA activity,Pak5,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O18,ERK_04_C1,gene,Rps6ka2 KSEA activity,Rps6ka2,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O19,ERK_04_C1,gene,Rps6ka3 KSEA activity,Rps6ka3,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O20,ERK_04_C1,gene,Mark1 KSEA activity,Mark1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O21,ERK_04_C1,gene,Mark4 KSEA activity,Mark4,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O22,ERK_04_C1,gene,Araf KSEA activity,Araf,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O23,ERK_04_C1,gene,Chuk KSEA activity,Chuk,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O24,ERK_04_C1,gene,Rps6kb1 KSEA activity,Rps6kb1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O25,ERK_04_C1,gene,Pdpk1 KSEA activity,Pdpk1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O26,ERK_04_C1,gene,Ikbkb KSEA activity,Ikbkb,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O27,ERK_04_C1,gene,Atm KSEA activity,Atm,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O28,ERK_04_C1,gene,Plk4 KSEA activity,Plk4,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O29,ERK_04_C1,gene,Ttk KSEA activity,Ttk,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O30,ERK_04_C1,gene,Cdk1 KSEA activity,Cdk1,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O31,ERK_04_C1,gene,Cdk2 KSEA activity,Cdk2,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O32,ERK_04_C1,gene,Nek2 KSEA activity,Nek2,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_04_C1_O33,ERK_04_C1,gene,Aurka KSEA activity,Aurka,human_mouse_ortholog,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,Fig. 4A,KSEA-inferred kinase activity in ERK2-KO HCT-116; |Z-score| >= 2.
+ERK_05_C1_O01,ERK_05_C1,gene,GM-CSF,Csf2,exact_mouse,downstream_output,secretion,,down,,0.6487,,,,,1,1,Fig. 6F,Erk1-/- ASCs expressed 35.13% less GM-CSF.
+ERK_05_C1_O02,ERK_05_C1,gene,IL-1beta,Il1b,exact_mouse,downstream_output,secretion,,down,,0.1467,,,,,1,1,Fig. 6F,Reported 85.33% reduction.
+ERK_05_C1_O03,ERK_05_C1,gene,TNF-alpha,Tnf,exact_mouse,downstream_output,secretion,,down,,0.2781,,,,,1,1,Fig. 6F,Reported 72.19% reduction.
+ERK_06_C1_O01,ERK_06_C1,gene,NRF2 nuclear transport,Nfe2l2,exact_mouse,mechanistic_intermediate,signal_activity,,down,,,,,,,1,1,study molecular assays,ERK1 deficiency decreased nuclear transport of Nrf2.
+ERK_06_C1_O02,ERK_06_C1,gene,BACH1 nuclear expression,Bach1,exact_mouse,mechanistic_intermediate,signal_activity,,up,,,,,,,1,1,study molecular assays,ERK1 deficiency elevated nuclear BACH1.
+ERK_06_C1_O03,ERK_06_C1,phenotype,antioxidant enzyme expression,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,study molecular assays,
+ERK_06_C1_O04,ERK_06_C1,phenotype,chondrocyte aging / OA progression,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,in vivo/in vitro OA assays,
+ARRB_07_C1_O01,ARRB_07_C1,gene,LC3-II,Map1lc3b,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Fig. 5E,
+ARRB_07_C1_O02,ARRB_07_C1,gene,SQSTM1/p62,Sqstm1,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,Fig. 5E,
+ARRB_07_C1_O03,ARRB_07_C1,gene,cleaved caspase-3,Casp3,exact_mouse,downstream_output,protein_cleavage,,up,,,,,,,1,1,Fig. 5B,
+ARRB_07_C1_O04,ARRB_07_C1,gene,PIK3C3/Vps34 kinase activity,Pik3c3,exact_mouse,mechanistic_intermediate,enzyme_activity,,down,,,,,,,1,1,Fig. 8C,
+ARRB_07_C1_O05,ARRB_07_C1,gene,BECN1-PIK3C3 interaction,Becn1;Pik3c3,exact_mouse,mechanistic_intermediate,interaction,,down,,,,,,,1,1,Fig. 8A-B,Retained even though interaction readout is not a core Stage-2 loss in v1.
+ARRB_07_C1_O06,ARRB_07_C1,gene,TNF,Tnf,exact_mouse,downstream_output,secretion,,unchanged,,,,,,,1,0,Fig. 4A-C,Measured nonresponse in ischemic penumbra.
+ARRB_07_C1_O07,ARRB_07_C1,gene,IL-6,Il6,exact_mouse,downstream_output,secretion,,unchanged,,,,,,,1,0,Fig. 4A-C,Measured nonresponse in ischemic penumbra.
+ARRB_07_C1_O08,ARRB_07_C1,gene,CCL2,Ccl2,exact_mouse,downstream_output,secretion,,unchanged,,,,,,,1,0,Fig. 4A-C,Measured nonresponse in ischemic penumbra.
+ARRB_07_C1_O09,ARRB_07_C1,phenotype,autophagy/autophagosome formation,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,Figs. 5-6,
+ARRB_07_C1_O10,ARRB_07_C1,phenotype,neuronal apoptosis/necrosis,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,Fig. 5,
+ARRB_08_C1_O01,ARRB_08_C1,gene,AKT,Akt1,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,western blot,
+ARRB_08_C1_O02,ARRB_08_C1,gene,BCL2,Bcl2,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,western blot,
+ARRB_08_C1_O03,ARRB_08_C1,gene,BAD,Bad,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,western blot,
+ARRB_08_C1_O04,ARRB_08_C1,gene,BAX,Bax,exact_mouse,downstream_output,total_protein,,up,,,,,,,1,1,western blot,
+ARRB_08_C1_O05,ARRB_08_C1,gene,ERK1/2,Mapk1;Mapk3,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,western blot,
+ARRB_08_C1_O06,ARRB_08_C1,gene,p38 MAPK,Mapk14,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,western blot,
+ARRB_08_C1_O07,ARRB_08_C1,gene,NF-kB p65,Rela,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,western blot,
+ARRB_08_C1_O08,ARRB_08_C1,phenotype,hepatocyte apoptosis,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,TUNEL / injury assays,
+ARRB_09_C1_O01,ARRB_09_C1,gene,PI3K phosphorylation,,unmapped,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 4A-B,Paper reports p-PI3K/PI3K but exact PI3K subunit is not safely assigned to one graph gene.
+ARRB_09_C1_O02,ARRB_09_C1,gene,AKT,Akt1,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 4A-D,
+ARRB_09_C1_O03,ARRB_09_C1,gene,PCNA,Pcna,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,study proliferation assays / Fig. 7,ARRB2 loss reduced proliferative PCNA response.
+ARRB_09_C1_O04,ARRB_09_C1,gene,cleaved caspase-3,Casp3,exact_mouse,downstream_output,protein_cleavage,,up,,,,,,,1,1,Fig. 7B / apoptosis assays,
+ARRB_09_C1_O05,ARRB_09_C1,phenotype,hepatocyte apoptosis,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,TUNEL / liver injury,
+ARRB_10_C1_O01,ARRB_10_C1,gene,AKT,Akt1,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,BDL western blot,Disabled training contrast; retained for future low-weight context-diversity use.
+ARRB_10_C1_O02,ARRB_10_C1,gene,GSK3beta,Gsk3b,exact_mouse,mechanistic_intermediate,phosphoprotein,,up,,,,,,,1,1,BDL western blot,Disabled training contrast.
+ARRB_10_C1_O03,ARRB_10_C1,gene,p38 MAPK,Mapk14,exact_mouse,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,BDL western blot,p-p38 increased in WT but not Arrb2-deficient mice.
+ARRB_10_C1_O04,ARRB_10_C1,phenotype,hepatocyte apoptosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,TUNEL,Disabled training contrast.
+ARRB_10_C1_O05,ARRB_10_C1,phenotype,hepatic fibrosis,,not_applicable,phenotype,phenotype,,down,,,,,,,1,1,BDL fibrosis assays,Disabled training contrast.
+ERK_07_C1_O01,ERK_07_C1,gene,Cyp7a1,Cyp7a1,exact_mouse,downstream_output,transcript,,up,,,,,,,1,1,RNA-seq / PCR,Disabled multi-target contrast.
+ERK_07_C1_O02,ERK_07_C1,gene,small heterodimer partner,Nr0b2,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,RNA-seq / PCR,Disabled multi-target contrast.
+ERK_07_C1_O03,ERK_07_C1,phenotype,hepatitis / liver injury,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,histology / serum transaminases,Disabled multi-target contrast.
+ERK_07_C1_O04,ERK_07_C1,phenotype,hepatocyte apoptosis,,not_applicable,phenotype,phenotype,,up,,,,,,,1,1,TUNEL,Disabled multi-target contrast.
+ARRB_11_C1_O01,ARRB_11_C1,gene,phospho-ERK1/2,Mapk1;Mapk3,human_mouse_ortholog,mechanistic_intermediate,phosphoprotein,,down,,,,,,,1,1,Fig. 5D-E,Combined ARRB1+ARRB2 knockdown eliminated nuclear pERK signal; contrast disabled because current intervention model is single-source.
+ARRB_11_C1_O02,ARRB_11_C1,gene,MMP1 transcript,,unmapped,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4A,Human MMP1 retained unmapped rather than forcing a mouse ortholog.
+ARRB_11_C1_O03,ARRB_11_C1,gene,MMP1 secretion,,unmapped,downstream_output,secretion,,down,,,,,,,1,1,Fig. 4B,Human MMP1 retained unmapped.
+PAR2_26_C1_O01,PAR2_26_C1,gene,NLRP3,Nlrp3,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Fig. 4B,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=western blot; No transcript assay claimed
+PAR2_26_C1_O02,PAR2_26_C1,gene,IL-1beta,Il1b,exact_mouse,downstream_output,transcript,,down,,,,,,,1,1,Fig. 4C,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=qRT-PCR; In-vitro mechanistic assay
+PAR2_26_C1_O03A,PAR2_26_C1,gene,STING,Sting1,exact_mouse,downstream_output,total_protein,,unknown,,,,,,,1,0,Fig. 4 STING panel,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=western blot; Degradation/abundance; mixed UP direction not transferred
+PAR2_26_C1_O03B,PAR2_26_C1,gene,STING,Sting1,exact_mouse,downstream_output,phosphoprotein,,unknown,,,,,,,1,0,Fig. 4 pSTING panel,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=western blot; Activation ratio; exact phosphosite unresolved; mixed UP direction not transferred
+PAR2_26_C1_O04,PAR2_26_C1,signal_entity,ROS,SE_ROS,exact_signal,downstream_output,signal_activity,,up,,,,,,,1,1,Fig. 4I,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=quantified fluorescence; Probe identity unresolved; no mitochondrial/source-specific claim
+PAR2_29_C1_O01,PAR2_29_C1,gene,TLR4,Tlr4,exact_mouse,downstream_output,total_protein,,down,,,,,,,1,1,Fig. 5D,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=western blot; In-vivo lung quantity
+PAR2_29_C1_O02,PAR2_29_C1,gene,GSDMD cleavage,Gsdmd,exact_mouse,downstream_output,protein_cleavage,,down,,,,,,,1,1,Fig. 5E,"HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=western blot; Cleavage ratio, not transcript abundance"
+PAR2_29_C1_O04,PAR2_29_C1,gene,IL-1beta,Il1b,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 5F,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=plasma ELISA; In-vivo secreted cytokine
+PAR2_29_C1_O05,PAR2_29_C1,gene,IL-6,Il6,exact_mouse,downstream_output,secretion,,down,,,,,,,1,1,Fig. 5F,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=plasma ELISA; In-vivo secreted cytokine
+PAR2_30_C1_O01,PAR2_30_C1,gene,Bcl-xL,Bcl2l1,human_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,immunoblot panel; exact panel unresolved,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=immunoblot; Human BCL2L1→mouse Bcl2l1; model gene protein is not isoform-specific
+PAR2_30_C1_O02,PAR2_30_C1,signal_entity,cytosolic mtDNA,SE_CYTO_MTDNA,exact_signal,downstream_output,signal_activity,,up,,,,,,,1,1,cytosolic mtDNA panel; exact panel unresolved,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=cytosolic-fraction PCR; Explicit cytosolic quantity
+PAR2_30_C1_O04A,PAR2_30_C1,gene,IFN-beta,Ifnb1,human_mouse_ortholog,downstream_output,transcript,,up,,,,,,,1,1,IFNB1 qPCR panel; exact panel unresolved,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=qPCR; shPAR2 vs shCtrl; distinct physical assay
+PAR2_30_C1_O04B,PAR2_30_C1,gene,IFN-beta,Ifnb1,human_mouse_ortholog,downstream_output,secretion,,up,,,,,,,1,1,IFN-beta ELISA panel; exact panel unresolved,HOLDOUT_EXTERNAL; SOURCE_RESOLVED_V0_2; method=supernatant ELISA; shPAR2 vs shCtrl; distinct physical assay

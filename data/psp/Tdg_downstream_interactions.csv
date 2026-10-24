@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TDG,Tdg,K330-sm,3144814,DAKKMAVkEEKYDPG,"molecular association, regulation; protein conformation; enzymatic activity, induced","DNA repair, induced; DNA repair, altered",11889051; 15823533; 15959518; 21284855,,,,,

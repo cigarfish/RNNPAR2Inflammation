@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCSK9,Pcsk9,S47-p,2811403,ELVLALRsEEDGLAE,"activity, induced; protein degradation; protein processing","exocytosis, induced",18498363; 31553664,,"stabilizes against cleavage of propeptide; LDL-receptor activity induced, LDLR degradation",,,

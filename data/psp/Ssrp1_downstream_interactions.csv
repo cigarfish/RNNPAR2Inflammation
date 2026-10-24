@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SSRP1,Ssrp1,S657-p,456295,KSSSRQLsESFKSKE,"activity, inhibited","transcription, altered",15659405,,,,,
+SSRP1,Ssrp1,S688-p,456296,KRRRSEDsEEEELAS,"activity, inhibited","transcription, altered",15659405,,,,,
+SSRP1,Ssrp1,S510-p,455268,SSSNEGDsDRDEKKR,"activity, inhibited","transcription, altered",15659405,,,,,
+SSRP1,Ssrp1,K143-m1,58123206,VSQCTTGkNEVTLEF,"molecular association, regulation",,23583077,SSrecog,,L3MBTL iso4,L3mbtl2,INDUCES

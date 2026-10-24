@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DYNLRB1,Dynlrb1,S73-p,27523608,LTFLRIRsKKNEIMV,"molecular association, regulation","transcription, induced",23333499,Robl_LC7,,DNCLI1,Dynlt1,INDUCES

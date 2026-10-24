@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KNG1,Kng2,S391-p,5024713,GFSPFRSsRIGEIKE,protein processing,,18844446,,inhibits cleavage by kallikrein in vitro,,,
+KNG1,Kng2,S390-p,5024714,PGFSPFRsSRIGEIK,protein processing,,18844446,,inhibits cleavage by kallikrein in vitro,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABCF1,Abcf1,S109-p,453457,KKLSVPTsDEEDEVP,"molecular association, regulation",,17894550,,S109 aqnd S140 phosphorylation may affect ABCF1-eIF2 binding  to 60S 80S subunits and small polysomes.  ,,,
+ABCF1,Abcf1,S140-p,454452,AALIQDQsEEEEEEE,"molecular association, regulation",,17894550,,S109 aqnd S140 phosphorylation may affect ABCF1-eIF2 binding  to 60S 80S subunits and small polysomes.  ,,,

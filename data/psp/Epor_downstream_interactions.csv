@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPOR,Epor,Y368-p,449883,SEHAQDTyLVLDKWL,"activity, induced; molecular association, regulation; phosphorylation","cell cycle regulation; apoptosis, inhibited; transcription, altered; signaling pathway regulation; cell growth, altered",10455108; 11290583; 12027890; 12506011; 14662339; 15878737; 19187767; 8657137,,promotes STAT5 and JAK2 phosphorylation; activates Stat5,STAT5A,Stat5a,INDUCES
+EPOR,Epor,Y368-p,449883,SEHAQDTyLVLDKWL,"activity, induced; molecular association, regulation; phosphorylation","cell cycle regulation; apoptosis, inhibited; transcription, altered; signaling pathway regulation; cell growth, altered",10455108; 11290583; 12027890; 12506011; 14662339; 15878737; 19187767; 8657137,,promotes STAT5 and JAK2 phosphorylation; activates Stat5,SOCS3,Socs3,INDUCES
+EPOR,Epor,Y309-p,3133300,GNFQLWLyQNDGCLW,phosphorylation,"cell growth, altered",15878737,,,,,
+EPOR,Epor,Y485-p,3103701,GGLSDGPySNPYENS,,"apoptosis, inhibited",14662339,,,,,
+EPOR,Epor,Y468-p,451266,DSGISTDySSGDSQG,,"apoptosis, inhibited",14662339,,,,,
+EPOR,Epor,Y454-p,455531,PTPPHLKyLYLVVSD,"molecular association, regulation","apoptosis, inhibited",10660611; 12027890; 14662339; 38417019,,,SHIP,Inpp5d,INDUCES
+EPOR,Epor,Y454-p,455531,PTPPHLKyLYLVVSD,"molecular association, regulation","apoptosis, inhibited",10660611; 12027890; 14662339; 38417019,,,SOCS3,Socs3,INDUCES
+EPOR,Epor,Y454-p,455531,PTPPHLKyLYLVVSD,"molecular association, regulation","apoptosis, inhibited",10660611; 12027890; 14662339; 38417019,,,LNK,Sh2b3,INDUCES
+EPOR,Epor,Y489-p,457448,DGPYSNPyENSLIPA,,"apoptosis, inhibited",14662339,,,,,
+EPOR,Epor,Y504-p,449885,AEPLPPSyVACS___,,"apoptosis, inhibited",14662339,,,,,
+EPOR,Epor,Y426-p,449884,ASAASFEyTILDPSS,"activity, induced; molecular association, regulation; activity, inhibited; phosphorylation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation; cell growth, altered",10455108; 10660611; 11290583; 12027890; 12441334; 12506011; 14662339,,,STAT5A,Stat5a,INDUCES
+EPOR,Epor,Y426-p,449884,ASAASFEyTILDPSS,"activity, induced; molecular association, regulation; activity, inhibited; phosphorylation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation; cell growth, altered",10455108; 10660611; 11290583; 12027890; 12441334; 12506011; 14662339,,,SHIP,Inpp5d,INDUCES
+EPOR,Epor,Y426-p,449884,ASAASFEyTILDPSS,"activity, induced; molecular association, regulation; activity, inhibited; phosphorylation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation; cell growth, altered",10455108; 10660611; 11290583; 12027890; 12441334; 12506011; 14662339,,,SOCS3,Socs3,INDUCES
+EPOR,Epor,Y426-p,449884,ASAASFEyTILDPSS,"activity, induced; molecular association, regulation; activity, inhibited; phosphorylation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation; cell growth, altered",10455108; 10660611; 11290583; 12027890; 12441334; 12506011; 14662339,,,CISH,Cish,INDUCES
+EPOR,Epor,Y456-p,455532,PPHLKYLyLVVSDSG,"molecular association, regulation","apoptosis, inhibited",10660611; 12027890; 14662339,,,SHIP,Inpp5d,INDUCES
+EPOR,Epor,Y456-p,455532,PPHLKYLyLVVSDSG,"molecular association, regulation","apoptosis, inhibited",10660611; 12027890; 14662339,,,SOCS3,Socs3,INDUCES

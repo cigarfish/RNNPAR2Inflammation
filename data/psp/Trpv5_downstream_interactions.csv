@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPV5,Trpv5,S144-p,27115700,LTRRASVsARATGTA,"activity, inhibited",,23024298,Ank_2,S144 phosphorylation is necessary for plasmin inhibition of channel Ca++ currents. ,,,
+TRPV5,Trpv5,T708-p,4710939,WEILRQNtLGHLNLG,"activity, induced; molecular association, regulation",,21576356; 24828496,,"channel activation, Ca2+ uptake ",Calmodulin,Calm1,DISRUPTS
+TRPV5,Trpv5,S654-p,470109,YVEVFKNsDKEDDQE,"activity, induced; intracellular localization",,17006539,,,,,
+TRPV5,Trpv5,S299-p,470108,FLELVVSsDKREARQ,"activity, induced; intracellular localization",,17006539,,,,,

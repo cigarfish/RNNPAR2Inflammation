@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC34,Cdc34,T233-p,448689,DDEDDSGtEES____,intracellular localization,,11546811,,,,,
+CDC34,Cdc34,S231-p,448654,FGDDEDDsGTEES__,intracellular localization,,11546811,,,,,
+CDC34,Cdc34,S236-p,448690,DDSGTEEs_______,intracellular localization,,11546811,,,,,
+CDC34,Cdc34,T162-p,59049803,KGKDREYtDIIRKQV,protein degradation; ubiquitination,,27786305,UQ_con,,,,
+CDC34,Cdc34,S222-p,448688,EVEEEADsCFGDDED,intracellular localization,,11546811,,,,,
+CDC34,Cdc34,S203-p,448687,APAPDEGsDLFYDDY,intracellular localization,,11546811,,,,,

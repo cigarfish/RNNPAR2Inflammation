@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCBP2,Pcbp2,S173-p,482916,MLETLSQsPPKGVTI,"protein stabilization; molecular association, regulation","cell differentiation, inhibited; translation, inhibited",17475908,,,,,
+PCBP2,Pcbp2,T213-p,482919,SASFPHTtPSMCLNP,"protein stabilization; molecular association, regulation","cell differentiation, inhibited; translation, inhibited",17475908,,,,,
+PCBP2,Pcbp2,S272-p,482918,FSGIESSsPEVKGYW,"protein stabilization; molecular association, regulation","cell differentiation, inhibited; translation, inhibited",17475908,,,,,
+PCBP2,Pcbp2,S189-p,482917,YRPKPSSsPVIFAGG,"protein stabilization; molecular association, regulation","cell differentiation, inhibited; translation, inhibited",17475908,,,,,

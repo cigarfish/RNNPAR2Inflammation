@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPR84,Gpr84,T263-p,1876864002,SEPVSAAtTQTLEGD,"receptor internalization, induced; molecular association, regulation",,35427647,7tm_1,,ARR3,Arr3,INDUCES
+GPR84,Gpr84,T263-p,1876864002,SEPVSAAtTQTLEGD,"receptor internalization, induced; molecular association, regulation",,35427647,7tm_1,,ARRB2,Arrb2,INDUCES
+GPR84,Gpr84,T264-p,1876864000,EPVSAATtQTLEGDS,"receptor internalization, induced; molecular association, regulation",,35427647,7tm_1,,ARR3,Arr3,INDUCES
+GPR84,Gpr84,T264-p,1876864000,EPVSAATtQTLEGDS,"receptor internalization, induced; molecular association, regulation",,35427647,7tm_1,,ARRB2,Arrb2,INDUCES

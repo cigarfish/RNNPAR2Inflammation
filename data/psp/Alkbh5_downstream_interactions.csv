@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALKBH5,Alkbh5,K57-ub,573773118,PYPVSGAkRKYQEDS,protein degradation,"cell motility, inhibited",37454738,,"USP9X deubiquitinates and stabilizes ALKBH5, ALKBH5-K57R resist USP9X depletion-induced reduction in cellular growth",,,
+ALKBH5,Alkbh5,K235-ac,11323060,FGCKFQFkPIRVSEP,"molecular association, regulation","carcinogenesis, induced",37369679,2OG-FeII_Oxy_2,facilitating the binding of ALKBH5 to RNA m6A to reduce RNA m6A levels,PSPC1,Pspc1,INDUCES
+ALKBH5,Alkbh5,K132-ac,11323057,DRAPLRNkYFFGEGY,"enzymatic activity, induced",,32989163,2OG-FeII_Oxy_2,,,,

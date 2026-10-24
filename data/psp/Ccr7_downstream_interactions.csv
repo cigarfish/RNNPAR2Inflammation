@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCR7,Ccr7,S377-p,455292,AETTTTFsP______,phosphorylation,,15054093,,ERK1/2 phosphorylation,,,
+CCR7,Ccr7,T373-p,455288,MSVEAETtTTFSP__,phosphorylation,,15054093,,ERK1/2 phosphorylation,,,
+CCR7,Ccr7,Y155-p,53340200,LCISIDRyVAIVQAV,"molecular association, regulation","cell motility, induced; signaling pathway regulation",26789922; 31644919,7tm_1,"T cell migration toward CCL21; phosphorylation induces interaction with VAV1, further enhancing Rac1 recruitment  and regulating CCR7 signaling complex",SHP-2,Ptpn11,INDUCES
+CCR7,Ccr7,Y155-p,53340200,LCISIDRyVAIVQAV,"molecular association, regulation","cell motility, induced; signaling pathway regulation",26789922; 31644919,7tm_1,"T cell migration toward CCL21; phosphorylation induces interaction with VAV1, further enhancing Rac1 recruitment  and regulating CCR7 signaling complex",RAC1,Rac1,INDUCES
+CCR7,Ccr7,Y155-p,53340200,LCISIDRyVAIVQAV,"molecular association, regulation","cell motility, induced; signaling pathway regulation",26789922; 31644919,7tm_1,"T cell migration toward CCL21; phosphorylation induces interaction with VAV1, further enhancing Rac1 recruitment  and regulating CCR7 signaling complex",VAV1,Vav1,INDUCES
+CCR7,Ccr7,T372-p,455291,SMSVEAEtTTTFSP_,phosphorylation,,15054093,,ERK1/2 phosphorylation,,,
+CCR7,Ccr7,T375-p,455290,VEAETTTtFSP____,phosphorylation,,15054093,,ERK1/2 phosphorylation,,,
+CCR7,Ccr7,T374-p,455289,SVEAETTtTFSP___,phosphorylation,,15054093,,ERK1/2 phosphorylation,,,

@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBP1,Fbp1,S88-p,55578725,LVMNMLKsSFATCVL,"enzymatic activity, inhibited",,27153534,FBPase,,,,
+FBP1,Fbp1,S63-p,55578726,HLYGIAGsTNVTGDQ,"enzymatic activity, inhibited",,27153534,FBPase,,,,
+FBP1,Fbp1,S170-p,1880113501,AGYALYGsATMLVLA,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; transcription, altered",36266488; 37970353,,,H3,H3,INDUCES
+FBP1,Fbp1,S170-p,1880113501,AGYALYGsATMLVLA,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; transcription, altered",36266488; 37970353,,,PPAR-alpha,Ppara,INDUCES
+FBP1,Fbp1,S170-p,1880113501,AGYALYGsATMLVLA,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; transcription, altered",36266488; 37970353,,,KPNA4,Kpna4,INDUCES
+FBP1,Fbp1,S170-p,1880113501,AGYALYGsATMLVLA,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, inhibited; transcription, altered",36266488; 37970353,,,FBPase,Fbp1,DISRUPTS
+FBP1,Fbp1,K110-ac,1876844501,AIIVEPEkRGKYVVC,"molecular association, regulation","carcinogenesis, inhibited; transcription, inhibited",32195024,FBPase,,BRD4,Brd4,INDUCES
+FBP1,Fbp1,K113-ac,1876844500,VEPEKRGkYVVCFDP,"molecular association, regulation","carcinogenesis, inhibited; transcription, inhibited",32195024,FBPase,,BRD4,Brd4,INDUCES
+FBP1,Fbp1,S144-p,15501075,FGIYRKKsTDEPSEK,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; signaling pathway regulation",32754266,FBPase,"induces NFKB binding to DNA, regulates NFKB pathway",CHIP,Stub1,DISRUPTS
+FBP1,Fbp1,S144-p,15501075,FGIYRKKsTDEPSEK,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; signaling pathway regulation",32754266,FBPase,"induces NFKB binding to DNA, regulates NFKB pathway",NFkB-p65,Rela,DISRUPTS

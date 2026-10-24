@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MSH3,Msh3,K98-ac,9925423,LENDGPVkKKVKKVQ,intracellular localization,,32900932,,,,,
+MSH3,Msh3,K123-ac,9930501,SGNSEPKkCLRTRNV,intracellular localization,,32900932,,,,,
+MSH3,Msh3,K103-ac,14367131,PVKKKVKkVQQKEGG,intracellular localization,,32900932,,,,,
+MSH3,Msh3,K122-ac,9930497,MSGNSEPkKCLRTRN,intracellular localization,,32900932,,,,,
+MSH3,Msh3,K99-ac,9925427,ENDGPVKkKVKKVQQ,intracellular localization,,32900932,,,,,

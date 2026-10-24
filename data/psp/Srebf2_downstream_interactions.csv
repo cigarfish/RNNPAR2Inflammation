@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SREBF2,Srebf2,K464-sm,2715400,LLDDAKVkDEPDSPP,"molecular association, regulation","transcription, inhibited",12615929; 18403372,,,HDAC3,Hdac3,INDUCES
+SREBF2,Srebf2,S455-p,451008,SIDSEPGsPLLDDAK,sumoylation,"transcription, induced",14988395; 18403372,,"inhibits sumoylation, leading to enhanced transcriptional activation",,,
+SREBF2,Srebf2,S432-p,451007,NQNVLLMsPPASDSG,,"transcription, induced",14988395,,,,,

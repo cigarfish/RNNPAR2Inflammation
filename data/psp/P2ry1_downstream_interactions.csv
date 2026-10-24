@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+P2RY1,P2ry1,S352-p,1983719,RSEANLQsKSEDMTL,"receptor internalization, altered",,19741005; 21108629,,,,,
+P2RY1,P2ry1,S252-p,60152501,IYKDLDNsPLRRKSI,"protein stabilization; molecular association, regulation",,27863418,7tm_1,,PIN1,Pin1,INDUCES
+P2RY1,P2ry1,S354-p,1985600,EANLQSKsEDMTLNI,"receptor internalization, altered",,21108629,,,,,
+P2RY1,P2ry1,T358-p,10897605,QSKSEDMtLNILPEF,"receptor internalization, altered",,19741005,,important for beta-arrestin 2 translocation to the plasma membrane,,,

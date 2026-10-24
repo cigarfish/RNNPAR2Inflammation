@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEK1,Nek1,T141-p,65958203,IFLTKDGtVQLGDFG,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; cell growth, induced; apoptosis, induced; transcription, induced",28426283; 30928383,Pkinase,,,,

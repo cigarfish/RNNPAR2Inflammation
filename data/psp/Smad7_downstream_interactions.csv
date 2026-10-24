@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMAD7,Smad7,T96-p,15613800,EADLKALtHSVLKKL,"molecular association, regulation",signaling pathway regulation,20659902,MH1,regulates TGFB1 signaling,TGFBR1,Tgfbr1,DISRUPTS
+SMAD7,Smad7,K70-m1,59102100,GKAVRGAkGHHHPHP,protein degradation; acetylation; ubiquitination,"transcription, inhibited; signaling pathway regulation",27292644,,"TGF-beta signaling- regulates TGF-beta mediated activation of extracellular matrix genes, prevents acetylation, induces lung fibrosis",RNF111,Rnf111,INDUCES
+SMAD7,Smad7,R57-m2,1881315000,AGGGGPGrAGCCLGK,"activity, induced; molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, induced; signaling pathway regulation",34026434,,"STAT3 activation, STAT3 signaling, PRMT5 promotes lung tumorigenesis",gp130,Il6st,INDUCES
+SMAD7,Smad7,R57-me,1880718702,AGGGGPGrAGCCLGK,"protein degradation; molecular association, regulation","cell differentiation, altered",29907569,,,TGFBR1,Tgfbr1,DISRUPTS
+SMAD7,Smad7,C415-pa,1895379503,TRQFISScPCWLEVI,protein stabilization; ubiquitination; intracellular localization,"transcription, altered",38876303,,inhibits ubiquitination,,,
+SMAD7,Smad7,S206-p,1869370301,SRLCELEsPPPPYSR,"molecular association, regulation",,31546607,,,WWP2,Wwp2,INDUCES
+SMAD7,Smad7,R67-me,1880718700,CCLGKAVrGAKGHHH,"protein degradation; molecular association, regulation","cell differentiation, altered",29907569,,,TGFBR1,Tgfbr1,DISRUPTS
+SMAD7,Smad7,C417-pa,1895379501,QFISSCPcWLEVIFN,protein stabilization; ubiquitination; intracellular localization,"transcription, altered",38876303,,inhibits ubiquitination,,,

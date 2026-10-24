@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GSR,Gsr,T507-p,23111522,TKADFDNtVAIHPTS,"enzymatic activity, induced","carcinogenesis, induced; apoptosis, inhibited",31530934,Pyr_redox_dim,ROS level maintenance,,,

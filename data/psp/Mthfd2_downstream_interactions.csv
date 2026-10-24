@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MTHFD2,Mthfd2,K88-ac,1876877400,SHSYVLNkTRAAAVV,"enzymatic activity, inhibited",,32811824,THF_DHG_CYH,,,,
+MTHFD2,Mthfd2,K50-ac,461171,RKLAQQIkQEVRQEV,protein stabilization,"carcinogenesis, induced; cell growth, induced",35349697,THF_DHG_CYH,"K50 acetylation supports NADPH production and breast cancer  tumor growth, ",,,

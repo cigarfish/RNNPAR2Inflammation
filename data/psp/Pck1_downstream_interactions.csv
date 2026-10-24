@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCK1,Pck1,K342-ub,27202975,VAPGTSVkTNPNAIK,ubiquitination,,30552140,PEPCK_GTP,,,,
+PCK1,Pck1,K243-ub,21180964,GGNSLLGkKCFALRM,ubiquitination,,30552140,PEPCK_N,,,,
+PCK1,Pck1,K91-ac,1880915300,DVARIESkTVIVTQE,"enzymatic activity, induced",,30193097,,,,,
+PCK1,Pck1,S90-p,1868515110,RDVARIEsKTVIVTQ,"protein degradation; acetylation; ubiquitination; intracellular localization; protein conformation; activity, inhibited","carcinogenesis, induced",30193097; 32322062; 33842305,PEPCK_N,,,,
+PCK1,Pck1,K244-ac,1877232013,GNSLLGKkCFALRMA,"enzymatic activity, inhibited",,33334880,PEPCK_N,,,,

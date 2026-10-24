@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EML4,Eml4,S144-p,465781,QSPQIRAsPSPQPSS,"molecular association, regulation",cell cycle regulation; cytoskeletal reorganization,31409757,,,TUBB1,Tubb1,INDUCES
+EML4,Eml4,S144-p,465781,QSPQIRAsPSPQPSS,"molecular association, regulation",cell cycle regulation; cytoskeletal reorganization,31409757,,,TUBA1A,Tuba1a,INDUCES

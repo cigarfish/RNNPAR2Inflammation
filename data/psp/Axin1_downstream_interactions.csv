@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AXIN1,Axin1,K789-ub,40212803,GSYRYYFkKVSDEFD,"molecular association, regulation",signaling pathway regulation,23959799,DIX,"regulates Wnt/beta-catenin signaling, inhibits LRP6 phosphorylation",LRP5,Lrp5,DISRUPTS
+AXIN1,Axin1,K789-ub,40212803,GSYRYYFkKVSDEFD,"molecular association, regulation",signaling pathway regulation,23959799,DIX,"regulates Wnt/beta-catenin signaling, inhibits LRP6 phosphorylation",LRP6,Lrp6,DISRUPTS
+AXIN1,Axin1,S77-p,3174926,YEPEGSAsPTPPYLK,,"transcription, inhibited",17318175,AXIN1_TNKS_BD,,GSK3B,Gsk3b,INDUCES
+AXIN1,Axin1,S469-p,25802104,AHEENPEsILDEHVQ,,"transcription, inhibited",17318175,Axin_b-cat_bind,,GSK3B,Gsk3b,INDUCES
+AXIN1,Axin1,S217-p,3174923,YTRTGSEsPKVCSDQ,,"transcription, inhibited",17318175,,,GSK3B,Gsk3b,INDUCES
+AXIN1,Axin1,K821-ub,40212802,FEEKIIGkVEKVD__,"molecular association, regulation",signaling pathway regulation,23959799,DIX,"regulates Wnt/beta-catenin signaling, inhibits LRP6 phosphorylation",LRP5,Lrp5,DISRUPTS
+AXIN1,Axin1,K821-ub,40212802,FEEKIIGkVEKVD__,"molecular association, regulation",signaling pathway regulation,23959799,DIX,"regulates Wnt/beta-catenin signaling, inhibits LRP6 phosphorylation",LRP6,Lrp6,DISRUPTS
+AXIN1,Axin1,S75-p,4697306,LGYEPEGsASPTPPY,,"transcription, inhibited",17318175,AXIN1_TNKS_BD,,GSK3B,Gsk3b,INDUCES

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC3,Hdac3,Y331-p,15228119,PYSEYFEyFAPDFTL,"activity, induced; intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",30317579; 31430896,,,,,
+HDAC3,Hdac3,S424-p,455624,DHDNDKEsDVEI___,"molecular association, regulation; acetylation; enzymatic activity, induced",cell cycle regulation,15805470; 26356530; 26663086; 27798112; 32772249,,,KPNA2,Kpna2,INDUCES
+HDAC3,Hdac3,S424-p,455624,DHDNDKEsDVEI___,"molecular association, regulation; acetylation; enzymatic activity, induced",cell cycle regulation,15805470; 26356530; 26663086; 27798112; 32772249,,,PKG1,Prkg1,INDUCES
+HDAC3,Hdac3,Y328-p,1267669101,EELPYSEyFEYFAPD,"activity, induced; intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",30317579; 31430896,,,,,
+HDAC3,Hdac3,S374-p,1874020216,KMLNHAPsVQIHDVP,"molecular association, regulation; acetylation; enzymatic activity, inhibited","transcription, inhibited",34244427,,inhibits deacetylation of p65,DAD1,Dad1,DISRUPTS
+HDAC3,Hdac3,Y298-p,1884166702,LVLGGGGyTVRNVAR,,"carcinogenesis, induced; cell motility, induced; transcription, induced",34973135,,,,,
+HDAC3,Hdac3,Y325-p,1267669100,AISEELPySEYFEYF,"activity, induced","cell growth, induced",30317579,,cell proliferation increased in HER2-positive breast cancer cells ,,,

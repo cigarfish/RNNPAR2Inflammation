@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABL1,Abl1,Y232-p,450302,VYGVSPNyDKWEMER,intracellular localization; protein conformation,,21347248,,,,,
+ABL1,Abl1,Y488-p,450295,EGCPEKVyELMRACW,"molecular association, regulation; phosphorylation","apoptosis, inhibited",22975324,PK_Tyr_Ser-Thr,"inhibits Mig6-dependent proapoptotic activation, inhibits Abl phosphorylation",MIG-6,Errfi1,DISRUPTS
+ABL1,Abl1,S446-p,450296,PYPGIDLsQVYELLE,"enzymatic activity, induced",,9168116,PK_Tyr_Ser-Thr,,,,
+ABL1,Abl1,T197-p,12121095,VYHYRINtASDGKLY,"enzymatic activity, inhibited","apoptosis, inhibited",23852372,SH2,,,,
+ABL1,Abl1,Y393-p,450298,RLMTGDTyTAHAGAK,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, inhibited; apoptosis, induced; cell growth, inhibited; cell growth, altered",35569509; 36079767; 8441409,PK_Tyr_Ser-Thr,,,,
+ABL1,Abl1,K711-ac,461004,EGGGSSSkRFLRSCS,intracellular localization,"cell differentiation, induced",16648821,,,,,
+ABL1,Abl1,Y226-p,450303,KRNKPTVyGVSPNYD,"enzymatic activity, induced","cell cycle regulation; cell differentiation, altered; carcinogenesis, inhibited; cell growth, inhibited; cell motility, induced",20228840; 26473374; 35569509,,,,,
+ABL1,Abl1,Y245-p,450303,KRNKPTVyGVSPNYD,"molecular association, regulation","autophagy, inhibited",36406767,,mitophagy inhibited;  induces oxidative stress injury,BAP37,Hsp90ab1,INDUCES
+ABL1,Abl1,S69-p,461026,SEAARWNsKENLLAG,protein conformation,,16543148,, role in autoinhibition of enzyme,,,
+ABL1,Abl1,T735-p,450291,DTEWRSVtLPRDLQS,"molecular association, regulation; intracellular localization; enzymatic activity, induced","apoptosis, induced; apoptosis, inhibited",15696159; 16888623; 18794806; 19643477,,,14-3-3 beta,Ywhab,INDUCES
+ABL1,Abl1,T735-p,450291,DTEWRSVtLPRDLQS,"molecular association, regulation; intracellular localization; enzymatic activity, induced","apoptosis, induced; apoptosis, inhibited",15696159; 16888623; 18794806; 19643477,,,14-3-3 beta,Ywhab,DISRUPTS
+ABL1,Abl1,Y139-p,456712,VSRNAAEyLLSSGIN,"enzymatic activity, induced",,18775312,SH2,"SH2 and catalytic domains of Fes and Abl interact with ligand, stimulating kinase activity. ",,,
+ABL1,Abl1,Y312-p,4922741,CTREPPFyIITEFMT,"enzymatic activity, induced",,18775312,PK_Tyr_Ser-Thr,"SH2 and catalytic domains of Fes and Abl interact with ligand, stimulating kinase activity. ",,,
+ABL1,Abl1,S618-p,1779804,APTPPKRsSSFREMD,"molecular association, regulation; phosphorylation; enzymatic activity, induced",,18161990,,"interaction in vitro and in vivo;  phosphorylation of this site enhances the association and phosphorylation of the Abl substrate, Crk.",Abi-2,Abi2,DISRUPTS
+ABL1,Abl1,Y257-p,450300,GGQYGEVyEGVWKKY,intracellular localization; protein conformation,,21347248,PK_Tyr_Ser-Thr,,,,
+ABL1,Abl1,Y253-p,450301,HKLGGGQyGEVYEGV,"intracellular localization; protein conformation; enzymatic activity, induced",,18775312; 21347248,PK_Tyr_Ser-Thr,,,,
+ABL1,Abl1,S619-p,1779805,PTPPKRSsSFREMDG,"molecular association, regulation; phosphorylation; enzymatic activity, induced",,18161990,,"interaction in vitro and in vivo;  phosphorylation of this site enhances the association and phosphorylation of the Abl substrate, Crk.",Abi-2,Abi2,DISRUPTS
+ABL1,Abl1,Y70-p,462900,PNLFVALyDFVASGD,"activity, induced; molecular association, regulation; enzymatic activity, induced",,16912036; 18775435,SH3_1,,Abi-1,Abi1,DISRUPTS
+ABL1,Abl1,Y412-p,450298,RLMTGDTyTAHAGAK,"enzymatic activity, induced","apoptosis, induced; transcription, altered",11781820; 22975324,PK_Tyr_Ser-Thr,,,,

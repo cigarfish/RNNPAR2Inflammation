@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+L3MBTL2,L3mbtl2,K675-sm,31089506,EIIAVRVkEEHLDVA,ubiquitination,"transcription, inhibited",24369422,,induces Histone ubiquitination,,,
+L3MBTL2,L3mbtl2,K700-sm,31089507,PVSVENIkQETDD__,ubiquitination,"transcription, inhibited",24369422,,induces Histone ubiquitination,,,
+L3MBTL2,L3mbtl2,S335-p,1046182902,RLEVVDKsQVSRTRM,"molecular association, regulation; intracellular localization",,29581593,MBT,,MDC1,Mdc1,INDUCES

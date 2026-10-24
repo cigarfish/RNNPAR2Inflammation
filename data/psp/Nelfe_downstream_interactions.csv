@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NELFE,Nelfe,S51-p,454289,GGVKRSLsEQPVMDT,"molecular association, regulation","transcription, induced",29523821,,"dissociation of the NELF complex from chromatin, which is accompanied by RNA polymerase II elongation",14-3-3 epsilon,Ywhae,INDUCES
+NELFE,Nelfe,S251-p,468611,GPFRRSDsFPERRAP,"molecular association, regulation","transcription, induced",29523821,,"dissociation of the NELF complex from chromatin, which is accompanied by RNA polymerase II elongation",14-3-3 epsilon,Ywhae,INDUCES
+NELFE,Nelfe,S49-p,3181405,SQGGVKRsLSEQPVM,"molecular association, regulation","transcription, induced",29523821,,"dissociation of the NELF complex from chromatin, which is accompanied by RNA polymerase II elongation",14-3-3 epsilon,Ywhae,INDUCES
+NELFE,Nelfe,S115-p,452641,QPFQRSIsADDDLQE,"molecular association, regulation","transcription, induced",29523821,,"dissociation of the NELF complex from chromatin, which is accompanied by RNA polymerase II elongation",14-3-3 epsilon,Ywhae,INDUCES

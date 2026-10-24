@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TFB2M,Tfb2m,T313-p,55379187,NLFTKNLtPMNYNIF,"molecular association, regulation; protein conformation","transcription, inhibited",32505352,RrnaAD,,POLRMT,Polrmt,DISRUPTS
+TFB2M,Tfb2m,T184-p,25756119,GIEAVPWtADIPLKV,"molecular association, regulation","transcription, inhibited",32505352,RrnaAD,,POLRMT,Polrmt,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CREB3L3,Creb3l3,K294-ac,15293936,RKVLHLEkQNLSLLE,"activity, induced; molecular association, regulation; protein processing","transcription, induced",26438600; 28461393,bZIP_1, hepatic glycogenolysis and gluconeogenesis; PCK1 and PYGL transcription. Maintains glucose homeostasis,PPAR-alpha,Ppara,INDUCES
+CREB3L3,Creb3l3,S395-p,1880714004,ADTTREEsPGSPGAD,,"exocytosis, induced",36649378,,,,,

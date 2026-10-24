@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAD9A,Rad9a,Y28-p,447825,SRIGDELyLEPLEDG,"molecular association, regulation","apoptosis, induced",11971963,Rad9,,Bcl-xL,Bcl2l1,INDUCES
+RAD9A,Rad9a,S387-p,449815,SPVLAEDsEGEG___,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,12734188; 20545769; 20724438; 20858457; 25091155; 25454945; 26088138,,,TOPBP1,Topbp1,INDUCES
+RAD9A,Rad9a,S341-p,449817,PKSPGPHsEEEDEAE,"molecular association, regulation; intracellular localization",,20545769; 25091155; 26088138,,,TOPBP1,Topbp1,INDUCES
+RAD9A,Rad9a,S277-p,449811,SHSQDLGsPERHQPV,phosphorylation,cell cycle regulation,12734188; 20305300,,,,,
+RAD9A,Rad9a,T355-p,449818,EPSTVPGtPPPKKFR,,cell cycle regulation,12734188; 20305300; 24376897,,"phosphorylation increases as cells enter mitosis, important for exiting the damage-induced G2/M checkpoint",,,
+RAD9A,Rad9a,S336-p,449816,PGPQPPKsPGPHSEE,,cell cycle regulation,12734188; 20305300,,,,,
+RAD9A,Rad9a,S328-p,449812,VLPSISLsPGPQPPK,"molecular association, regulation; intracellular localization","cell cycle regulation; apoptosis, induced; chromatin organization, altered",12734188; 18940270; 20305300; 23028682; 26860083,,accumulate Rad9 in the cytoplasm; translocated from the nucleus to the mitochondria during etoposide induced-apoptosis (Rad9 mediated apoptosis),TLK1,Tlk1,INDUCES
+RAD9A,Rad9a,S272-p,447824,LSDTDSHsQDLGSPE,"activity, induced; ubiquitination","cell cycle regulation; DNA repair, induced",11278446; 22453082; 26658951,,"controls repair pathways, maintenance of replication fork stability",,,

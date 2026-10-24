@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR1H4,Nr1h4,S154-p,4245800,CKGFFRRsITKNAVY,"activity, induced; protein degradation; molecular association, regulation","transcription, induced; transcription, inhibited",18755856; 27571290,zf-C4,,PGC-1 alpha,Ppargc1a,INDUCES
+NR1H4,Nr1h4,Y77-p,1186568001,QISSSSYySNLGFYP,"molecular association, regulation; intracellular localization","transcription, induced",29968724,,"regulates response to cholestasis and bile acid levels, regulates gene expression ",RXRA,Rxra,INDUCES
+NR1H4,Nr1h4,K122-sm,31089518,GASAGRIkGDELCVV,"molecular association, regulation","transcription, inhibited",23546875,,,,,
+NR1H4,Nr1h4,T442-p,3333402,GRLTELRtFNHHHAE,"activity, induced; intracellular localization",,18668687,Hormone_recep,,,,
+NR1H4,Nr1h4,S135-p,4245801,VVCGDRAsGYHYNAL,"activity, induced; molecular association, regulation","transcription, induced",18755856,zf-C4,,PGC-1 alpha,Ppargc1a,INDUCES
+NR1H4,Nr1h4,K227-ac,12159006,KRLRKNVkQHADQTV,"protein stabilization; molecular association, regulation","transcription, inhibited",19883617,,,RXRA,Rxra,DISRUPTS
+NR1H4,Nr1h4,K167-ac,12159007,FFRRSITkNAVYKCK,"protein stabilization; molecular association, regulation","transcription, inhibited",19883617,zf-C4,,RXRA,Rxra,DISRUPTS
+NR1H4,Nr1h4,K275-sm,31089517,EITNKILkEEFSAEE,"molecular association, regulation","transcription, inhibited",23546875,Hormone_recep,,,,

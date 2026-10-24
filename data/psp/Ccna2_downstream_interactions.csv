@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNA2,Ccna2,K68-ac,7761213,LAQQQRPkTRRVAPL,"protein degradation; molecular association, regulation",cell cycle regulation,19483727; 23760262,Cyclin_N2,,CDK2,Cdk2,DISRUPTS
+CCNA2,Ccna2,K95-ac,7761216,PPWKANSkQPAFTIH,"protein degradation; molecular association, regulation",cell cycle regulation,19483727; 23760262,Cyclin_N2,,CDK2,Cdk2,DISRUPTS
+CCNA2,Ccna2,K91-ub,1878249906,HVTVPPWkANSKQPA,protein degradation,cell cycle regulation,31413110,,,,,
+CCNA2,Ccna2,K112-ac,7761215,EAEKEAQkKPAESQK,"protein degradation; molecular association, regulation",cell cycle regulation,19483727; 23760262,Cyclin_N2,,CDK2,Cdk2,DISRUPTS
+CCNA2,Ccna2,K54-ac,7761214,RAALAVLkSGNPRGL,"protein degradation; molecular association, regulation",cell cycle regulation,19483727; 23760262,Cyclin_N2,,CDK2,Cdk2,DISRUPTS

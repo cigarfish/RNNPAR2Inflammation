@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TEK,Tek,Y1108-p,448372,TYVNTTLyEKFTYAG,"enzymatic activity, induced",,20973951,,,,,
+TEK,Tek,Y1102-p,450256,MLEERKTyVNTTLYE,"molecular association, regulation; enzymatic activity, induced","cell adhesion, altered",14665640; 20973951,,,SHC1(NOT_REPORTED,Shc1,UNKNOWN
+TEK,Tek,Y897-p,459394,GACEHRGyLYLAIEY,"enzymatic activity, inhibited",,11080633,PK_Tyr_Ser-Thr,,,,
+TEK,Tek,Y992-p,448373,LSRGQEVyVKKTMGR,"activity, induced; protein conformation",,25320242; 28396439,PK_Tyr_Ser-Thr,,,,
+TEK,Tek,S1119-p,453441,TYAGIDCsAEEAA__,"activity, induced; enzymatic activity, induced",,25320242,,"personal communication from Dr Chris Kontos , Duke University; activation promoted tight-junction stabilization and endothelial barrier protective effects",,,

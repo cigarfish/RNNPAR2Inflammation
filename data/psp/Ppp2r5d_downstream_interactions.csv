@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP2R5D,Ppp2r5d,S60-p,457388,PSSNKRPsNSTPPPT,"molecular association, regulation; phosphorylation",cell cycle regulation,17110335,,enhances dephosphorylation of Cdc25C,PPP2CA,Ppp2ca,INDUCES
+PPP2R5D,Ppp2r5d,S573-p,457390,KVLLRRKsELPQDVY,"enzymatic activity, inhibited",,30115685,,PP1 inactivates,,,

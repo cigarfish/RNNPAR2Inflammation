@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SKP1,Skp1,T131-p,4785800,ANMIKGKtPEEIRKT,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,30728155,Skp1, 14-3-3 sigma compete with FBW7 for binding with SKP1A; effect of protein function is interaction dependent,14-3-3 sigma,Sfn,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPM4,Trpm4,S1152-p,12559512,SERLKRTsQKVDLAL,"activity, induced",,15590641,,,,,
+TRPM4,Trpm4,S839-p,36400700,GLSGGGGsLASGGPG,intracellular localization,,25231975,Ion_trans,basolateral localization,,,
+TRPM4,Trpm4,S1145-p,12559511,RDKRESDsERLKRTS,"activity, induced",,15590641,,,,,

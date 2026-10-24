@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP22,Arhgap22,S395-p,4751993,LPAHRTSsLDGAAVA,"molecular association, regulation","cell motility, induced",21969604,,,14-3-3 beta,Ywhab,INDUCES
+ARHGAP22,Arhgap22,S16-p,22262003,ARRARSKsLVMGEQS,"molecular association, regulation","cell motility, induced",21969604,,,14-3-3 beta,Ywhab,INDUCES
+ARHGAP22,Arhgap22,S14-p,25795201,RQARRARsKSLVMGE,"molecular association, regulation",,22952583,,,14-3-3 beta,Ywhab,INDUCES

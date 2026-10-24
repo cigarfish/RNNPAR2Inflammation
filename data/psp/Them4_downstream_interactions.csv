@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+THEM4,Them4,S37-p,9721501,RPELRSFsSEEVILK,intracellular localization,,19604401,,,,,
+THEM4,Them4,S38-p,9721502,PELRSFSsEEVILKD,intracellular localization,,19604401,,,,,

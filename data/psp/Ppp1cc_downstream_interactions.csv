@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP1CC,Ppp1cc,T318-p,11379600,TPPRGMItKQAKK__,"enzymatic activity, inhibited",,10880350,,in vitro,,,
+PPP1CC,Ppp1cc,T307-p,3190033,EKKKPNAtRPVTPPR,"enzymatic activity, inhibited",,10880350,,in vitro,,,
+PPP1CC,Ppp1cc,T311-p,3913895,PNATRPVtPPRGMIT,"enzymatic activity, inhibited",,20948546,,,,,

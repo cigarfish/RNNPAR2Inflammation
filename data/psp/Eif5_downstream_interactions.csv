@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF5,Eif5,S389-p,448029,LKEAEEEsSGGEEED,"molecular association, regulation","cell cycle regulation; translation, altered",16227438; 18649047,W2,,eIF2-alpha,Eif2s1,INDUCES
+EIF5,Eif5,S390-p,448030,KEAEEESsGGEEEDE,"molecular association, regulation","cell cycle regulation; translation, altered",16227438; 18649047,W2,,eIF2-alpha,Eif2s1,INDUCES

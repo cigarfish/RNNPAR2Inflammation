@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYLD,Cyld,S436-p,12173907,TNGSIGHsPLSLSAQ,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,S422-p,4745563,RFHSLPFsLTKMPNT,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,Y15-p,4157933,QEKVTSPyWEERIFY,"protein degradation; molecular association, regulation; ubiquitination",,28572092,,degradation of EGFR,Cbl-b,Cblb,INDUCES
+CYLD,Cyld,S362-p,31957307,FYTLNGSsVDSQPQS,"enzymatic activity, induced",,24614225,CYLD_phos_site,,,,
+CYLD,Cyld,S418-p,4745557,TTENRFHsLPFSLTK,"ubiquitination; enzymatic activity, induced",signaling pathway regulation,15870263; 24614225; 34610306,CYLD_phos_site,"induces RIPK2 deubiquitination, and NOD2 signaling",,,
+CYLD,Cyld,K338-ub,1878249900,SSSHNKPkATGSTSD,protein degradation,signaling pathway regulation,31366726,, enhances NF-kB signaling. ,,,
+CYLD,Cyld,S432-p,12173909,KMPNTNGsIGHSPLS,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,S439-p,12173911,SIGHSPLsLSAQSVM,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,S772-p,31957308,LFKKIFPsLELNITD,"enzymatic activity, induced",,24614225,UCH,,,,
+CYLD,Cyld,S441-p,12173908,GHSPLSLsAQSVMEE,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,S444-p,12173910,PLSLSAQsVMEELNT,ubiquitination,,15870263,CYLD_phos_site,induces ubiquitination of TRAF2,,,
+CYLD,Cyld,K530-ub,573787426,YFTCALKkALFVKLK,protein degradation,signaling pathway regulation,31366726,CAP_GLY, enhances NF-kB signaling. ,,,
+CYLD,Cyld,S568-p,1874990002,LAFGGYLsEVVEENT,"ubiquitination; enzymatic activity, induced",signaling pathway regulation,34610306,,"induces RIPK2 deubiquitination, and NOD2 signaling",,,

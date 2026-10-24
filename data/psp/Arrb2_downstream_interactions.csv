@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARRB2,Arrb2,Y64-p,1883582900,TLTCAFRyGREDLDV,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced",37521868,Arrestin_N,,RKHD4,NA,INDUCES
+ARRB2,Arrb2,Y64-p,1883582900,TLTCAFRyGREDLDV,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced",37521868,Arrestin_N,,IGF1R,Igf1r,INDUCES
+ARRB2,Arrb2,Y250-p,1883582902,CLFSTAQyKCPVAQL,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced",37521868,Arrestin_C,,RKHD4,NA,INDUCES
+ARRB2,Arrb2,Y250-p,1883582902,CLFSTAQyKCPVAQL,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced",37521868,Arrestin_C,,IGF1R,Igf1r,INDUCES
+ARRB2,Arrb2,S14-p,23083983,TRVFKKSsPNCKLTV,"receptor internalization, induced",,26324936,,,,,
+ARRB2,Arrb2,T276-p,50247604,FCKVYTItPLLSDNR,"receptor internalization, induced",,26324936,Arrestin_C,,,,
+ARRB2,Arrb2,K295-sm,25350103,LALDGKLkHEDTNLA,"molecular association, regulation; ubiquitination","transcription, induced; signaling pathway regulation",25425640,Arrestin_C,"enhances TRAF6 oligomerization, regulation of TRAF6 signaling",TRAF6,Traf6,DISRUPTS

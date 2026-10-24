@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAP3,Dap3,T216-p,2226202,VWNKREStEKGSPLG,,"apoptosis, induced",18227431,DAP3,,,,
+DAP3,Dap3,T237-p,2226209,ITRVRNAtDAVGIVL,,"apoptosis, induced",18227431,DAP3,,,,
+DAP3,Dap3,S251-p,2226201,LKELKRQsSLGMFHL,,"apoptosis, induced",18227431,DAP3,,,,
+DAP3,Dap3,S252-p,2226200,KELKRQSsLGMFHLL,,"apoptosis, induced",18227431,DAP3,,,,
+DAP3,Dap3,S215-p,2226204,YVWNKREsTEKGSPL,,"apoptosis, induced",18227431,DAP3,,,,

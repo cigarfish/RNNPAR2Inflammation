@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACOX1,Acox1,S26-p,3196823,LTHILDGsPEKTRRR,protein stabilization; ubiquitination; phosphorylation; palmitoylation,"carcinogenesis, inhibited; cell growth, inhibited; transcription, altered",36878899,Acyl-CoA_ox_N,"induces CTNNB1 palmitoylation, regulates phosphorylation of downstream proteins and the DUSP14-ACOX1-PA-?-catenin signaling pathway",,,

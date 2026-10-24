@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGAX,Itgax,S1158-p,29606704,ENGTQTPsPPSEK__,"activity, induced","cell adhesion, induced",24129562,,"inside-out activation, phagocytosis",,,

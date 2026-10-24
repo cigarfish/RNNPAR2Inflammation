@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC9A3,Slc9a3,S555-p,450899,AEGERRGsLAFIRSP,"receptor internalization, induced; ubiquitination; activity, inhibited","endocytosis, induced; signaling pathway regulation",23275470; 38047302,,Decrease cell surface expression;  Gastrin-CCKBR signal transduction pathway,,,
+SLC9A3,Slc9a3,S563-p,12265540,LAFIRSPsTDNVVNV,"ubiquitination; activity, inhibited",,38047302,,,,,
+SLC9A3,Slc9a3,S663-p,457469,TMRKRLEsFKSTKLG,intracellular localization,,25855080,,trafficking of NHE3 to the apical membrane,,,

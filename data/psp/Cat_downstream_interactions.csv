@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAT,Cat,Y386-p,450445,YRARVANyQRDGPMC,"enzymatic activity, induced",,12777400,Catalase,,,,
+CAT,Cat,S167-p,30259808,LFPSFIHsQKRNPQT,"protein conformation; enzymatic activity, induced",,24211614,Catalase,phosphorylation necessary for tetramerization,,,
+CAT,Cat,Y231-p,450444,NANGEAVyCKFHYKT,"enzymatic activity, induced",,12777400,Catalase,,,,

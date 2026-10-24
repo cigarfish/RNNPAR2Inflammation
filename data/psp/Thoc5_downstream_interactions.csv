@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+THOC5,Thoc5,S6-p,453433,__MSSESsKKRKPKV,intracellular localization,,15221008,,,,,
+THOC5,Thoc5,S5-p,453432,___MSSEsSKKRKPK,intracellular localization,,15221008,,,,,
+THOC5,Thoc5,Y225-p,25802102,EIEVKKEyLSSLQPR,"molecular association, regulation; intracellular localization","translation, altered; cell motility, altered; signaling pathway regulation",23032722; 26919114,FmiP_Thoc5,"cytosolic localization, chemokinesis",,,

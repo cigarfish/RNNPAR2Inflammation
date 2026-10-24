@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BMAL1,Bmal1,S418-gl,1891282000,GSFITLRsRWFSFMN,"molecular association, regulation","transcription, inhibited",39375536,,,CLOCK,Clock,INDUCES
+BMAL1,Bmal1,T21-p,12575204,DFMSPGPtDLLSSSL,protein degradation,"transcription, altered",20049328,,stabilization of BMAL1 protein leads to reduction in its transcription activation ability,,,
+BMAL1,Bmal1,K259-sm,3055600,KCNRPSVkVEDKDFP,protein degradation; intracellular localization,"transcription, induced",18644859,,,,,
+BMAL1,Bmal1,S42-p,25230400,CNRKRKGsSTDYQES,"molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited; transcription, inhibited",37123229,,,,,
+BMAL1,Bmal1,S17-p,12575203,STISDFMsPGPTDLL,protein degradation,"transcription, altered",20049328,,stabilization of BMAL1 protein leads to reduction in its transcription activation ability,,,
+BMAL1,Bmal1,S183-p,1884110700,VFKILNYsQNDLIGQ,"molecular association, regulation; intracellular localization","carcinogenesis, induced; DNA repair, induced; apoptosis, inhibited",36725890,,,CLOCK,Clock,INDUCES
+BMAL1,Bmal1,S78-p,3638466,KNAREAHsQIEKRRR,"molecular association, regulation","transcription, inhibited",23229515,HLH,regulates the circadian clock,,,
+BMAL1,Bmal1,K538-ac,1968606,DASSPGGkKILNGGT,"molecular association, regulation","transcription, inhibited; transcription, altered",18419267; 28388406,,,CRY1,Cry1,INDUCES

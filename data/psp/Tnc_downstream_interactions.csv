@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNC,Tnc,K942-ub,1877447400,HAEVDVPkSQQATTK,protein degradation,"autophagy, induced",32732922,fn3,defective autophagy is key immunosuppressive factor in TNBC tumours,,,
+TNC,Tnc,K1882-ub,1877447401,KSSTITAkFTTDLDS,protein degradation,"autophagy, induced",32732922,,defective autophagy is key immunosuppressive factor in TNBC tumours,,,

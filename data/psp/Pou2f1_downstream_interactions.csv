@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POU2F1,Pou2f1,S385-p,456220,RRRKKRTsIETNIRV,"molecular association, regulation; activity, inhibited",,1684878,Homeodomain,,,,
+POU2F1,Pou2f1,S335-p,10424763,RFEALNLsFKNMCKL,,"transcription, inhibited",25937278,Pou,transcription of miR-451 in response to glucose availability,,,

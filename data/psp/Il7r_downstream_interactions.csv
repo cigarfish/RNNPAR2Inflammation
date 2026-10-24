@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL7R,Il7r,Y449-p,451291,GSNQEEAyVTMSSFY,"molecular association, regulation",,7522165,,,PIK3R1,Pik3r1,INDUCES

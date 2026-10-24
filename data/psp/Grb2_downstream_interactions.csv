@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRB2,Grb2,Y160-p,452038,QVPQQPTyVQALFDF,"molecular association, regulation; protein conformation","cell growth, inhibited; cell growth, induced; signaling pathway regulation",26103942; 33795832; 35507881; 36163549,,,GRB2,Grb2,DISRUPTS
+GRB2,Grb2,Y160-p,452038,QVPQQPTyVQALFDF,"molecular association, regulation; protein conformation","cell growth, inhibited; cell growth, induced; signaling pathway regulation",26103942; 33795832; 35507881; 36163549,,,EGFR,Egfr,DISRUPTS
+GRB2,Grb2,Y209-p,448512,TGMFPRNyVTPVNRN,"molecular association, regulation","cell growth, induced; cell growth, altered",11726515; 19273609; 36163549,,,SOS1,Sos1,DISRUPTS
+GRB2,Grb2,Y7-p,478849,_MEAIAKyDFKATAD,,"cell growth, altered",19273609,SH3_1,regulates cell proliferation,,,
+GRB2,Grb2,Y37-p,7388001,EECDQNWyKAELNGK,,"cell growth, altered",19273609,SH3_1,regulates cell proliferation,,,
+GRB2,Grb2,Y52-p,7388002,DGFIPKNyIEMKPHP,,"cell growth, altered",19273609,,regulates cell proliferation,,,

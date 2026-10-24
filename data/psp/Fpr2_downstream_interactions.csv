@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FPR2,Fpr2,S236-p,3176601,HKKGMIKsSRPLRVL,"receptor desensitization, altered",,11063592,7tm_1,downregulates PLA2 and PLD activation,,,
+FPR2,Fpr2,S329-p,19075301,ERALSEDsAPTNDTA,"receptor desensitization, induced",,21543323,,,,,
+FPR2,Fpr2,S237-p,3176602,KKGMIKSsRPLRVLT,"receptor desensitization, altered",,11063592,7tm_1,downregulates PLA2 and PLD activation,,,
+FPR2,Fpr2,Y302-p,3176600,SCLNPMLyVFVGQDF,"receptor desensitization, altered",,11063592,7tm_1; TM,downregulates PLD activation,,,
+FPR2,Fpr2,T332-p,19075300,LSEDSAPtNDTAANS,"receptor desensitization, induced; phosphorylation",,21543323,,,,,
+FPR2,Fpr2,T335-p,19075302,DSAPTNDtAANSASP,"receptor desensitization, induced; phosphorylation",,21543323,,,,,

@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLK4,Plk4,T170-p,480636,MPHEKHYtLCGTPNY,"molecular association, regulation; enzymatic activity, induced",,26101219,Pkinase,,STIL,Stil,INDUCES
+PLK4,Plk4,S303-p,12654008,ASSSTSIsGSLFDKR,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,K46-ac,62518202,AIKMIDKkAMYKAGM,"enzymatic activity, inhibited; protein conformation; phosphorylation",cell cycle regulation,27796307,Pkinase,"inhibits phosphorylation of its kinase domain, prevents centrosome amplification",,,
+PLK4,Plk4,S297-p,12654005,ISTAITAsSSTSISG,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,T292-p,12654007,SGHATIStAITASSS,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,S298-p,12654004,STAITASsSTSISGS,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,S299-p,1884202800,TAITASSsTSISGSL,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,T300-p,12654006,AITASSStSISGSLF,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,T295-p,12654001,ATISTAItASSSTSI,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,S291-p,12654010,DSGHATIsTAITASS,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,S301-p,12654009,ITASSSTsISGSLFD,intracellular localization,cell cycle regulation,37773039,,,,,
+PLK4,Plk4,K45-ac,62518203,VAIKMIDkKAMYKAG,"enzymatic activity, inhibited; protein conformation; phosphorylation",cell cycle regulation,27796307,Pkinase,"inhibits phosphorylation of its kinase domain, prevents centrosome amplification",,,
+PLK4,Plk4,S305-p,12122401,SSTSISGsLFDKRRL,intracellular localization,cell cycle regulation,20032307; 37773039,,,,,

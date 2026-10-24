@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDP1,Pdp1,Y381-p,15422118,DQLNDNEyTKFIPPN,"molecular association, regulation",,24486017,PP2C,,SIRT3,Sirt3,DISRUPTS
+PDP1,Pdp1,Y381-p,15422118,DQLNDNEyTKFIPPN,"molecular association, regulation",,24486017,PP2C,,ACAT1,Acat1,INDUCES
+PDP1,Pdp1,K202-ac,11323780,HPNDYFSkEASKLYF,"molecular association, regulation","cell growth, induced",24486017,PP2C,"glycolysis, cancer cell proliferation   ",PDHA1,Pdha1,INDUCES
+PDP1,Pdp1,Y94-p,15422109,SILKANEySFKVPEF,"enzymatic activity, inhibited",,24962578,,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TYK2,Tyk2,Y1055-p,447503,VPEGHEYyRVREDGD,"enzymatic activity, induced",signaling pathway regulation,31341059; 37845748; 8702790,PK_Tyr_Ser-Thr,,,,
+TYK2,Tyk2,Y1054-p,447499,AVPEGHEyYRVREDG,"intracellular localization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; transcription, induced; signaling pathway regulation",31341059; 37845748; 38355797; 8702790,PK_Tyr_Ser-Thr,"induces STAT3 phosphorylation, TYK2-STAT3-IL6 pathway",,,

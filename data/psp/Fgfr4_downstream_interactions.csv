@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGFR4,Fgfr4,Y390-p,52421900,LLLLAGLyRGQALHG,"molecular association, regulation",,26675719,TM,,STAT3,Stat3,INDUCES
+FGFR4,Fgfr4,Y642-p,461988,RGVHHIDyYKKTSNG,,"carcinogenesis, induced; cell growth, induced",34163030,PK_Tyr_Ser-Thr,,,,

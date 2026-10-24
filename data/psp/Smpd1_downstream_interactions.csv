@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMPD1,Smpd1,S510-p,477185,DGNYSGSsHVVLDHE,"intracellular localization; enzymatic activity, induced","apoptosis, induced",17303575; 17698617,ASMase_C,,,,

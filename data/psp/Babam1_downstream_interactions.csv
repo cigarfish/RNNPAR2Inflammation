@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BABAM1,Babam1,S29-p,479974,EPRPRTRsNPEGAED,"molecular association, regulation","DNA repair, induced",26027929,,promotes the association of BRCA1-A complex componentsin response to DNA damage,TNKS,Tnks,INDUCES
+BABAM1,Babam1,S29-p,479974,EPRPRTRsNPEGAED,"molecular association, regulation","DNA repair, induced",26027929,,promotes the association of BRCA1-A complex componentsin response to DNA damage,RAP80,Uimc1,INDUCES

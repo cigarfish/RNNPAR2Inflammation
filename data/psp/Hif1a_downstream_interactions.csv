@@ -1,0 +1,44 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HIF1A,Hif1a,K10-ac,25126718,GAGGANDkKKISSER,protein degradation,"transcription, inhibited",21917920; 28319066,,,,,
+HIF1A,Hif1a,K477-sm,3656305,LNQEVALkLEPNPES,protein stabilization; intracellular localization,"cell motility, induced; cell growth, induced; transcription, induced; transcription, inhibited",15465032; 19680224; 38456491,,"increased nuclear expression of HIF1A, increasing prolifieration, migration and invasion",,,
+HIF1A,Hif1a,K709-ac,28108000,PEEELNPkILALQNA,"activity, induced; protein degradation; molecular association, regulation; protein stabilization; ubiquitination","carcinogenesis, induced; cell growth, induced; transcription, induced",22908229; 24681946; 37777750,,"in hypoxia; inhibits ubiquitination; regulates expression of hypoxic response target genes, inhibits HIF1A hydroxylation",EGLN1,Egln1,DISRUPTS
+HIF1A,Hif1a,K709-ac,28108000,PEEELNPkILALQNA,"activity, induced; protein degradation; molecular association, regulation; protein stabilization; ubiquitination","carcinogenesis, induced; cell growth, induced; transcription, induced",22908229; 24681946; 37777750,,"in hypoxia; inhibits ubiquitination; regulates expression of hypoxic response target genes, inhibits HIF1A hydroxylation",VHL,Vhl,INDUCES
+HIF1A,Hif1a,T455-p,31887953,LAMSPLPtAETPKPL,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; transcription, induced",34211090,,inhibits ubiquitination,EGLN1,Egln1,DISRUPTS
+HIF1A,Hif1a,K547-ub,12723509,FAEDTEAkNPFSTQD,protein degradation,,16862177,,,,,
+HIF1A,Hif1a,K32-me,1883300100,AARSRRSkESEVFYE,intracellular localization,"transcription, inhibited",35859119,,Set7 upregulates HIF-1a target protein expression ,,,
+HIF1A,Hif1a,K19-ac,25126719,KISSERRkEKSRDAA,protein degradation,"transcription, inhibited",21917920; 28319066,,,,,
+HIF1A,Hif1a,S451-p,31877647,QNINLAMsPLPTAET,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",33550096,,inhibits ubiquitination,EGLN1,Egln1,DISRUPTS
+HIF1A,Hif1a,S451-p,31877647,QNINLAMsPLPTAET,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",33550096,,inhibits ubiquitination,VHL,Vhl,DISRUPTS
+HIF1A,Hif1a,S451-p,31877647,QNINLAMsPLPTAET,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",33550096,,inhibits ubiquitination,PIN1,Pin1,INDUCES
+HIF1A,Hif1a,K362-ub,1887094200,QQTECVLkPVESSDM,"activity, induced; protein stabilization","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; autophagy, inhibited",38272870,,,,,
+HIF1A,Hif1a,K477-ub,21176130,LNQEVALkLEPNPES,protein degradation,"carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited",29180628,,,,,
+HIF1A,Hif1a,K674-ac,14790000,ASPNRAGkGVIEQTE,"molecular association, regulation","carcinogenesis, induced; transcription, induced",20620956; 29416751,,,p300,Ep300,INDUCES
+HIF1A,Hif1a,S668-p,11073382,DTQSRTAsPNRAGKG,protein stabilization,"cell motility, induced; cell growth, induced",24189531,,"enhances invasion, angiogenesis, and tumor growth ",,,
+HIF1A,Hif1a,T63-p,56589703,KASVMRLtISYLRVR,protein stabilization,"transcription, induced",27245613; 27245614,,,,,
+HIF1A,Hif1a,S687-p,31876388,TEKSHPRsPNVLSVA,protein stabilization,,27027353,,,,,
+HIF1A,Hif1a,R258-m2,1881582605,KFSYCDErITELMGY,,"carcinogenesis, induced",34753906,,RMT3-mediated tumor angiogenesis,,,
+HIF1A,Hif1a,K391-sm,2793906,SSLFDKLkKEPDALT,protein stabilization; intracellular localization,"cell motility, induced; cell growth, induced; transcription, induced; transcription, inhibited",15465032; 19680224; 38456491,,"increased nuclear expression of HIF1A, increasing prolifieration, migration and invasion",,,
+HIF1A,Hif1a,K21-ac,25126716,SSERRKEkSRDAARS,protein degradation,"transcription, inhibited",21917920; 28319066,,,,,
+HIF1A,Hif1a,S576-p,17331801,DDDFQLRsFDQLSPL,protein degradation,,20889502,HIF-1,,,,
+HIF1A,Hif1a,S589-p,34494909,PLESSSAsPESASPQ,protein degradation,"cell growth, inhibited; cell motility, inhibited; signaling pathway regulation",30254159,,PI3K pathway and AKT are strongly activated by IRIS,,,
+HIF1A,Hif1a,S247-p,15434302,KTFLSRHsLDMKFSY,"molecular association, regulation; activity, inhibited","cell cycle regulation; carcinogenesis, altered; transcription, inhibited",20699359,,,ARNT,Arnt,DISRUPTS
+HIF1A,Hif1a,K391-me,95155313,SSLFDKLkKEPDALT,"protein degradation; molecular association, regulation; acetylation; ubiquitination","carcinogenesis, inhibited; transcription, inhibited",28534506,,"HIF1A methylation and acetylation increased ubiquitination; inhibits VEGF-induced tumor angiogenesis, induces HIF1A hydroxylation",VHL,Vhl,INDUCES
+HIF1A,Hif1a,T555-p,34362821,NPFSTQDtDLDLEML,protein degradation,"cell growth, inhibited; cell motility, inhibited; signaling pathway regulation",30254159,HIF-1,PI3K pathway and AKT are strongly activated by IRIS,,,
+HIF1A,Hif1a,S692-p,56589702,PRSPNVLsVALSQRT,protein stabilization,"transcription, induced",27245613; 27245614,,,,,
+HIF1A,Hif1a,K538-ub,6778620,FKLELVEkLFAEDTE,protein degradation,,16862177,,,,,
+HIF1A,Hif1a,K12-ac,25126717,GGANDKKkISSERRK,protein degradation,"transcription, inhibited",21917920; 28319066,,,,,
+HIF1A,Hif1a,K532-ac,458961,SDMVNEFkLELVEKL,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell motility, inhibited; transcription, inhibited",12464182; 14695184; 18574470; 20194889; 28534506,,,VHL,Vhl,INDUCES
+HIF1A,Hif1a,S657-p,17331802,ETTSATSsPYRDTQS,protein degradation,,20889502,,,,,
+HIF1A,Hif1a,K532-ub,486268,SDMVNEFkLELVEKL,protein degradation,"transcription, inhibited",10944113; 16862177,,,,,
+HIF1A,Hif1a,S643-p,470106,KILIASPsPTHIHKE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,HSPA9B,Hspa9,DISRUPTS
+HIF1A,Hif1a,S643-p,470106,KILIASPsPTHIHKE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,PIN1,Pin1,INDUCES
+HIF1A,Hif1a,S643-p,470106,KILIASPsPTHIHKE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,Exportin-1,Xpo1,DISRUPTS
+HIF1A,Hif1a,K389-ac,3080901,DTSSLFDkLKKEPDA,"molecular association, regulation",,18574470,,,,,
+HIF1A,Hif1a,K11-ac,25126715,AGGANDKkKISSERR,protein degradation,"transcription, inhibited",21917920; 28319066,,,,,
+HIF1A,Hif1a,S696-p,17595900,NVLSVALsQRTTVPE,protein stabilization,"transcription, altered",21095582,,required for the hypoxic regulation of the mTOR pathway,,,
+HIF1A,Hif1a,S551-p,34494910,TEAKNPFsTQDTDLD,protein degradation,"cell growth, inhibited; cell motility, inhibited; signaling pathway regulation",30254159,HIF-1,PI3K pathway and AKT are strongly activated by IRIS,,,
+HIF1A,Hif1a,T796-p,451302,ESGLPQLtSYDCEVN,,"transcription, induced",11983697,HIF-1a_CTAD,,,,
+HIF1A,Hif1a,S31-p,56589706,DAARSRRsKESEVFY,"molecular association, regulation; activity, inhibited","transcription, inhibited",34285132,,,,,
+HIF1A,Hif1a,S641-p,470105,DIKILIAsPSPTHIH,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,HSPA9B,Hspa9,DISRUPTS
+HIF1A,Hif1a,S641-p,470105,DIKILIAsPSPTHIH,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,PIN1,Pin1,INDUCES
+HIF1A,Hif1a,S641-p,470105,DIKILIAsPSPTHIH,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","apoptosis, inhibited; transcription, induced; transcription, altered",16954218; 18687685; 26784107; 36825991,,,Exportin-1,Xpo1,DISRUPTS

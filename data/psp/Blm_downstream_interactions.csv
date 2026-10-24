@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BLM,Blm,T99-p,450958,NAPAGQEtQRGGSKS,"molecular association, regulation","cell cycle regulation; apoptosis, inhibited",12034743; 14729972; 16199871,BLM_N,"In cells expressing BLM T99A/T122A after HU release, entrance into G1 phase was delayed, with p-Chk-1 levels remaining  elevated. ; radiosensitivity",H2AX,H2ax,INDUCES
+BLM,Blm,T99-p,450958,NAPAGQEtQRGGSKS,"molecular association, regulation","cell cycle regulation; apoptosis, inhibited",12034743; 14729972; 16199871,BLM_N,"In cells expressing BLM T99A/T122A after HU release, entrance into G1 phase was delayed, with p-Chk-1 levels remaining  elevated. ; radiosensitivity",PML,Pml,DISRUPTS
+BLM,Blm,T99-p,450958,NAPAGQEtQRGGSKS,"molecular association, regulation","cell cycle regulation; apoptosis, inhibited",12034743; 14729972; 16199871,BLM_N,"In cells expressing BLM T99A/T122A after HU release, entrance into G1 phase was delayed, with p-Chk-1 levels remaining  elevated. ; radiosensitivity",TOP3A,Top3a,DISRUPTS
+BLM,Blm,K259-ub,28132102,AQESDSLkTHLEDER,"molecular association, regulation; intracellular localization","DNA repair, inhibited",23708797,BLM_N,,RAP80,Uimc1,INDUCES
+BLM,Blm,S175-p,23086547,SFVTPPQsHFVRVST,"protein degradation; molecular association, regulation; ubiquitination",,26028025,BLM_N,,FBXW7,Fbxw7,INDUCES
+BLM,Blm,S144-p,467079,KKLEFSSsPDSLSTI,,cell cycle regulation,16864798,BLM_N,"prevents early mitotic exit, necessary for mitotic arrest",,,
+BLM,Blm,K331-sm,2293706,DLDTSDRkEDVLSTS,intracellular localization; phosphorylation,"chromatin organization, altered",15829507; 31171703,BLM_N,localization to PML bodies determined by the ratio of SUMO and SIM in telomere clustering scaffolds; inhibits phosphorylation of H2AX,,,
+BLM,Blm,S338-p,4700251,KEDVLSTsKDLLSKP,"protein stabilization; molecular association, regulation","cell cycle regulation; DNA repair, altered",24239288,BLM_N,,TOPBP1,Topbp1,DISRUPTS
+BLM,Blm,T122-p,450959,PKEVVCTtQNTPTVK,protein conformation,"cell cycle regulation; apoptosis, inhibited",12034743; 14729972; 16880735,BLM_N,"In cells expressing BLM T99A/T122A after HU release, entrance into G1 phase was delayed, with p-Chk-1 levels remaining  elevated. ; radiosensitivity",,,
+BLM,Blm,K105-ub,28132100,ETQRGGSkSLLPDFL,"molecular association, regulation; intracellular localization","DNA repair, inhibited",23708797,BLM_N,,RAP80,Uimc1,INDUCES
+BLM,Blm,S646-p,15349300,LKHERFQsLSFPHTK,"molecular association, regulation; intracellular localization",,20719863,BDHCT_assoc,,PML,Pml,INDUCES
+BLM,Blm,S646-p,15349300,LKHERFQsLSFPHTK,"molecular association, regulation; intracellular localization",,20719863,BDHCT_assoc,,NCL,Ncl,INDUCES
+BLM,Blm,S502-p,34666301,HLQKSFVsSNWAETP,"protein stabilization; molecular association, regulation; intracellular localization",,25015292,BDHCT_assoc,Chk1 prevents chromatin bridges and is required for BLM localization to anaphase bridges.,CUL3,Cul3,DISRUPTS
+BLM,Blm,S304-p,467231,DTDFVPPsPEEIISA,"molecular association, regulation",,25794620,BLM_N,genome stability- suppression of sister chromatid exchanges,TOPBP1,Topbp1,INDUCES
+BLM,Blm,T171-p,471430,ETSKSFVtPPQSHFV,"protein degradation; molecular association, regulation; ubiquitination",,26028025,BLM_N,,FBXW7,Fbxw7,INDUCES
+BLM,Blm,T182-p,41290000,SHFVRVStAQKSKKG,protein degradation; ubiquitination,,26028025,BLM_N,during mitosis,,,
+BLM,Blm,K317-sm,2293704,SASSSSSkCLSTLKD,intracellular localization; phosphorylation,"chromatin organization, altered",15829507; 31171703,BLM_N,localization to PML bodies determined by the ratio of SUMO and SIM in telomere clustering scaffolds; inhibits phosphorylation of H2AX,,,
+BLM,Blm,K344-sm,2293705,TSKDLLSkPEKMSMQ,intracellular localization,,31171703,BLM_N,localization to PML bodies determined by the ratio of SUMO and SIM in telomere clustering scaffolds,,,
+BLM,Blm,K225-ub,28132101,IDLTEEQkDDSEWLS,"molecular association, regulation; intracellular localization","DNA repair, inhibited",23708797,BLM_N,,RAP80,Uimc1,INDUCES

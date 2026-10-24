@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP24,Usp24,S1616-p,22547101,NSHSPAGsAAISQQD,protein degradation,cell cycle regulation,27991932,,,,,
+USP24,Usp24,S2604-p,3216276,HLQQGSEsPMMIGEL,protein degradation,cell cycle regulation,27991932,,,,,
+USP24,Usp24,S2047-p,451983,QRVSDQNsPVLPKKS,protein degradation,cell cycle regulation,27991932,,,,,

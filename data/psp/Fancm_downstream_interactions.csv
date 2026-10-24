@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FANCM,Fancm,S1045-p,28117600,LSHSAVNsQQNLELN,"molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, altered; signaling pathway regulation",23698467; 31067464,,FANCM is recruited to DNA replication fork.,MCM2,Mcm2,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SDC1,Sdc1,Y286-p,458494,KKKDEGSySLEEPKQ,,"endocytosis, induced",29109268,Syndecan,,,,
+SDC1,Sdc1,Y309-p,455075,PTKQEEFyA______,"molecular association, regulation","cytoskeletal reorganization; cell adhesion, altered",19228696,,required for LG4/5-induced microspikes,syntenin,Sdcbp,DISRUPTS

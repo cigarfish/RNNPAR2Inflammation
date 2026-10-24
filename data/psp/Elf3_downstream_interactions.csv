@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ELF3,Elf3,S68-p,54363505,GEQPQFWsKTQVLDW,intracellular localization,"cell growth, induced; transcription, induced",26977885,SAM_PNT,"nuclear localization, NOTCH3 expression",,,
+ELF3,Elf3,S207-p,482811,GTGASRSsHSSDSGG,protein stabilization; ubiquitination; phosphorylation,"transcription, induced; cell growth, altered",17491012,,,,,

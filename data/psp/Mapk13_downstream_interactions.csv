@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK13,Mapk13,Y182-p,454935,ADAEMTGyVVTRWYR,"enzymatic activity, induced",,10066767,Pkinase,,,,
+MAPK13,Mapk13,T180-p,4787496,RHADAEMtGYVVTRW,"enzymatic activity, induced",,10066767; 10201954,Pkinase,,,,

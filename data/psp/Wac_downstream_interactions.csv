@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WAC,Wac,T471-p,469445,PIKPLIStPPVSSQP,"molecular association, regulation; phosphorylation",cell cycle regulation,30021153,,,PLK1,Plk1,INDUCES
+WAC,Wac,T244-p,36128588,AETHSSStPVQHPIK,"molecular association, regulation; phosphorylation",cell cycle regulation,30021153,,,PLK1,Plk1,INDUCES
+WAC,Wac,T482-p,469446,SSQPKVStPVVKQGP,"molecular association, regulation; phosphorylation",cell cycle regulation,30021153,,,PLK1,Plk1,INDUCES
+WAC,Wac,T457-p,469444,YVSPRIStPQTNTVP,"molecular association, regulation; phosphorylation",cell cycle regulation,30021153,,,PLK1,Plk1,INDUCES

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTLA4,Ctla4,K203-ub,1887094202,LTTGVYVkMPPTEPE,"protein degradation; enzymatic activity, induced",,39404738,,"Catalytic activity and endosomal localization of USP8 are necessary for CTLA-4 deubiquitylation of K63,K27, and K29 linked attached chains for degradation, and rapid turnover of CTLA-4",,,
+CTLA4,Ctla4,Y218-p,450898,CEKQFQPyFIPIN__,"molecular association, regulation; intracellular localization",,10604992; 11970985,,,SHP-1,Ptpn6,INDUCES
+CTLA4,Ctla4,K213-ub,1887094204,PTEPECEkQFQPYFI,"protein degradation; enzymatic activity, induced",,39404738,,"Catalytic activity and endosomal localization of USP8 are necessary for CTLA-4 deubiquitylation of K63,K27, and K29 linked attached chains for degradation, and rapid turnover of CTLA-4",,,
+CTLA4,Ctla4,Y201-p,450897,SPLTTGVyVKMPPTE,"molecular association, regulation; intracellular localization",,10604992; 11970985,,,SHP-1,Ptpn6,INDUCES

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSNK1A1,Csnk1a1,K62-ub,12112130,PQLLYESkLYKILQG,protein degradation,,26909574,Pkinase,,,,
+CSNK1A1,Csnk1a1,K8-ub,41484588,MASSSGSkAEFIVGG,protein degradation,,26909574,,,,,
+CSNK1A1,Csnk1a1,T169-p,1876579500,KKYRDNRtRQHIPYR,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced; signaling pathway regulation",35277657,Pkinase,induces QIK phosphorylation thereby inducing the Wnt/?-catenin signaling pathway,,,
+CSNK1A1,Csnk1a1,K225-ub,15386532,SLPWQGLkAATKKQK,protein degradation,,26909574,Pkinase,,,,
+CSNK1A1,Csnk1a1,K65-ub,15490106,LYESKLYkILQGGVG,protein degradation,,26909574,Pkinase,,,,
+CSNK1A1,Csnk1a1,K179-ub,54227300,HIPYREDkNLTGTAR,protein degradation,,26909574,Pkinase,,,,
+CSNK1A1,Csnk1a1,S218-p,11333100,LMYFNRTsLPWQGLK,"molecular association, regulation",,19860830,Pkinase,,14-3-3 eta,Ywhah,INDUCES
+CSNK1A1,Csnk1a1,S242-p,11333101,KISEKKMsTPVEVLC,"molecular association, regulation",,19860830,Pkinase,,14-3-3 eta,Ywhah,INDUCES

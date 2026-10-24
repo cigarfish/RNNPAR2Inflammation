@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABRB1,Gabrb1,S409-p,451812,IQYRKPLsSREAYGR,"activity, inhibited",,28105535,Neur_chan_memb,orexin-mediated inhibition of the GABA-induced current,,,

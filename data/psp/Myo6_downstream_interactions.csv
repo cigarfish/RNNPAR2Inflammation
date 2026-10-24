@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYO6,Myo6,T405-p,449089,TAGGTKGtVIKVPLK,intracellular localization,,28348208,Myosin_head,recruited to Salmonella-induced membrane ruffles,,,

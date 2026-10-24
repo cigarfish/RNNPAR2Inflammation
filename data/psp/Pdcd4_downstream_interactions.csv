@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDCD4,Pdcd4,S457-p,458382,RGRKRFVsEGDGGRL,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","cell motility, induced; cell growth, induced",16357133; 20661426; 25002506; 27028868,,,14-3-3 beta,Ywhab,INDUCES
+PDCD4,Pdcd4,R110-me,1873375608,RSRSGKGrGLPKKGG,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",21700716,," Coexpression with PRMT5 with PDCD4-R110 and catalytic activity of both, are necessary for enhanced tumor growth.",,,
+PDCD4,Pdcd4,S67-p,458381,KRRLRKNsSRDSGRG,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; translation, altered; apoptosis, induced; cell growth, altered",17053147; 38081915,,,BTRC,Btrc,INDUCES
+PDCD4,Pdcd4,S71-p,1211014,RKNSSRDsGRGDSVS,"protein degradation; molecular association, regulation","cell cycle regulation; translation, altered; cell growth, altered",17053147,,,BTRC,Btrc,INDUCES
+PDCD4,Pdcd4,S76-p,2588300,RDSGRGDsVSDSGSD,"protein degradation; molecular association, regulation","cell motility, induced; cell growth, induced",17053147; 25002506; 27028868,,,14-3-3 beta,Ywhab,INDUCES
+PDCD4,Pdcd4,S76-p,2588300,RDSGRGDsVSDSGSD,"protein degradation; molecular association, regulation","cell motility, induced; cell growth, induced",17053147; 25002506; 27028868,,,BTRC,Btrc,INDUCES

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LSM4,Lsm4,R90-m2,15381290,VVAKGRGrGGLQQQK,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R117-m2,12190483,GVFGGRGrGGIPGTG,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R102-m2,15381281,QQKQQKGrGMGGAGR,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R109-m2,15381284,RGMGGAGrGVFGGRG,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R125-m2,12190487,GGIPGTGrGQPEKKP,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R88-m2,15381287,EEVVAKGrGRGGLQQ,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+LSM4,Lsm4,R115-m2,60203700,GRGVFGGrGRGGIPG,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES

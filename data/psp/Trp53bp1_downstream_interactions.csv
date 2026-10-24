@@ -1,0 +1,23 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TP53BP1,Trp53bp1,S25-p,450163,PCLIIEDsQPESQVL,,"apoptosis, altered",19876065,,,,,
+TP53BP1,Trp53bp1,R1396-me,2344821,GKAPVTPrGRGRRGR,"molecular association, regulation",,16294045,,,,,
+TP53BP1,Trp53bp1,S625-p,481851,DLTCDSGsQAVPSPA,"molecular association, regulation","DNA repair, induced",31390554,,regulates Rif1 localization,RIF1,Rif1,INDUCES
+TP53BP1,Trp53bp1,S166-p,483993,GAEDTASsQLGFGVL,"molecular association, regulation","carcinogenesis, induced; DNA repair, induced; cell growth, induced; apoptosis, inhibited",29328365,,,GSK3B,Gsk3b,INDUCES
+TP53BP1,Trp53bp1,R1403-me,2344818,RGRGRRGrPPSRTTG,"molecular association, regulation",,16294045,,,,,
+TP53BP1,Trp53bp1,S1219-p,481849,DDTESLHsQGEEEFD,,cell cycle regulation,18996087,,,,,
+TP53BP1,Trp53bp1,R1401-me,2344817,TPRGRGRrGRPPSRT,"molecular association, regulation",,16294045,,,,,
+TP53BP1,Trp53bp1,S1778-p,458312,FNKQYTEsQLRAGAG,,"apoptosis, altered",19876065,,,,,
+TP53BP1,Trp53bp1,S1618-p,3194894,LTKAADIsLDNLVEG,"activity, induced; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; chromatin organization, altered; DNA repair, inhibited",24703952; 25607646,,induce genome stability and Abrogates 53BP1 Foci in G1 Cells. Prevents the interaction of 53BP1 with chromatin.; localization at kinetochores,RNF168,Rnf168,DISRUPTS
+TP53BP1,Trp53bp1,S1317-p,476252,SSLHRTSsGTSLSAM,"molecular association, regulation; intracellular localization; phosphorylation","DNA repair, induced; apoptosis, inhibited",33596428,,"regulates phosphorylation of CHK2, ATM, DNA-PK",H4,Hist1h4a,INDUCES
+TP53BP1,Trp53bp1,S1678-p,476255,ITSEEERsPAKRGRK,"molecular association, regulation; intracellular localization",signaling pathway regulation,29603287; 30685087,,,KPNA1,Kpna1,DISRUPTS
+TP53BP1,Trp53bp1,S1678-p,476255,ITSEEERsPAKRGRK,"molecular association, regulation; intracellular localization",signaling pathway regulation,29603287; 30685087,,,KPNB1,Kpnb1,DISRUPTS
+TP53BP1,Trp53bp1,S1678-p,476255,ITSEEERsPAKRGRK,"molecular association, regulation; intracellular localization",signaling pathway regulation,29603287; 30685087,,,KPNA2,Kpna2,DISRUPTS
+TP53BP1,Trp53bp1,R1400-me,2344820,VTPRGRGrRGRPPSR,"molecular association, regulation",,16294045,,,,,
+TP53BP1,Trp53bp1,S1342-p,3194873,GPLRGKTsGTEPADF,intracellular localization,,28415769,,recruitment at kinetochores during mitosis,,,
+TP53BP1,Trp53bp1,S380-p,452380,TPFIVPSsPTEQEGR,"molecular association, regulation","DNA repair, induced",28700933,,other sites are involved in binding to SCAI,SCAI,Scai,INDUCES
+TP53BP1,Trp53bp1,K1690-ub,40212810,GRKSATVkPGAVGAG,,"DNA repair, induced",23874665,,,,,
+TP53BP1,Trp53bp1,T1609-p,486510,LGPYEAVtPLTKAAD,"activity, induced; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; chromatin organization, altered; DNA repair, inhibited",24703952,,induce genome stability and Abrogates 53BP1 Foci in G1 Cells. Prevents the interaction of 53BP1 with chromatin.,RNF168,Rnf168,DISRUPTS
+TP53BP1,Trp53bp1,K1628-ac,1876695601,NLVEGKRkRRSNVSS,"molecular association, regulation; intracellular localization","DNA repair, altered",29190394,,"acetylation status regulates  recruitment to foci, acetylation promotes DNA end resection and HR",H2A.1,Hist1h2aa,DISRUPTS
+TP53BP1,Trp53bp1,T543-p,460975,IDEDGENtQIEDTEP,,"DNA repair, inhibited",38060346,,,,,
+TP53BP1,Trp53bp1,R1398-me,2344819,APVTPRGrGRRGRPP,"molecular association, regulation",,16294045,,,,,
+TP53BP1,Trp53bp1,T302-p,460977,PEPEVLStQEDLFDQ,"molecular association, regulation","DNA repair, induced",31390554,,regulates Rif1 localization,RIF1,Rif1,INDUCES

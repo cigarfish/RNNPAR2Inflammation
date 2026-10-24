@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERCC2,Ercc2,T425-p,1878257800,IEPFDDRtPTIANPI,intracellular localization,cell cycle regulation,35977011,,regulates Eg5 localization,,,

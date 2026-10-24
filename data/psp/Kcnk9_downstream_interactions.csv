@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNK9,Kcnk9,S373-p,18609100,RLMKRRKsV______,"activity, induced; intracellular localization",,21357689,,,,,
+KCNK9,Kcnk9,T341-p,40686300,IEEISPStLKNSLFP,"activity, inhibited",,17374744,,PKCA mediated inhibition of channel current,,,

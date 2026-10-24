@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC6A3,Slc6a3,T613-p,451142,RGEVRQFtLRHWLKV,,signaling pathway regulation,22514303,,,,,
+SLC6A3,Slc6a3,S13-p,451138,CSVGLMSsVVAPAKE,"activity, induced",,16908408,,stimulates DAT-mediated efflux of dopamine,,,
+SLC6A3,Slc6a3,T48-p,1385533601,QLTSSTLtNPRQSPV,palmitoylation,,30587577,,Increased palmitoylation in dephosphomimetic mutant. ,,,
+SLC6A3,Slc6a3,S4-p,454428,____MSKsKCSVGLM,"activity, induced",,16908408,,stimulates DAT-mediated efflux of dopamine,,,
+SLC6A3,Slc6a3,S2-p,451135,______MsKSKCSVG,"activity, induced",,16908408,,stimulates DAT-mediated efflux of dopamine,,,
+SLC6A3,Slc6a3,S7-p,451136,_MSKSKCsVGLMSSV,"activity, induced; molecular association, regulation; protein conformation",,15024426; 16908408; 23161550,,increases DAT affinity for cocaine analog binding; stimulates DAT-mediated efflux of dopamine,,,
+SLC6A3,Slc6a3,S12-p,451137,KCSVGLMsSVVAPAK,"activity, induced",,15024426; 16908408,,stimulates DAT-mediated efflux of dopamine,,,
+SLC6A3,Slc6a3,T62-p,451139,VEAQDREtWGKKIDF,protein conformation,,19098122,SNF,,,,

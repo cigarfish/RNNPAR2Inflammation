@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PREX1,Prex1,S1169-p,18704703,DTMSYRDsYSECNSN,"activity, induced","cell growth, induced",21042280; 23899556; 27788493,,increased Rac activity,,,
+PREX1,Prex1,S319-p,4735252,KSTKRTKsINGSLYI,"activity, induced; activity, inhibited",,21042280; 27788493,,dephosphorylation of serines 313 and 319  negatively regulate GEF activity,,,
+PREX1,Prex1,S436-p,2526571,KDRRRKLsTVPKCFL,"molecular association, regulation; protein conformation; activity, inhibited",,26797121; 32661198,DEP,regulates PREX1 binding to negatively charged phospholipids;  inhibits GEF activity,,,
+PREX1,Prex1,S313-p,18704701,RVTGSKKsTKRTKSI,"activity, induced; activity, inhibited",,21042280; 27788493,,dephosphorylation of serines 313 and 319  negatively regulate GEF activity,,,
+PREX1,Prex1,S1165-p,25256104,DSGHDTMsYRDSYSE,"enzymatic activity, inhibited",,22242915,,,,,
+PREX1,Prex1,S605-p,18704702,DEEMEGTsSKNKQLR,"activity, induced",,21042280; 27788493,,,,,

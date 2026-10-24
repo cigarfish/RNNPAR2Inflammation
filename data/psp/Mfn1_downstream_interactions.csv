@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MFN1,Mfn1,S86-p,1498941800,AFFGRTSsGKSSVIN,"enzymatic activity, inhibited","apoptosis, induced",30659190,Dynamin_N,,,,

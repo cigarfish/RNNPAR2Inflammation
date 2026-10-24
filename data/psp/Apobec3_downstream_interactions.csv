@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APOBEC3B,Apobec3,T214-p,1869951800,LVLRRRQtYLCYEVE,"enzymatic activity, inhibited","carcinogenesis, altered",31165764,NAD2,regulates anti-retroviral and anti-retrotransposition activity,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMARCD3,Smarcd3,S247-p,27422800,VKRPGDLsVRCTLLL,"molecular association, regulation; intracellular localization","chromatin organization, altered; transcription, induced",23219531,,,USF1,Usf1,INDUCES

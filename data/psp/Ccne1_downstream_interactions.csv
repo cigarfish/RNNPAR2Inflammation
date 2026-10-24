@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNE1,Ccne1,T395-p,447676,PLPSGLLtPPQSGKK,"protein degradation; molecular association, regulation; ubiquitination",cell cycle regulation,10500095; 10652300; 11237742; 15364936; 17434132; 19561641; 8861947,,association in vitro and in vivo; T380 of cyclin E is necessary for for ubiquination and targeting to the proteosome. ,FBXW7,Fbxw7,INDUCES
+CCNE1,Ccne1,T395-p,447676,PLPSGLLtPPQSGKK,"protein degradation; molecular association, regulation; ubiquitination",cell cycle regulation,10500095; 10652300; 11237742; 15364936; 17434132; 19561641; 8861947,,association in vitro and in vivo; T380 of cyclin E is necessary for for ubiquination and targeting to the proteosome. ,SKP2,Skp2,INDUCES
+CCNE1,Ccne1,S399-p,454414,GLLTPPQsGKKQSSG,"activity, induced; protein degradation; molecular association, regulation; intracellular localization",cell cycle regulation,14536078; 15364936; 17434132; 28137908,,decreased CCNE1 stabilization (abundance),FBXW7,Fbxw7,INDUCES
+CCNE1,Ccne1,S387-p,454413,LSEQNRAsPLPSGLL,protein degradation,,14536078,,,,,
+CCNE1,Ccne1,T77-p,454411,DPCSLIPtPDKEDDD,"protein degradation; molecular association, regulation",,14536078; 15364936; 17434132,,,FBXW7,Fbxw7,INDUCES

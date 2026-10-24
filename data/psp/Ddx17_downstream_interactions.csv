@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDX17,Ddx17,K29-ac,15211507,GGGGLPPkKFGNPGE,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited",20663877,,,HDAC3,Hdac3,INDUCES
+DDX17,Ddx17,K29-ac,15211507,GGGGLPPkKFGNPGE,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited",20663877,,,HDAC1,Hdac1,INDUCES
+DDX17,Ddx17,K50-sm,12726300,WDLSELPkFEKNFYV,"protein stabilization; molecular association, regulation","transcription, inhibited",19995069,,estrogen receptor and p53 transcription,HDAC1,Hdac1,INDUCES
+DDX17,Ddx17,K30-ac,15211506,GGGLPPKkFGNPGER,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited",20663877,,,HDAC3,Hdac3,INDUCES
+DDX17,Ddx17,K30-ac,15211506,GGGLPPKkFGNPGER,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited",20663877,,,HDAC1,Hdac1,INDUCES
+DDX17,Ddx17,K42-ac,15211508,GERLRKKkWDLSELP,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited; transcription, induced",20663877,,,HDAC3,Hdac3,INDUCES
+DDX17,Ddx17,K42-ac,15211508,GERLRKKkWDLSELP,"protein stabilization; molecular association, regulation","cell cycle regulation; apoptosis, inhibited; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+JAK1,Jak1,Y1034-p,448451,AIETDKEyYTVKDDR,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; transcription, induced; signaling pathway regulation",32029900; 32724162; 34380633; 36166512,PK_Tyr_Ser-Thr,,,,
+JAK1,Jak1,S515-p,62372200,SLHGSDRsFPSLGDL,"molecular association, regulation",,27919027,,,,,
+JAK1,Jak1,S518-p,62372201,GSDRSFPsLGDLMSH,"molecular association, regulation",,27919027,,,,,
+JAK1,Jak1,K245-ub,22246345,MRINNVFkDFLKEFN,protein degradation; ubiquitination,,37417777,FERM_F2,,,,
+JAK1,Jak1,Y1035-p,448452,IETDKEYyTVKDDRD,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; transcription, induced; signaling pathway regulation",32029900; 32724162; 34380633; 36166512,PK_Tyr_Ser-Thr,,,,
+JAK1,Jak1,K269-ub,22246351,STHDLKVkYLATLET,protein degradation; ubiquitination,,37417777,FERM_F2,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPAST,Spast,T306-p,3214842,NKPSTPTtATRKKKD,intracellular localization,cytoskeletal reorganization,32979422,,involved in microtubule severing,,,
+SPAST,Spast,S268-p,1211782,SGHHRAPsYSGLSMV,"protein stabilization; molecular association, regulation; ubiquitination; intracellular localization",cell cycle regulation,31284535; 33106322,,inhibits ubiquitination of spastin at K554;  regulates Abscission; midbody localization during cytokinesis,CAND1,Cand1,INDUCES
+SPAST,Spast,K554-ub,27210454,SDLTALAkDAALGPI,protein degradation,,33106322,AAA_lid_3,,,,

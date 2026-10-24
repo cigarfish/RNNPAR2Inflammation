@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAIAP2,Baiap2,S366-p,468035,KTLPRSSsMAAGLER,"molecular association, regulation",cytoskeletal reorganization,21282462,,regulates cell spreading,14-3-3 theta,Ywhaq,INDUCES
+BAIAP2,Baiap2,T360-p,4751846,YATTENKtLPRSSSM,"molecular association, regulation",cytoskeletal reorganization,19933840,,,14-3-3 zeta,Ywhaz,INDUCES
+BAIAP2,Baiap2,T340-p,2049593,LSDSYSNtLPVRKSV,"molecular association, regulation",cytoskeletal reorganization,19933840,,,14-3-3 zeta,Ywhaz,INDUCES

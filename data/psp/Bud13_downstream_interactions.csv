@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BUD13,Bud13,T159-p,470734,PRRARHDtPDPSPLR,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",37382881,,,FBXW7,Fbxw7,DISRUPTS

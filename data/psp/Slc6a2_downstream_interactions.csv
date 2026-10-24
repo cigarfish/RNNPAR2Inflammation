@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC6A2,Slc6a2,T258-p,465613,SLWKGVKtSGKVVWI,"receptor internalization, induced; intracellular localization; activity, inhibited",,16740633; 23979140,SNF,"Raft-rich membrane domains serve as transit cargos for transporter internalization.; effect observed in T258, S259 double mutant",,,
+SLC6A2,Slc6a2,T30-p,4957152,QPLRARKtAELLVVK,intracellular localization,"endocytosis, inhibited",21498515; 28017803,,"transport, surface trafficking; reduced surface expression in T30A mutatnt",,,
+SLC6A2,Slc6a2,S259-p,465614,LWKGVKTsGKVVWIT,"receptor internalization, induced; intracellular localization; activity, inhibited",,16740633; 23979140,SNF,"Raft-rich membrane domains serve as transit cargos for transporter internalization.; effect observed in T258, S259 double mutant",,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DRD3,Drd3,T142-p,1184590200,PVHYQHGtGQSSCRR,"protein degradation; molecular association, regulation","endocytosis, induced",29885323,7tm_1,inhibits receptor signaling,GRK2,Grk2,DISRUPTS
+DRD3,Drd3,S257-p,482886,LELKRYYsICQDTAL,"receptor desensitization, altered; receptor internalization, altered",,17536008,7tm_1,,FLNA,Flna,INDUCES
+DRD3,Drd3,S229-p,482885,RILTRQNsQCNSVRP,"receptor desensitization, altered; receptor internalization, altered",,17536008,7tm_1,,,,

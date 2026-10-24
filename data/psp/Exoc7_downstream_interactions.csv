@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EXOC7,Exoc7,S250-p,483909,SSSGVPYsPAIPNKR,"molecular association, regulation","exocytosis, induced; cell motility, induced; cytoskeletal reorganization",22595671,,,EXOC4,Exoc4,INDUCES
+EXOC7,Exoc7,S250-p,483909,SSSGVPYsPAIPNKR,"molecular association, regulation","exocytosis, induced; cell motility, induced; cytoskeletal reorganization",22595671,,,EXOC8,Exoc8,INDUCES

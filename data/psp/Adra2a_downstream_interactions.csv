@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADRA2A,Adra2a,S312-p,456350,ALDLEESsSSDHAER,"activity, inhibited",,7876239,7tm_1,,,,
+ADRA2A,Adra2a,S375-p,467300,RVGAAKAsRWRGRQN,"receptor desensitization, altered",,11864637,7tm_1; TM,,,,
+ADRA2A,Adra2a,S314-p,456352,DLEESSSsDHAERPP,"activity, inhibited",,7876239,7tm_1,,,,
+ADRA2A,Adra2a,S311-p,456349,DALDLEEsSSSDHAE,"activity, inhibited",,7876239,7tm_1,,,,
+ADRA2A,Adra2a,S313-p,456351,LDLEESSsSDHAERP,"activity, inhibited",,7876239,7tm_1,,,,

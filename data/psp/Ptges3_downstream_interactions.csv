@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTGES3,Ptges3,S113-p,451129,WKDWEDDsDEDMSNF,"molecular association, regulation; enzymatic activity, induced",,15040786,,,HSP90A,Hsp90aa1,INDUCES
+PTGES3,Ptges3,S113-p,451129,WKDWEDDsDEDMSNF,"molecular association, regulation; enzymatic activity, induced",,15040786,,,CK2A1,Csnk2a1,INDUCES
+PTGES3,Ptges3,S118-p,451130,DDSDEDMsNFDRFSE,"molecular association, regulation; enzymatic activity, induced",,15040786,,,HSP90A,Hsp90aa1,INDUCES
+PTGES3,Ptges3,S118-p,451130,DDSDEDMsNFDRFSE,"molecular association, regulation; enzymatic activity, induced",,15040786,,,CK2A1,Csnk2a1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DCTN1,Dctn1,S179-p,15512801,SASAGELsSSEPSTP,"protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited; transcription, altered",20679239; 23661607,,induce AR stabilization and nuclear translocation/accumulation; inhibits dynactin 1 interaction with microtubules,,,
+DCTN1,Dctn1,S19-p,455515,TPSGSRMsAEASARP,intracellular localization,cytoskeletal reorganization,23547029,,"accumulation at spindle poles, required for central spindle assembly",,,

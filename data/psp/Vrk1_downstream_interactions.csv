@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VRK1,Vrk1,S342-p,5938010,DDGKLDLsVVENGGL,,cytoskeletal reorganization,19103756,,necessary for Golgi fragmentation,,,
+VRK1,Vrk1,T386-p,1868585000,QTEEAIQtRSRTRKR,phosphorylation,,32266931,,induces phosphorylation of c-Jun and p53,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYL2,Myl2,S15-p,2846506,KRAGGANsNVFSMFE,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",25412762,,regulates cytokinesis,,,
+MYL2,Myl2,Y118-p,473229,KGVLKADyVREMLTT,"molecular association, regulation; phosphorylation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",25412762,,"induces phosphorylation at S15, regulates cytokinesis",ROCK2,Rock2,INDUCES

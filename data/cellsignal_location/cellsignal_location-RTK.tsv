@@ -1,0 +1,4 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc1	ENTITYB_Loc2	ENTITYB_phospho	EFFECT	SCORE
+RTK	Muc1	cytoplasm	1	Ctnnb1	cytoplasm	nuclear	0	carry	0.999
+RTK	Cbl	cytoplasm	0	Egfr	membrane	endosome	1	carry	0.999
+RTK	Arf6	endosome	1	Egfr	endosome	membrane	0	carry	0.999

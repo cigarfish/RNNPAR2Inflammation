@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VAV3,Vav3,Y173-p,455605,EDEGGEVyEDLMKAE,"activity, induced",,11917103; 32561640,,VAV3 signaling activity,,,
+VAV3,Vav3,Y164-p,1869344402,EDLYDCVyGEDEGGE,"activity, induced",,32561640,,VAV3 signaling activity,,,
+VAV3,Vav3,Y160-p,1869344401,VEDEEDLyDCVYGED,"activity, induced",,32561640,,VAV3 signaling activity,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKN2,Pkn2,T816-p,447838,GYGDRTStFCGTPEF,"enzymatic activity, induced",,10753910; 19723632,Pkinase,,,,
+PKN2,Pkn2,S815-p,4754738,MGYGDRTsTFCGTPE,"enzymatic activity, induced",,19723632,Pkinase,,,,
+PKN2,Pkn2,T814-p,3253564,GMGYGDRtSTFCGTP,"enzymatic activity, induced",,19723632,Pkinase,,,,
+PKN2,Pkn2,T958-p,2509079,TSEAPILtPPREPRI,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,17446865; 19723632; 31451768,Pkinase_C,mTORC1-mediated nutrient signaling,14-3-3 beta,Ywhab,INDUCES
+PKN2,Pkn2,T958-p,2509079,TSEAPILtPPREPRI,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,17446865; 19723632; 31451768,Pkinase_C,mTORC1-mediated nutrient signaling,PDK1,Pdk1,DISRUPTS

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PYCARD,Pycard,Y137-p,3920078,EWLLDALyGKVLTDE,"activity, induced",signaling pathway regulation,31333677,CARD,important for NLRP2 inflammasome complex formation and function,,,
+PYCARD,Pycard,Y146-p,465096,KVLTDEQyQAVRAEP,"molecular association, regulation",,33568399,CARD,mediated/regulates pyroptosis,PYCARD,Pycard,INDUCES
+PYCARD,Pycard,Y60-p,1868827202,TDKLVSFyLETYGAE,"activity, induced",signaling pathway regulation,31333677,PYRIN,important for NLRP2 inflammasome complex formation and function,,,

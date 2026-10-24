@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+INTS11,Ints11,K462-sm,1883375204,GISLGLLkREMAQGL,"molecular association, regulation; intracellular localization",,36454007,,regulates Integrator subcellular localization and interaction with integrator subunits,,,
+INTS11,Ints11,K475-sm,1883375206,GLLPEAKkPRLLHGT,"molecular association, regulation; intracellular localization",,36454007,,regulates Integrator subcellular localization and interaction with integrator subunits,,,
+INTS11,Ints11,K381-sm,1883375205,GRQVLEVkMQVEYMS,"molecular association, regulation; intracellular localization",,36454007,RMMBL,regulates Integrator subcellular localization and interaction with integrator subunits,,,

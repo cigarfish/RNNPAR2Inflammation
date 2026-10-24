@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPAG9,Spag9,S730-p,453192,GSKQRSAsQSSLDKL,"enzymatic activity, inhibited",,34319782,,inhibits IAV polymerase activity thus producing an antiviral response,,,
+SPAG9,Spag9,T217-p,449392,PAGDGLLtPDAQKGG,"molecular association, regulation","autophagy, induced",36394115,,,mucolipin 1,Mcoln1,INDUCES
+SPAG9,Spag9,T217-p,449392,PAGDGLLtPDAQKGG,"molecular association, regulation","autophagy, induced",36394115,,,ALG2,Alg2,INDUCES

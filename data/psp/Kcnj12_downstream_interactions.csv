@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNJ12,Kcnj12,S64-p,3053612,FANMDEKsQRYLADM,"activity, inhibited",,12234954,IRK,,,,
+KCNJ12,Kcnj12,T354-p,3053611,KTYEVPStPRCSAKD,"activity, inhibited",,12234954,IRK_C,,,,
+KCNJ12,Kcnj12,T38-p,3053610,FGNGKVHtRRRCRNR,"activity, inhibited",,12234954,IRK_N,,,,

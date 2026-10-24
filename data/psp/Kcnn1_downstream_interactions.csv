@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNN1,Kcnn1,Y109-p,17436177,KRKRLSDyALIFGMF,"activity, induced",,23496660,SK_channel,,,,

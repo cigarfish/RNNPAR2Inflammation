@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AKAP5,Akap5,S92-p,31878521,LVTRRKRsESSKQQK,"molecular association, regulation",,29196604,WSK,"AKAP5  de-palmitoylation, AKAP5 from  dendritic spines",ACTB,Actb,INDUCES
+AKAP5,Akap5,T87-p,406855301,ASLKRLVtRRKRSES,"molecular association, regulation",,29196604,WSK,"AKAP5  de-palmitoylation, AKAP5 from  dendritic spines",ACTB,Actb,INDUCES

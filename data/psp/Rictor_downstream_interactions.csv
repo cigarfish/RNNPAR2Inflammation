@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RICTOR,Rictor,K274-ub,21183562,DTAEGQLkEDREARF,"molecular association, regulation",,33378666,RICTOR_N,,mTOR,Mtor,DISRUPTS
+RICTOR,Rictor,K1116-ac,41692100,HRSSSDPkGGKLSSE,,signaling pathway regulation,26170313,RICTOR_phospho,induces mTORC2 signaling,,,
+RICTOR,Rictor,T1695-p,40638601,EAEAVLAtPPKQPIV,protein degradation; ubiquitination,,25897075,,,,,
+RICTOR,Rictor,T1135-p,458276,NRRIRTLtEPSVDFN,"molecular association, regulation; ubiquitination; phosphorylation",,19720745; 19935711; 20832730; 22310280,RICTOR_phospho,ILK/Rictor complex formation in cancer but not in normal cell types; T1135 phosphorylation reduces Rictor ubiquitination of SGK1.,14-3-3 beta,Ywhab,INDUCES
+RICTOR,Rictor,T1135-p,458276,NRRIRTLtEPSVDFN,"molecular association, regulation; ubiquitination; phosphorylation",,19720745; 19935711; 20832730; 22310280,RICTOR_phospho,ILK/Rictor complex formation in cancer but not in normal cell types; T1135 phosphorylation reduces Rictor ubiquitination of SGK1.,14-3-3 epsilon,Ywhae,INDUCES
+RICTOR,Rictor,T1135-p,458276,NRRIRTLtEPSVDFN,"molecular association, regulation; ubiquitination; phosphorylation",,19720745; 19935711; 20832730; 22310280,RICTOR_phospho,ILK/Rictor complex formation in cancer but not in normal cell types; T1135 phosphorylation reduces Rictor ubiquitination of SGK1.,CUL1,Cul1,DISRUPTS
+RICTOR,Rictor,K1119-ac,41692102,SSDPKGGkLSSESKT,,signaling pathway regulation,26170313,RICTOR_phospho,induces mTORC2 signaling,,,
+RICTOR,Rictor,K1125-ac,41692101,GKLSSESkTSNRRIR,,signaling pathway regulation,26170313,RICTOR_phospho,induces mTORC2 signaling,,,

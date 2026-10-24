@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCM3,Mcm3,T722-p,449197,EEMPQVHtPKTADSQ,"molecular association, regulation",cell cycle regulation,21965652,,"T722 phosphorylation affects MCM3 loading onto chromatin, and MCM3 overexpression blocks S phase entry. ",,,
+MCM3,Mcm3,K230-ub,58948909,DDLVDKAkPGDRVQV,,cell cycle regulation,27621311,MCM_OB,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,K270-ub,58948906,CNVKQMSkDAQPSFS,,cell cycle regulation,27621311,,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,K351-ub,21178624,IGDPSVAkSQLLRYV,,cell cycle regulation,27621311,MCM,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,K283-ub,58948908,FSAEDIAkIKKFSKT,,cell cycle regulation,27621311,MCM,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,K748-ub,22247293,ESRLKAFkVALLDVF,,cell cycle regulation,27621311,,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,K435-ub,12301894,QGRVTIAkAGIHARL,,cell cycle regulation,27621311,MCM,KEAP1-MCM3 associates with chromatin in a cell cycle-dependent manner,,,
+MCM3,Mcm3,S112-p,2840507,SFGSKHVsPRTLTSC,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",21658608; 37858471,MCM_OB,,MCM7,Mcm7,INDUCES

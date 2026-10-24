@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE3B,Pde3b,S295-p,447699,VIRPRRRsSCVSLGE,"enzymatic activity, induced",,26031333,,activation by insulin,,,
+PDE3B,Pde3b,S318-p,449873,CKIFRRPsLPCISRE,"molecular association, regulation; enzymatic activity, induced",,17255105,,,14-3-3 beta,Ywhab,INDUCES
+PDE3B,Pde3b,S318-p,449873,CKIFRRPsLPCISRE,"molecular association, regulation; enzymatic activity, induced",,17255105,,,14-3-3 eta,Ywhah,INDUCES

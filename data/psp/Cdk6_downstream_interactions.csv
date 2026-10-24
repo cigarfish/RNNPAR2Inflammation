@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK6,Cdk6,Y24-p,448903,AEIGEGAyGKVFKAR,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited",cell cycle regulation,23429262,Pkinase,,CCND3,Ccnd3,DISRUPTS
+CDK6,Cdk6,Y24-p,448903,AEIGEGAyGKVFKAR,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited",cell cycle regulation,23429262,Pkinase,,CCND1,Ccnd1,DISRUPTS

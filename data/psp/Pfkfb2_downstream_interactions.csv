@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PFKFB2,Pfkfb2,S483-p,452046,IRRPRNYsVGSRPLK,"molecular association, regulation",,12853467,,,14-3-3 beta,Ywhab,INDUCES
+PFKFB2,Pfkfb2,S32-p,23003811,EKKCSWAsYMTNSPT,"molecular association, regulation; enzymatic activity, inhibited; intracellular localization","transcription, altered",22214556; 24566088; 24634222,6PF2K,,FBPase 2,Fbp2,INDUCES

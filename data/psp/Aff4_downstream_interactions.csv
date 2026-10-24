@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AFF4,Aff4,S388-p,470820,KDDLKLSsSEDSDGE,"molecular association, regulation","carcinogenesis, induced; transcription, induced",37063434,AF-4,,PAX2,Pax2,INDUCES

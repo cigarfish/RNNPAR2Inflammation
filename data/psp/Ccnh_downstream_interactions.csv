@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNH,Ccnh,S304-p,12521707,YEDDDYVsKKSKHEE,,"transcription, altered; cell growth, altered",10993082,,,,,
+CCNH,Ccnh,S5-p,456230,___MYHNsSQKRHWT,"activity, inhibited","transcription, altered; cell growth, altered",10993082,,,,,

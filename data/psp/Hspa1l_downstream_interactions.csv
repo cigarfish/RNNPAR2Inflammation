@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPA1L,Hspa1l,S241-p,1869383201,DFDNRLVsHFVEEFK,"activity, induced","apoptosis, inhibited; transcription, induced; signaling pathway regulation",31642047,HSP70,induces chaperon activity of HSPA1L in vitro;  heat stress-induced apoptosis,,,

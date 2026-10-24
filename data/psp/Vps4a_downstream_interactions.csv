@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VPS4A,Vps4a,K23-ub,1881849300,ATEEDKAkNYEEALR,"molecular association, regulation; ubiquitination; enzymatic activity, induced",,35044214,,"interaction after HCV infection, enhances VPS4A ATPase activity, release of HCV particles ",CHMP1B,Chmp1b,INDUCES
+VPS4A,Vps4a,K121-ub,573790636,MGAVVMEkPNIRWND,"molecular association, regulation; ubiquitination; enzymatic activity, induced",,35044214,,"interaction after HCV infection, enhances VPS4A ATPase activity, release of HCV particles ",CHMP1B,Chmp1b,INDUCES

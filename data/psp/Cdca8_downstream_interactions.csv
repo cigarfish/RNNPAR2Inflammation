@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDCA8,Cdca8,S275-p,482836,RLAQICSsIRTHK__,,"cell growth, altered",17483322,Borealin,,,,
+CDCA8,Cdca8,T169-p,4203202,KRSSRANtVTPAVGR,,cell cycle regulation; cytoskeletal reorganization,18243099,Borealin,chromosome alignment in mitosis,,,
+CDCA8,Cdca8,T230-p,4203200,DSKEIFLtVPVGGGE,"molecular association, regulation; protein conformation; phosphorylation",cell cycle regulation; cytoskeletal reorganization,18243099; 19530738,Borealin, stimulates phosphorylation of CENPA S7; important for chromosome alignment; chromosome alignment in mitosis,Borealin,Cdca8,INDUCES
+CDCA8,Cdca8,T94-p,4203201,ATADLDItEINKLTA,,cell cycle regulation; cytoskeletal reorganization,18243099,,chromosome alignment in mitosis,,,
+CDCA8,Cdca8,T278-p,482837,QICSSIRtHK_____,,"cell growth, altered",17483322,,,,,
+CDCA8,Cdca8,S219-p,460351,YNISGNGsPLADSKE,protein degradation,cell cycle regulation,20803554; 22383538,Borealin,,,,
+CDCA8,Cdca8,K143-me,1886267000,NLQTARVkRCPPSKK,,"cell cycle regulation; carcinogenesis, induced; chromatin organization, altered; cell growth, induced; cytoskeletal reorganization; signaling pathway regulation",37945831,,regulates AurkB signaling ,,,
+CDCA8,Cdca8,T88-p,4203203,QALEEAAtADLDITE,,cell cycle regulation; cytoskeletal reorganization,18243099,,chromosome alignment in mitosis,,,

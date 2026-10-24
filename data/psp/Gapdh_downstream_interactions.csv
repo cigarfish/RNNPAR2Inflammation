@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GAPDH,Gapdh,T237-p,4658322,GMAFRVPtANVSVVD,intracellular localization,"apoptosis, inhibited",21979951,Gp_dh_C,increases cell survival,,,
+GAPDH,Gapdh,K117-ac,474648,AHLQGGAkRVIISAP,intracellular localization,,20601085,,nuclear translocation,,,
+GAPDH,Gapdh,T99-p,23109029,AEYVVEStGVFTTME,"enzymatic activity, induced",,26629320,Gp_dh_N,,,,
+GAPDH,Gapdh,R248-m2,1878232000,SVVDLTCrLEKPAKY,"enzymatic activity, induced",,31324208,,"enhances GAPDH activity by promoting the assembly of an active tetramer, promotes glycolysis and mitochondrial respiration, PRMT3 increases the sensitivity of pancreatic cancer cells to GAPDH blockage ",GAPDH,Gapdh,INDUCES
+GAPDH,Gapdh,K254-ac,474649,CRLEKPAkYDDIKKV,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",24362262,Gp_dh_C,,,,
+GAPDH,Gapdh,S122-p,31881707,GAKRVIIsAPSADAP,"activity, induced; methylation; intracellular localization","autophagy, induced",26626483; 30232003,,,,,
+GAPDH,Gapdh,R234-me,1880733300,KLTGMAFrVPTANVS,"molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited",30232003,,inhibits binding to NAD,,,
+GAPDH,Gapdh,S151-p,3178959,LKIISNAsCTTNCLA,"activity, induced; molecular association, regulation","cell motility, induced; cell growth, induced",37450367,,K139 ubiquitylation promotes cell proliferation and motility-migration and metastasis;  K139 is critical for its binding to TRAF2 and activation of the NF-kB pathways leading to proliferation and migration,TRAF2,Traf2,INDUCES
+GAPDH,Gapdh,K139-ub,21175144,VMGVNHEkYDNSLKI,"activity, induced; molecular association, regulation","cell motility, induced; cell growth, induced",37450367,,K139 ubiquitylation promotes cell proliferation and motility-migration and metastasis;  K139 is critical for its binding to TRAF2 and activation of the NF-kB pathways leading to proliferation and migration,TRAF2,Traf2,INDUCES
+GAPDH,Gapdh,S98-p,52434703,GAEYVVEsTGVFTTM,"enzymatic activity, induced",,26629320,Gp_dh_N,,,,
+GAPDH,Gapdh,K251-ac,14791500,DLTCRLEkPAKYDDI,intracellular localization,,20601085,Gp_dh_C,nuclear translocation,,,
+GAPDH,Gapdh,K227-ac,461582,VIPELNGkLTGMAFR,intracellular localization,,20601085,Gp_dh_C,nuclear translocation,,,
+GAPDH,Gapdh,Y42-p,450511,DPFIDLNyMVYMFQY,intracellular localization,"DNA repair, induced; apoptosis, inhibited",17488287; 32539222,Gp_dh_N,,PKCI,Prkci,INDUCES
+GAPDH,Gapdh,Y94-p,25293196,WGDAGAEyVVESTGV,"enzymatic activity, induced",,26629320,Gp_dh_N,,,,
+GAPDH,Gapdh,T246-p,23109023,NVSVVDLtCRLEKPA,protein conformation,signaling pathway regulation,23653351; 27129213,Gp_dh_C,decreased GAPDH tetramerization; GAPDH/PKCD signaling to inhibit I/R-induced mitophagy,,,

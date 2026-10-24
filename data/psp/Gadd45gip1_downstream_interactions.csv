@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GADD45GIP1,Gadd45gip1,S221-p,474542,PAASGAPsS______,,"cell growth, altered",17069992,,promotes cell proliferation,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NGEF,Ngef,S18-p,34499273,KTRRKSAsDQWNTDN,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",34711817,,"induces C-Raf phosphorylation, induces Ras/MAPK signaling pathway",KRas,Kras,INDUCES
+NGEF,Ngef,S16-p,34501054,LEKTRRKsASDQWNT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",34711817,,"induces C-Raf phosphorylation, induces Ras/MAPK signaling pathway",KRas,Kras,INDUCES

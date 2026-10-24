@@ -1,0 +1,28 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TP63,Trp63,K676-sm,3617601,RNKQQRIkEEGE___,protein degradation,"transcription, inhibited",15611636,,,,,
+TP63,Trp63,S66-p,451600,SSTFDALsPSPAIPS,protein degradation,"cell growth, inhibited",23166821; 30301786,,"Anti-clonogenic effects of TGFB require S66,68 phosphorylation.",,,
+TP63,Trp63,K232-ac,41259001,IRAMPVYkKAEHVTE,protein stabilization,"transcription, induced",25911675,P53,,,,
+TP63,Trp63,S160-p,451600,SSTFDALsPSPAIPS,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,p300,Ep300,INDUCES
+TP63,Trp63,S160-p,451600,SSTFDALsPSPAIPS,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,SMAD2,Smad2,INDUCES
+TP63,Trp63,S160-p,451600,SSTFDALsPSPAIPS,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,SMAD3,Smad3,INDUCES
+TP63,Trp63,Y171-p,10359107,AIPSNTDyPGPHSFD,protein stabilization,,19783996,P53,,,,
+TP63,Trp63,S43-p,27937107,YRSTMSQsTQTNEFL,"molecular association, regulation","transcription, inhibited",23589370,,,p300,Ep300,DISRUPTS
+TP63,Trp63,S368-p,34504455,SPSSYGNsSPPLNKM,"molecular association, regulation",,34761935,,,,,
+TP63,Trp63,T357-p,34371382,QHLLQKQtSIQSPSS,"molecular association, regulation",,34761935,,,,,
+TP63,Trp63,Y290-p,10359106,RQSVLVPyEPPQVGT,protein stabilization,,19783996,P53,,,,
+TP63,Trp63,T281-p,912008300,QYVEDPItGRQSVLV,,"transcription, induced",29559659,P53,Induction of LCE1C and ANXA8L1 transcription,,,
+TP63,Trp63,S358-p,1875424900,HLLQKQTsIQSPSSY,"molecular association, regulation",,34761935,,,,,
+TP63,Trp63,S162-p,451601,TFDALSPsPAIPSNT,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,p300,Ep300,INDUCES
+TP63,Trp63,S162-p,451601,TFDALSPsPAIPSNT,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,SMAD2,Smad2,INDUCES
+TP63,Trp63,S162-p,451601,TFDALSPsPAIPSNT,"molecular association, regulation; protein stabilization; intracellular localization",,23420876; 39180088,,,SMAD3,Smad3,INDUCES
+TP63,Trp63,T491-p,4668106,PQQRNALtPTTIPDG,protein degradation,"DNA repair, induced; apoptosis, induced; transcription, inhibited",18769144; 19282665; 21602882,,,,,
+TP63,Trp63,S395-p,451602,TSIKKRRsPDDELLY,,"transcription, induced",35623662,P53_tetramer,,,,
+TP63,Trp63,S301-p,451602,TSIKKRRsPDDELLY,protein degradation,,30301786,P53_tetramer,,,,
+TP63,Trp63,S560-p,4668108,LARLGCSsCLDYFTT,protein degradation,,18769144,SAM_2,,,,
+TP63,Trp63,S68-p,451601,TFDALSPsPAIPSNT,protein degradation,"cell growth, inhibited",23166821; 30301786,,"Anti-clonogenic effects of TGFB require S66,68 phosphorylation.",,,
+TP63,Trp63,S51-p,28802100,TQTNEFLsPEVFQHI,"molecular association, regulation","apoptosis, altered; transcription, altered; transcription, inhibited",23589370; 33548094,,,p300,Ep300,DISRUPTS
+TP63,Trp63,S51-p,28802100,TQTNEFLsPEVFQHI,"molecular association, regulation","apoptosis, altered; transcription, altered; transcription, inhibited",23589370; 33548094,,,PIN1,Pin1,INDUCES
+TP63,Trp63,T46-p,912008301,TMSQSTQtNEFLSPE,,"transcription, induced",29559659,,Induction of LCE1C and ANXA8L1 transcription,,,
+TP63,Trp63,S479-p,4668107,MNKLPSVsQLINPQQ,"activity, induced; protein degradation; molecular association, regulation","cell growth, inhibited; apoptosis, induced; transcription, altered",18769144; 20023394,,,NFYA,Nfya,INDUCES
+TP63,Trp63,Y149-p,452168,SVTAPSPyAQPSSTF,protein stabilization,"transcription, altered",19783996,,,,,
+TP63,Trp63,S477-p,7643500,NSMNKLPsVSQLINP,protein degradation,,19282665,,DLX3-mediated degradation,,,

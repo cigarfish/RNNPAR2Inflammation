@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NME1,Nme1,S44-p,450096,GLKFMQAsEDLLKEH,,"cell growth, altered",12859952,NDK,inhibits colony formation in soft agar,,,
+NME1,Nme1,S120-p,450098,GRNIIHGsDSVESAE,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell growth, altered",10602478; 12859952; 17155928; 9038158,NDK,inhibits colony formation in soft agar,PRUNE,Prune1,INDUCES
+NME1,Nme1,K85-ub,15393712,WEGLNVVkTGRVMLG,protein degradation,"cell motility, induced",25582197,NDK,,,,
+NME1,Nme1,K56-ac,11319284,KEHYVDLkDRPFFAG,"protein stabilization; molecular association, regulation","cell motility, inhibited",25582197,NDK,,FBXO24,Fbxo24,DISRUPTS

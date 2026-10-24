@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSEN2,Psen2,S330-p,448567,MEEDSYDsFGEPSYP,protein stabilization,"apoptosis, inhibited",9990034,Presenilin; Presenilin,Phosphorylation of Presenilin 2 inhibits its cleavage by caspase-3.,,,
+PSEN2,Psen2,S327-p,448564,DPEMEEDsYDSFGEP,protein stabilization,"apoptosis, inhibited",9990034,Presenilin; Presenilin,Phosphorylation of Presenilin 2 inhibits its cleavage by caspase-3.,,,
+PSEN2,Psen2,S19-p,449962,EVCDERTsLMSAESP,"molecular association, regulation",,27293189,,,AP1G1,Ap1g1,DISRUPTS

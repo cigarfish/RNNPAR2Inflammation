@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNKS,Tnks,S978-p,471333,VVSASLIsPASTPSC,"protein stabilization; intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced",21818122,,,,,
+TNKS,Tnks,T1128-p,21326701,VEEEMQStIREHRDG,"protein stabilization; intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced",21818122,PARP,,,,
+TNKS,Tnks,T982-p,471334,SLISPAStPSCLSAA,"protein stabilization; intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced",21818122,,,,,
+TNKS,Tnks,T930-p,21326700,LAHGADPtMKNQEGQ,"protein stabilization; intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced",21818122,Ank_5,,,,
+TNKS,Tnks,T839-p,21326702,DTQGRNStPLHLAAG,"protein stabilization; intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced",21818122,Ank_4,,,,

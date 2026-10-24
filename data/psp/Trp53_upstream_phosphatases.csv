@@ -1,0 +1,17 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Trp53,Cdc25b,CDC25B,CDC25B,TP53,S15,"Phosphatases, in vitro"
+Trp53,Cdc25b,CDC25B,CDC25B,TP53,T155,"Phosphatases, in vitro"
+Trp53,Cdc25b,CDC25B,CDC25B,TP53,T18,"Phosphatases, in vitro"
+Trp53,Cdc25b,CDC25B,CDC25B,TP53,T55,"Phosphatases, in vitro"
+Trp53,Ppm1d,PPM1D,PPM1D,TP53,S15,"Phosphatases, in vitro"
+Trp53,Ppp2ca,PPP2CA,PPP2CA,TP53,T55,"Phosphatases, in vitro"
+Trp53,Cdc14a,CDC14A,CDC14A,TP53,S315,Putative upstream phosphatases
+Trp53,Cdc14b,CDC14B,CDC14B,TP53,S315,Putative upstream phosphatases
+Trp53,Dusp26,DUSP26,DUSP26,TP53,S20,Putative upstream phosphatases
+Trp53,Dusp26,DUSP26,DUSP26,TP53,S37,Putative upstream phosphatases
+Trp53,Ppm1d,PPM1D,PPM1D,TP53,S15,Putative upstream phosphatases
+Trp53,Ppp1ca,PPP1CA,PPP1CA,TP53,S15,Putative upstream phosphatases
+Trp53,Ppp1ca,PPP1CA,PPP1CA,TP53,S37,Putative upstream phosphatases
+Trp53,Ppp2ca,PPP2CA,PPP2CA,TP53,S37,Putative upstream phosphatases
+Trp53,Ppp2cb,PPP2CB,PPP2CB,TP53,S366,Putative upstream phosphatases
+Trp53,Ppp2r5c,PPP2R5C,PPP2R5C,TP53,T55,Putative upstream phosphatases

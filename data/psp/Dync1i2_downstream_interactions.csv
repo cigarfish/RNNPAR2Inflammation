@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DYNC1I2,Dync1i2,S84-p,4033130,PPPMSPSsKSVSTPS,,"cell motility, inhibited",24798412,,S84D mutant retrograde movement was more likely compared to  S84A mutant  ,,,

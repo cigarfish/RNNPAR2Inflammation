@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIOK2,Riok2,S335-p,471042,TKEGSEFsFSDGEVA,,cell cycle regulation,21880710,,,,,
+RIOK2,Riok2,S380-p,3211080,PEQIKEDsLSEESAD,,cell cycle regulation,21880710,,,,,
+RIOK2,Riok2,S548-p,21241902,KSSLEAAsFWGE___,,cell cycle regulation,21880710,,,,,
+RIOK2,Riok2,S483-p,7446950,QYRTRTLsITSSGSA,"molecular association, regulation; intracellular localization","cell growth, induced",34125833,,,NOB1P,Nob1,DISRUPTS

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYOD1,Myod1,T115-p,452044,ADRRKAAtMRERRRL,"activity, inhibited",,9751114,HLH,,,,
+MYOD1,Myod1,K102-ac,458969,LWACKACkRKTTNAD,"molecular association, regulation; protein conformation","cell differentiation, induced; transcription, induced",10619020; 18222173,Basic,,p300,Ep300,INDUCES
+MYOD1,Myod1,K104-ac,459081,ACKACKRkTTNADRR,"molecular association, regulation; protein conformation","cell differentiation, induced; transcription, induced",10619020,Basic,,,,
+MYOD1,Myod1,K99-ac,458968,RCLLWACkACKRKTT,"molecular association, regulation; protein conformation","cell differentiation, induced; transcription, induced",10619020; 18222173,Basic,,p300,Ep300,INDUCES
+MYOD1,Myod1,K99-ac,458968,RCLLWACkACKRKTT,"molecular association, regulation; protein conformation","cell differentiation, induced; transcription, induced",10619020; 18222173,Basic,,CBP,Crebbp,INDUCES
+MYOD1,Myod1,S201-p,40684505,SGDSDASsPRSNCSD,"molecular association, regulation; activity, inhibited","transcription, inhibited",20026657,Myf5,MyoD binding to SUV39H1 results in SUV39H1 binding to DNA.,SUV39H1,Suv39h1,INDUCES
+MYOD1,Myod1,Y30-p,449872,FATTDDFyDDPCFDS,,"cell differentiation, inhibited; cell cycle regulation; DNA repair, induced; transcription, induced",28446595,Basic,30F mutant overides senescence-associated inhibition of the myogenic program ,,,
+MYOD1,Myod1,S200-p,452000,YSGDSDAsSPRSNCS,"molecular association, regulation; activity, inhibited","transcription, inhibited",20026657,Myf5,MyoD binding to SUV39H1 results in SUV39H1 binding to DNA.,SUV39H1,Suv39h1,INDUCES

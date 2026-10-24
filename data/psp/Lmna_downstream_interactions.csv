@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LMNA,Lmna,S390-p,452605,EEERLRLsPSPTSQR,"activity, induced; intracellular localization; phosphorylation","chromatin organization, altered; DNA repair, inhibited",18815303; 37378334,,induces H2AX phosphorylation; nuclear lamin disassemby,,,
+LMNA,Lmna,S525-p,465453,NTWGCGNsLRTALIN,,cytoskeletal reorganization,7925482,LTD,"affects perinuclear assembly, dissasembly of lamin ",,,
+LMNA,Lmna,Y45-p,55369404,LNDRLAVyIDRVRSL,"molecular association, regulation; intracellular localization","chromatin organization, altered; cell motility, induced; DNA repair, inhibited",34385357,Filament,,lamin A/C,Lmna,DISRUPTS
+LMNA,Lmna,K201-sm,8545502,ENRLQTMkEELDFQK,intracellular localization,,18606848,Filament, increased cell death,,,
+LMNA,Lmna,S12-p,469170,SQRRATRsGAQASST,"molecular association, regulation",,35839855,,,lamin A/C,Lmna,DISRUPTS
+LMNA,Lmna,S404-p,478681,RSRGRASsHSSQTQG,"protein degradation; molecular association, regulation; intracellular localization","cell cycle regulation; transcription, inhibited",23430973; 7925482,,,14-3-3 beta,Ywhab,INDUCES
+LMNA,Lmna,S22-p,452604,QASSTPLsPTRITRL,"activity, induced; molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,18815303; 19165338; 24582498; 24741066; 31511386; 34806324; 35839855; 36695453; 7925482,,"dominant negative mitotic affects, and mitotic assembly and disassembly of lamin",lamin A/C,Lmna,DISRUPTS
+LMNA,Lmna,S652-p,452607,SYLLGNSsPRTQSPQ,"activity, induced; intracellular localization",,18815303,,nuclear lamin disassemby,,,
+LMNA,Lmna,T19-p,459855,SGAQASStPLSPTRI,"molecular association, regulation",cell cycle regulation,35839855; 7925482,,"dominant negative mitotic affects, and mitotic assembly and disassembly of lamin",lamin A/C,Lmna,DISRUPTS
+LMNA,Lmna,S403-p,456874,QRSRGRAsSHSSQTQ,intracellular localization,,7925482,,nuclear transport of lamin,,,
+LMNA,Lmna,S392-p,452606,ERLRLSPsPTSQRSR,"activity, induced; protein degradation; molecular association, regulation; intracellular localization",cell cycle regulation,18815303; 24741066; 30190500; 7925482,,"dominant negative mitotic affects, and mitotic assembly and disassembly of lamin",,,
+LMNA,Lmna,S628-p,483561,TVTRSYRsVGGSGGG,"molecular association, regulation; intracellular localization",,24741066,,regulate assembly of lamin A,,,
+LMNA,Lmna,S395-p,460763,RLSPSPTsQRSRGRA,phosphorylation,,37788673,,primes S392 for phosphorylation,,,
+LMNA,Lmna,S657-p,4661905,NSSPRTQsPQNCSIM,"activity, induced; intracellular localization",,18815303,,nuclear lamin disassemby,,,
+LMNA,Lmna,T10-p,1244434,TPSQRRAtRSGAQAS,"molecular association, regulation",,35839855,,,lamin A/C,Lmna,DISRUPTS

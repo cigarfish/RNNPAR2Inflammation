@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SEPTIN7,Septin7,T198-p,56658862,PLIAKADtLTPEECQ,"molecular association, regulation",cytoskeletal reorganization,33572403,Septin,inhibits ciliogenesis and septin filament formation,SEPT7,Sept7,DISRUPTS
+SEPTIN7,Septin7,Y319-p,450712,RKLAAVTyNGVDNNK,"molecular association, regulation",,21767235,Septin,,SEPT11,Sept11,DISRUPTS
+SEPTIN7,Septin7,Y319-p,450712,RKLAAVTyNGVDNNK,"molecular association, regulation",,21767235,Septin,,SEPT8,Sept8,INDUCES
+SEPTIN7,Septin7,Y319-p,450712,RKLAAVTyNGVDNNK,"molecular association, regulation",,21767235,Septin,,SEPT9,Sept9,DISRUPTS
+SEPTIN7,Septin7,Y319-p,450712,RKLAAVTyNGVDNNK,"molecular association, regulation",,21767235,Septin,,SEPT6,Sept6,DISRUPTS
+SEPTIN7,Septin7,T426-p,476328,EQQNSSRtLEKNKKK,"molecular association, regulation; intracellular localization",,35602601,,,14-3-3 gamma,Ywhag,INDUCES

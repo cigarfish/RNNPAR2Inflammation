@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAX1BP1,Tax1bp1,S25-p,1336919201,IFQNVAKsYLPNAHL,"molecular association, regulation","autophagy, altered",30459273,SKICH,,NAP1L1,Nap1l1,INDUCES
+TAX1BP1,Tax1bp1,S624-p,468908,RPPVRVPsWGLEDNV,"molecular association, regulation; ubiquitination",signaling pathway regulation,21765415,,regulates NF-kB signaling;  ;  regulates interaction with A20 and Itch via TRAF2 and TRAF6,TRAF2,Traf2,INDUCES
+TAX1BP1,Tax1bp1,S624-p,468908,RPPVRVPsWGLEDNV,"molecular association, regulation; ubiquitination",signaling pathway regulation,21765415,,regulates NF-kB signaling;  ;  regulates interaction with A20 and Itch via TRAF2 and TRAF6,TRAF6,Traf6,INDUCES
+TAX1BP1,Tax1bp1,S593-p,12738639,NYKELKRsLENPAER,"molecular association, regulation; ubiquitination",signaling pathway regulation,21765415,,regulates NF-kB signaling;  ;  regulates interaction with A20 and Itch via TRAF2 and TRAF6,TRAF2,Traf2,INDUCES
+TAX1BP1,Tax1bp1,S593-p,12738639,NYKELKRsLENPAER,"molecular association, regulation; ubiquitination",signaling pathway regulation,21765415,,regulates NF-kB signaling;  ;  regulates interaction with A20 and Itch via TRAF2 and TRAF6,TRAF6,Traf6,INDUCES

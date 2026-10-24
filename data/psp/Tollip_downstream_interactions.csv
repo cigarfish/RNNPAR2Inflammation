@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TOLLIP,Tollip,Y152-p,1884607200,GKVEDKWySLSGRQG,"activity, induced; molecular association, regulation","transcription, induced; signaling pathway regulation",38078859,,induces NFKB activity and TLR/IL-1R signaling,IRAK1,Irak1,DISRUPTS
+TOLLIP,Tollip,Y86-p,465033,LRLGYAVyETPTAHN,"activity, induced; molecular association, regulation","transcription, induced; signaling pathway regulation",38078859,C2,induces NFKB activity and TLR/IL-1R signaling,IRAK1,Irak1,DISRUPTS
+TOLLIP,Tollip,Y76-p,23154449,GMTRMDPyCRLRLGY,"activity, induced; molecular association, regulation","transcription, induced; signaling pathway regulation",38078859,C2,induces NFKB activity and TLR/IL-1R signaling,IRAK1,Irak1,DISRUPTS

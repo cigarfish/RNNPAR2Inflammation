@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMARCA4,Smarca4,K1029-ac,1878219603,SEKDKKGkGGTKTLM,,"DNA repair, induced; chromatin organization, altered",31291457,,recruitment of SIRT1 is required for clearing nucleosomes and promoting HR at DNA DSB sites,,,
+SMARCA4,Smarca4,S35-p,1261736701,LGPSPGPsPGSAHSM,"protein degradation; molecular association, regulation; ubiquitination",,30177679,,,FBXW7,Fbxw7,INDUCES
+SMARCA4,Smarca4,S721-p,481804,VDDEYGVsQALARGL,"molecular association, regulation","DNA repair, induced",24413084,,enhances binding to gamma-H2AX nucleosomes and acetylated H3 peptides,H3,H3,INDUCES
+SMARCA4,Smarca4,S1452-p,3191581,RPPAEKLsPNPPNLT,ubiquitination,"carcinogenesis, induced; chromatin organization, altered; cell motility, induced; cell growth, induced",34237461,,induces protein ubiquitination,,,
+SMARCA4,Smarca4,K1033-ac,11317281,KKGKGGTkTLMNTIM,,"DNA repair, induced; chromatin organization, altered",31291457,SNF2-rel_dom,recruitment of SIRT1 is required for clearing nucleosomes and promoting HR at DNA DSB sites,,,
+SMARCA4,Smarca4,S31-p,1261736700,PGAMLGPsPGPSPGS,"protein degradation; molecular association, regulation; ubiquitination",,30177679,,,FBXW7,Fbxw7,INDUCES

@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDH1,Cdh1,S844-p,478354,GSGSEAAsLSSLNSS,"protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, altered; cell motility, inhibited; cell adhesion, altered",17353278; 35115926,CADH_Y-type_LIR,,CTNNB1,Ctnnb1,DISRUPTS
+CDH1,Cdh1,Y754-p,456025,DTRDNVYyYDEEGGG,"molecular association, regulation","endocytosis, induced",22252131; 29311227,,,CBLL1,Cbll1,INDUCES
+CDH1,Cdh1,S847-p,465568,SEAASLSsLNSSESD,protein stabilization,"carcinogenesis, altered; cell motility, inhibited",35115926,CADH_Y-type_LIR,,,,
+CDH1,Cdh1,Y797-p,6158370,TLMSVPRyLPRPANP,protein degradation; ubiquitination,"carcinogenesis, induced",31286874,,induces EMT phenotype,,,
+CDH1,Cdh1,K871-ac,1880848900,EWGNRFKkLADMYGG,"activity, induced; molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",30401720,,induces CTNNB1 activity,CTNNB1,Ctnnb1,DISRUPTS
+CDH1,Cdh1,Y755-p,456026,TRDNVYYyDEEGGGE,,"endocytosis, induced",29311227,,,,,
+CDH1,Cdh1,T790-p,55578700,TRNDVAPtLMSVPRY,"molecular association, regulation; activity, inhibited",,27203386,,impairs homophilic interaction at cell-cell contacts ,CTNNB1,Ctnnb1,DISRUPTS
+CDH1,Cdh1,T790-p,55578700,TRNDVAPtLMSVPRY,"molecular association, regulation; activity, inhibited",,27203386,,impairs homophilic interaction at cell-cell contacts ,CBLL1,Cbll1,DISRUPTS
+CDH1,Cdh1,Y753-p,456024,DDTRDNVyYYDEEGG,,"endocytosis, induced",29311227,,,,,
+CDH1,Cdh1,S840-p,15754600,FDYEGSGsEAASLSS,protein stabilization,"carcinogenesis, altered; cell motility, inhibited",35115926,CADH_Y-type_LIR,,,,
+CDH1,Cdh1,K870-ac,1880848200,NEWGNRFkKLADMYG,"activity, induced; molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",30401720,,induces CTNNB1 activity,CTNNB1,Ctnnb1,DISRUPTS

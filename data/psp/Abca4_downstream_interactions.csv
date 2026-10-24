@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABCA4,Abca4,S1185-p,20940702,SCSSKGFsTTCPAHV,"enzymatic activity, induced",,21721517,,,,,
+ABCA4,Abca4,T1313-p,20940700,PREKAGQtPQDSNVC,"enzymatic activity, induced",,21721517,,,,,
+ABCA4,Abca4,S1317-p,20940703,AGQTPQDsNVCSPGA,"enzymatic activity, induced",,21721517,,,,,
+ABCA4,Abca4,T901-p,20940701,LEKTEPLtEETEDPE,protein stabilization; protein conformation,,21721517,,,,,

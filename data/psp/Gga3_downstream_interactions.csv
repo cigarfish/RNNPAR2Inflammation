@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GGA3,Gga3,S368-p,456842,QASGPPRsRSSSQAE,"molecular association, regulation; protein conformation",,16135791,,phosphorylation of this residue regulates the association of GGA3 with membranes,,,

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACSL4,Acsl4,K690-ub,21128156,GLVTDAFkLKRKELR,protein degradation,,37428466,,inhibition of ACSL4-driven lipid peroxidation and ferroptosis is necessary for CDK1 to promote oxaliplatin resistance in CRC,,,
+ACSL4,Acsl4,R339-me,1885751800,SCFTYGCrIGYSSPL,"protein degradation; molecular association, regulation",,37946697,,ACSL4-Induced Ferroptosisn CARM1 inhibited ferroptosis by directly interacting with and methylating ACSL4 at R339,RNF25,Rnf25,INDUCES
+ACSL4,Acsl4,K498-ub,15383881,PLICCEIkLKDWQEG,protein degradation,,37428466,AMP-binding,inhibition of ACSL4-driven lipid peroxidation and ferroptosis is necessary for CDK1 to promote oxaliplatin resistance in CRC,,,
+ACSL4,Acsl4,K388-ub,21128158,IYKNVMSkVQEMNYI,protein degradation,,37428466,AMP-binding,inhibition of ACSL4-driven lipid peroxidation and ferroptosis is necessary for CDK1 to promote oxaliplatin resistance in CRC,,,
+ACSL4,Acsl4,T328-p,1876129100,LAHVLELtAEISCFT,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, inhibited",35027735,AMP-binding,,ACSL4,Acsl4,INDUCES
+ACSL4,Acsl4,S447-p,23079030,LSGGAPLsPQTHRFM,protein degradation,,37428466,AMP-binding,inhibition of ACSL4-driven lipid peroxidation and ferroptosis is necessary for CDK1 to promote oxaliplatin resistance in CRC,,,

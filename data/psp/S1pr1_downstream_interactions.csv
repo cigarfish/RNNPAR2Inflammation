@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+S1PR1,S1pr1,T236-p,447691,RTRSRRLtFRKNISK,,"cell motility, altered; cytoskeletal reorganization",11583630,7tm_1,"Cortical actin assembly, chemotaxis, and angiogenesis",,,
+S1PR1,S1pr1,Y143-p,38535267,LAIAIERyITMLKMK,"receptor internalization, induced",,25588843,7tm_1,,,,

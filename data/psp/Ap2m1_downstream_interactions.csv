@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AP2M1,Ap2m1,T156-p,448782,SQITSQVtGQIGWRR,"activity, induced; molecular association, regulation; intracellular localization","endocytosis, induced",11877457; 16498080; 33137362; 34315807,,,ATP1A1(NOT_REPORTED,Atp1a1,UNKNOWN

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MSH2,Msh2,Y238-p,36121371,DFSTKDIyQDLNRLL,"molecular association, regulation","apoptosis, inhibited",25978431,MutS_II,Enforced expression of MSH2 Y238F induces spontaneous apoptosis,MSH6,Msh6,DISRUPTS

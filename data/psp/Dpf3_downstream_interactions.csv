@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DPF3,Dpf3,S348-p,23251120,GRRSGRGsPTADKKG,"molecular association, regulation","transcription, induced",26582913,,DPF3a initiates transcription of fetal genes and promotes pathological cardiac hypertrophy.,HEY1,Hey1,INDUCES

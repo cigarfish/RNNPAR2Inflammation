@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRSF11,Srsf11,S287-p,470248,KSRSRRRsKSPRRRR,protein stabilization; ubiquitination; intracellular localization,"carcinogenesis, induced; RNA splicing, induced; cell motility, induced",36394206,,,,,

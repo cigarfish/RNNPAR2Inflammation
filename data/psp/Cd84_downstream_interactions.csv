@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD84,Cd84,Y296-p,454840,QPAESRIyDEILQSK,"molecular association, regulation",,23322602,,,SH2D1B(NOT_REPORTED,Sh2d1b1,UNKNOWN
+CD84,Cd84,Y296-p,454840,QPAESRIyDEILQSK,"molecular association, regulation",,23322602,,,Arg(NOT_REPORTED,Abl2,UNKNOWN
+CD84,Cd84,Y279-p,450870,AASKKTIyTYIMASR,"molecular association, regulation","cell growth, altered",12928397,,,SH2D1B,Sh2d1b1,INDUCES
+CD84,Cd84,Y279-p,450870,AASKKTIyTYIMASR,"molecular association, regulation","cell growth, altered",12928397,,,SH2D1A,Sh2d1a,INDUCES
+CD84,Cd84,Y316-p,454841,EEPVNTVySEVQFAD,"molecular association, regulation","cell growth, altered",12928397; 23322602,,,SH2D1B(NOT_REPORTED,Sh2d1b1,UNKNOWN
+CD84,Cd84,Y316-p,454841,EEPVNTVySEVQFAD,"molecular association, regulation","cell growth, altered",12928397; 23322602,,,SH2D1B,Sh2d1b1,INDUCES
+CD84,Cd84,Y316-p,454841,EEPVNTVySEVQFAD,"molecular association, regulation","cell growth, altered",12928397; 23322602,,,Arg(NOT_REPORTED,Abl2,UNKNOWN

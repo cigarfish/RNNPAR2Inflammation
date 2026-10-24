@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DMTN,Dmtn,S92-p,456372,SLSPKSTsPPPSPEV,protein conformation,,19030997,AbLIM_anchor,facilitating actin bundling activity,,,
+DMTN,Dmtn,S403-p,450255,NELKKKAsLF_____,protein conformation,,16472756,VHP,controls the actin bundling activity of dematin,,,
+DMTN,Dmtn,S381-p,450255,NELKKKAsLF_____,protein conformation,cytoskeletal reorganization,23355471,VHP,"Phosphorylation of S381 eliminates the F-actin bundling activity, induced a compact quartenary structure, and caused the headpiece to associate with the core domain. ",,,

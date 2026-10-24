@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EGLN1,Egln1,K297-m1,1883819300,YKINGRTkAMVACYP,"enzymatic activity, inhibited","cell growth, induced; signaling pathway regulation",35452683,, K297 methylation attenuates its effect on HIF1a-mediated hypoxia signaling; the prolyl hydroxylase activity of EGLN1 is inhibited,,,
+EGLN1,Egln1,S61-p,56668114,HKLVCQGsEGALGHG,"enzymatic activity, inhibited",signaling pathway regulation,35538889,,regulates PHD2/HIFa/hepcidin/ferroportin signalling,,,
+EGLN1,Egln1,T405-p,15409614,RAKVKYLtGEKGVRV,"molecular association, regulation; protein conformation",,36902141,,,HIF1A,Hif1a,INDUCES
+EGLN1,Egln1,S136-p,1877121600,AAAGGQGsAVAAEAE,"enzymatic activity, inhibited",signaling pathway regulation,35538889,,regulates PHD2/HIFa/hepcidin/ferroportin signalling,,,
+EGLN1,Egln1,S125-p,7322687,ADPAAAAsPCRAAAG,"protein degradation; enzymatic activity, induced","cell growth, inhibited; apoptosis, induced; transcription, inhibited",28199842; 34339019,,HIF1a degradation; induces HIF1 degradation,,,

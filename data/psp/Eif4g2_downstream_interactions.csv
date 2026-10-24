@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF4G2,Eif4g2,T508-p,449145,AQPPRTQtPPLGQTP,"molecular association, regulation","translation, induced",29530922,,during mitosis,eIF2-beta,Eif2b2,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBB,Ubb,T12-p,13302272,VKTLTGKtITLEVEP,ubiquitination; intracellular localization,"cell growth, inhibited; DNA repair, inhibited",33022275,ubiquitin,induces histone deubiquitination and inhibits p53 localization to chromatin further inhibiting NHEJ,,,

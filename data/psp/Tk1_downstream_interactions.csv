@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TK1,Tk1,S13-p,448816,LPTVLPGsPSKTRGQ,"protein degradation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced",,12435275; 14697231; 25003822,,TK phosphorylation-modulated [18F]FLT cellular retention; decreases tetramerization (increases dimer proportion),TK,tk,DISRUPTS
+TK1,Tk1,S231-p,483564,PQQILQCsPAN____,"enzymatic activity, induced",,25003822,,TK phosphorylation-modulated [18F]FLT cellular retention,,,

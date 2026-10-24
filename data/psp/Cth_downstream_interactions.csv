@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTH,Cth,S346-p,1884444100,ESLGGFEsLAELPAI,"molecular association, regulation; protein conformation; enzymatic activity, induced",,37922764,,induces binding to PLP,CTH,Cth,INDUCES
+CTH,Cth,K73-ac,19011380,PTRNCLEkAVAALDG,protein stabilization,,32755037,Cys_Met_Meta_PP,K70R mutant is resistant to both acetylation and ubiquitination and is more stable than WT,,,
+CTH,Cth,K73-ub,3937199,PTRNCLEkAVAALDG,protein degradation,,32755037,Cys_Met_Meta_PP,,,,
+CTH,Cth,S377-p,484505,SDTLIRLsVGLEDEE,"enzymatic activity, inhibited",,25900831; 26539823; 29970364; 31759247,Cys_Met_Meta_PP,,Akt1,Akt1,INDUCES
+CTH,Cth,T355-p,1884444102,AELPAIMtHASVLKN,"molecular association, regulation; protein conformation; enzymatic activity, induced",,37922764,,induces binding to PLP,CTH,Cth,INDUCES

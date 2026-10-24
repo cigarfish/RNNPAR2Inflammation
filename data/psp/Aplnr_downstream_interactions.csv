@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APLNR,Aplnr,S339-p,1870435803,AGTSHSSsGEKSASY,"activity, induced; receptor internalization, induced; molecular association, regulation",,32863206,,ERK1/2 activation,GRK2,Grk2,DISRUPTS
+APLNR,Aplnr,S335-p,1870435802,QSRCAGTsHSSSGEK,"molecular association, regulation",,32863206,,BRET assay used for interaction,ARRB1,Arrb1,INDUCES
+APLNR,Aplnr,S335-p,1870435802,QSRCAGTsHSSSGEK,"molecular association, regulation",,32863206,,BRET assay used for interaction,ARRB2,Arrb2,INDUCES
+APLNR,Aplnr,S348-p,36436800,EKSASYSsGHSQGPG,"receptor internalization, induced; receptor desensitization, induced; molecular association, regulation; phosphorylation",,25271156,,enhanced ERK1/2 phosphorylation,GRK5,Grk5,INDUCES
+APLNR,Aplnr,S348-p,36436800,EKSASYSsGHSQGPG,"receptor internalization, induced; receptor desensitization, induced; molecular association, regulation; phosphorylation",,25271156,,enhanced ERK1/2 phosphorylation,ARRB1,Arrb1,INDUCES
+APLNR,Aplnr,S348-p,36436800,EKSASYSsGHSQGPG,"receptor internalization, induced; receptor desensitization, induced; molecular association, regulation; phosphorylation",,25271156,,enhanced ERK1/2 phosphorylation,GRK2,Grk2,INDUCES
+APLNR,Aplnr,S348-p,36436800,EKSASYSsGHSQGPG,"receptor internalization, induced; receptor desensitization, induced; molecular association, regulation; phosphorylation",,25271156,,enhanced ERK1/2 phosphorylation,ARRB2,Arrb2,INDUCES

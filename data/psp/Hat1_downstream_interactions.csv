@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HAT1,Hat1,S190-p,63080404,MWFIETAsFIDVDDE,"activity, induced; molecular association, regulation",,28143904,,,RBBP7,Rbbp7,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP37,Usp37,S628-p,469345,MVNSCITsPSTPSKK,"protein stabilization; ubiquitination; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced",21596315; 37955924,UCH,inhibits ubiquitination of itself and induces ERK1/2 deubiquitination;  induces deubiquitination ,,,

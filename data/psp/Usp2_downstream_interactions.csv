@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP2,Usp2,S2-p,1880716202,______MsQLSSTLK,"molecular association, regulation","DNA repair, induced",36436562,,,RECQL4,Recql4,INDUCES
+USP2,Usp2,T137-p,1880716200,YDQGVTLtQKLDSQS,"molecular association, regulation","DNA repair, induced",36436562,,,RECQL4,Recql4,INDUCES
+USP2,Usp2,S207-p,803501400,ENYGRKGsASQVPSQ,"molecular association, regulation",,29490279,,disassociation of phosphorylated R-SMADs from the receptor complex;  USP2a promotes TGF-beta-induced EMT and metastasis,,,
+USP2,Usp2,S225-p,803501401,SRVPEIIsPTYRPIG,"molecular association, regulation",,29490279,,disassociation of phosphorylated R-SMADs from the receptor complex;  USP2a promotes TGF-beta-induced EMT and metastasis,,,

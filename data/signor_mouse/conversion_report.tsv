@@ -1,0 +1,107 @@
+file	pathway	total_rows	ketp_rows	protein_slots	curated	convention	unchanged
+SIGNOR-AAAM_01_07_26.tsv	Aspartate and asparagine metabolism	47	1	2	0	2	0
+SIGNOR-AC_01_07_26.tsv	Adipogenesis	97	60	120	22	98	0
+SIGNOR-AD_01_07_26.tsv	Alzheimer	102	76	152	27	125	0
+SIGNOR-AG_01_07_26.tsv	Axon guidance	67	26	52	2	50	0
+SIGNOR-AML_01_07_26.tsv	Acute Myeloid Leukemia	398	119	238	64	174	0
+SIGNOR-AMPK_01_07_26.tsv	AMPK Signaling	66	34	68	12	56	0
+SIGNOR-Autophagy_01_07_26.tsv	Autophagy	50	32	64	1	63	0
+SIGNOR-B-cell_01_07_26.tsv	B-cell activation	61	28	56	10	46	0
+SIGNOR-CCN_01_07_26.tsv	COVID-19 Causal Network	230	129	258	68	190	0
+SIGNOR-CC_01_07_26.tsv	Circadian clock	77	52	104	0	104	0
+SIGNOR-CRC_01_07_26.tsv	Colorectal Carcinoma	95	73	146	22	124	0
+SIGNOR-CROHN_DENDR_01_07_26.tsv	IBD_DENDRITIC CELLS	93	64	128	61	67	0
+SIGNOR-CROHN_LYMPHOCYTE_01_07_26.tsv	Crohn_Lymphocyte	36	19	38	11	27	0
+SIGNOR-CS_01_07_26.tsv	Complement Signaling	27	16	32	5	27	0
+SIGNOR-DR_01_07_26.tsv	Death Receptor Signaling	48	46	92	34	58	0
+SIGNOR-DS_01_07_26.tsv	Dopaminergic Synapse	37	10	20	0	20	0
+SIGNOR-EGF_01_07_26.tsv	EGFR Signaling	107	78	156	27	129	0
+SIGNOR-EI_01_07_26.tsv	EBV infection	59	31	62	31	31	0
+SIGNOR-EMT_01_07_26.tsv	Epithelialâmesenchymal transition	72	21	42	3	39	0
+SIGNOR-FIP_01_07_26.tsv	Ferroptosis in PDAC	30	5	10	0	10	0
+SIGNOR-FSGS_01_07_26.tsv	Focal segmental glomerulosclerosis	19	7	14	0	14	0
+SIGNOR-Fibrosis_01_07_26.tsv	Fibrosis	20	10	20	0	20	0
+SIGNOR-G1-S_trans_01_07_26.tsv	Cell cycle: G1/S phase transition	80	69	138	25	113	0
+SIGNOR-G2-M_trans_01_07_26.tsv	Cell cycle: G2/M phase transition	144	119	238	34	204	0
+SIGNOR-GBM_01_07_26.tsv	Glioblastoma Multiforme	62	42	84	16	68	0
+SIGNOR-GCR_01_07_26.tsv	Glucocorticoid receptor Signaling	56	21	42	20	22	0
+SIGNOR-GIP_01_07_26.tsv	GLP-1 and GIP receptor signaling in PDAC	49	16	32	8	24	0
+SIGNOR-GPCR_BC_01_07_26.tsv	GPCR_Breast Cancer	103	33	66	2	64	0
+SIGNOR-GPCR_CRC_01_07_26.tsv	GPCR_CRC	134	87	174	24	150	0
+SIGNOR-GPCR_HCC_01_07_26.tsv	GPCR_HCC	177	84	168	10	158	0
+SIGNOR-GP_01_07_26.tsv	Glutamine metabolism	36	1	2	0	2	0
+SIGNOR-GSP_01_07_26.tsv	GABAergic synapse	28	3	6	0	6	0
+SIGNOR-GS_01_07_26.tsv	Glutamatergic synapse	42	6	12	0	12	0
+SIGNOR-Glycogenolysis_01_07_26.tsv	Glycogenolysis	15	6	12	0	12	0
+SIGNOR-Glycolysis_01_07_26.tsv	Glycolysis and Gluconeogenesis	61	3	6	1	5	0
+SIGNOR-HPP_01_07_26.tsv	Hippo Signaling	35	15	30	0	30	0
+SIGNOR-HT_01_07_26.tsv	Hepatocellular Tumor	92	61	122	10	112	0
+SIGNOR-Hedgehog_01_07_26.tsv	Sonic Hedgehog	45	26	52	0	52	0
+SIGNOR-IAIP_01_07_26.tsv	iCAF signaling in PDAC	53	33	66	21	45	0
+SIGNOR-IA_01_07_26.tsv	myCAF signaling in PDAC	32	17	34	0	34	0
+SIGNOR-IBD_IEC_01_07_26.tsv	IBD_IEC	107	63	126	62	64	0
+SIGNOR-IIS_01_07_26.tsv	Innate Immune Response	47	27	54	9	45	0
+SIGNOR-IL1R_01_07_26.tsv	IL1 Signaling	33	30	60	38	22	0
+SIGNOR-IL6_01_07_26.tsv	IL6 Signaling	45	36	72	21	51	0
+SIGNOR-INSR_01_07_26.tsv	Insulin Signaling	98	70	140	18	122	0
+SIGNOR-IOA_01_07_26.tsv	Inhibition of Apoptosis	67	53	106	43	63	0
+SIGNOR-IS_01_07_26.tsv	Integrin Signaling	73	41	82	7	75	0
+SIGNOR-Inflammosome_01_07_26.tsv	Inflammosome Activation	53	29	58	21	37	0
+SIGNOR-IoT_01_07_26.tsv	Initiation of Translation	24	14	28	0	28	0
+SIGNOR-LBC_01_07_26.tsv	Luminal Breast Cancer	120	67	134	39	95	0
+SIGNOR-LIP_01_07_26.tsv	LIF in PDAC	40	20	40	12	28	0
+SIGNOR-LR_01_07_26.tsv	Leptin Signaling	51	29	58	23	35	0
+SIGNOR-M1M2_01_07_26.tsv	Macrophage polarization	61	39	78	33	45	0
+SIGNOR-MCAPO_01_07_26.tsv	Mitochondrial Control of Apoptosis	55	48	96	29	67	0
+SIGNOR-MCIAP_01_07_26.tsv	MHC class I antigen presentation	9	1	2	1	1	0
+SIGNOR-MD_01_07_26.tsv	Mitochondrial dynamics in T cell exhaustion	89	49	98	18	80	0
+SIGNOR-MM_01_07_26.tsv	Malignant Melanoma	84	51	102	23	79	0
+SIGNOR-MSP_01_07_26.tsv	Multiple sclerosis	62	33	66	23	43	0
+SIGNOR-MS_01_07_26.tsv	MTOR Signaling	118	81	162	52	110	0
+SIGNOR-M_01_07_26.tsv	Macropinocytosis	44	17	34	3	31	0
+SIGNOR-NFKBC_01_07_26.tsv	NF-KB Canonical	44	41	82	36	46	0
+SIGNOR-NFKBNC_01_07_26.tsv	NF-KB Non Canonical	32	29	58	16	42	0
+SIGNOR-NM_01_07_26.tsv	Nucleotide Biosynthesis	104	3	6	2	4	0
+SIGNOR-NOTCH_01_07_26.tsv	NOTCH Signaling	45	25	50	0	50	0
+SIGNOR-NR_01_07_26.tsv	Neurotransmitters release	37	17	34	0	34	0
+SIGNOR-NSCLCN_01_07_26.tsv	Non-small-cell lung cancer (NSCLC)	39	29	58	12	46	0
+SIGNOR-NS_01_07_26.tsv	Noonan syndrome	85	55	110	4	106	0
+SIGNOR-OKIP_01_07_26.tsv	Chemokines PDAC	34	13	26	3	23	0
+SIGNOR-OS_01_07_26.tsv	Oxytocin signaling	46	14	28	4	24	0
+SIGNOR-P38_01_07_26.tsv	P38 Signaling	115	96	192	82	110	0
+SIGNOR-PC_01_07_26.tsv	Prostate Cancer	56	26	52	18	34	0
+SIGNOR-PDAP_01_07_26.tsv	Pancreatic ductal adenocarcinoma (PDA)	79	60	120	26	94	0
+SIGNOR-PD_01_07_26.tsv	Parkinson	35	21	42	26	16	0
+SIGNOR-PI3K-AKT_01_07_26.tsv	PI3K/AKT Signaling	51	35	70	24	46	0
+SIGNOR-PPP_01_07_26.tsv	Pentose phosphate pathway	48	2	4	1	3	0
+SIGNOR-PU_01_07_26.tsv	Ubiquitin activation	10	7	14	7	7	0
+SIGNOR-RAS_01_07_26.tsv	Retinoic acid Signaling	18	7	14	0	14	0
+SIGNOR-REP_01_07_26.tsv	Mitochondrial electron transport chain (ETC)	31	2	4	0	4	0
+SIGNOR-RMS_01_07_26.tsv	Rhabdomyosarcoma	145	74	148	26	122	0
+SIGNOR-SAPK-JNK_01_07_26.tsv	SAPK/JNK Signaling	72	60	120	53	67	0
+SIGNOR-SARS-COV-APOPTOSIS_01_07_26.tsv	SARS-COV APOPTOSIS	52	37	74	27	47	0
+SIGNOR-SARS-CoV-MAPK-Pathway_01_07_26.tsv	SARS-CoV MAPK PERTURBATION	41	26	52	17	35	0
+SIGNOR-SCAAE_01_07_26.tsv	SARS-CoV ATTACHMENT AND ENTRY	23	6	12	5	7	0
+SIGNOR-SCCS_01_07_26.tsv	SARS-CoV CYTOKINE STORM	66	34	68	34	34	0
+SIGNOR-SCFI_01_07_26.tsv	SARS-CoV FIBROSIS	27	11	22	0	22	0
+SIGNOR-SCIR_01_07_26.tsv	SARS-CoV INFLAMMATORY RESPONSE	38	28	56	19	37	0
+SIGNOR-SCISOVG_01_07_26.tsv	SARS-CoV INNATE RESPONSE TO dsRNA	28	19	38	2	36	0
+SIGNOR-SCSG_01_07_26.tsv	SARS-CoV STRESS GRANULES	32	7	14	2	12	0
+SIGNOR-SCUP_01_07_26.tsv	SARS-CoV ER STRESS	24	12	24	0	24	0
+SIGNOR-TA_01_07_26.tsv	TNF-alpha Signaling	68	61	122	52	70	0
+SIGNOR-TCA_01_07_26.tsv	T cell activation	114	86	172	20	152	0
+SIGNOR-TCIP_01_07_26.tsv	Tenascin-C in PDAC	62	40	80	7	73	0
+SIGNOR-TC_01_07_26.tsv	Thyroid cancer	62	26	52	7	45	0
+SIGNOR-TEAT_01_07_26.tsv	Translation elongation and termination	52	6	12	0	12	0
+SIGNOR-TGFb_01_07_26.tsv	TGF-beta Signaling	69	52	104	21	83	0
+SIGNOR-THM_01_07_26.tsv	Thyroid Hormone Metabolism	100	21	42	5	37	0
+SIGNOR-TI_01_07_26.tsv	Transcription initiation	65	57	114	0	114	0
+SIGNOR-TLR_01_07_26.tsv	Toll like receptors	85	65	130	48	82	0
+SIGNOR-ULCERATIVE_COLITIS_LYMPHOCYTE_01_07_26.tsv	Ulcerative_Colitis_Lymphocyte	28	14	28	10	18	0
+SIGNOR-UPR_01_07_26.tsv	Unfolded Protein Response	29	19	38	6	32	0
+SIGNOR-VEGF_01_07_26.tsv	VEGF Signaling	54	26	52	9	43	0
+SIGNOR-VKC_01_07_26.tsv	Vitamin-K cycle	18	9	18	0	18	0
+SIGNOR-WNT_01_07_26.tsv	WNT Signaling	72	52	104	5	99	0
+SIGNOR-YTS_01_07_26.tsv	YAP/TAZ regulation	106	40	80	2	78	0
+SIGNOR-mRNA_MAT_01_07_26.tsv	SIGNOR-mRNA_MAT_01_07_26.tsv	22	2	4	0	4	0
+SIGNOR-mRNA_Maturation_01_07_26.tsv	mRNA maturation	20	2	4	0	4	0

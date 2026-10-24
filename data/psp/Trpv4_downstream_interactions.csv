@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPV4,Trpv4,T175-p,10272405,GLLPFLLtHKKRLTD,"activity, induced",,19661060,,,,,
+TRPV4,Trpv4,T813-p,1868023603,QYYGFSHtVGRLRRD,"activity, induced",,32186440,,,,,
+TRPV4,Trpv4,S189-p,10272404,DEEFREPsTGKTCLP,"activity, induced",,19661060,,,,,
+TRPV4,Trpv4,S162-p,10272403,FDIVSRGsTADLDGL,"activity, induced",,19661060,,,,,
+TRPV4,Trpv4,S824-p,4777181,LRRDRWSsVVPRVVE,"activity, induced; molecular association, regulation; intracellular localization",,19661060; 25972993; 32186440,,,STIM1,Stim1,DISRUPTS

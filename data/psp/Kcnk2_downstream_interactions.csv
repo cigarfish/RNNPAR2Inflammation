@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNK2,Kcnk2,S348-p,456161,KETRRRLsVEIYDKF,"activity, inhibited",,19622790; 22726831,,current reduced by phosphorylation; lidocaine- treated cells,,,
+KCNK2,Kcnk2,S333-p,456161,KETRRRLsVEIYDKF,"activity, inhibited",neural plasticity,33006141,,,,,
+KCNK2,Kcnk2,S300-p,456160,GDWLRVIsKKTKEEV,"activity, inhibited",neural plasticity,33006141,,,,,

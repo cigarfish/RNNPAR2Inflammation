@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR5A1,Nr5a1,K119-sm,2798301,QIRANGFkLETGPPM,"molecular association, regulation; intracellular localization","transcription, inhibited",15192092; 19692572; 19995909,,,PITX1,Pitx1,DISRUPTS
+NR5A1,Nr5a1,K119-sm,2798301,QIRANGFkLETGPPM,"molecular association, regulation; intracellular localization","transcription, inhibited",15192092; 19692572; 19995909,,,RAD54L2,Rad54l2,INDUCES
+NR5A1,Nr5a1,K38-ac,458973,ESCKGFFkRTVQNNK,protein stabilization; intracellular localization,"transcription, induced",11479297,zf-C4,localization to the cytoplasm,,,
+NR5A1,Nr5a1,K34-ac,458972,LLTCESCkGFFKRTV,protein stabilization; intracellular localization,"transcription, induced",11479297,zf-C4,localization to the cytoplasm,,,
+NR5A1,Nr5a1,K72-ac,458974,CPFCRFQkCLTVGMR,protein stabilization; intracellular localization,"transcription, induced",11479297,zf-C4,localization to the cytoplasm,,,
+NR5A1,Nr5a1,K194-sm,2798300,AFPGRAIkSEYPEPY,"sumoylation; molecular association, regulation; intracellular localization","transcription, inhibited",15192092; 19692572,,,RAD54L2,Rad54l2,INDUCES
+NR5A1,Nr5a1,S203-p,447603,EYPEPYAsPPQPGLP,"activity, induced; molecular association, regulation","transcription, induced",14596681; 17901130; 19995909; 35592512,,,PITX1,Pitx1,INDUCES
+NR5A1,Nr5a1,K119-ub,11489901,QIRANGFkLETGPPM,"molecular association, regulation","transcription, induced",19995909,,,PITX1,Pitx1,INDUCES

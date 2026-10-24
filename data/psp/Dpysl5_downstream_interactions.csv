@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DPYSL5,Dpysl5,T516-p,478232,TPLADTPtRPVTRHG,"molecular association, regulation","cell growth, inhibited",25040932,,,TUBA1A,Tuba1a,INDUCES

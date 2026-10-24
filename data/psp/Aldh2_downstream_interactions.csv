@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALDH2,Aldh2,T356-p,1273608200,GNPFDSKtEQGPQVD,intracellular localization,"transcription, inhibited",30375985,Aldedh,"nuclear localization , ATP6V0E2 transcription decreased, regulates foam cell formation",,,
+ALDH2,Aldh2,S296-p,62906101,KSPNIIMsDADMDWA,"enzymatic activity, induced",,28056995,Aldedh,,,,

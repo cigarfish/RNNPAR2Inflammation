@@ -1,0 +1,31 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BLNK,Blnk,Y72-p,447718,SDDFDSDyENPDEHS,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG1,Plcg1,INDUCES
+BLNK,Blnk,Y72-p,447718,SDDFDSDyENPDEHS,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG2,Plcg2,INDUCES
+BLNK,Blnk,Y72-p,447718,SDDFDSDyENPDEHS,"molecular association, regulation","transcription, altered",12456653; 9697839,,,Btk,Btk,INDUCES
+BLNK,Blnk,Y72-p,447718,SDDFDSDyENPDEHS,"molecular association, regulation","transcription, altered",12456653; 9697839,,,NCK2,Nck2,INDUCES
+BLNK,Blnk,Y72-p,447718,SDDFDSDyENPDEHS,"molecular association, regulation","transcription, altered",12456653; 9697839,,,VAV1,Vav1,INDUCES
+BLNK,Blnk,Y96-p,447719,EENADDSyEPPPVEQ,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG1,Plcg1,INDUCES
+BLNK,Blnk,Y96-p,447719,EENADDSyEPPPVEQ,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG2,Plcg2,INDUCES
+BLNK,Blnk,Y96-p,447719,EENADDSyEPPPVEQ,"molecular association, regulation","transcription, altered",12456653; 9697839,,,Btk,Btk,INDUCES
+BLNK,Blnk,Y96-p,447719,EENADDSyEPPPVEQ,"molecular association, regulation","transcription, altered",12456653; 9697839,,,NCK2,Nck2,INDUCES
+BLNK,Blnk,Y96-p,447719,EENADDSyEPPPVEQ,"molecular association, regulation","transcription, altered",12456653; 9697839,,,VAV1,Vav1,INDUCES
+BLNK,Blnk,T152-p,23303201,EKARLTStLPALTAL,"molecular association, regulation; protein conformation",,33176192,,,14-3-3 sigma,Sfn,INDUCES
+BLNK,Blnk,T152-p,23303201,EKARLTStLPALTAL,"molecular association, regulation; protein conformation",,33176192,,,14-3-3 zeta,Ywhaz,INDUCES
+BLNK,Blnk,T152-p,23303201,EKARLTStLPALTAL,"molecular association, regulation; protein conformation",,33176192,,,14-3-3 gamma,Ywhag,INDUCES
+BLNK,Blnk,S285-p,7603541,AERHRGSsHRQEAVQ,"molecular association, regulation",,33176192,,,14-3-3 sigma,Sfn,INDUCES
+BLNK,Blnk,S285-p,7603541,AERHRGSsHRQEAVQ,"molecular association, regulation",,33176192,,,14-3-3 zeta,Ywhaz,INDUCES
+BLNK,Blnk,S285-p,7603541,AERHRGSsHRQEAVQ,"molecular association, regulation",,33176192,,,14-3-3 gamma,Ywhag,INDUCES
+BLNK,Blnk,Y84-p,449841,EHSDSEMyVMPAEEN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG1,Plcg1,INDUCES
+BLNK,Blnk,Y84-p,449841,EHSDSEMyVMPAEEN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG2,Plcg2,INDUCES
+BLNK,Blnk,Y84-p,449841,EHSDSEMyVMPAEEN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,Btk,Btk,INDUCES
+BLNK,Blnk,Y84-p,449841,EHSDSEMyVMPAEEN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,NCK2,Nck2,INDUCES
+BLNK,Blnk,Y84-p,449841,EHSDSEMyVMPAEEN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,VAV1,Vav1,INDUCES
+BLNK,Blnk,Y178-p,447716,LLEDEADyVVPVEDN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG1,Plcg1,INDUCES
+BLNK,Blnk,Y178-p,447716,LLEDEADyVVPVEDN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,PLCG2,Plcg2,INDUCES
+BLNK,Blnk,Y178-p,447716,LLEDEADyVVPVEDN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,Btk,Btk,INDUCES
+BLNK,Blnk,Y178-p,447716,LLEDEADyVVPVEDN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,NCK2,Nck2,INDUCES
+BLNK,Blnk,Y178-p,447716,LLEDEADyVVPVEDN,"molecular association, regulation","transcription, altered",12456653; 9697839,,,VAV1,Vav1,INDUCES
+BLNK,Blnk,Y189-p,447717,VEDNDENyIHPTESS,"molecular association, regulation","transcription, altered",12456653,,"Sites mutated alone and in combination (Y189,Y178and Y96) prevented binding of PLCG1 and mobization of Ca2+. For NF-AT transcriptional activity Y103,Y194 and Y205 residues were necessary.Tyrosine phosphoryation of BLNK induces MAPK activation.   ",PLCG1,Plcg1,INDUCES
+BLNK,Blnk,Y189-p,447717,VEDNDENyIHPTESS,"molecular association, regulation","transcription, altered",12456653,,"Sites mutated alone and in combination (Y189,Y178and Y96) prevented binding of PLCG1 and mobization of Ca2+. For NF-AT transcriptional activity Y103,Y194 and Y205 residues were necessary.Tyrosine phosphoryation of BLNK induces MAPK activation.   ",Btk,Btk,INDUCES
+BLNK,Blnk,Y189-p,447717,VEDNDENyIHPTESS,"molecular association, regulation","transcription, altered",12456653,,"Sites mutated alone and in combination (Y189,Y178and Y96) prevented binding of PLCG1 and mobization of Ca2+. For NF-AT transcriptional activity Y103,Y194 and Y205 residues were necessary.Tyrosine phosphoryation of BLNK induces MAPK activation.   ",NCK2,Nck2,INDUCES
+BLNK,Blnk,Y189-p,447717,VEDNDENyIHPTESS,"molecular association, regulation","transcription, altered",12456653,,"Sites mutated alone and in combination (Y189,Y178and Y96) prevented binding of PLCG1 and mobization of Ca2+. For NF-AT transcriptional activity Y103,Y194 and Y205 residues were necessary.Tyrosine phosphoryation of BLNK induces MAPK activation.   ",VAV1,Vav1,INDUCES

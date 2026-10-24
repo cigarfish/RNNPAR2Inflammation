@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF4B,Eif4b,S504-p,452271,SSDTEQQsPTSGGGK,,"neural plasticity; translation, induced",21635931,,,,,
+EIF4B,Eif4b,S406-p,470374,RPRERHPsWRSEETQ,"molecular association, regulation","cell cycle regulation; apoptosis, inhibited; translation, induced",27528663,,regulates protein synthesis during mitosis,eIF3-alpha,Eif3a,INDUCES
+EIF4B,Eif4b,S422-p,451290,RERSRTGsESSQTGT,"molecular association, regulation; activity, inhibited","carcinogenesis, induced; translation, altered; cell growth, induced; cell growth, inhibited; apoptosis, inhibited; translation, induced",15071500; 16763566; 26848623; 33939688; 36882522,,,eIF3-alpha,Eif3a,INDUCES

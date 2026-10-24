@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAR,Star,S195-p,450442,RCAKRRGsTCVLAGM,"activity, induced; molecular association, regulation; protein conformation",,10548884; 32633081,START,,14-3-3 sigma,Sfn,INDUCES
+STAR,Star,S195-p,450442,RCAKRRGsTCVLAGM,"activity, induced; molecular association, regulation; protein conformation",,10548884; 32633081,START,,14-3-3 epsilon,Ywhae,INDUCES
+STAR,Star,S195-p,450442,RCAKRRGsTCVLAGM,"activity, induced; molecular association, regulation; protein conformation",,10548884; 32633081,START,,14-3-3 gamma,Ywhag,INDUCES
+STAR,Star,S57-p,450440,NQVRRRSsLLGSRLE,"molecular association, regulation; protein conformation",,32633081,,,14-3-3 sigma,Sfn,INDUCES
+STAR,Star,S57-p,450440,NQVRRRSsLLGSRLE,"molecular association, regulation; protein conformation",,32633081,,,14-3-3 epsilon,Ywhae,INDUCES
+STAR,Star,S57-p,450440,NQVRRRSsLLGSRLE,"molecular association, regulation; protein conformation",,32633081,,,14-3-3 gamma,Ywhag,INDUCES

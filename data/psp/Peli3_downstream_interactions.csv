@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PELI3,Peli3,K316-ub,37043502,LLRAPTLkQLEAQRQ,protein degradation,"autophagy, induced; transcription, inhibited",25483963,Pellino,autophagy-dependent degradation,,,

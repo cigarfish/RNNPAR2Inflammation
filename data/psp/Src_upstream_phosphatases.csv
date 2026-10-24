@@ -1,0 +1,14 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Src,Ppp2ca,PPP2CA,PPP2CA,SRC,Y530,"Phosphatases, in vitro"
+Src,Ptpn1,PTPN1,PTP1B,SRC,Y530,"Phosphatases, in vitro"
+Src,Ptpn11,PTPN11,SHP-2,SRC,Y419,"Phosphatases, in vitro"
+Src,Ptpn11,PTPN11,SHP-2,SRC,Y530,"Phosphatases, in vitro"
+Src,Ptpn13,PTPN13,PTPN13,SRC,Y419,"Phosphatases, in vitro"
+Src,Ptpra,PTPRA,PTPRA,SRC,Y530,"Phosphatases, in vitro"
+Src,Ptprj,PTPRJ,PTPRJ,SRC,Y419,"Phosphatases, in vitro"
+Src,Ptprj,PTPRJ,PTPRJ,SRC,Y530,"Phosphatases, in vitro"
+Src,Dusp18,DUSP18,DUSP18,SRC,Y419,Putative upstream phosphatases
+Src,Pten,PTEN,PTEN,SRC,Y419,Putative upstream phosphatases
+Src,Pten,PTEN,PTEN,SRC,Y530,Putative upstream phosphatases
+Src,Ptpn11,PTPN11,SHP-2,SRC,Y530,Putative upstream phosphatases
+Src,Ptpn22,PTPN22,PTPN22,SRC,Y419,Putative upstream phosphatases

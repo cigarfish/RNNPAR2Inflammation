@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MME,Mme,S6-p,3850156,__MGKSEsQMDITDI,"protein stabilization; molecular association, regulation; intracellular localization; phosphorylation",,20957047; 22767595,,regulates cell surface neprilysin localization and A? stability; phosphorylation of this site (MME S6D mutant) increases insulin/IGF-1 stimulated activation of Akt ,PTEN,Pten,DISRUPTS

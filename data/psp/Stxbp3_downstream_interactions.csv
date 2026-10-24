@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STXBP3,Stxbp3,Y521-p,459181,RQKPRANyLEDRKNG,"molecular association, regulation; intracellular localization",,24469400,Sec1, molecular switch for SNARE complex formation ; localization to the plasma membrane,,,

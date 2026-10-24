@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ANXA1,Anxa1,T24-p,452052,EEQEYVQtVKSSKGG,"molecular association, regulation",,27634935,,,ACTB,Actb,INDUCES
+ANXA1,Anxa1,S28-p,452053,YVQTVKSsKGGPGSA,intracellular localization,,19428336,,,,,
+ANXA1,Anxa1,S27-p,447972,EYVQTVKsSKGGPGS,"molecular association, regulation; intracellular localization","carcinogenesis, induced; exocytosis, altered; exocytosis, induced; cytoskeletal reorganization",11482905; 19625660; 27634935; 32133417; 34944403,,,FPR2,Fpr2,INDUCES
+ANXA1,Anxa1,Y21-p,447974,IENEEQEyVQTVKSS,intracellular localization,,16052208,,"EGF-stimulated increase in inward vesiculation is abolished in ANXA1 knockout cells, and rescued by WT but not by Y21F mutant ANXA1.",,,
+ANXA1,Anxa1,S45-p,9730700,PYPTFNPsSDVAALH,intracellular localization,"exocytosis, altered",19625660,,S27A or S45A mutations prevented translocation of ANXA1 to the plasma membrane and stimulated ACTH release,,,
+ANXA1,Anxa1,S5-p,452051,___MAMVsEFLKQAW,"molecular association, regulation; protein conformation","carcinogenesis, induced; cell motility, induced",21280599; 38113463,,,S100A11,S100a11,DISRUPTS
+ANXA1,Anxa1,K312-ac,461553,EIDMNDIkAFYQKMY,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","autophagy, induced",34601098,Annexin, autophagy induced to degrade  PRKAR2B; reduced caspase-3 and caspase-9 activity by increasing phosphorylation level of caspase-9,PKAR2B,Prkar2b,INDUCES

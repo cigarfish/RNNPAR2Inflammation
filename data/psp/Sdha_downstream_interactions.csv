@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SDHA,Sdha,Y215-p,25682901,SLRYDTSyFVEYFAL,,"apoptosis, inhibited",22823520,FAD_binding_2,,,,
+SDHA,Sdha,K179-ac,461207,AFGGQSLkFGKGGQA,"enzymatic activity, inhibited",,26998524,FAD_binding_2,,,,

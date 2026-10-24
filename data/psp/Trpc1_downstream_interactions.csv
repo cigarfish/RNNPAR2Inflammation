@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPC1,Trpc1,S206-p,35542201,SAKNKKDsLRHSRFR,,signaling pathway regulation,25139746,TRP_2,"inhibits 11,12-EET-induced smooth muscle hyperpolarization and relaxation",,,
+TRPC1,Trpc1,T347-p,35542200,SGYRRKPtCKKIMTV,,signaling pathway regulation,25139746,,"inhibits 11,12-EET-induced smooth muscle hyperpolarization and relaxation",,,

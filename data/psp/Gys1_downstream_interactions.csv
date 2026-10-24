@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GYS1,Gys1,S8-p,449898,MPLNRTLsMSSLPGL,"enzymatic activity, inhibited",,19339242; 35793618,,,,,
+GYS1,Gys1,S645-p,448238,RPASVPPsPSLSRHS,"enzymatic activity, inhibited; activity, inhibited",signaling pathway regulation,19339242; 21668450; 22510711; 29541418,Glycogen_syn,regulation of glycogen synthesis via R3F-PP1 signaling in astrocytoma cells,,,
+GYS1,Gys1,T278-p,1875332700,KRKPDIVtPNGLNVK,phosphorylation,,34758018,Glycogen_syn,primes phopshorylation at S641,,,
+GYS1,Gys1,S657-p,449790,RHSSPHQsEDEEDPR,"activity, inhibited",,22510711,Glycogen_syn,,,,
+GYS1,Gys1,S641-p,448237,YRYPRPAsVPPSPSL,"enzymatic activity, inhibited; activity, inhibited",signaling pathway regulation,19339242; 21668450; 22510711; 29541418,Glycogen_syn,regulation of glycogen synthesis via R3F-PP1 signaling in astrocytoma cells,,,
+GYS1,Gys1,S653-p,448240,PSLSRHSsPHQSEDE,"activity, inhibited",,22510711,Glycogen_syn,,,,
+GYS1,Gys1,S649-p,448239,VPPSPSLsRHSSPHQ,"activity, inhibited",,22510711,Glycogen_syn,,,,
+GYS1,Gys1,S723-p,4787599,SSSLSTPsEPLSPTS,phosphorylation,,34758018,,primes phopshorylation at S641,,,
+GYS1,Gys1,S11-p,451605,NRTLSMSsLPGLEDW,"enzymatic activity, inhibited",,19339242; 35793618,,,,,
+GYS1,Gys1,S727-p,457615,STPSEPLsPTSSLGE,phosphorylation,,34758018,,primes phopshorylation at S641,,,

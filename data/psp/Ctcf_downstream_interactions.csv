@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTCF,Ctcf,K74-sm,6124703,DPTLLQMkTEVMEGT,,"transcription, induced",22354964,,,,,
+CTCF,Ctcf,K689-sm,6124704,ENIIVEVkKEPDAEP,,"transcription, induced",22354964,,,,,
+CTCF,Ctcf,K20-ac,3979891,SETFIKGkERKTYQR,,"cell differentiation, induced; transcription, induced",36117192,,"differentiation of embryoid bodies, regulates genes associated with early cardiac mesoderm differentiation, facilitates enhancer-promoter interactions",,,

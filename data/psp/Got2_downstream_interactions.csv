@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GOT2,Got2,K185-ac,466484,GYRYYDPkTCGFDFT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",25755250,Aminotran_1_2,induces H3 phosphorylation,MDH2,Mdh2,INDUCES
+GOT2,Got2,K404-ac,461127,EFSIYMTkDGRISVA,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",25755250,Aminotran_1_2,induces H3 phosphorylation,MDH2,Mdh2,INDUCES
+GOT2,Got2,K159-ac,466485,SRDVFLPkPTWGNHT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",25755250,Aminotran_1_2,induces H3 phosphorylation,MDH2,Mdh2,INDUCES

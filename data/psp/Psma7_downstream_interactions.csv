@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSMA7,Psma7,Y153-p,456317,QTDPSGTyHAWKANA,"enzymatic activity, inhibited",cell cycle regulation,16678104,Proteasome,,,,
+PSMA7,Psma7,Y106-p,15570108,EDPVTVEyITRYIAS,protein stabilization; ubiquitination,,25620702,Proteasome,,,,

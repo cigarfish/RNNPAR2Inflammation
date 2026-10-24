@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK4,Mapk4,S186-p,2228602,YSHKGYLsEGLVTKW,"molecular association, regulation",,18248330,Pkinase,                                                                                                                                                                                        ,MAPKAPK5,Mapkapk5,INDUCES

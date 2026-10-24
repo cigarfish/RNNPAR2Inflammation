@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FTH1,Fth1,S179-p,452608,DKHTLGDsDNES___,"molecular association, regulation; intracellular localization; phosphorylation","cell motility, altered",17056593,, overexpression of S179A Ferritin-H increases them.; Overexpression of Ferritin-H reduces phospho-Erk1/2 levels,CXCR4,Cxcr4,INDUCES

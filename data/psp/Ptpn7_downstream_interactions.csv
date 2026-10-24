@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN7,Ptpn7,S246-p,460715,QYQEERRsVKHILFS,"intracellular localization; enzymatic activity, induced",,16479000,Y_phosphatase,inhibits TCR-induced gene activation,,,
+PTPN7,Ptpn7,S44-p,448309,RLQERRGsNVALMLD,"molecular association, regulation",,10559944,,,ERK2,Mapk1,DISRUPTS
+PTPN7,Ptpn7,T66-p,448311,EPICSVNtPREVTLH,"molecular association, regulation; protein conformation",,10206983; 16226275,,,ERK2,Mapk1,DISRUPTS
+PTPN7,Ptpn7,T66-p,448311,EPICSVNtPREVTLH,"molecular association, regulation; protein conformation",,10206983; 16226275,,,P38A,Mapk14,DISRUPTS
+PTPN7,Ptpn7,S93-p,448310,ALQRQPPsPKQLEEE,"molecular association, regulation; protein conformation",,10206983; 16226275,,,ERK2,Mapk1,DISRUPTS
+PTPN7,Ptpn7,S93-p,448310,ALQRQPPsPKQLEEE,"molecular association, regulation; protein conformation",,10206983; 16226275,,,P38A,Mapk14,DISRUPTS

@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DYRK2,Dyrk2,S489-p,1874397816,ESTGAITsISKLPPP,intracellular localization,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,S498-p,1874397820,SKLPPPSsSASKLRT,"enzymatic activity, induced","cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,S483-p,1874397810,SVKRITEsTGAITSI,,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,S499-p,1874397822,KLPPPSSsASKLRTN,"enzymatic activity, induced","cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,T488-p,1874397814,TESTGAItSISKLPP,,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,Y309-p,454666,EHQRVYTyIQSRFYR,,"cell cycle regulation; apoptosis, induced",34363019,Pkinase,,,,
+DYRK2,Dyrk2,S497-p,1874397818,ISKLPPPsSSASKLR,,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,T82-p,1874397808,KVKATPMtPEQAMKQ,intracellular localization,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,T106-p,11489910,NKRTVLTtQPNGLTT,"protein stabilization; molecular association, regulation; intracellular localization",,19965871,,,MDM2,Mdm2,DISRUPTS
+DYRK2,Dyrk2,S442-p,11489909,IELLGMPsQKLLDAS,"enzymatic activity, induced","apoptosis, altered",19965871,Pkinase,p53-mediated apoptosis,,,
+DYRK2,Dyrk2,T32-p,1874397806,SNKRTVLtTQPNGLT,"intracellular localization; enzymatic activity, inhibited","cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,S501-p,1874397824,PPPSSSAsKLRTNLA,"enzymatic activity, induced","cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,T484-p,1874397812,VKRITEStGAITSIS,intracellular localization,"cell cycle regulation; apoptosis, induced",34363019,,,,,
+DYRK2,Dyrk2,T33-p,11489910,NKRTVLTtQPNGLTT,"enzymatic activity, inhibited","cell cycle regulation; apoptosis, induced",34363019,,,,,

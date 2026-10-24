@@ -1,0 +1,3 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc1	ENTITYB_Loc2	ENTITYB_phospho	EFFECT	SCORE
+MTOR	Rraga	lysosome	0	Rptor	cytoplasm	lysosome	0	carry	0.999
+MTOR	Rragb	lysosome	0	Rptor	cytoplasm	lysosome	0	carry	0.999

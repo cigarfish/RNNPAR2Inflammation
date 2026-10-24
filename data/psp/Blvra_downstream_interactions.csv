@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BLVRA,Blvra,Y198-p,455758,EERKEDQyMKMTVCL,"enzymatic activity, induced",,15870194,Biliv-reduc_cat,phosphorylation enhances BVR's antagonism of insulin-stimulated glucose uptake.,,,
+BLVRA,Blvra,S21-p,25526801,VGVGRAGsVRMRDLR,"enzymatic activity, induced",,22584576,GFO_IDH_MocA,,,,
+BLVRA,Blvra,S230-p,478716,LKRNRYLsFHFKSGS,"intracellular localization; enzymatic activity, induced; phosphorylation","transcription, induced",17639074; 22584576,Biliv-reduc_cat,induces autophosphorylation of the protein and phosphorylation of PKCZ,,,
+BLVRA,Blvra,S149-p,486325,GKDLLKGsLLFTAGP,phosphorylation,"transcription, induced",17639074,Biliv-reduc_cat,induces phosphorylation of PKCZ,,,
+BLVRA,Blvra,S33-p,25526803,DLRNPHPsSAFLNLI,"enzymatic activity, induced",,22584576,GFO_IDH_MocA,,,,
+BLVRA,Blvra,S237-p,4774274,SFHFKSGsLENVPNV,"enzymatic activity, induced",,22584576,Biliv-reduc_cat,,,,

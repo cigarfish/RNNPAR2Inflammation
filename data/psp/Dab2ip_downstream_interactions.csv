@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAB2IP,Dab2ip,T531-p,1875342306,DVHTALStPGSGQLP,ubiquitination; phosphorylation,"cell cycle regulation; carcinogenesis, inhibited; chromatin organization, altered; cytoskeletal reorganization",34775484,DUF3498,"inhibitrs CDC20 ubiquitination, induces PLK1, TTK phosphorylation",PLK1,Plk1,INDUCES
+DAB2IP,Dab2ip,T546-p,3958578,GTNDLAStPGSGSSS,ubiquitination; phosphorylation,"cell cycle regulation; carcinogenesis, inhibited; chromatin organization, altered; cytoskeletal reorganization",34775484,DUF3498,"inhibitrs CDC20 ubiquitination, induces PLK1, TTK phosphorylation",PLK1,Plk1,INDUCES
+DAB2IP,Dab2ip,S728-p,478274,PSPARSSsYSEANEP,"molecular association, regulation","apoptosis, induced; transcription, altered",17389591,DUF3498,,14-3-3 beta,Ywhab,INDUCES
+DAB2IP,Dab2ip,S728-p,478274,PSPARSSsYSEANEP,"molecular association, regulation","apoptosis, induced; transcription, altered",17389591,DUF3498,,ASK1,Map3k5,INDUCES
+DAB2IP,Dab2ip,S728-p,478274,PSPARSSsYSEANEP,"molecular association, regulation","apoptosis, induced; transcription, altered",17389591,DUF3498,,RIPK1,Ripk1,INDUCES
+DAB2IP,Dab2ip,S728-p,478274,PSPARSSsYSEANEP,"molecular association, regulation","apoptosis, induced; transcription, altered",17389591,DUF3498,,TRAF2,Traf2,INDUCES

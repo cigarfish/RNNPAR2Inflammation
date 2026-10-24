@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPC,Hnrnpc,S260-p,448833,SEGGADDsAEEGDLL,"molecular association, regulation",,15687492,,,,,
+HNRNPC,Hnrnpc,S299-p,448834,EGEDDRDsANGEDDS,"molecular association, regulation",,15687492,,,,,
+HNRNPC,Hnrnpc,K237-sm,12057403,KKDETNVkMESEGGA,"molecular association, regulation",,15082759,,,,,
+HNRNPC,Hnrnpc,S253-p,448835,ETNVKMEsEGGADDS,"molecular association, regulation",,15687492,,,,,
+HNRNPC,Hnrnpc,Y57-p,2811401,KGFAFVQyVNERNAR,"molecular association, regulation",,18494499,RRM_1,"Northwestern analysis, RNA stabilization",,,

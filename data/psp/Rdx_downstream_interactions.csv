@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RDX,Rdx,T564-p,448374,AGRDKYKtLRQIRQG,"intracellular localization; activity, inhibited; phosphorylation",cytoskeletal reorganization,25799996; 33836044,ERM_C,"pERM in the retraction fibers; inhibits Rho activity, regulates MLC2 phosphorylation",,,

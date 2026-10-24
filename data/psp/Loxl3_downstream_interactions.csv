@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LOXL3,Loxl3,S704-p,1881957100,PNFEVAEsDFTNNAM,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; signaling pathway regulation",37253718,,"prevents DHODH ubiquitination, regulates the AK2?LOXL3?DHODH pathway",DHODH,Dhodh,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB5B,Rab5b,T6-p,38546301,__MTSRStARPNGQP,"activity, induced","cell growth, induced",25605758,,enhances Rab5 GTPase activity,,,

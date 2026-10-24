@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SF1,Sf1,S82-p,452435,NPEDRSPsPEPIYNS,"molecular association, regulation","RNA splicing, altered",16420481,SF1-HH,facilitates formation of the SF1-U2AF-RNA complex,U2AF2,U2af2,INDUCES
+SF1,Sf1,S80-p,452434,PPNPEDRsPSPEPIY,"molecular association, regulation","RNA splicing, altered",16420481,SF1-HH,facilitates formation of the SF1-U2AF-RNA complex,U2AF2,U2af2,INDUCES
+SF1,Sf1,S20-p,449919,PSKKRKRsRWNQDTM,protein conformation,"RNA splicing, altered",12718882,SF1-HH,The structure of the complex suggests that a combination of steric interference and unfavorable electrostatic contacts of the phosphorylated S20 with the negatively charged helix A in U2AF-RMM3/SF1.  ,U2AF1,U2af1,DISRUPTS

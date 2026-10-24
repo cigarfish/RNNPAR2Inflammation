@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SULT4A1,Sult4a1,T11-p,2048305,SEAETPStPGEFESK,"protein degradation; molecular association, regulation",,19439498; 20920535,,,PIN1,Pin1,INDUCES
+SULT4A1,Sult4a1,T8-p,2021049,MAESEAEtPSTPGEF,"protein degradation; molecular association, regulation",,19439498; 20920535,,,PIN1,Pin1,INDUCES

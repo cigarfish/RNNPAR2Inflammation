@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VDAC1,Vdac1,K53-ub,15400225,SANTETTkVTGSLET,ubiquitination,,36658227,Porin_3,"restrains the formation of VDAC1 oligomers, mtDNA release and protects against liver fibrosis  ",,,
+VDAC1,Vdac1,S193-p,6406004,DGTEFGGsIYQKVNK,protein conformation,"apoptosis, inhibited",19158487; 25545271,Porin_3; TM,N-terminus conformation affected; S192A mutation results in cell death,,,
+VDAC1,Vdac1,K274-ub,486986,NVNAGGHkLGLGLEF,,"apoptosis, inhibited",32047033,Porin_3; TM,pathologies of PD by controlling apoptosis,,,
+VDAC1,Vdac1,S104-p,452268,LTFDSSFsPNTGKKN,protein stabilization,"apoptosis, induced",18381814,Porin_3; TM,,,,
+VDAC1,Vdac1,S13-p,479874,TYADLGKsARDVFTK,protein stabilization,"apoptosis, induced",18381814; 25296756,Porin_3,,,,
+VDAC1,Vdac1,T107-p,3181799,DSSFSPNtGKKNAKI,protein stabilization,,25296756,Porin_3,,,,

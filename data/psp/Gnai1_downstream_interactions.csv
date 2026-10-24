@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNAI1,Gnai1,Y320-p,22641096,RKDTKEIyTHFTCAT,"enzymatic activity, induced","carcinogenesis, induced; signaling pathway regulation",33139573,G-alpha,,,,
+GNAI1,Gnai1,Y154-p,1871177702,QLNDSAAyYLNDLDR,"enzymatic activity, induced","carcinogenesis, induced; signaling pathway regulation",33139573,G-alpha,,,,
+GNAI1,Gnai1,Y155-p,5688819,LNDSAAYyLNDLDRI,"enzymatic activity, induced","carcinogenesis, induced; signaling pathway regulation",33139573,G-alpha,,,,

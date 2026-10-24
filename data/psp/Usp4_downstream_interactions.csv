@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP4,Usp4,S445-p,5204831,NHRLRNDsVIVDTFH,"protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, induced",signaling pathway regulation,22706160,UCH,,14-3-3 sigma,Sfn,INDUCES
+USP4,Usp4,S445-p,5204831,NHRLRNDsVIVDTFH,"protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, induced",signaling pathway regulation,22706160,UCH,,14-3-3 zeta,Ywhaz,DISRUPTS
+USP4,Usp4,S445-p,5204831,NHRLRNDsVIVDTFH,"protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, induced",signaling pathway regulation,22706160,UCH,,14-3-3 eta,Ywhah,INDUCES

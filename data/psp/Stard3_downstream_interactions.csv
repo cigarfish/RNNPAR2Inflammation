@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STARD3,Stard3,S213-p,12738030,QFYSPPEsFAGSDNE,"molecular association, regulation",,35231443,MENTAL,,VAPA,Vapa,INDUCES
+STARD3,Stard3,S209-p,12738027,LSEGQFYsPPESFAG,"activity, induced; molecular association, regulation",,33124732; 35231443,MENTAL,,VAPA,Vapa,INDUCES
+STARD3,Stard3,S209-p,12738027,LSEGQFYsPPESFAG,"activity, induced; molecular association, regulation",,33124732; 35231443,MENTAL,,VAPB,Vapb,INDUCES
+STARD3,Stard3,S209-p,12738027,LSEGQFYsPPESFAG,"activity, induced; molecular association, regulation",,33124732; 35231443,MENTAL,,MOSPD2,Mospd2,INDUCES
+STARD3,Stard3,S203-p,1876567502,LLFSGALsEGQFYSP,"molecular association, regulation",,35231443,MENTAL,,VAPA,Vapa,INDUCES

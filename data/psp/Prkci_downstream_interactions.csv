@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCI,Prkci,T564-p,2839109,TNEPVQLtPDDDDIV,,signaling pathway regulation,23511975,Pkinase_C,signaling for synaptic incorporation of AMPAR at activated synapses during LTP expression,,,
+PRKCI,Prkci,Y430-p,482865,EILRGEDyGFSVDWW,protein conformation,,17335005,Pkinase,,,,
+PRKCI,Prkci,T412-p,454434,RPGDTTStFCGTPNY,"enzymatic activity, induced",,15604232; 21281788,Pkinase,,,,

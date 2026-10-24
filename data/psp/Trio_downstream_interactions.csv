@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIO,Trio,S2631-p,4715630,GTLKKSTsWHTALRL,,cytoskeletal reorganization,35290799,,,,,
+TRIO,Trio,S1786-p,4943282,SPVRRLSsGKADGHV,intracellular localization,cytoskeletal reorganization,37528624,SH3-RhoG_link,,,,
+TRIO,Trio,S1785-p,3895369,TSPVRRLsSGKADGH,intracellular localization,cytoskeletal reorganization,37528624,SH3-RhoG_link,,,,

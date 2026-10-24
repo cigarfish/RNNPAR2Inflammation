@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTGIR,Ptgir,S328-p,450985,TPLSQLAsGRRDPRA,"receptor desensitization, altered",,9722557,,S328A mutant had markedly reduced level of desensitization,,,

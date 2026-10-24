@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TXNIP,Txnip,S361-p,3212304,DMDGSQDsPIFMYAP,"molecular association, regulation; intracellular localization",cell cycle regulation,30410860,,important for p27-Kip1 stabilization by TXNIP,COPS5,Cops5,INDUCES
+TXNIP,Txnip,T349-p,3212307,HRLESPTtPLLDDMD,protein degradation; ubiquitination,,31320475,,,,,
+TXNIP,Txnip,S308-p,277409200,GLSSRTSsMASRTSS,protein degradation,,23453806,,,,,

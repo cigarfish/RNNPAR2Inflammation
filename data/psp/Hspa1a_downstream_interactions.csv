@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPA1A,Hspa1a,S418-p,15403914,TALIKRNsTIPTKQT,,"apoptosis, inhibited",25900241,HSP70,,,,
+HSPA1A,Hspa1a,Y525-p,450945,MVQEAEKyKAEDEVQ,intracellular localization,,10843914,HSP70,Phosphorylation at Y525 facilitates nuclear acumulation of HSP70 following heat stress.,,,
+HSPA1A,Hspa1a,K126-ac,31089501,ISSMVLTkMKEIAEA,sumoylation,"autophagy, induced",23569248,HSP70,acetylation induces sumoylation of PIK3C3,,,
+HSPA1A,Hspa1a,S633-p,18010650,GPKGGSGsGPTIEEV,intracellular localization,"apoptosis, induced",24623308,,spindle elongation,,,
+HSPA1A,Hspa1a,T66-p,31882985,VALNPQNtVFDAKRL,intracellular localization; protein conformation,cell cycle regulation,30108182,HSP70,,,,
+HSPA1A,Hspa1a,K77-ac,40663225,AKRLIGRkFGDPVVQ,"protein stabilization; molecular association, regulation; ubiquitination; enzymatic activity, induced","apoptosis, inhibited",27708256; 30356017,HSP70,,CHIP,Stub1,DISRUPTS
+HSPA1A,Hspa1a,K77-ac,40663225,AKRLIGRkFGDPVVQ,"protein stabilization; molecular association, regulation; ubiquitination; enzymatic activity, induced","apoptosis, inhibited",27708256; 30356017,HSP70,,HIP,Hsp90aa1,INDUCES
+HSPA1A,Hspa1a,K77-ac,40663225,AKRLIGRkFGDPVVQ,"protein stabilization; molecular association, regulation; ubiquitination; enzymatic activity, induced","apoptosis, inhibited",27708256; 30356017,HSP70,,HSP40,Dnajb1,DISRUPTS
+HSPA1A,Hspa1a,R416-me,1877047301,VMTALIKrNSTIPTK,protein stabilization,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",32699135,HSP70,binding and stabilization of BCL2 mRNA ,,,
+HSPA1A,Hspa1a,R447-me,1877047300,IQVYEGErAMTKDNN,protein stabilization,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",32699135,HSP70,binding and stabilization of BCL2 mRNA ,,,
+HSPA1A,Hspa1a,K159-ac,31089500,DSQRQATkDAGVIAG,sumoylation,"autophagy, induced",23569248,HSP70,acetylation induces sumoylation of PIK3C3,,,
+HSPA1A,Hspa1a,S631-p,483567,AQGPKGGsGSGPTIE,"activity, induced; protein stabilization; intracellular localization","apoptosis, induced",24623308; 30485823,,"spindle elongation; Promotes deubiquitination and stabilization of HSP70 along with SOD2 import and stabilization, regulates mitochondrial redox balance",CHIP,Stub1,DISRUPTS
+HSPA1A,Hspa1a,T636-p,18010647,GGSGSGPtIEEVD__,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell growth, induced",22824801; 35148989,,cell proliferation increased,HOPX,Hopx,INDUCES
+HSPA1A,Hspa1a,T636-p,18010647,GGSGSGPtIEEVD__,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell growth, induced",22824801; 35148989,,cell proliferation increased,CHIP,Stub1,DISRUPTS

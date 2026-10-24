@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IREB2,Ireb2,S157-p,2850010,LQKAGKLsPLKVQPK,"molecular association, regulation","translation, altered",18574241,,regulates the iron-independent synthesis of ferritin ,,,

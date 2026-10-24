@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TUBA1B,Tuba1b,K40-m3,125970000,DGQMPSDkTIGGGDD,,cell cycle regulation; cytoskeletal reorganization,27518565,Tubulin,,,,
+TUBA1B,Tuba1b,K394-me,476774,AWARLDHkFDLMYAK,"molecular association, regulation",,8097117,,inhibits microtubule assembly,,,

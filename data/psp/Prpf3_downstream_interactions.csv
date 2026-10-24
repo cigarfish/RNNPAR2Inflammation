@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRPF3,Prpf3,K559-sm,1872852110,SNPAKKFkIEANAGQ,"molecular association, regulation","RNA splicing, induced",28379520,DUF1115,,EFTUD2,Eftud2,INDUCES
+PRPF3,Prpf3,K559-sm,1872852110,SNPAKKFkIEANAGQ,"molecular association, regulation","RNA splicing, induced",28379520,DUF1115,,SF3A1,Sf3a1,INDUCES
+PRPF3,Prpf3,K559-sm,1872852110,SNPAKKFkIEANAGQ,"molecular association, regulation","RNA splicing, induced",28379520,DUF1115,,PRP4,Prpf4,INDUCES
+PRPF3,Prpf3,T494-p,999610,TEAVQDPtKVEAHVR,"molecular association, regulation; protein conformation","cell growth, altered",17932117,PRP3,"T494M mutation weakens self association and association with PRPF4, PRP6, and U4 and U6 snRNAs.",PRPF6,Prpf6,INDUCES
+PRPF3,Prpf3,T494-p,999610,TEAVQDPtKVEAHVR,"molecular association, regulation; protein conformation","cell growth, altered",17932117,PRP3,"T494M mutation weakens self association and association with PRPF4, PRP6, and U4 and U6 snRNAs.",PRPF4,Prpf4,INDUCES
+PRPF3,Prpf3,K289-sm,1872852108,KANIRAVkREQFKQQ,"molecular association, regulation","RNA splicing, induced",28379520,,,EFTUD2,Eftud2,INDUCES
+PRPF3,Prpf3,K289-sm,1872852108,KANIRAVkREQFKQQ,"molecular association, regulation","RNA splicing, induced",28379520,,,SF3A1,Sf3a1,INDUCES
+PRPF3,Prpf3,K289-sm,1872852108,KANIRAVkREQFKQQ,"molecular association, regulation","RNA splicing, induced",28379520,,,PRP4,Prpf4,INDUCES

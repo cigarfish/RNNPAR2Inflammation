@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAML1,Maml1,K299-sm,13310801,LAQDINIkTEFSPAA,"molecular association, regulation","transcription, inhibited",20203086,,,HDAC7,Hdac7,INDUCES
+MAML1,Maml1,K188-ac,11319879,LGLDSLNkKRLADSS,"molecular association, regulation",,28625977,,,Notch 1,Notch1,INDUCES
+MAML1,Maml1,K217-sm,13310802,LSLNKELkQEPVEDL,"molecular association, regulation","transcription, inhibited",20203086,,,HDAC7,Hdac7,INDUCES
+MAML1,Maml1,K189-ac,206216901,GLDSLNKkRLADSSL,"molecular association, regulation",,28625977,,,Notch 1,Notch1,INDUCES

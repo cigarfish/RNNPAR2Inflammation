@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARID4A,Arid4a,K444-sm,12004424,EMPLTEVkSEPEENI,,"cell cycle regulation; cell growth, inhibited; transcription, inhibited",16479010,,,,,
+ARID4A,Arid4a,S1007-p,17743401,QHNFSVAsPLTLSQD,"molecular association, regulation",,21148318,,,Rb,Rb1,DISRUPTS
+ARID4A,Arid4a,K418-sm,12004425,HHHEPKVkEEKKDLE,,"cell cycle regulation; cell growth, inhibited; transcription, inhibited",16479010,,,,,
+ARID4A,Arid4a,S864-p,14578923,RKILGQSsPEKKIRI,"molecular association, regulation",,21148318,,,Rb,Rb1,DISRUPTS

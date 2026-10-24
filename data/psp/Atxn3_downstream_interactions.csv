@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATXN3,Atxn3,S12-p,53998806,FHEKQEGsLCAQHCL,"enzymatic activity, inhibited",,26880203,Josephin,phosphorylation protects against toxicity of pathogenic pathways mediated by polyglutamine-expanded ataxin-3,,,
+ATXN3,Atxn3,K117-ub,10835606,RSFICNYkEHWFTVR,"ubiquitination; enzymatic activity, induced",,25988170; 37865002,Josephin,enhances the toxicity and aggregation of pathogenic Atxn3 when mutated (K117R).; induces deubiquitinase activity of the enzyme,,,
+ATXN3,Atxn3,K85-ub,1885576400,QVISNALkVWGLELI,protein stabilization; ubiquitination,,37273907,,K85 regulates the binding to K48-linked polyubiquitin chains,,,
+ATXN3,Atxn3,S256-p,479405,LRRAIQLsMQGSSRN,"molecular association, regulation",,17434145,UIM, ; phosphorylation of this site prevents protein aggregation;  excessive aggregation of mutant S256A is inhibited by Hsp70,,,
+ATXN3,Atxn3,K8-ub,63128902,MESIFHEkQEGSLCA,protein stabilization; ubiquitination,,37273907,,,,,
+ATXN3,Atxn3,S347-p,9441000,LQAAVTMsLETVRND,"activity, induced; protein stabilization; intracellular localization","transcription, altered",19542537,UIM,,,,
+ATXN3,Atxn3,K166-sm,31899108,GYSIFVVkGDLPDCE,protein stabilization,"apoptosis, induced",23382880,Josephin,,,,
+ATXN3,Atxn3,S236-p,9441003,LQRALALsRQEIDME,"activity, induced; intracellular localization","transcription, altered",19542537,UIM,,,,
+ATXN3,Atxn3,S335-p,9441001,SDLGDAMsEEDMLQA,"activity, induced; protein stabilization; intracellular localization","transcription, altered",19542537,UIM,,,,

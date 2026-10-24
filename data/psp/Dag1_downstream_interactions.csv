@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAG1,Dag1,Y892-p,449630,PYRSPPPyVPP____,"molecular association, regulation; intracellular localization",,10769203; 20512930,DAG1,,utrophin,Utrn,DISRUPTS

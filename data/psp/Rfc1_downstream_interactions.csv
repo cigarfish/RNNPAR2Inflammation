@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RFC1,Rfc1,T76-p,26334306,SDSESEEtLQVKNAK,"enzymatic activity, induced",,32907938,,"regulates ATPase activity of hRFC, it decreases in alanine mutation",,,
+RFC1,Rfc1,T506-p,2915401,KESKLERtPQKNVQG,"molecular association, regulation",,12930972,,,PCNA,Pcna,DISRUPTS

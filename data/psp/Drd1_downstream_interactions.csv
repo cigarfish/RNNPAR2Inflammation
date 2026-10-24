@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DRD1,Drd1,T428-p,458339,SVILDYDtDVSLEKI,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,G-alpha(s),Gnas,INDUCES
+DRD1,Drd1,T428-p,458339,SVILDYDtDVSLEKI,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,ARR3,Arr3,INDUCES
+DRD1,Drd1,S259-p,455303,ECSQPESsFKMSFKR,"molecular association, regulation",signaling pathway regulation,32503917,7tm_1,ERK1/2 activation,G-alpha(s),Gnas,DISRUPTS
+DRD1,Drd1,S259-p,455303,ECSQPESsFKMSFKR,"molecular association, regulation",signaling pathway regulation,32503917,7tm_1,ERK1/2 activation,ARR3,Arr3,INDUCES
+DRD1,Drd1,S258-p,455302,VECSQPEsSFKMSFK,"molecular association, regulation",signaling pathway regulation,32503917,7tm_1,ERK1/2 activation,G-alpha(s),Gnas,DISRUPTS
+DRD1,Drd1,S258-p,455302,VECSQPEsSFKMSFK,"molecular association, regulation",signaling pathway regulation,32503917,7tm_1,ERK1/2 activation,ARR3,Arr3,INDUCES
+DRD1,Drd1,S254-p,1869357202,NGKPVECsQPESSFK,"molecular association, regulation",,32503917,7tm_1,,ARR3,Arr3,INDUCES
+DRD1,Drd1,S431-p,458340,LDYDTDVsLEKIQPI,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,G-alpha(s),Gnas,INDUCES
+DRD1,Drd1,S431-p,458340,LDYDTDVsLEKIQPI,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,ARR3,Arr3,INDUCES
+DRD1,Drd1,T245-p,1869357205,AKNCQTTtGNGKPVE,"molecular association, regulation",,32503917,7tm_1,,ARR3,Arr3,INDUCES
+DRD1,Drd1,T244-p,1869357204,HAKNCQTtTGNGKPV,"molecular association, regulation",,32503917,7tm_1,,ARR3,Arr3,INDUCES
+DRD1,Drd1,T439-p,1869357201,LEKIQPItQNGQHPT,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,G-alpha(s),Gnas,INDUCES
+DRD1,Drd1,T439-p,1869357201,LEKIQPItQNGQHPT,"molecular association, regulation",signaling pathway regulation,32503917,,ERK1/2 activation,ARR3,Arr3,INDUCES
+DRD1,Drd1,T360-p,449796,ATNNAIEtVSINNNG,"receptor desensitization, altered; receptor internalization, altered",,11773080,,,,,
+DRD1,Drd1,S263-p,1869357203,PESSFKMsFKRETKV,,signaling pathway regulation,32503917,7tm_1,ERK1/2 and Src activation,,,

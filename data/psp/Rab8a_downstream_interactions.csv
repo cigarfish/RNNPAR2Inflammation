@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB8A,Rab8a,T72-p,4709152,AGQERFRtITTAYYR,"receptor recycling, inhibited; molecular association, regulation; intracellular localization; activity, inhibited","endocytosis, inhibited",30709905; 32017888; 33887226; 34914695,Ras,,RAB3IP,Rab3ip,DISRUPTS
+RAB8A,Rab8a,T72-p,4709152,AGQERFRtITTAYYR,"receptor recycling, inhibited; molecular association, regulation; intracellular localization; activity, inhibited","endocytosis, inhibited",30709905; 32017888; 33887226; 34914695,Ras,,RILPL2,Rilpl2,INDUCES
+RAB8A,Rab8a,S111-p,20805078,RNIEEHAsADVEKMI,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation",,26471730; 32227113; 34056776,Ras,,RAB3IP,Rab3ip,DISRUPTS
+RAB8A,Rab8a,S111-p,20805078,RNIEEHAsADVEKMI,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation",,26471730; 32227113; 34056776,Ras,,TBC1D20,Tbc1d20,DISRUPTS

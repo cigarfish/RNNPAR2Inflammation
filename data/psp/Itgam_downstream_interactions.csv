@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGAM,Itgam,S1146-p,60885603,DMMSEGGsPGAEPQ_,"molecular association, regulation",,27974454,,"PS1146 substitution generates a binding site for 14-3-3-zeta, but does not require S1146 phosphorylation.",,,
+ITGAM,Itgam,S1142-p,467233,RQYKDMMsEGGPPGA,"activity, induced; molecular association, regulation","cell motility, altered; cell adhesion, altered",16857989,Integrin_alpha,important for emigration of leukocytes from bloodstream to tissues in vivo,ICAM1,Icam1,INDUCES
+ITGAM,Itgam,S1142-p,467233,RQYKDMMsEGGPPGA,"activity, induced; molecular association, regulation","cell motility, altered; cell adhesion, altered",16857989,Integrin_alpha,important for emigration of leukocytes from bloodstream to tissues in vivo,ICAM2,Icam2,INDUCES

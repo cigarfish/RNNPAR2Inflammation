@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHF8,Phf8,S120-p,453946,GKPVKTGsPTFVREL,,"cell growth, inhibited; cell differentiation, induced; transcription, induced",23518351,,,,,
+PHF8,Phf8,S854-p,3216123,DAEYIYPsLESDDDD,"molecular association, regulation",,33010150,,,TOPBP1,Topbp1,INDUCES
+PHF8,Phf8,S69-p,15108901,CQDWFHGsCVGVEEE,,"cell growth, inhibited; cell differentiation, induced; transcription, induced",23518351,PHD,,,,
+PHF8,Phf8,S880-p,3216126,NSDDAPWsPKARVTP,"molecular association, regulation; methylation","cell cycle regulation; transcription, induced",25548279,,CDK2 phosphorylation of PHF8 enhances H3k9me2 demethylation,,,

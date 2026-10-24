@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZNF282,Zfp282,K369-sm,31094512,HDILSWIkQEEQPYP,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,CALCOCO1,Calcoco1,INDUCES
+ZNF282,Zfp282,K369-sm,31094512,HDILSWIkQEEQPYP,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,ER-alpha,Esr1,INDUCES
+ZNF282,Zfp282,K331-sm,31094514,QDLLSRIkQEEHQCV,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,CALCOCO1,Calcoco1,INDUCES
+ZNF282,Zfp282,K331-sm,31094514,QDLLSRIkQEEHQCV,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,ER-alpha,Esr1,INDUCES
+ZNF282,Zfp282,K293-sm,31094513,QDASSQVkREDTLCV,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,CALCOCO1,Calcoco1,INDUCES
+ZNF282,Zfp282,K293-sm,31094513,QDASSQVkREDTLCV,"molecular association, regulation","carcinogenesis, induced; transcription, induced",22986521,,,ER-alpha,Esr1,INDUCES

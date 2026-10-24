@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDB2,Ddb2,K35-ac,1876931102,LELEPEAkKLCAKGS,,"DNA repair, induced",32789493,,SIRT6 as a critical factor in the regulation of the process of UV-induced DNA damage repair,,,
+DDB2,Ddb2,K35-ub,1876931106,LELEPEAkKLCAKGS,,"DNA repair, induced",32789493,,SIRT6 as a critical factor in the regulation of the process of UV-induced DNA damage repair,,,
+DDB2,Ddb2,K77-ac,1876931103,VRTLHQHkLGRASWP,,"DNA repair, induced",32789493,,SIRT6 as a critical factor in the regulation of the process of UV-induced DNA damage repair,,,
+DDB2,Ddb2,K77-ub,1876931105,VRTLHQHkLGRASWP,,"DNA repair, induced",32789493,,SIRT6 as a critical factor in the regulation of the process of UV-induced DNA damage repair,,,

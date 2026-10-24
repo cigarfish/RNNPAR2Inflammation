@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB37,Rab37,T172-p,556476901,YGVPFLEtSAKTGMN,"intracellular localization; activity, inhibited","exocytosis, inhibited; cell motility, induced",29312551,Ras," eliminates TIMP1 secretion, promotes metastasis",,,

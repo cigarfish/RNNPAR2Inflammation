@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPOP,Spop,S119-p,1874115101,EETKAMEsQRAYRFV,"molecular association, regulation; phosphorylation","DNA repair, induced; carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation",34133717,MATH,induces HIPK2-HP1 signaling pathway by inducing HP1 phosphorylation,HIPK2,Hipk2,INDUCES
+SPOP,Spop,S6-p,36136244,__MSRVPsPPPPAEM,"protein stabilization; molecular association, regulation",,29160310,,,FZR1,Fzr1,DISRUPTS
+SPOP,Spop,S6-p,36136244,__MSRVPsPPPPAEM,"protein stabilization; molecular association, regulation",,29160310,,,14-3-3 gamma,Ywhag,INDUCES

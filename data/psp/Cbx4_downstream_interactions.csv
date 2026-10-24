@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CBX4,Cbx4,T497-p,470079,SLQVKPEtPASAAVA,"sumoylation; molecular association, regulation; intracellular localization; enzymatic activity, induced","cell cycle regulation; transcription, inhibited",17018294; 30317550,,,RING1,Ring1,INDUCES
+CBX4,Cbx4,T437-p,7315202,ARSISTPtCLGGSPA,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell motility, inhibited",32111827,,"increases ubiquitylation at CBX4-K178, K280",CHIP,Stub1,INDUCES
+CBX4,Cbx4,K178-ub,573756664,LQYQGGHkEAPSPTC,protein degradation,,32111827,,,,,
+CBX4,Cbx4,K280-ub,573756668,GMQAVKIkSGEVAEG,protein degradation,,32111827,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZWINT,Zwint,S262-p,20765003,MGRDPGVsFKAVGLQ,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,21775627,Zwint,"inhibits phosphorylation of dynein and induces its recruitment with ZW10 to kinetochores, ",ZW10,Zw10,INDUCES
+ZWINT,Zwint,S250-p,20765004,PTRPQEQsTGDTMGR,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,21775627,Zwint,"inhibits phosphorylation of dynein and induces its recruitment with ZW10 to kinetochores, ",ZW10,Zw10,INDUCES
+ZWINT,Zwint,T251-p,20765002,TRPQEQStGDTMGRD,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,21775627,Zwint,"inhibits phosphorylation of dynein and induces its recruitment with ZW10 to kinetochores, ",ZW10,Zw10,INDUCES

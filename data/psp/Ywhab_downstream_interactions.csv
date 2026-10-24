@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YWHAB,Ywhab,K49-ac,474927,NLLSVAYkNVVGARR,"intracellular localization; activity, inhibited","cell differentiation, induced",34379822,14-3-3,osteogenesis,,,
+YWHAB,Ywhab,K117-ac,466016,NATQPESkVFYLKMK,"molecular association, regulation",,23840712,14-3-3,,SYNPO,Synpo,DISRUPTS
+YWHAB,Ywhab,K122-ac,3649439,ESKVFYLkMKGDYFR,"molecular association, regulation",,23840712,14-3-3,,SYNPO,Synpo,DISRUPTS
+YWHAB,Ywhab,K51-ac,474927,NLLSVAYkNVVGARR,"molecular association, regulation; intracellular localization; activity, inhibited","cell differentiation, induced",23840712; 34379822,14-3-3,osteogenesis,SYNPO,Synpo,DISRUPTS
+YWHAB,Ywhab,K77-ac,31068005,KTERNEKkQQMGKEY,"molecular association, regulation",,23840712,14-3-3,,SYNPO,Synpo,DISRUPTS
+YWHAB,Ywhab,S186-p,449845,FYYEILNsPEKACSL,"molecular association, regulation",,15696159,14-3-3,,Abl iso2,Abl1,DISRUPTS

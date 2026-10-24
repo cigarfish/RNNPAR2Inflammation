@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEP250,Cep250,S2392-p,4728455,AGLHHSLsHSLLAVA,,cell cycle regulation,20708153,,,,,
+CEP250,Cep250,S2064-p,1869636100,REQLLEKsLAQRVQE,,cytoskeletal reorganization,32606248,,regulates centrosome-seperation,,,
+CEP250,Cep250,S2421-p,20831305,LDESLTQsLTSPGPV,intracellular localization,cell cycle regulation,21723128; 25660448,,,,,
+CEP250,Cep250,S2394-p,4728460,LHHSLSHsLLAVAQA,,cell cycle regulation,20708153,,,,,
+CEP250,Cep250,S2417-p,20831304,ETRRLDEsLTQSLTS,intracellular localization,cell cycle regulation,21723128; 25660448,,,,,

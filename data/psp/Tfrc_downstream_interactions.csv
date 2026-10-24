@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TFRC,Tfrc,Y20-p,448928,FGGEPLSyTRFSLAR,"receptor internalization, induced","endocytosis, induced; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",21859709; 35338344,,,,,

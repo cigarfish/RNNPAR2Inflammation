@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+U2AF1,U2af1,S34-p,1868227100,CRHGDRCsRLHNKPT,phosphorylation,"carcinogenesis, inhibited; RNA splicing, altered; cell differentiation, induced; transcription, inhibited; signaling pathway regulation",31011167,zf-CCCH,"inhibits phosphorylation of p38, ERK, IRAK1, IKK and p65, regulates innate immune signaling and NF-kB signaling",,,

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FNIP1,Fnip1,S946-p,4734332,SDSALGDsESEDTGH,"protein stabilization; molecular association, regulation",signaling pathway regulation,30699359,,,HSP90A,Hsp90aa1,INDUCES
+FNIP1,Fnip1,S941-p,4734327,PRNESSDsALGDSES,"protein stabilization; molecular association, regulation",signaling pathway regulation,30699359,,,HSP90A,Hsp90aa1,INDUCES
+FNIP1,Fnip1,S938-p,1861699800,WDIPRNEsSDSALGD,"protein stabilization; molecular association, regulation; phosphorylation",signaling pathway regulation,30699359,,,HSP90A,Hsp90aa1,INDUCES
+FNIP1,Fnip1,S948-p,4734337,SALGDSEsEDTGHDM,"protein stabilization; molecular association, regulation",signaling pathway regulation,30699359,,,HSP90A,Hsp90aa1,INDUCES
+FNIP1,Fnip1,S939-p,17550026,DIPRNESsDSALGDS,"protein stabilization; molecular association, regulation",signaling pathway regulation,30699359,,,HSP90A,Hsp90aa1,INDUCES
+FNIP1,Fnip1,K1119-ub,1871197700,QELYFKSkMLSEYLR,protein degradation; ubiquitination,,30699359,FNIP_C,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITPR1,Itpr1,T800-p,450269,RDPQEQVtPVKYARL,"molecular association, regulation","exocytosis, induced",16237118,,"enhances IP3 binding to IP3R1, and calcium release",,,
+ITPR1,Itpr1,S1598-p,450681,RNAARRDsVLAASRD,"molecular association, regulation",,17696464,,regulates calcium dependent binding,Calmodulin,Calm1,DISRUPTS
+ITPR1,Itpr1,Y353-p,450970,NAQEKMVySLVSVPE,"activity, induced; receptor desensitization, altered","transcription, altered",14761954; 18056410,MIR,,,,

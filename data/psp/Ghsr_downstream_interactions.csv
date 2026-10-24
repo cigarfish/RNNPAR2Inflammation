@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GHSR,Ghsr,S252-p,1877127904,GDAVVGAsLRDQNHK,"molecular association, regulation",,35605660,7tm_1,,ARRB2,Arrb2,INDUCES
+GHSR,Ghsr,T261-p,25293461,RDQNHKQtVKMLAVV,"molecular association, regulation",,35605660,7tm_1,,ARRB1,Arrb1,INDUCES
+GHSR,Ghsr,T261-p,25293461,RDQNHKQtVKMLAVV,"molecular association, regulation",,35605660,7tm_1,,ARRB2,Arrb2,INDUCES

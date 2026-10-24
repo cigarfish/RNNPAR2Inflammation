@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LTA4H,Lta4h,S416-p,451021,KAYVEKFsYKSITTD,"enzymatic activity, inhibited",,9395533,Peptidase_M1,This phosphorylation and consequent enzymatic activity inhibition have not been observed in lung carcinoma cell line ,,,

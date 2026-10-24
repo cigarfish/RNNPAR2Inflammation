@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP2A1,Atp2a1,S186-p,4764562,ILTGESVsVIKHTEP,"molecular association, regulation; enzymatic activity, induced",,19628462,E1-E2_ATPase,,ATP2A1,Atp2a1,INDUCES

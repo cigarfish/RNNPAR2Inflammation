@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP24,Arhgap24,S625-p,40509359,GRSSRATsSSDNSET,intracellular localization; phosphorylation,"carcinogenesis, induced; cell motility, induced",38426123,,,,,
+ARHGAP24,Arhgap24,S391-p,484901,RSSMNNGsPTALSGS,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,
+ARHGAP24,Arhgap24,S437-p,12518706,SGIVTNGsFSSSNAE,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,
+ARHGAP24,Arhgap24,S402-p,4757006,LSGSKTNsPKNSVHK,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,
+ARHGAP24,Arhgap24,S413-p,12518707,SVHKLDVsRSPPLMV,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,
+ARHGAP24,Arhgap24,S415-p,4757012,HKLDVSRsPPLMVKK,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,
+ARHGAP24,Arhgap24,S621-p,1885401100,RSVGGRSsRATSSSD,intracellular localization,"carcinogenesis, induced; cell motility, induced",38426123,,,,,
+ARHGAP24,Arhgap24,T452-p,12518705,GLEKTQTtPNGSLQA,"activity, induced",cytoskeletal reorganization,16862148,,membrane blebbing,,,

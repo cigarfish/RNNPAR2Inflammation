@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XRCC4,Xrcc4,K296-ub,53332702,QENQLQEkENSRPDS,ubiquitination; intracellular localization,"DNA repair, induced",26774286,XRCC4,recruitment to DNA damage sites,,,
+XRCC4,Xrcc4,S328-p,3195419,LETLRNSsPEDLFDE,ubiquitination; intracellular localization,"DNA repair, induced; DNA repair, inhibited",25166505; 26774286,XRCC4,"recruitment to DNA damage sites; prevents Anaphase bridge formation, prevents chromosome instability",,,
+XRCC4,Xrcc4,S260-p,475982,KDDSIISsLDVTDIA,,"DNA repair, induced",30247612,XRCC4,induces cell survival,,,
+XRCC4,Xrcc4,S327-p,3195416,SLETLRNsSPEDLFD,ubiquitination; intracellular localization,"DNA repair, induced",26774286,XRCC4,recruitment to DNA damage sites,,,
+XRCC4,Xrcc4,T233-p,2286405,DPVYDEStDEESENQ,"molecular association, regulation",,18077224; 20852255,XRCC4,,APLF,Aplf,INDUCES
+XRCC4,Xrcc4,T233-p,2286405,DPVYDEStDEESENQ,"molecular association, regulation",,18077224; 20852255,XRCC4,,Pnk1,Pnk1,INDUCES
+XRCC4,Xrcc4,K210-sm,3656303,QEREKDIkQEGETAI,intracellular localization,"DNA repair, induced",16478998; 25934149,XRCC4,,,,
+XRCC4,Xrcc4,S320-p,475981,HISAENMsLETLRNS,,"DNA repair, induced",33503430,XRCC4,,,,

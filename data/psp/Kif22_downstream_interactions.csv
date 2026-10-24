@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF22,Kif22,T134-p,30993022,GPTGAGKtHTMLGSP,intracellular localization,,35730929,Kinesin,,,,
+KIF22,Kif22,T463-p,456110,QGAPLLStPKRERMV,"intracellular localization; activity, inhibited",cell cycle regulation; cytoskeletal reorganization,12727876; 27550518; 35730929,,,TUBA4A,Tuba4a,DISRUPTS

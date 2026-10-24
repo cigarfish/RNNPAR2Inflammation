@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBXN7,Ubxn7,K99-ub,6778629,EPLFGAPkRRRPARS,protein degradation; ubiquitination,signaling pathway regulation,36096451,,"HBV X protein promotes K48-linked  ubiquitination of UBXN7 protein at K99, UBXN7 up-regulated ubiquitination of IKKB and inhibits NF-kB signaling pathway by promoting the degradation of IKK-beta",,,

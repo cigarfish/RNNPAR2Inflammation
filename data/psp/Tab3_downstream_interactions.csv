@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAB3,Tab3,T404-p,1295506,HSLYTATtPPSSSPS,O-GlcNAc glycosylation,,27009840,,increased TAB3 T404 phosphoryaltion,,,
+TAB3,Tab3,S408-gl,54400803,TATTPPSsSPSRGIS,,"cell motility, induced",27009840,,induced cell migration and invasion,,,

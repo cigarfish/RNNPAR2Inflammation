@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CRABP2,Crabp2,K102-sm,25171020,VCEQKLLkGEGPKTS,intracellular localization,"transcription, induced",21998312,Lipocalin,translocates from ER to the nucleus,,,

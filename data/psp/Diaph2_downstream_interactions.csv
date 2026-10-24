@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DIAPH2,Diaph2,S820-p,18707505,HINNIKPsIIAVTLA,,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",21397845,FH2,mutation of this site disrupts metaphase chromosome alignment,,,
+DIAPH2,Diaph2,T882-p,18707507,KSADQKTtLLHFIAD,,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",21397845,FH2,mutation of this site disrupts metaphase chromosome alignment,,,
+DIAPH2,Diaph2,S196-p,18707506,CLESLRVsLTSNPVS,,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",21397845,Drf_GBD,mutation of this site disrupts metaphase chromosome alignment,,,
+DIAPH2,Diaph2,T66-p,11147321,ITSFRKStVKKEKPL,,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",21397845,,mutation of this site disrupts metaphase chromosome alignment,,,
+DIAPH2,Diaph2,K970-ac,63341500,TMHNNMMkLYENLGE,,cytoskeletal reorganization,28255013,FH2,regulates cytokinesis and erythrocyte enucleation,,,

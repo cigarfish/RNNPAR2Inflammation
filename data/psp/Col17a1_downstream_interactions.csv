@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+COL17A1,Col17a1,S542-p,484006,LDKIGLHsDSQEELW,,"cell adhesion, altered",17545155,,regulates COL17A1 shedding of ectodomain,,,
+COL17A1,Col17a1,S544-p,484007,KIGLHSDsQEELWMF,,"cell adhesion, altered",17545155,,regulates COL17A1 shedding of ectodomain,,,

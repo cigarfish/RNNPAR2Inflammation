@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MIP,Mip,S231-p,453399,FPRLKSIsERLSVLK,"activity, induced; molecular association, regulation",,18081321; 38032258,,,Calmodulin,Calm1,DISRUPTS
+MIP,Mip,S229-p,453400,LLFPRLKsISERLSV,"activity, induced; molecular association, regulation; protein conformation",,27660387; 38032258,,,Calmodulin,Calm1,DISRUPTS
+MIP,Mip,S235-p,450116,KSISERLsVLKGAKP,"activity, induced; molecular association, regulation; protein conformation",,18081321; 27660387; 38032258,,,Calmodulin,Calm1,DISRUPTS

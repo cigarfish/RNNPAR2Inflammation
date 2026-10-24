@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAV2,Cav2,S36-p,469561,DPEKFADsDQDRDPH,"activity, induced",,12743374,Caveolin,formation of caveolae,,,
+CAV2,Cav2,S23-p,460671,DDSYSHHsGLEYADP,"activity, induced",,12743374,Caveolin,formation of caveolae,,,
+CAV2,Cav2,Y27-p,454430,SHHSGLEyADPEKFA,intracellular localization; phosphorylation,"cell growth, induced; transcription, inhibited",15504032; 22819829,Caveolin,"Smad3 phosphorylation inhibited, PAI-1 protein expression supressed",,,
+CAV2,Cav2,S135-p,2765000,SVQTIWKsVTDVIIA,"activity, induced",,12743374,Caveolin,formation of caveolae,,,
+CAV2,Cav2,Y19-p,450198,LFMDDDSySHHSGLE,"molecular association, regulation; intracellular localization; phosphorylation","cell growth, induced; cell adhesion, induced; transcription, inhibited; signaling pathway regulation",12091389; 15504032; 20455999; 22819829; 29371975,Caveolin,,RASA1,Rasa1,INDUCES
+CAV2,Cav2,Y19-p,450198,LFMDDDSySHHSGLE,"molecular association, regulation; intracellular localization; phosphorylation","cell growth, induced; cell adhesion, induced; transcription, inhibited; signaling pathway regulation",12091389; 15504032; 20455999; 22819829; 29371975,Caveolin,,ERK1,Mapk3,INDUCES
+CAV2,Cav2,Y19-p,450198,LFMDDDSySHHSGLE,"molecular association, regulation; intracellular localization; phosphorylation","cell growth, induced; cell adhesion, induced; transcription, inhibited; signaling pathway regulation",12091389; 15504032; 20455999; 22819829; 29371975,Caveolin,,caveolin-1,Cav1,INDUCES

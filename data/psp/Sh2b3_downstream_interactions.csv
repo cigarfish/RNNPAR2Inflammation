@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH2B3,Sh2b3,S150-p,14575499,RHIFRRRsAGELPAA,"molecular association, regulation",signaling pathway regulation,24704825,,silencing of 14-3-3 enhances tumor growth in Nod-SCID mice injected with OVCAR5 cells expressing LNK,14-3-3 zeta,Ywhaz,INDUCES

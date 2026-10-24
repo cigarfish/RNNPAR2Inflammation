@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAG2,Bag2,K186-ub,21129790,RNIENSDkAIKLLEH,"protein degradation; molecular association, regulation","apoptosis, induced",32424143,BAG,,LOXL1,Loxl1,DISRUPTS
+BAG2,Bag2,S31-p,30960285,RSSRLLEsLDQLELR,"molecular association, regulation; intracellular localization","autophagy, induced",39207901,,,CLCC1,Clcc1,INDUCES

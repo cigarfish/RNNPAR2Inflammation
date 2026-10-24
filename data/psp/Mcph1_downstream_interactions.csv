@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCPH1,Mcph1,S322-p,36125335,QKQAAGMsQETFEEK,"molecular association, regulation; phosphorylation",signaling pathway regulation,25301947,Microcephalin,"induces phosphrylation of RFA2, induce ATR signaling",TOPBP1,Topbp1,INDUCES

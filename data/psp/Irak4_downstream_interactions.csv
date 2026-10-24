@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRAK4,Irak4,S8-p,2859004,MNKPITPsTYVRCLN,"molecular association, regulation; protein conformation",,27876844,,interferes with the Myddosome formation,MYD88,Myd88,INDUCES
+IRAK4,Irak4,S346-p,2045338,FAQTVMTsRIVGTTA,"protein conformation; enzymatic activity, induced",signaling pathway regulation,17141195; 17161373; 17312103; 36654851,PK_Tyr_Ser-Thr,DYRK1A/MyD88/IRAK/NF-kB signaling,,,
+IRAK4,Irak4,T342-p,2045344,ASEKFAQtVMTSRIV,"enzymatic activity, induced",,17141195; 17312103,PK_Tyr_Ser-Thr,,,,
+IRAK4,Irak4,T345-p,2045325,KFAQTVMtSRIVGTT,"molecular association, regulation; protein conformation; enzymatic activity, induced",signaling pathway regulation,17141195; 17161373; 17312103; 25201411; 36654851,PK_Tyr_Ser-Thr,IRAK4 dimerization is inhibited by phosphorylation of this site; DYRK1A/MyD88/IRAK/NF-kB signaling,IRAK4,Irak4,DISRUPTS

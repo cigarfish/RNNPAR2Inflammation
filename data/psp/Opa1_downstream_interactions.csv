@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPA1,Opa1,K931-ac,31068001,KIKLLTGkRVQLAED,"enzymatic activity, inhibited; activity, inhibited",,24344202; 33857259,OPA1_C,"acetyl-mimic at K931, which inhibits OPA1 functionK931, which inhibits OPA1 function, allows for mitochondrial fragmentation and virus production.; regulation of mitochondrial dynamics, morphology and function",,,
+OPA1,Opa1,K926-ac,31068000,EDGEKKIkLLTGKRV,"enzymatic activity, inhibited",,24344202,OPA1_C,"regulation of mitochondrial dynamics, morphology and function",,,

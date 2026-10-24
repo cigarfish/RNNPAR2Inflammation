@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUDC,Nudc,K39-ac,31068003,FFSFLRRkTDFFIGG,,cell cycle regulation,24069238,Nudc_N,,,,
+NUDC,Nudc,T40-p,11164887,FSFLRRKtDFFIGGE,,cell cycle regulation,27074040,Nudc_N,regulates cytokinesis,,,

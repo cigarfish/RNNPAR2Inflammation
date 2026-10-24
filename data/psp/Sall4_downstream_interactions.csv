@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SALL4,Sall4,K316-sm,31089510,GLAPFTLkPDGTRVL,"protein stabilization; molecular association, regulation; intracellular localization","transcription, induced",23012367,,,Oct4,Pou5f1,DISRUPTS
+SALL4,Sall4,K190-ub,1880613700,LQALRGTkVAVNQRS,protein degradation,"carcinogenesis, inhibited; cell motility, inhibited",29511085,,,,,
+SALL4,Sall4,K374-sm,31089511,SAVDVKPkDEAALYK,"protein stabilization; molecular association, regulation; intracellular localization","transcription, induced",23012367,,,Oct4,Pou5f1,DISRUPTS
+SALL4,Sall4,K401-sm,31089513,RAPPTYVkVEVPGTF,"protein stabilization; molecular association, regulation; intracellular localization","transcription, induced",23012367,,,Oct4,Pou5f1,DISRUPTS
+SALL4,Sall4,K156-sm,31089512,AESVVYLkTETALPP,"protein stabilization; molecular association, regulation; intracellular localization","transcription, induced",23012367,,,Oct4,Pou5f1,DISRUPTS

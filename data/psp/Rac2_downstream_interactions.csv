@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAC2,Rac2,K123-ub,12402500,KLDLRDDkDTIEKLK,"protein degradation; molecular association, regulation; ubiquitination",,35354308,Ras,"rs671 mutation had significantly lower efferocytotic ability compared with wild-type, ALDH2 WT  interacted with RAC2 and stabilized it by inhibited K48-linked polyubiquitination at K123.",ALDH2,Aldh2,INDUCES

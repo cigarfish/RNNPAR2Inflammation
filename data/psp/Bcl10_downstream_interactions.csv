@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCL10,Bcl10,K63-ub,2134712,SCRTSSRkRAGKLLD,"activity, induced; protein degradation; molecular association, regulation; intracellular localization","carcinogenesis, induced; transcription, induced; signaling pathway regulation",18287044; 27070702; 27777308,CARD,"promote NF-kB activation, cIAP1/2-mediated polyubiquitination is necessary for the recruitment of LUBAC to the CBM complex; TCR-mediated NF-?B activation",IKKG,Ikbkg,INDUCES
+BCL10,Bcl10,K17-ub,59171801,EEDLTEVkKDALENL,"molecular association, regulation","carcinogenesis, induced; transcription, induced; signaling pathway regulation",27777308,,TCR-mediated NF-?B activation,IKKG,Ikbkg,INDUCES
+BCL10,Bcl10,S134-p,467254,DGATNNLsRSNSDES,"activity, induced; molecular association, regulation",,16818229; 21199863,,,MALT1,Malt1,DISRUPTS
+BCL10,Bcl10,S141-p,4786673,SRSNSDEsNFSEKLR,"activity, induced",,21199863,,,,,
+BCL10,Bcl10,S231-p,469573,PLRSRTVsRQ_____,"molecular association, regulation; intracellular localization",,16280327,,,Bcl-3,Bcl3,INDUCES
+BCL10,Bcl10,S144-p,15408027,NSDESNFsEKLRAST,"activity, induced",,21199863,,,,,
+BCL10,Bcl10,S218-p,469572,EEGTCANsSEMFLPL,"molecular association, regulation; intracellular localization",,16280327,,,Bcl-3,Bcl3,INDUCES
+BCL10,Bcl10,S136-p,15402376,ATNNLSRsNSDESNF,"activity, induced",,21199863,,,,,
+BCL10,Bcl10,S138-p,470125,NNLSRSNsDESNFSE,"activity, induced; phosphorylation","cell motility, altered; cytoskeletal reorganization; signaling pathway regulation; transcription, altered",17371994; 20466000; 21199863; 21674474; 21700900,,PPP3CA-regulated NF-kB activation pathway,,,
+BCL10,Bcl10,K31-ub,2134711,LRVYLCEkIIAERHF,"activity, induced; protein degradation; molecular association, regulation; intracellular localization","carcinogenesis, induced; transcription, induced; signaling pathway regulation",18287044; 27070702; 27777308,CARD,"promote NF-kB activation, cIAP1/2-mediated polyubiquitination is necessary for the recruitment of LUBAC to the CBM complex; TCR-mediated NF-?B activation",IKKG,Ikbkg,INDUCES

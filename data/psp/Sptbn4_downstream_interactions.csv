@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPTBN4,Sptbn4,S2254-p,481487,RRPERQEsVDQSEEA,"protein degradation; molecular association, regulation","cell growth, induced; transcription, induced; signaling pathway regulation",34153319,,induces ?IV-spectrin/STAT3 pathway,STAT3,Stat3,DISRUPTS

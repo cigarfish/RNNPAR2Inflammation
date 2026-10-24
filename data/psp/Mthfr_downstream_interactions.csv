@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MTHFR,Mthfr,T34-p,456129,KDSSRCStPGLDPER,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited",,16024724; 24769206; 28820331,,,PLK1,Plk1,INDUCES
+MTHFR,Mthfr,T549-p,178601701,NVKGENItNAPELQP,,cell cycle regulation,28820331,,,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CERS2,Cers2,S348-p,469770,SDREETEsSEGEEAA,"enzymatic activity, induced",,26887952,,,,,
+CERS2,Cers2,T346-p,469769,ERSDREEtESSEGEE,"enzymatic activity, induced",,26887952,,,,,
+CERS2,Cers2,S349-p,469771,DREETESsEGEEAAA,"enzymatic activity, induced",,26887952,,,,,
+CERS2,Cers2,S341-p,470692,KLVEDERsDREETES,"enzymatic activity, induced",,26887952,,,,,
+CERS2,Cers2,S248-p,1872840300,SSDYLLEsAKMFNYA,,"carcinogenesis, inhibited; signaling pathway regulation",33852174,TRAM_LAG1_CLN8,LASS2 S248A  mutant inhibits ?-catenin ubiquitination and degradation and  inhibits Wnt/?-catenin signaling pathway,,,

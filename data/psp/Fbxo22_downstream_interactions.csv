@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXO22,Fbxo22,S162-p,1875332204,VTPMGSGsNRPQEIE,protein stabilization,"carcinogenesis, inhibited",34795058,,induces PD-L1 degradation,,,
+FBXO22,Fbxo22,S160-p,1875332202,IVVTPMGsGSNRPQE,protein stabilization,"carcinogenesis, inhibited",34795058,,induces PD-L1 degradation,,,

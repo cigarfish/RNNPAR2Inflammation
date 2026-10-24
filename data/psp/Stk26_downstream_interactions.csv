@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STK26,Stk26,T178-p,4274125,DTQIKRNtFVGTPFW,intracellular localization,cytoskeletal reorganization,19386264,Pkinase,,,,
+STK26,Stk26,T327-p,4270933,THPEWSFtTVRKKPD,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",30072378,,,MOB1A,Mob1a,INDUCES
+STK26,Stk26,T328-p,22781373,HPEWSFTtVRKKPDP,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",30072378,,,MOB1A,Mob1a,INDUCES

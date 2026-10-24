@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SHB,Shb,Y297-p,458102,QHKGIQLyDTPYEPE,"molecular association, regulation","cell motility, induced; signaling pathway regulation",32060095,,regulates EphB2 signaling,NCK1,Nck1,INDUCES
+SHB,Shb,Y297-p,458102,QHKGIQLyDTPYEPE,"molecular association, regulation","cell motility, induced; signaling pathway regulation",32060095,,regulates EphB2 signaling,NCK2,Nck2,INDUCES
+SHB,Shb,Y246-p,450867,KVTIADDySDPFDAK,"molecular association, regulation","cell motility, induced; signaling pathway regulation",32060095,,regulates EphB2 signaling,RASA1,Rasa1,INDUCES
+SHB,Shb,Y336-p,451593,DDRPADEyDQPWEWN,"molecular association, regulation","cell motility, induced; signaling pathway regulation",32060095,,regulates EphB2 signaling,ARHGAP2,Arhgap2,INDUCES
+SHB,Shb,Y336-p,451593,DDRPADEyDQPWEWN,"molecular association, regulation","cell motility, induced; signaling pathway regulation",32060095,,regulates EphB2 signaling,ARHGAP3,Arhgap3,INDUCES

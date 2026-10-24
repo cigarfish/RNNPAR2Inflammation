@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAGLA,Dagla,S808-p,27807806,RSIRGSPsLHAVLER,"enzymatic activity, inhibited",,23502535,,,,,
+DAGLA,Dagla,S782-p,27807805,APLATMEsLSDTESL,"enzymatic activity, inhibited",,23502535,,,,,

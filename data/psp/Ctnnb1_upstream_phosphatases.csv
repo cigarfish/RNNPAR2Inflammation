@@ -1,0 +1,8 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Ctnnb1,Ppp1cc,PPP1CC,PPP1CC,CTNNB1,S45,"Phosphatases, in vitro"
+Ctnnb1,Ppp1cc,PPP1CC,PPP1CC,CTNNB1,T41,"Phosphatases, in vitro"
+Ctnnb1,Ptpn6,PTPN6,SHP-1,CTNNB1,Y654,"Phosphatases, in vitro"
+Ctnnb1,Ptpn6,PTPN6,SHP-1,CTNNB1,Y86,"Phosphatases, in vitro"
+Ctnnb1,Ppp2ca,PPP2CA,PPP2CA,CTNNB1,S33,Putative upstream phosphatases
+Ctnnb1,Ppp2ca,PPP2CA,PPP2CA,CTNNB1,S37,Putative upstream phosphatases
+Ctnnb1,Ptpn1,PTPN1,PTP1B,CTNNB1,Y654,Putative upstream phosphatases

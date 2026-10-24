@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTGS2,Ptgs2,S601-p,1869465800,TVLLKERsTEL____,"protein degradation; molecular association, regulation; intracellular localization",signaling pathway regulation,31612242,,,NLRP3,Nlrp3,DISRUPTS
+PTGS2,Ptgs2,S601-p,1869465800,TVLLKERsTEL____,"protein degradation; molecular association, regulation; intracellular localization",signaling pathway regulation,31612242,,,DERL1,Derl1,INDUCES
+PTGS2,Ptgs2,Y446-p,484179,DQSRQMKyQSFNEYR,"enzymatic activity, induced",,24970799,An_peroxidase,,,,

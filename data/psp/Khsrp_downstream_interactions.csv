@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KHSRP,Khsrp,S670-p,482098,GPGAPPGsQPDYSAA,"activity, induced; molecular association, regulation",,21329876,DUF1897,binds to and functions in pri-miRNA processing,,,
+KHSRP,Khsrp,S193-p,473552,GLPERSVsLTGAPES,"molecular association, regulation; intracellular localization; protein conformation","transcription, altered",17177604; 19198587,KH_1,controls beta-catenin gene expression by controlling its mRNA stability;  phosphorylation of this site inhibits interaction with the exosome,14-3-3 sigma,Sfn,INDUCES
+KHSRP,Khsrp,S193-p,473552,GLPERSVsLTGAPES,"molecular association, regulation; intracellular localization; protein conformation","transcription, altered",17177604; 19198587,KH_1,controls beta-catenin gene expression by controlling its mRNA stability;  phosphorylation of this site inhibits interaction with the exosome,14-3-3 zeta,Ywhaz,INDUCES
+KHSRP,Khsrp,T692-p,458387,QAAYYGQtPGPGGPQ,,"RNA stability, altered",16364914,,inhibits degradation of myogenic transcripts during myoblast differentiation,,,
+KHSRP,Khsrp,S274-p,482097,MILIQDGsQNTNVDK,"activity, induced; molecular association, regulation",,21329876,KH_1,binds to and functions in pri-miRNA processing,,,
+KHSRP,Khsrp,S132-p,482096,SQGDSISsQLGPIHP,"activity, induced; molecular association, regulation",,21329876,,binds to and functions in pri-miRNA processing,,,
+KHSRP,Khsrp,S395-p,1876620110,DLLQSLRsGPPGPPG,"molecular association, regulation","carcinogenesis, induced; RNA splicing, inhibited",35240233,,,,,

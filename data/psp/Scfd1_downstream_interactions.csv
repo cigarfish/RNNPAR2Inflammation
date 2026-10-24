@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SCFD1,Scfd1,S316-p,27461658,PKRKNKKsYDLTPVD,"molecular association, regulation","autophagy, induced",35465820,Sec1,SCFD1  phosphorylation promotes its deacetylation,PCAF,Kat2b,DISRUPTS
+SCFD1,Scfd1,S303-p,3207654,ESSGVENsPAGARPK,"molecular association, regulation","autophagy, induced",35465820,Sec1,SCFD1  phosphorylation promotes its deacetylation,PCAF,Kat2b,DISRUPTS
+SCFD1,Scfd1,K126-ac,38507606,ISAISRSkLEDIANA,,"autophagy, inhibited",35465820,Sec1,SCFD1 deacetylation promotes SNARE complex formation,,,
+SCFD1,Scfd1,K515-ac,1881937803,SYGSTTTkPMGLLSR,,"autophagy, inhibited",35465820,,SCFD1 deacetylation promotes SNARE complex formation,,,

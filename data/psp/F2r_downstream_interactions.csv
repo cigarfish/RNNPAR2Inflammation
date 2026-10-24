@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+F2R,F2r,S391-p,3627501,SILCCKEsSDPSSYN,"receptor desensitization, altered",,10413505,,receptor shutoff (not internalization),,,
+F2R,F2r,S400-p,3627504,DPSSYNSsGQLMASK,"receptor desensitization, altered",,10413505,,receptor shutoff (not internalization),,,
+F2R,F2r,S399-p,3627502,SDPSSYNsSGQLMAS,"receptor desensitization, altered",,10413505,,receptor shutoff (not internalization),,,
+F2R,F2r,S392-p,3627503,ILCCKESsDPSSYNS,"receptor desensitization, altered",,10413505,,receptor shutoff (not internalization),,,
+F2R,F2r,S406-p,3627500,SSGQLMAsKMDTCSS,"receptor desensitization, altered",,10413505,,receptor shutoff (not internalization),,,
+F2R,F2r,Y383-p,451198,SECQRYVySILCCKE,"protein degradation; receptor internalization, altered",,15023990,,,,,

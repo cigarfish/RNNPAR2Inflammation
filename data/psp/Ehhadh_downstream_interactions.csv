@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EHHADH,Ehhadh,K584-ac,461837,KGWYQYDkPLGRIHK,"enzymatic activity, induced",,20167786,,,,,
+EHHADH,Ehhadh,K346-ac,461836,MITSVLEkEASKMQQ,"enzymatic activity, induced",,20167786,3HCDH_N,,,,
+EHHADH,Ehhadh,K165-ac,14319820,ILADEALkLGILDKV,"enzymatic activity, induced",,20167786,ECH_1,,,,

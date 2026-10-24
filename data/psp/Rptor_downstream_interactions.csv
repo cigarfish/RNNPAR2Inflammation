@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPTOR,Rptor,S877-p,3205938,HIHQAGGsPPASSTS,"enzymatic activity, inhibited",cell cycle regulation,21900751; 31530866,,,,,
+RPTOR,Rptor,K1097-ac,36308769,DGAIRVWkNFADLEK,intracellular localization; phosphorylation,,30197302,,induces phosphorylation of mTOR substrates and localization of mTOR,,,
+RPTOR,Rptor,T908-p,23940710,LPSGRPGtTGPAGAQ,"activity, induced",,22356909,,leading to mTORC1 activation,,,
+RPTOR,Rptor,S859-p,2024885,DTSSLTQsAPASPTN,"molecular association, regulation",signaling pathway regulation,21460630; 26348909,,mTORC1 signaling,mTOR,Mtor,INDUCES
+RPTOR,Rptor,S859-p,2024885,DTSSLTQsAPASPTN,"molecular association, regulation",signaling pathway regulation,21460630; 26348909,,mTORC1 signaling,4E-BP1,Eif4ebp1,DISRUPTS
+RPTOR,Rptor,S855-p,3205935,QRVLDTSsLTQSAPA,"molecular association, regulation",signaling pathway regulation,21460630,,mTORC1 signaling,4E-BP1,Eif4ebp1,DISRUPTS
+RPTOR,Rptor,T706-p,11315002,TTEGGSLtPVRDSPC,"intracellular localization; enzymatic activity, induced",cell cycle regulation,21900751; 22493283,,,,,
+RPTOR,Rptor,S606-p,53407301,SAHEKLYsLLSDPIP,"molecular association, regulation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",32015438,HEAT,"inhibits phosphorylation of S6K1, inhibits mTORC1 signaling",RHEB,Rheb,DISRUPTS
+RPTOR,Rptor,S606-p,53407301,SAHEKLYsLLSDPIP,"molecular association, regulation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",32015438,HEAT,"inhibits phosphorylation of S6K1, inhibits mTORC1 signaling",DEPTOR,Deptor,INDUCES
+RPTOR,Rptor,S863-p,453732,LTQSAPAsPTNKGVH,"activity, induced; molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced; phosphorylation",cell cycle regulation,19346248; 19864431; 21757713; 21900751; 22493283; 26588989,,,RAG1,Rag1,DISRUPTS
+RPTOR,Rptor,S771-p,13251700,SASSTLGsPENEEHI,"activity, induced",,21757713,,mTORC1 activation,,,
+RPTOR,Rptor,S722-p,2314601,PRLRSVSsYGNIRAV,,"cell cycle regulation; autophagy, induced; transcription, altered",21900751; 34604061,,,,,
+RPTOR,Rptor,S792-p,2314600,DKMRRASsYSSLNSL,"molecular association, regulation","cell cycle regulation; carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited; apoptosis, inhibited; transcription, altered; signaling pathway regulation",21460630; 21900751; 28778925; 34247189; 34604061; 34820368; 36741386; 39627360,,AKT/mTOR signaling; mTOR signaling,4E-BP1,Eif4ebp1,DISRUPTS
+RPTOR,Rptor,S791-p,1868515108,IDKMRRAsSYSSLNS,"activity, inhibited","carcinogenesis, induced; cell growth, induced",32312749; 34673774,,inhibits mTORC1 activity; mTORC1 activity inhibited,,,
+RPTOR,Rptor,S696-p,11315003,EKNYALPsPATTEGG,"enzymatic activity, induced; phosphorylation",,21325048; 22493283,,mutation of S696A interferes with the insulin-stimulated phosphorylation of p70S6K; mTORC1 activity induced,,,

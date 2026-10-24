@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLNB,Flnb,K1147-ub,27583503,GPGLEHGkVGEAGLL,"molecular association, regulation; intracellular localization",,23401860,Filamin,PMA treatment enhances ubiquitination of FLNB and led to an increase in HDAC7 cytoplasmic accumulation. ,HDAC7,Hdac7,INDUCES
+FLNB,Flnb,K681-ub,22244658,DAGKAPLkIFAQDGE,protein degradation,,26676607,Filamin,,,,

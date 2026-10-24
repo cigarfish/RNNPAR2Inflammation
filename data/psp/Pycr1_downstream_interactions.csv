@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PYCR1,Pycr1,Y135-p,1883959000,VREGATVyATGTHAQ,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, altered",37777542,,,ELK4,Elk4,INDUCES
+PYCR1,Pycr1,K228-ac,1878196105,EQHPGQLkDNVSSPG,"enzymatic activity, inhibited","cell growth, inhibited",31108370,,Acetylation of K228 impairs the formation of decamers and inhibits enzymatic activity,PYCR1,Pycr1,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DES,Des,S60-p,449614,VYQVSRTsGGAGGLG,intracellular localization,cytoskeletal reorganization,12686604,Filament_head,Mutated desmin sites showed failure of desmin filaments to segregate into daughter cells. ; Phosphorylated at the clevage furrow during cytokinesis. ,,,
+DES,Des,S12-p,449612,YSSSQRVsSYRRTFG,intracellular localization,cytoskeletal reorganization,12686604,Filament_head,Mutated desmin sites showed failure of desmin filaments to segregate into daughter cells. ; Phosphorylated at the clevage furrow during cytokinesis. ,,,
+DES,Des,T17-p,449613,RVSSYRRtFGGAPGF,,cytoskeletal reorganization,12686604,Filament_head,Mutated desmin sites showed failure of desmin filaments to segregate into daughter cells. ,,,
+DES,Des,S32-p,466343,PLGSPLSsPVFPRAG,protein conformation,,29483093,Filament_head,"formation of desmin-positive aggregates, decreased Z-bands incorporation ",,,
+DES,Des,T76-p,449615,LRASRLGtTRTPSSY,,cytoskeletal reorganization,12686604,Filament_head,Mutated desmin sites showed failure of desmin filaments to segregate into daughter cells. ,,,
+DES,Des,T77-p,449616,RASRLGTtRTPSSYG,,cytoskeletal reorganization,12686604,Filament_head,Mutated desmin sites showed failure of desmin filaments to segregate into daughter cells. ,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL4R,Il4ra,Y497-p,451065,VIAGNPAyRSFSNSL,,"apoptosis, inhibited",9670964,,,,,
+IL4R,Il4ra,Y713-p,451066,SLGSGIVySALTCHL,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",11714803; 9670964,,,SHIP,Inpp5d,INDUCES
+IL4R,Il4ra,Y575-p,57775900,VSAPTSGyQEFVHAV,"molecular association, regulation",,27479084,,Y575 and Arg576 (pY575R576),GRB2,Grb2,INDUCES

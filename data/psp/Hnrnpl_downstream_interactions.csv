@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPL,Hnrnpl,Y359-p,473633,HRRGPSRyGPQYGHP,protein stabilization; intracellular localization,"translation, induced; translation, inhibited",23976881; 28520992,RRM_5,,hnRNP A2/B1,Hnrnpa2b1,INDUCES
+HNRNPL,Hnrnpl,S52-p,3180663,GRYYGGGsEGGRAPK,,"carcinogenesis, altered; cell growth, altered",20972334,,regulates the alternative splicing of caspase-9,,,
+HNRNPL,Hnrnpl,S544-p,15436636,GKSERSSsGLLEWES,"molecular association, regulation",,22570490,,,,,

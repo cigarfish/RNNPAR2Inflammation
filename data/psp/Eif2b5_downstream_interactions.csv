@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF2B5,Eif2b5,S540-p,449905,MDSEEPDsRGGSPQM,,"signaling pathway regulation; translation, inhibited",22231169,,,,,
+EIF2B5,Eif2b5,S525-p,470490,KINMEEEsESESEQS,"activity, induced","translation, altered",18160716,,eIF2B-epsilon [S525A] mutation abolished regulation of protein synthesis by amino acids,,,
+EIF2B5,Eif2b5,S544-p,449906,EPDSRGGsPQMDDIK,,"signaling pathway regulation; translation, inhibited",22231169,,,,,

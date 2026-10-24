@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3R2,Pik3r2,Y464-p,449572,SREYDQLyEEYTRTS,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","cell cycle regulation; carcinogenesis, induced; carcinogenesis, inhibited; cell growth, induced; cell motility, induced; transcription, altered; signaling pathway regulation",24634221; 26411363; 34380633; 34785213; 36857183,PI3K_P85_iSH2,,KPNA1,Kpna1,INDUCES
+PIK3R2,Pik3r2,Y655-p,25749689,ESSQRGCyACSVVVD,"protein stabilization; molecular association, regulation","carcinogenesis, inhibited; autophagy, induced; signaling pathway regulation",23604317; 28915558,SH2,,FBXL2,Fbxl2,DISRUPTS
+PIK3R2,Pik3r2,Y467-p,450387,YDQLYEEyTRTSQEL,,"carcinogenesis, induced; apoptosis, inhibited",35154579,PI3K_P85_iSH2,,,,
+PIK3R2,Pik3r2,K598-sm,56709101,INEWLGIkNETEDQY,phosphorylation,"carcinogenesis, inhibited; signaling pathway regulation",26411363,,"sumolation inhibits PI3KR2 phosphorylation, regulates PI3K pathway activation",,,
+PIK3R2,Pik3r2,K541-sm,56709100,EIHESRTkLEQQLRA,phosphorylation,"carcinogenesis, inhibited; signaling pathway regulation",26411363,PI3K_P85_iSH2,"sumolation inhibits PI3KR2 phosphorylation, regulates PI3K pathway activation",,,

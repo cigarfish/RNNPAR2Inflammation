@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MEF2D,Mef2d,S98-p,470518,KGFNGCDsPEPDGED,"molecular association, regulation; ubiquitination",,25733682,HJURP_C,,SKP2,Skp2,INDUCES
+MEF2D,Mef2d,K267-m2,31094531,QLGAPSRkPDLRVIT,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",24078251,,,,,
+MEF2D,Mef2d,S444-p,449407,SIKSEPVsPSRERSP,"sumoylation; molecular association, regulation; acetylation; intracellular localization; activity, inhibited","neural plasticity; transcription, inhibited",16356933; 30523159; 30699340; 37458356,,,p300,Ep300,DISRUPTS
+MEF2D,Mef2d,S444-p,449407,SIKSEPVsPSRERSP,"sumoylation; molecular association, regulation; acetylation; intracellular localization; activity, inhibited","neural plasticity; transcription, inhibited",16356933; 30523159; 30699340; 37458356,,,HDAC5,Hdac5,INDUCES
+MEF2D,Mef2d,S251-p,3196577,NKVIPAKsPPPPTHS,"intracellular localization; activity, inhibited","transcription, inhibited",34109727,,phosphorylation of this site inhibits MEF2D import into the nucleus,,,
+MEF2D,Mef2d,S180-p,449933,LTDPRLLsPQQPALQ,,"transcription, induced",26660426,,IEG genes during preBCR signaling,,,
+MEF2D,Mef2d,S110-p,470517,GEDSLEQsPLLEDKY,"molecular association, regulation; ubiquitination",,25733682,HJURP_C,,SKP2,Skp2,INDUCES
+MEF2D,Mef2d,K267-m1,31094532,QLGAPSRkPDLRVIT,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",24078251,,,,,

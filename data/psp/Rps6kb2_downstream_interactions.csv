@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS6KB2,Rps6kb2,R477-m2,1885567802,TKKSKRGrGRPGR__,intracellular localization,,37240151,,promotes cell survival,,,
+RPS6KB2,Rps6kb2,S423-p,455991,SSPRAPVsPLKFSPF,"enzymatic activity, induced",,11108720,,,,,
+RPS6KB2,Rps6kb2,S417-p,455990,SPRRLNSsPRAPVSP,"enzymatic activity, induced",,11108720,,,,,
+RPS6KB2,Rps6kb2,R475-m2,1885567800,SGTKKSKrGRGRPGR,intracellular localization,,37240151,,promotes cell survival,,,
+RPS6KB2,Rps6kb2,S473-p,450071,PPSGTKKsKRGRGRP,intracellular localization,,12529391,,,,,
+RPS6KB2,Rps6kb2,S410-p,455989,SFQPKLRsPRRLNSS,"enzymatic activity, induced",,11108720,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS2,Rps2,K275-ub,3932233,EFTDHLVkTHTRVSV,"protein degradation; molecular association, regulation","autophagy, induced",37930887,,"RPS2 processing in OIS, senescence-induced ribosome degradation by autophagy",SQSTM1,Sqstm1,INDUCES

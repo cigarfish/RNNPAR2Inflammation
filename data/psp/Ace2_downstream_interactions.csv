@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACE2,Ace2,S787-p,1868161400,PYASIDIsKGENNPG,,"transcription, induced",20484496,,activation of ERK1/2 and upregulation of CCL2by  SARS-CoV VLPs,,,
+ACE2,Ace2,K26-ub,1880091001,STIEEQAkTFLDKFN,protein degradation,,35894122,Peptidase_M2,,,,
+ACE2,Ace2,S680-p,1868162500,ANLKPRIsFNFFVTA,protein conformation,,37292255,Collectrin,induces  conformational changes in all types of SARS-CoV-2,,,
+ACE2,Ace2,K114-ub,1880091003,VLSEDKSkRLNTILN,protein degradation,,35894122,Peptidase_M2,,,,
+ACE2,Ace2,R671-m2,1883574201,LFGEEDVrVANLKPR,"molecular association, regulation",,36114164,Collectrin," GSK3326595  inhibits SARS-CoV-2 spike pseudovirus infection host cells; GSK3326595 strongly inhibits ACE2-RBD interaction, also inhibits SARS-CoV-2 Omicron Spike1 protein",Spike Glycoprotein,NA,INDUCES
+ACE2,Ace2,Y781-p,465258,ARSGENPyASIDISK,"molecular association, regulation",,33436498,,,LYN,Lyn,INDUCES
+ACE2,Ace2,Y781-p,465258,ARSGENPyASIDISK,"molecular association, regulation",,33436498,,,Fyn,Fyn,INDUCES
+ACE2,Ace2,Y781-p,465258,ARSGENPyASIDISK,"molecular association, regulation",,33436498,,,AP2M1,Ap2m1,DISRUPTS
+ACE2,Ace2,S776-p,1880091000,KKKNKARsGENPYAS,protein stabilization,,35894122,, SARS-CoV-2 infection induces GLK overexpression and subsequent ACE2 stabilization,,,
+ACE2,Ace2,K112-ub,1880091002,SSVLSEDkSKRLNTI,protein degradation,,35894122,Peptidase_M2,,,,
+ACE2,Ace2,K31-me,1881568100,QAKTFLDkFNHEAED,"molecular association, regulation",,34031383,Peptidase_M2,"ACE2 peptide inhibitors, inhibit spike complexes at the cell surface, signi?cantly reduced SARS-CoV-2 spike protein at the cell surface and intracellularly in infected cells",Spike Glycoprotein,NA,DISRUPTS
+ACE2,Ace2,S783-p,23078777,SGENPYAsIDISKGE,"protein stabilization; molecular association, regulation",,33436498; 35894122,, SARS-CoV-2 infection induces GLK overexpression and subsequent ACE2 stabilization,AP2M1,Ap2m1,INDUCES
+ACE2,Ace2,S783-p,23078777,SGENPYAsIDISKGE,"protein stabilization; molecular association, regulation",,33436498; 35894122,, SARS-CoV-2 infection induces GLK overexpression and subsequent ACE2 stabilization,GABARAP,Gabarap,INDUCES
+ACE2,Ace2,S783-p,23078777,SGENPYAsIDISKGE,"protein stabilization; molecular association, regulation",,33436498; 35894122,, SARS-CoV-2 infection induces GLK overexpression and subsequent ACE2 stabilization,LC3A,Map1lc3a,INDUCES

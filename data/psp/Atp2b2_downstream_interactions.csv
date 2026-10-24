@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP2B2,Atp2b2,T1139-p,11422300,RGLNRIQtQIRVVKA,"enzymatic activity, induced",,1827443,ATP_Ca_trans_C,effect (activation vs. inhibition) depends on PKC isozyme and lipid associated with ATP2B2,,,

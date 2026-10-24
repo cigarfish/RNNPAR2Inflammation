@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IP6K2,Ip6k2,S347-p,478422,RPEVVLDsDAEDLED,protein degradation; ubiquitination,"apoptosis, induced; cell growth, altered",17379600; 21262846,IPK,induces NFkB-DNA binding,TRAF2,Traf2,INDUCES
+IP6K2,Ip6k2,S356-p,18258507,AEDLEDLsEESADES,protein degradation; ubiquitination,,21262846,IPK,,,,
+IP6K2,Ip6k2,S359-p,478423,LEDLSEEsADESAGA,,"apoptosis, induced; cell growth, altered",17379600,IPK,induces NFkB-DNA binding,TRAF2,Traf2,INDUCES

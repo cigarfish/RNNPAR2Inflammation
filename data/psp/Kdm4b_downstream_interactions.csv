@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM4B,Kdm4b,T1065-p,479896,AKRPRVGtPLATEDS,protein stabilization; ubiquitination,,28945223,,,,,
+KDM4B,Kdm4b,K337-ub,31914119,YELWKQGkDLTVLDH,protein degradation,,23589305,,,,,
+KDM4B,Kdm4b,K562-ub,31914120,AQKGPTWkEPVSPME,protein degradation,,23589305,,,,,
+KDM4B,Kdm4b,S566-p,452590,PTWKEPVsPMELTGP,protein stabilization; ubiquitination,,28945223,,,,,
+KDM4B,Kdm4b,S352-p,4957088,TRPTALTsPELSSWS,protein stabilization; ubiquitination,,28945223,,,,,
+KDM4B,Kdm4b,T305-p,484516,IDYGKVAtQCTCRKD,protein stabilization; ubiquitination,,28945223,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPARD,Ppard,Y108-p,1868968410,TIRMKLEyEKCERSC,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; autophagy, inhibited",32439863,zf-C4,,LC3B,Map1lc3b,INDUCES

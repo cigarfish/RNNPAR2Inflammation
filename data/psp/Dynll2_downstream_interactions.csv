@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DYNLL2,Dynll2,S88-p,18610003,VAILLFKsG______,"molecular association, regulation",,20889982,Dynein_light,,BMF,Bmf,DISRUPTS
+DYNLL2,Dynll2,S88-p,18610003,VAILLFKsG______,"molecular association, regulation",,20889982,Dynein_light,,MYO5A,Myo5a,DISRUPTS

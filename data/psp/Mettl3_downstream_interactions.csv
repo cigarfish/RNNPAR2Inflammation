@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+METTL3,Mettl3,S50-p,3204585,SPTFRSDsPVPTAPT,"protein stabilization; molecular association, regulation; methylation","carcinogenesis, induced; cell differentiation, induced",33217317,,,USP5,Usp5,DISRUPTS
+METTL3,Mettl3,S43-p,483736,RNPEAALsPTFRSDS,"protein stabilization; molecular association, regulation; methylation","carcinogenesis, induced; DNA repair, induced; cell differentiation, induced",32615088; 33217317,,,POLR2A,Polr2a,INDUCES
+METTL3,Mettl3,S43-p,483736,RNPEAALsPTFRSDS,"protein stabilization; molecular association, regulation; methylation","carcinogenesis, induced; DNA repair, induced; cell differentiation, induced",32615088; 33217317,,,USP5,Usp5,DISRUPTS
+METTL3,Mettl3,S525-p,1871246003,YGMIERLsPGTRKIE,"protein stabilization; molecular association, regulation; ubiquitination; methylation","carcinogenesis, induced; cell differentiation, induced; translation, induced",33217317; 36755057,MT-A70,inhibits stabilization,USP5,Usp5,DISRUPTS
+METTL3,Mettl3,S525-p,1871246003,YGMIERLsPGTRKIE,"protein stabilization; molecular association, regulation; ubiquitination; methylation","carcinogenesis, induced; cell differentiation, induced; translation, induced",33217317; 36755057,MT-A70,inhibits stabilization,PIN1,Pin1,INDUCES
+METTL3,Mettl3,S67-p,1876371800,GPKPSTAsAVPELAT,"molecular association, regulation","transcription, induced; translation, induced",35172162,,,EEF1G,Eef1g,INDUCES
+METTL3,Mettl3,S67-p,1876371800,GPKPSTAsAVPELAT,"molecular association, regulation","transcription, induced; translation, induced",35172162,,,Elf-2,Elf2,INDUCES
+METTL3,Mettl3,S67-p,1876371800,GPKPSTAsAVPELAT,"molecular association, regulation","transcription, induced; translation, induced",35172162,,,RPSA,Rpsa,INDUCES

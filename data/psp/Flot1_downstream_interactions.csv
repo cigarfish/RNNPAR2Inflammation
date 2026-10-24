@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLOT1,Flot1,Y160-p,462262,DIHDDQDyLHSLGKA,,"endocytosis, altered",19258392,Band_7,regulates FLOT1 internalization,,,
+FLOT1,Flot1,Y56-p,35494100,NVKSEKVyTRHGVPI,"molecular association, regulation",,24983503,Band_7,decreased ROS productioned compared to Y56F and Y149F mutants,SDHB,Sdhb,INDUCES
+FLOT1,Flot1,Y149-p,35494101,MGISVVSyTLKDIHD,"molecular association, regulation",,24983503,Band_7,decreased ROS productioned compared to Y56F and Y149F mutants,SDHB,Sdhb,INDUCES
+FLOT1,Flot1,S315-p,18750500,QAEAEAAsVRMRGEA,intracellular localization; protein conformation,"endocytosis, induced; cell motility, inhibited",21399631; 31753918,,decrease angiogenesis,,,
+FLOT1,Flot1,K195-ub,12252072,GIREAKAkQEKVSAQ,protein stabilization; intracellular localization,"carcinogenesis, induced",30631151,,"translocation of Flot-1 to the nucleus, suppresses proteasomal degradation, promotes epithelial-to-mesenchymal transition (EMT) high metastatic potential ",Snail1,Snai1,INDUCES
+FLOT1,Flot1,K51-ub,12322225,NTLTLNVkSEKVYTR,protein stabilization; intracellular localization,"carcinogenesis, induced",30631151,Band_7,"translocation of Flot-1 to the nucleus, suppresses proteasomal degradation, promotes epithelial-to-mesenchymal transition (EMT) high metastatic potential ",Snail1,Snai1,INDUCES

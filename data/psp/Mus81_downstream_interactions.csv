@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MUS81,Mus81,K10-sm,1872852104,APVRLGRkRPLPACP,,"cell cycle regulation; DNA repair, induced",28318385,,regulates genomic stability and chromosome alignment,,,
+MUS81,Mus81,S87-p,31880574,RLQRHRTsGGDHAPD,"molecular association, regulation","cell cycle regulation; DNA repair, altered",29850896; 31114910; 37254810,,,SLX4,Slx4,INDUCES
+MUS81,Mus81,K524-sm,1872852106,ETLLSTIkCGRLQRN,,"cell cycle regulation; DNA repair, induced",28318385,,regulates genomic stability and chromosome alignment,,,

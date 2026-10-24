@@ -1,0 +1,5 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Cbl,Ptpn22,PTPN22,PTPN22,CBL,Y700,Putative upstream phosphatases
+Cbl,Ptpn22,PTPN22,PTPN22,CBL,Y731,Putative upstream phosphatases
+Cbl,Ptpn6,PTPN6,SHP-1,CBL,Y700,Putative upstream phosphatases
+Cbl,Ptpn6,PTPN6,SHP-1,CBL,Y731,Putative upstream phosphatases

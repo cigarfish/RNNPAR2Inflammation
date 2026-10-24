@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEACAM1,Ceacam1,T457-p,3439801,CFLHFGKtGSSGPLQ,phosphorylation,"cell differentiation, altered",17546042,,FAK Y397 phosphorylation,,,
+CEACAM1,Ceacam1,S459-p,3439800,LHFGKTGsSGPLQ__,phosphorylation,"cell differentiation, altered",17546042,,FAK Y397 phosphorylation,,,
+CEACAM1,Ceacam1,S494-p,473039,KMNEVTYsTLNFEAQ,,"apoptosis, altered; cytoskeletal reorganization",17192268,,plays a role in cell polarization and lumen formation,,,
+CEACAM1,Ceacam1,T457-p,3439801,CFLHFGKtGRASDQR,"molecular association, regulation; activity, inhibited","apoptosis, altered",19146852; 30639287,,calcium-calmodulin binding ; blocks formation of lumen,Calmodulin,Calm1,DISRUPTS
+CEACAM1,Ceacam1,T492-p,473038,PNKMNEVtYSTLNFE,,"apoptosis, altered; cytoskeletal reorganization",17192268,,plays a role in cell polarization and lumen formation,,,
+CEACAM1,Ceacam1,S512-p,29576348,QPTSASPsLTATEII,"molecular association, regulation; methylation; phosphorylation",,34656562,,primes phosphorylation at S508,CTNNB1,Ctnnb1,INDUCES
+CEACAM1,Ceacam1,S508-p,448536,QQPTQPTsASPSLTA,"activity, induced; molecular association, regulation; intracellular localization; enzymatic activity, induced; phosphorylation","apoptosis, induced; transcription, altered; cell growth, altered",11278391; 11313949; 23499736; 34656562; 34666041,,"regulates CD36 nuclear translocation, inhibits AMPK phosphorylation and activation;  influences phosphorylation of residues Y493 and Y520",CD36,Cd36,DISRUPTS
+CEACAM1,Ceacam1,Y493-p,447777,NKMNEVTySTLNFEA,"molecular association, regulation",,11485912,,,ITGB3,Itgb3,INDUCES
+CEACAM1,Ceacam1,S461-p,6311908,FGKTGRAsDQRDLTE,"activity, inhibited","apoptosis, altered",19146852,,blocks formation of lumen,,,

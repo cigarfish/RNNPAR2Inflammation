@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SHMT1,Shmt1,K39-sm,12004407,EVYNIIKkESNRQRV,intracellular localization,,17446168,SHMT,,,,
+SHMT1,Shmt1,K38-sm,12004406,VEVYNIIkKESNRQR,intracellular localization,,17446168,SHMT,,,,

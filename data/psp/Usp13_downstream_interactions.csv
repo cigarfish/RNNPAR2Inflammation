@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP13,Usp13,S114-p,3849419,ALPKRRNsKIFLDLD,protein stabilization,,32772043,,induces AurB stabilization,,,
+USP13,Usp13,Y708-p,1868989003,EPLTMPGyGGAASAG,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, induced; signaling pathway regulation",32453420,UCH,"inhibits ubiquitination and stabilizes c-Myc, regulates CLK3/USP13/c-Myc signaling",Myc,Myc,INDUCES

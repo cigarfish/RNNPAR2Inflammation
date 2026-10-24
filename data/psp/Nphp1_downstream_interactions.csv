@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NPHP1,Nphp1,Y721-p,18449509,FDLSEQTyDFLGEMR,"molecular association, regulation; intracellular localization",,21357692,,,PACS-1,Pacs1,INDUCES
+NPHP1,Nphp1,S121-p,26395106,PTEEEEEsESEDSED,"molecular association, regulation; intracellular localization",,16308564,,,PACS-1,Pacs1,INDUCES
+NPHP1,Nphp1,Y349-p,18449510,GNQFRANyFLQPELM,"molecular association, regulation; intracellular localization",,21357692,,,PACS-1,Pacs1,INDUCES
+NPHP1,Nphp1,Y46-p,18449508,PNKRQHIyQRCIQLK,"molecular association, regulation; intracellular localization",,21357692,,,PACS-1,Pacs1,INDUCES
+NPHP1,Nphp1,S126-p,26395105,EESESEDsEDSGGEE,"molecular association, regulation; intracellular localization",,16308564,,,PACS-1,Pacs1,INDUCES
+NPHP1,Nphp1,S123-p,26395107,EEEEESEsEDSEDSG,"molecular association, regulation; intracellular localization",,16308564,,,PACS-1,Pacs1,INDUCES

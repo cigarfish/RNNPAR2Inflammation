@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC16A1,Slc16a1,K473-m3,1885708108,TSIDVAGkPNEVTKA,"molecular association, regulation","carcinogenesis, induced; autophagy, inhibited",37541664,,"SETDB1-mediated tumor glycolysis and M2-like polarization of TAMs, correlated with tumor progression and overall survival in CRC.",TOLLIP,Tollip,DISRUPTS

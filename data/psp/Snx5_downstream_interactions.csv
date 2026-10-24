@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNX5,Snx5,S226-p,1296362401,YYNRIKDsCVKADKM,"molecular association, regulation; intracellular localization; activity, inhibited","endocytosis, induced",30419003,Vps5,Phosphorylation of SNX5 inhibits both macropinocytosis and CI-M6PR retrograde transport.,SNX1,Snx1,DISRUPTS
+SNX5,Snx5,S226-p,1296362401,YYNRIKDsCVKADKM,"molecular association, regulation; intracellular localization; activity, inhibited","endocytosis, induced",30419003,Vps5,Phosphorylation of SNX5 inhibits both macropinocytosis and CI-M6PR retrograde transport.,SNX2,Snx2,DISRUPTS

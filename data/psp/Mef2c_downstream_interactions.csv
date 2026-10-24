@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MEF2C,Mef2c,K239-ac,12674407,LNKNMQAkSPPPMNL,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,,,MRF,Myog,INDUCES
+MEF2C,Mef2c,K391-sm,7533202,STQSLNIkSEPVSPP,,"transcription, inhibited",16478538,,,,,
+MEF2C,Mef2c,S396-p,456980,NIKSEPVsPPRDRTT,sumoylation; protein processing,"transcription, induced",15340086; 16478538,,,,,
+MEF2C,Mef2c,K252-ac,12674410,NLGMNNRkPDLRVLI,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,,,MRF,Myog,INDUCES
+MEF2C,Mef2c,T80-p,19083402,NEPHESRtNSDIVET,"molecular association, regulation","cell differentiation, induced",21556048,,"skeletal, but not cardiac, myogenesis, induces recruitment of p300 to muscle-specific promoters for histone acetylation",p300,Ep300,INDUCES
+MEF2C,Mef2c,T293-p,448000,QSAQSLAtPVVSVAT,"activity, induced","transcription, altered",9069290,,,,,
+MEF2C,Mef2c,K119-ac,12674412,ESEDKYRkINEDIDL,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,HJURP_C,,MRF,Myog,INDUCES
+MEF2C,Mef2c,T300-p,448001,TPVVSVAtPTLPGQG,"activity, induced","transcription, altered",9069290,,,,,
+MEF2C,Mef2c,K264-ac,12674409,VLIPPGSkNTMPSVS,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,,,MRF,Myog,INDUCES
+MEF2C,Mef2c,S59-p,447999,NKLFQYAsTDMDKVL,,"transcription, induced",26660426,,IEG genes during preBCR signaling,,,
+MEF2C,Mef2c,S387-p,1729600,TRHEAGRsPVDSLSS,"activity, induced","transcription, altered",9069290; 9384584,,,,,
+MEF2C,Mef2c,S222-p,474086,GYGNPRNsPGLLVSP,,"cell cycle regulation; apoptosis, inhibited; transcription, induced",29431698,,AML chemotherapy resistance;  required for leukemia maintenance,,,
+MEF2C,Mef2c,K234-ac,12674408,VSPGNLNkNMQAKSP,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,,,MRF,Myog,INDUCES
+MEF2C,Mef2c,K116-ac,12674411,HSPESEDkYRKINED,"molecular association, regulation","cell differentiation, induced; transcription, induced",15831463,HJURP_C,,MRF,Myog,INDUCES

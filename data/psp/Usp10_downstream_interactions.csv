@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP10,Usp10,S337-p,12483200,ASGTLPVsQPKSWAS,protein stabilization; ubiquitination; intracellular localization,"carcinogenesis, inhibited; cell growth, altered",20096447,,regulates p53 homeostasis,,,
+USP10,Usp10,T674-p,10801134,VEISRRVtLEKLPPV,intracellular localization,,34983926,UCH,inhibits AID degradation,,,
+USP10,Usp10,T42-p,12483201,SGTVLCGtQAVDKLP,protein stabilization; ubiquitination; intracellular localization,"carcinogenesis, inhibited; cell growth, altered",20096447,,regulates p53 homeostasis,,,
+USP10,Usp10,S76-p,3831744,DTLPRTPsYSISSTL,"enzymatic activity, induced",,26876938,,,,,

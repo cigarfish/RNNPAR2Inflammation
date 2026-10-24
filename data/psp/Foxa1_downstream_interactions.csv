@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FOXA1,Foxa1,S221-p,1890593500,WQNSIRHsLSFNDCF,"molecular association, regulation","carcinogenesis, altered; transcription, altered; cell growth, altered",39276350,,disrupts specific DNA binding,,,
+FOXA1,Foxa1,K237-ac,11263052,KVARSPDkPGKGSYW,"molecular association, regulation","chromatin organization, altered",19897491,Forkhead,,,,
+FOXA1,Foxa1,K270-ac,11263049,QKRFKCEkQPGAGGG,"molecular association, regulation","chromatin organization, altered",19897491,,,,,
+FOXA1,Foxa1,Y429-p,60189900,QALQYSPyGSTLPAS,,"transcription, induced",27883218,HNF_C,,,,
+FOXA1,Foxa1,K270-me,1877309700,QKRFKCEkQPGAGGG,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; chromatin organization, altered; cell motility, inhibited; transcription, inhibited",32868907; 37549269,,SETD7 represses FOXA1 chromatin binding; AR chromatin recruitment is impaired;  SETD7 transcriptionally represses  oncogenic programs,,,
+FOXA1,Foxa1,K240-ac,11263050,RSPDKPGkGSYWTLH,"molecular association, regulation","chromatin organization, altered",19897491,Forkhead,,,,
+FOXA1,Foxa1,K267-ac,11263051,LRRQKRFkCEKQPGA,"molecular association, regulation","chromatin organization, altered",19897491,,,,,
+FOXA1,Foxa1,K264-ac,11263048,GCYLRRQkRFKCEKQ,"molecular association, regulation","chromatin organization, altered",19897491,,,,,
+FOXA1,Foxa1,K295-me,1881209000,KGGPESRkDPSGASN,"protein stabilization; molecular association, regulation; methylation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",33827814,,"methylation prevents it's ubiquitylation and increases protein stability, androgen-dependent prostate cancer (PACa) growth",USP7,Usp7,INDUCES
+FOXA1,Foxa1,Y464-p,60189901,PAYYQGVySRPVLNT,,"transcription, induced",27883218,,,,,

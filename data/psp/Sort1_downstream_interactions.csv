@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SORT1,Sort1,S793-p,3823097,RFLVHRYsVLQQHAE,"molecular association, regulation; intracellular localization",,31767632,,,AP1AR,Ap1ar,DISRUPTS
+SORT1,Sort1,S825-p,468808,KSGYHDDsDEDLLE_,"protein stabilization; molecular association, regulation",,20015111; 25805502,,,GGA1,Gga1,INDUCES

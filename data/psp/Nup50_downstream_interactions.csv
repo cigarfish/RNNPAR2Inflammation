@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUP50,Nup50,S315-p,4957816,TQSKPVSsPFPTKPL,"molecular association, regulation",,19767751,,,KPNB1,Kpnb1,DISRUPTS
+NUP50,Nup50,S221-p,476622,KVAAETQsPSLFGST,"molecular association, regulation",,19767751,,,KPNB1,Kpnb1,DISRUPTS

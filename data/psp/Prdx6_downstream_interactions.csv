@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRDX6,Prdx6,K122-sm,62925700,GMLDPAEkDEKGMPV,sumoylation; protein degradation,,28055018,AhpC-TSA,,,,
+PRDX6,Prdx6,K142-sm,62925701,FVFGPDKkLKLSILY,sumoylation; protein degradation,,28055018,AhpC-TSA,,,,
+PRDX6,Prdx6,T177-p,3823356,TAEKRVAtPVDWKDG,"enzymatic activity, induced",,19140803; 28055018,1-cysPrx_C,essential for optimum PLA2 activity; in vitro,,,

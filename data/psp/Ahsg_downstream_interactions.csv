@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AHSG,Ahsg,S328-p,467424,MGVVSLGsPSGEVSH,,signaling pathway regulation,35522655,,repair insulin signaling,,,
+AHSG,Ahsg,S330-p,467425,VVSLGSPsGEVSHPR,"activity, inhibited",,31084489,,"Inhibits insulin-induced GLUT4 translocation, glucose uptake/glycogen synthesis",,,
+AHSG,Ahsg,S138-p,467421,KCDSSPDsAEDVRKV,,"carcinogenesis, induced",36114575,,,,,

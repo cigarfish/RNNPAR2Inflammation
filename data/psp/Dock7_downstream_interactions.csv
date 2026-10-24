@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOCK7,Dock7,Y1257-p,2756301,METVPQLyDFTETHN,"molecular association, regulation; activity, inhibited","carcinogenesis, inhibited; cell motility, altered; cell motility, inhibited",18426980; 27018747; 35915159,,,BIN3,Bin3,INDUCES

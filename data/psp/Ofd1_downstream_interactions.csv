@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OFD1,Ofd1,S735-p,480374,GTSSRRLsSTPLPKA,"protein degradation; molecular association, regulation; ubiquitination","transcription, induced; cytoskeletal reorganization; signaling pathway regulation",33934390,,induces SHH pathway,WDR67,Wdr67,INDUCES

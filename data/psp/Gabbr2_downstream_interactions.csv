@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABBR2,Gabbr2,K772-ub,54191604,NQKKEDSkTSTSVTS,protein degradation; ubiquitination,,24114844; 26817839,,,,,
+GABBR2,Gabbr2,K768-ub,54191603,QFTQNQKkEDSKTST,protein degradation; ubiquitination,,24114844; 26817839,,,,,

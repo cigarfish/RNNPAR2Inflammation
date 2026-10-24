@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF4G1,Eif4g1,S1185-p,482920,RTPATKRsFSKEVEE,"molecular association, regulation; enzymatic activity, induced",signaling pathway regulation,21576361,,PKC-Ras-Erk pathway,Mnk1,Mknk1,INDUCES
+EIF4G1,Eif4g1,S1239-p,18910225,SPLKAALsEEELEKK,"molecular association, regulation; phosphorylation",,23263986,,induces phosphorylation at S1232; controls formation of translation initiation complex ,Mnk1,Mknk1,INDUCES
+EIF4G1,Eif4g1,S1239-p,18910225,SPLKAALsEEELEKK,"molecular association, regulation; phosphorylation",,23263986,,induces phosphorylation at S1232; controls formation of translation initiation complex ,eIF3-alpha,Eif3a,DISRUPTS
+EIF4G1,Eif4g1,S1239-p,18910225,SPLKAALsEEELEKK,"molecular association, regulation; phosphorylation",,23263986,,induces phosphorylation at S1232; controls formation of translation initiation complex ,EIF4B,Eif4b,DISRUPTS
+EIF4G1,Eif4g1,S1239-p,18910225,SPLKAALsEEELEKK,"molecular association, regulation; phosphorylation",,23263986,,induces phosphorylation at S1232; controls formation of translation initiation complex ,EIF4A1,Eif4a1,DISRUPTS
+EIF4G1,Eif4g1,S1231-p,449798,EAALPPVsPLKAALS,"molecular association, regulation","cell cycle regulation; translation, inhibited",24248602,,,Mnk1,Mknk1,INDUCES
+EIF4G1,Eif4g1,S1231-p,449798,EAALPPVsPLKAALS,"molecular association, regulation","cell cycle regulation; translation, inhibited",24248602,,,EIF4A1,Eif4a1,INDUCES
+EIF4G1,Eif4g1,S1093-p,3194291,FAPGGRLsWGKGSSG,"molecular association, regulation; protein conformation","transcription, induced; translation, induced; signaling pathway regulation",30012863; 30012864,,PKC-Raf-ERK signaling,eIF3-alpha,Eif3a,DISRUPTS
+EIF4G1,Eif4g1,S1093-p,3194291,FAPGGRLsWGKGSSG,"molecular association, regulation; protein conformation","transcription, induced; translation, induced; signaling pathway regulation",30012863; 30012864,,PKC-Raf-ERK signaling,eIF3-theta,Eif3j,INDUCES
+EIF4G1,Eif4g1,S1232-p,449798,EAALPPVsPLKAALS,"molecular association, regulation",,23263986,,controls formation of translation initiation complex ,Mnk1,Mknk1,INDUCES
+EIF4G1,Eif4g1,S1232-p,449798,EAALPPVsPLKAALS,"molecular association, regulation",,23263986,,controls formation of translation initiation complex ,eIF3-alpha,Eif3a,DISRUPTS
+EIF4G1,Eif4g1,S1232-p,449798,EAALPPVsPLKAALS,"molecular association, regulation",,23263986,,controls formation of translation initiation complex ,EIF4B,Eif4b,DISRUPTS
+EIF4G1,Eif4g1,S1232-p,449798,EAALPPVsPLKAALS,"molecular association, regulation",,23263986,,controls formation of translation initiation complex ,EIF4A1,Eif4a1,DISRUPTS

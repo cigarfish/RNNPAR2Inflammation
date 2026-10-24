@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LIMD1,Limd1,S424-p,3214995,VLLDSPSsPRVRLPC,,"cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",30600590,,mitotic phosphorylation required for mitotic progression,,,
+LIMD1,Limd1,S272-p,451974,TASSQRVsPGLPSPN,,"cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",30600590,,mitotic phosphorylation required for mitotic progression,,,
+LIMD1,Limd1,S277-p,451975,RVSPGLPsPNLENGA,,"cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",30600590,,mitotic phosphorylation required for mitotic progression,,,
+LIMD1,Limd1,S421-p,3214989,LGSVLLDsPSSPRVR,,"cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",30600590,,mitotic phosphorylation required for mitotic progression,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+INTS3,Ints3,T592-p,1884166704,QLQKGSDtEAQCEVM,"molecular association, regulation","DNA repair, induced",37705456,,,NBS1,Nbn,INDUCES
+INTS3,Ints3,S590-p,1884166706,VLQLQKGsDTEAQCE,"molecular association, regulation",,37705456,,,NBS1,Nbn,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPTBN1,Sptbn1,T2159-p,471399,NGATEQRtSSKESSP,"molecular association, regulation",,17088250,,increases in PC12 cells during neurite formation,SPTAN1,Sptan1,DISRUPTS

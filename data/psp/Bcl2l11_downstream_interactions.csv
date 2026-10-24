@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCL2L11,Bcl2l11,S93-p,8080215,SSLLSRSsSGYFSFD,"protein degradation; molecular association, regulation; ubiquitination",,23912711,,,BTRC,Btrc,INDUCES
+BCL2L11,Bcl2l11,S69-p,449330,GPLAPPAsPGPFATR,"protein degradation; molecular association, regulation","apoptosis, altered; apoptosis, inhibited; cell adhesion, altered; transcription, altered",14555991; 15486195; 17525735; 18246127; 25915848,,tyrosine kinase inhibitor resistance ,Bcl-xL,Bcl2l1,DISRUPTS
+BCL2L11,Bcl2l11,S69-p,449330,GPLAPPAsPGPFATR,"protein degradation; molecular association, regulation","apoptosis, altered; apoptosis, inhibited; cell adhesion, altered; transcription, altered",14555991; 15486195; 17525735; 18246127; 25915848,,tyrosine kinase inhibitor resistance ,MCL1,Mcl1,DISRUPTS
+BCL2L11,Bcl2l11,S87-p,458219,FIFMRRSsLLSRSSS,,"apoptosis, altered; signaling pathway regulation",16282323; 30923040,,upregulation of Hedgehog signaling in CLL cells,,,
+BCL2L11,Bcl2l11,T56-p,449071,SCDKSTQtPSPPCQA,"activity, induced; molecular association, regulation","apoptosis, induced",12591950,,,LC8,Dync1li1,DISRUPTS
+BCL2L11,Bcl2l11,K3-ub,25087001,_____MAkQPSDVSS,protein degradation,"apoptosis, inhibited",14657036,,,,,
+BCL2L11,Bcl2l11,S94-p,4698178,SLLSRSSsGYFSFDT,"protein degradation; molecular association, regulation; ubiquitination",,23912711,,,BTRC,Btrc,INDUCES
+BCL2L11,Bcl2l11,K112-ub,25087002,PAPMSCDkSTQTPSP,protein degradation,"apoptosis, inhibited",14657036,,,,,
+BCL2L11,Bcl2l11,T116-p,449071,SCDKSTQtPSPPCQA,"molecular association, regulation","autophagy, induced; apoptosis, inhibited",22742832; 34193942,,,LC8,Dync1li1,DISRUPTS
+BCL2L11,Bcl2l11,T116-p,449071,SCDKSTQtPSPPCQA,"molecular association, regulation","autophagy, induced; apoptosis, inhibited",22742832; 34193942,,,beclin 1,Becn1,DISRUPTS
+BCL2L11,Bcl2l11,T116-p,449071,SCDKSTQtPSPPCQA,"molecular association, regulation","autophagy, induced; apoptosis, inhibited",22742832; 34193942,,,MCL1,Mcl1,INDUCES
+BCL2L11,Bcl2l11,T116-p,449071,SCDKSTQtPSPPCQA,"molecular association, regulation","autophagy, induced; apoptosis, inhibited",22742832; 34193942,,,Bcl-2,Bcl2,INDUCES
+BCL2L11,Bcl2l11,S98-p,8080218,RSSSGYFsFDTDRSP,"protein degradation; molecular association, regulation; ubiquitination",,23912711,,,BTRC,Btrc,INDUCES
+BCL2L11,Bcl2l11,S59-p,454235,GDSCPHGsPQGPLAP,"molecular association, regulation","apoptosis, inhibited",25526094,,anoikis evasion,beclin 1,Becn1,INDUCES
+BCL2L11,Bcl2l11,S59-p,454235,GDSCPHGsPQGPLAP,"molecular association, regulation","apoptosis, inhibited",25526094,,anoikis evasion,LC8,Dync1li1,INDUCES

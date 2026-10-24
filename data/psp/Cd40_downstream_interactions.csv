@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD40,Cd40,T254-p,451275,TAAPVQEtLHGCQPV,"activity, induced; molecular association, regulation",,12133933; 1696597,,T254 phosphorylation results in growth inhibition of M12/CD40+ cells.,TRAF2,Traf2,INDUCES

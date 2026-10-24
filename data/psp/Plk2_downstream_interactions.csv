@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLK2,Plk2,S358-p,1883594400,VPDFHLSsPAKNFFK,"protein stabilization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced",37387444,,induces SNCA phosphorylation,,,

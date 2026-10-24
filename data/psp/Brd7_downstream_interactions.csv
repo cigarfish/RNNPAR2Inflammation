@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BRD7,Brd7,K173-ub,1877241401,PGYSMIIkHPMDFST,protein degradation,"cell motility, induced; cell growth, inhibited",33257797,Bromodomain,,USP24,Usp24,INDUCES
+BRD7,Brd7,K182-ub,964501744,PMDFSTMkEKIKNND,protein degradation,"cell motility, induced; cell growth, inhibited",33257797,Bromodomain,,USP24,Usp24,INDUCES

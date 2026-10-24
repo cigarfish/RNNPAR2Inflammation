@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APLP2,Aplp2,T736-p,451599,VEVDPMLtPEERHLN,"molecular association, regulation",,11517218; 14970211,APP_amyloid,"Phosphorylation of APP and APLP2 was enhanced by osmotic stress, binding to ABPA2, and JNK (in vitro).",APBA2,Apba2,INDUCES
+APLP2,Aplp2,T736-p,451599,VEVDPMLtPEERHLN,"molecular association, regulation",,11517218; 14970211,APP_amyloid,"Phosphorylation of APP and APLP2 was enhanced by osmotic stress, binding to ABPA2, and JNK (in vitro).",Fe65,Apbb1,INDUCES

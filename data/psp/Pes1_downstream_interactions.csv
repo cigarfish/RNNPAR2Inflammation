@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PES1,Pes1,K517-sm,55435545,RVMAGTLkLEDKQRL,"protein stabilization; molecular association, regulation; ubiquitination","cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, induced; signaling pathway regulation",27409667,,"inhibits ubiquitination, induces estrogen signaling pathway",TRIM23,Trim23,DISRUPTS

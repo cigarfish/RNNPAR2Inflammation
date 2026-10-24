@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SSTR2,Sstr2,S341-p,7652103,GTDDGERsDSKQDKS,"receptor desensitization, induced; receptor internalization, induced; receptor recycling, induced; receptor internalization, altered",,21330405; 21343287; 22538189; 24565897; 24637622; 25012983,,,,,
+SSTR2,Sstr2,Y71-p,469597,VIYVILRyAKMKTIT,"molecular association, regulation","apoptosis, induced",16917505,7tm_1,complex with PIK3R1 dissociates in the presence of somatostatin,PIK3R1,Pik3r1,INDUCES
+SSTR2,Sstr2,T354-p,7652101,KSRLNETtETQRTLL,"receptor internalization, induced; receptor desensitization, induced; receptor recycling, induced",,24565897; 24637622,,,,,
+SSTR2,Sstr2,S343-p,7652105,DDGERSDsKQDKSRL,"receptor desensitization, induced; receptor internalization, induced; receptor recycling, induced; receptor internalization, altered",,21330405; 21343287; 22538189; 24565897; 24637622; 25012983,,,,,
+SSTR2,Sstr2,T359-p,12577700,ETTETQRtLLNGDLQ,"receptor internalization, induced; receptor desensitization, induced; receptor recycling, induced",,24565897; 24637622,,,,,
+SSTR2,Sstr2,T356-p,12577701,RLNETTEtQRTLLNG,"receptor internalization, induced; receptor desensitization, induced; receptor recycling, induced",,24565897; 24637622,,,,,
+SSTR2,Sstr2,T353-p,7652102,DKSRLNEtTETQRTL,"receptor internalization, induced; receptor desensitization, induced; receptor recycling, induced",,24565897; 24637622,,,,,

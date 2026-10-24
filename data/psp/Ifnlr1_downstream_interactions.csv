@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IFNLR1,Ifnlr1,K319-ub,1883375201,ATQQTRWkKDLAEDE,protein degradation,,36379255,,,,,
+IFNLR1,Ifnlr1,K320-ub,1883375200,TQQTRWKkDLAEDEE,protein degradation,,36379255,,,,,

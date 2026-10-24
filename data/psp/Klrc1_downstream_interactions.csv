@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KLRC1,Klrc1,Y8-p,455555,MDNQGVIySDLNLPP,"molecular association, regulation; intracellular localization",,12165520,,,SHP-1,Ptpn6,INDUCES
+KLRC1,Klrc1,Y40-p,455556,ATEQEITyAELNLQK,"activity, induced; molecular association, regulation; intracellular localization",,12165520,,,SHP-1,Ptpn6,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RNF146,Rnf146,K20-sm,1883827100,NMLPTNRkANESCSN,protein degradation,"cell growth, induced",37029301,,"degradation of Axin and upregulation of ?-catenin, progression of HCC cells, abolishing RNF146 SUMOylation inhibits HCC cell tumorigenesis",,,
+RNF146,Rnf146,K176-sm,1883827102,DIIDIPKkGVAGLRL,protein degradation,"cell growth, induced",37029301,,"degradation of Axin and upregulation of ?-catenin, progression of HCC cells, abolishing RNF146 SUMOylation inhibits HCC cell tumorigenesis",,,

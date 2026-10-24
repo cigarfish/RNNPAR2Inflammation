@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+C3AR1,C3ar1,S470-p,27145807,TRSTHCPsNNVISER,"receptor desensitization, induced; molecular association, regulation","transcription, inhibited",23077507,,,ARRB2,Arrb2,INDUCES
+C3AR1,C3ar1,T463-p,17552878,AAFSEELtRSTHCPS,"receptor desensitization, induced; molecular association, regulation","transcription, inhibited",23077507,,,ARRB2,Arrb2,INDUCES
+C3AR1,C3ar1,S459-p,17548377,GILEAAFsEELTRST,"receptor desensitization, induced; molecular association, regulation","transcription, inhibited",23077507,,,ARRB2,Arrb2,INDUCES
+C3AR1,C3ar1,S465-p,27145808,FSEELTRsTHCPSNN,"receptor desensitization, induced; molecular association, regulation","transcription, inhibited",23077507,,,ARRB2,Arrb2,INDUCES
+C3AR1,C3ar1,T466-p,27145809,SEELTRStHCPSNNV,"receptor desensitization, induced; molecular association, regulation","transcription, inhibited",23077507,,,ARRB2,Arrb2,INDUCES

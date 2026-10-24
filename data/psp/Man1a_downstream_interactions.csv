@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAN1A1,Man1a,S12-p,15411997,GLLPLFSsPAGGVLG,"O-GlcNAc glycosylation; molecular association, regulation; enzymatic activity, inhibited",,36417860,,inhibits glycosylation,MGAT1,Mgat1,DISRUPTS

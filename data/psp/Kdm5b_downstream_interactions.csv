@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM5B,Kdm5b,K242-ub,38557706,RAEAMNIkIEPEETT,"intracellular localization; enzymatic activity, induced","carcinogenesis, inhibited",25596733,,"decreases H3K4Me3 methylation, induces senescence",,,
+KDM5B,Kdm5b,K242-sm,31089530,RAEAMNIkIEPEETT,"molecular association, regulation; enzymatic activity, induced","transcription, induced",23970103,,regulates JARID1B demethylase activity,,,
+KDM5B,Kdm5b,S1456-p,15404114,FKLERERsYELVRSA,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; transcription, induced",31776402,,induces mammosphere formation in cancer cells,,,
+KDM5B,Kdm5b,K278-sm,31089529,KEMKSSIkQEPIERK,"molecular association, regulation; enzymatic activity, induced","transcription, induced",23970103,,regulates JARID1B demethylase activity,,,

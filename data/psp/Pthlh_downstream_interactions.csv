@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTHLH,Pthlh,T121-p,449879,YKEQPLKtPGKKKKG,"molecular association, regulation; intracellular localization",,10373465; 12504010,Parathyroid,"decreases nuclear accumulation; T121E mutation was localized in the cytoplasm, while a T121A mutation showed nuclear localization.",KPNB1,Kpnb1,DISRUPTS

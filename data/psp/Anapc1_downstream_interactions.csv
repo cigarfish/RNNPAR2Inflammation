@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ANAPC1,Anapc1,S373-p,455826,VQRFNISsHNQSPKR,"activity, induced",,27120157,,,,,
+ANAPC1,Anapc1,S372-p,483446,GVQRFNIsSHNQSPK,"activity, induced",,27120157,,,,,
+ANAPC1,Anapc1,S355-p,455825,AALSRAHsPALGVHS,"activity, induced; activity, inhibited",cell cycle regulation,14657031; 29084198,,,,,
+ANAPC1,Anapc1,S364-p,3212076,ALGVHSFsGVQRFNI,"activity, induced",,27120157,,,,,
+ANAPC1,Anapc1,S377-p,455827,NISSHNQsPKRHSIS,"activity, induced",,27120157,,,,,

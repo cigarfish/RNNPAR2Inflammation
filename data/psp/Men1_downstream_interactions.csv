@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MEN1,Men1,S399-p,477697,EERPGEQsQGTQSQG,phosphorylation,,21264250,Menin,important for dephosphorylation of S487,,,
+MEN1,Men1,S548-p,470121,QVPAPTAsPPPEGPV,"molecular association, regulation",,21264250,Menin,,POLR2A,Polr2a,DISRUPTS

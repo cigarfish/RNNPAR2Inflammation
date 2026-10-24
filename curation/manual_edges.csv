@@ -1,0 +1,2 @@
+source,target,sign,mechanism,site,reference,context_dependent,notes
+Src,Cgas,-1,phosphorylation,Y248 (human),JCI Insight article 167270 (insight.jci.org/articles/view/167270) - VERIFY,1,SRC phosphorylates cGAS Y248 and inhibits its enzymatic activity and DNA binding; PSP lists Src->Cgas Y248 without site function

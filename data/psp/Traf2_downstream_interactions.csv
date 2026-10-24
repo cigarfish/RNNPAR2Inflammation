@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRAF2,Traf2,S11-p,5397201,ASVTPPGsLELLQPG,"activity, induced; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",18981220; 23007157; 24362534,,,RIPK1,Ripk1,INDUCES
+TRAF2,Traf2,S11-p,5397201,ASVTPPGsLELLQPG,"activity, induced; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",18981220; 23007157; 24362534,,,IKKB,Ikbkb,INDUCES
+TRAF2,Traf2,S11-p,5397201,ASVTPPGsLELLQPG,"activity, induced; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",18981220; 23007157; 24362534,,,cIAP1,Birc2,DISRUPTS
+TRAF2,Traf2,S11-p,5397201,ASVTPPGsLELLQPG,"activity, induced; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",18981220; 23007157; 24362534,,,IKKG,Ikbkg,INDUCES
+TRAF2,Traf2,S55-p,7378202,QCGHRYCsFCLASIL,,"apoptosis, inhibited; transcription, altered",19336568; 28726782,zf-C3HC4,promotes NF-?B activation but suppresses c-Jun activation under H/R conditions; protects cells from stress-induced apoptosis,,,
+TRAF2,Traf2,T117-p,471341,DGCTWKGtLKEYESC,"activity, induced",,17188031,,,,,

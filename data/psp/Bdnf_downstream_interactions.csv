@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BDNF,Bdnf,T62-p,30259809,GLTSLADtFEHVIEE,,"cell differentiation, induced; transcription, induced",23712400,,increases OPN and BMP2  mRNA expression ,,,

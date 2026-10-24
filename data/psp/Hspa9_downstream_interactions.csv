@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPA9,Hspa9,S65-p,483968,IDLGTTNsCVAVMEG,protein stabilization,,17573779,HSP70," ; phosphorylation of this site stabilizes HSPA9B, activates TTK and promotes centrosome re-duplication",,,
+HSPA9,Hspa9,S148-p,36622628,PFKIVRAsNGDAWVE,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited",39537840,HSP70,stabilizes Nrf1,KEAP1,Keap1,INDUCES
+HSPA9,Hspa9,T62-p,483967,VVGIDLGtTNSCVAV,protein stabilization,,17573779,HSP70," ; phosphorylation of this site stabilizes HSPA9B, activates TTK and promotes centrosome re-duplication",,,

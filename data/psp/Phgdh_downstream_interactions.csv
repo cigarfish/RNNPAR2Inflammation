@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHGDH,Phgdh,K310-ub,1883421300,FVDMVKGkSLTGVVN,protein degradation,,35788583,,,,,
+PHGDH,Phgdh,K330-ub,15394648,SAFSPHTkPWIGLAE,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",32478681; 35788583,PGDH_inter,,,,
+PHGDH,Phgdh,R236-m1,57743733,VRVVNCArGGIVDEG,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",36823188,2-Hacid_dh; 2-Hacid_dh_C,"increases substrate affinity, hypermethylated at R236 in human HCC",,,
+PHGDH,Phgdh,K58-ac,36311760,LIVRSATkVTADVIN,protein degradation,"carcinogenesis, inhibited",32783943,2-Hacid_dh,,,,
+PHGDH,Phgdh,T57-p,4730705,GLIVRSAtKVTADVI,,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",23374352,2-Hacid_dh,,,,
+PHGDH,Phgdh,K146-ub,12338481,MGTELNGkTLGILGL,"enzymatic activity, induced","cell motility, induced; cell adhesion, induced; transcription, induced",34720086,2-Hacid_dh; 2-Hacid_dh_C," SETD1A-mediated increase H3K9m3, increasing cell adhesion gene transcription and promoting CRC metastasis;  expressions of cell adhesion genes LAMC2 and CYR61",,,
+PHGDH,Phgdh,T78-p,4730715,QVVGRAGtGVDNVDL,,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",23374352,2-Hacid_dh,,,,

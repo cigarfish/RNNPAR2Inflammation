@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+COPS6,Cops6,S60-p,27166600,DHWIRMRsQEGRPVQ,protein stabilization; ubiquitination,"cell growth, induced",23095642; 23421998; 26318036,JAB,"phosphorylation of tis site stabilize COP56 , which in turn helps to stabilize E6AP protein/downregulates p53/promotes tumorigenesis; involved in p57 degradation; Akt phosphorylation of S60 reduced ubiquitination of COPS6. S60D mutant induces p53 degradation and enhances transformation.  ",,,
+COPS6,Cops6,S148-p,48903200,QVCEIIEsPLFLKLN,protein stabilization,"carcinogenesis, induced; cell motility, induced; cell growth, induced",26267535,JAB,,,,

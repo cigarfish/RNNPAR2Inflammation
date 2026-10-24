@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS10,Rps10,K138-ub,486965,AVPPGADkKAEAGAG,,"translation, altered",32324387,,"translational read-through of poly(A) mRNA sequence (KAAA) 20, ZNF598 plays a role in this process",,,
+RPS10,Rps10,R160-me,13906403,RGGFGRGrGQPPQ__,"protein stabilization; molecular association, regulation; intracellular localization",,20159986,, localization in the granular component (GC) region of the nucleolus; efficient assembly of RPS10 into ribosomes and protein synthesis,NPM1,Npm1,INDUCES
+RPS10,Rps10,R158-me,13906404,QFRGGFGrGRGQPPQ,"protein stabilization; molecular association, regulation; intracellular localization",,20159986,, localization in the granular component (GC) region of the nucleolus; efficient assembly of RPS10 into ribosomes and protein synthesis,NPM1,Npm1,INDUCES
+RPS10,Rps10,K139-ub,486966,VPPGADKkAEAGAGS,,"translation, altered",32324387,,"translational read-through of poly(A) mRNA sequence (KAAA) 20, ZNF598 plays a role in this process",,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HIF1AN,Hif1an,K75-sm,1880606100,NLVYPALkWDLEYLQ,"activity, induced; intracellular localization","transcription, induced",29371964,,induces HIF1A activity,,,

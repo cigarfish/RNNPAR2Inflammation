@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,G3BP-2,G3bp2,INDUCES
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,ELF4,Elf4,INDUCES
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,FMR1,Fmr1,INDUCES
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,AGO2,Ago2,INDUCES
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,IGF2BP2,Igf2bp2,INDUCES
+GEMIN5,Gemin5,T897-p,83111227,RFHLGLFtDRATLYR,"molecular association, regulation; protein conformation","translation, induced",36420152,,,IGF2BP3,Igf2bp3,INDUCES

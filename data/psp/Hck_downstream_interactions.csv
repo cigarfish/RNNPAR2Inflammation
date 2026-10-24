@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HCK,Hck,Y411-p,448168,RVIEDNEyTAREGAK,,"carcinogenesis, induced",34132782,PK_Tyr_Ser-Thr,,,,
+HCK,Hck,Y501-p,448322,YTATESQyQQQP___,"molecular association, regulation",,38483858,,,SKAP55,Skap1,INDUCES
+HCK,Hck,Y501-p,448322,YTATESQyQQQP___,"molecular association, regulation",,38483858,,,SKAP2,Skap2,INDUCES
+HCK,Hck,Y522-p,448322,YTATESQyQQQP___,"activity, inhibited","cell growth, altered",2503711,,,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAT4,Stat4,Y693-p,447790,TERGDKGyVPSVFIP,"molecular association, regulation; intracellular localization","cell differentiation, inhibited; transcription, induced",30770344; 32213463,,,STAT4,Stat4,INDUCES
+STAT4,Stat4,Y693-p,447790,TERGDKGyVPSVFIP,"molecular association, regulation; intracellular localization","cell differentiation, inhibited; transcription, induced",30770344; 32213463,,,LIFR,Lifr,INDUCES
+STAT4,Stat4,Y693-p,447790,TERGDKGyVPSVFIP,"molecular association, regulation; intracellular localization","cell differentiation, inhibited; transcription, induced",30770344; 32213463,,,STAT3,Stat3,INDUCES
+STAT4,Stat4,S713-p,50800612,SDSTEPHsPSDLLPM,"molecular association, regulation; enzymatic activity, inhibited","transcription, inhibited",30770344,,inhibits STAT3 activity,LIFR,Lifr,DISRUPTS
+STAT4,Stat4,K667-ac,1878023503,YLYPDIPkDKAFGKH,intracellular localization; phosphorylation,"cell differentiation, induced",35614130,,"nuclear translocation,  required for JAK2-STAT4 complex formation",JAK2,Jak2,INDUCES

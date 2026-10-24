@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EEF2,Eef2,K594-m1,58123400,SNVLCLSkSPNKHNR,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES
+EEF2,Eef2,K322-sm,32005105,LIEKLDIkLDSEDKD,phosphorylation,,24648518,GTP_EFTU,induces tyrosine phosphorylation of itself,,,
+EEF2,Eef2,S595-p,27620701,NVLCLSKsPNKHNRL,"ADP-ribosylation; activity, induced; protein conformation; phosphorylation",cell cycle regulation,23184662; 30218597,,EEF2-T56 phosphorylation; phosphorylation of this site interferes with toxin-mediated ADP-ribosylation of EEF2 at H175 ,,,
+EEF2,Eef2,T57-p,448040,RAGETRFtDTRKDEQ,"activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, inhibited; translation, altered; cell growth, inhibited; translation, induced; translation, inhibited",19036825; 21112387; 23184662; 30218597; 30786936; 35513296; 35841486; 37584653,GTP_EFTU,,,,
+EEF2,Eef2,Y265-p,457573,KKLWGDRyFDPANGK,sumoylation,,24648518,GTP_EFTU,induces sumoylation at K322 and K529,,,
+EEF2,Eef2,Y373-p,459352,KYRCELLyEGPPDDE,sumoylation,,24648518,,induces sumoylation at K322 and K529,,,
+EEF2,Eef2,K529-sm,32005104,EGLKRLAkSDPMVQC,phosphorylation,,24648518,EFG_III,induces tyrosine phosphorylation of itself,,,

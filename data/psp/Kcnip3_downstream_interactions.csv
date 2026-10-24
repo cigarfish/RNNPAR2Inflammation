@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNIP3,Kcnip3,K90-sm,25336513,QAQTKFTkKELQSLY,intracellular localization,"transcription, inhibited",21070824,,,,,
+KCNIP3,Kcnip3,K26-sm,25336512,LGHTPLSkKEGIKWQ,intracellular localization,"transcription, inhibited",21070824,,,,,
+KCNIP3,Kcnip3,S63-p,450214,APQGSDSsDSELELS,protein processing,,12837631,,Phosphorylation of calsenilin at Ser-63 inhibits cleavage of the molecule by caspase-3.,,,
+KCNIP3,Kcnip3,S95-p,471337,FTKKELQsLYRGFKN,intracellular localization,,17102134,,inhibits trafficking of Kv4.2 potassium channels to the plasma membrane,,,

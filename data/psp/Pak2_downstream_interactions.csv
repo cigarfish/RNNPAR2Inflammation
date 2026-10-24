@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAK2,Pak2,T402-p,448300,PEQSKRStMVGTPYW,"activity, induced; protein conformation; enzymatic activity, induced",cell cycle regulation,20209159; 21098037; 25466889; 26078008,Pkinase,,,,
+PAK2,Pak2,Y130-p,448301,VLDVLKFyDSNTVKQ,"enzymatic activity, induced",,12215529; 29987050,PBD, Y130F mutant failed to rescue PAK2 function-role in SFK-mediated phosphorylation,,,
+PAK2,Pak2,Y139-p,3571405,SNTVKQKyLSFTPPE,"enzymatic activity, induced",,12215529,,,,,
+PAK2,Pak2,T169-p,471473,TEAPAVVtEEEDDDE,phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; signaling pathway regulation",32483448,,"induces phosphorylation of mEK and ERK, induces MAPK signaling pathway",,,
+PAK2,Pak2,Y194-p,15413016,PDHTKSIyTRSVIDP,"enzymatic activity, induced",,12215529,,,,,
+PAK2,Pak2,S141-p,448295,TVKQKYLsFTPPEKD,"enzymatic activity, induced","carcinogenesis, induced; cell adhesion, induced; apoptosis, inhibited; transcription, induced; signaling pathway regulation",21177766; 35986102; 36319849,,induces the MAPK pathway,,,
+PAK2,Pak2,S20-p,448298,APPVRMSsTIFSTGG,,"carcinogenesis, induced; cell growth, induced",26218748; 31969394,,,,,
+PAK2,Pak2,S64-p,4760282,FSGTEKGsKKKEKER,,"carcinogenesis, inhibited; signaling pathway regulation",30131370,,,,,
+PAK2,Pak2,T134-p,15413019,LKFYDSNtVKQKYLS,phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; signaling pathway regulation",32483448,,"induces phosphorylation of mEK and ERK, induces MAPK signaling pathway",,,

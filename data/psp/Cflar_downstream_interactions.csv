@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CFLAR,Cflar,S273-p,7590800,LLRDTFTsLGYEVQK,protein degradation,,19339247,Peptidase_C14,,,,
+CFLAR,Cflar,S193-p,7590803,LQAAIQKsLKDPSNN,ubiquitination,,19343040,,,,,
+CFLAR,Cflar,K167-ub,27811902,HRIDLKTkIQKYKQS,protein degradation; ubiquitination,"apoptosis, induced",23519470; 28218919,DED," concomitant sensitization of cancer cells to TRAIL-induced apoptosis; required for ROS-dependent degradation of CFLAR;   mutation of T166,  K167 or both ablates ROS-dependent CFLAR  ubiquitination and degradation",,,
+CFLAR,Cflar,K351-ub,1880644700,SCPYLAGkPKMFFIQ,protein stabilization,"apoptosis, inhibited",30361438,,,,,
+CFLAR,Cflar,S193-p,7590803,LQAAIQKsLKDPSNN,protein stabilization; ubiquitination,,19343040,,,,,
+CFLAR,Cflar,K195-ub,40245511,AAIQKSLkDPSNNFR,protein degradation,"apoptosis, induced",23559011; 24013390,,,,,
+CFLAR,Cflar,T166-p,27811901,IHRIDLKtKIQKYKQ,protein degradation; ubiquitination,"apoptosis, induced",23519470,DED," concomitant sensitization of cancer cells to TRAIL-induced apoptosis; required for ROS-dependent degradation of CFLAR;   mutation of T166,  K167 or both ablates ROS-dependent CFLAR  ubiquitination and degradation",,,
+CFLAR,Cflar,K353-ub,1880644702,PYLAGKPkMFFIQNY,protein stabilization,"apoptosis, inhibited",30361438,,,,,

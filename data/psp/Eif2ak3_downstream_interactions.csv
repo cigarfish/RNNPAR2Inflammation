@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF2AK3,Eif2ak3,T982-p,447936,MPAYARHtGQVGTKL,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, inhibited; apoptosis, induced",14676213; 31906029; 32811828; 34615996; 35331268,Pkinase,,,,
+EIF2AK3,Eif2ak3,Y585-p,35518100,NDIKNSGyISRYLTD,"enzymatic activity, induced",signaling pathway regulation,25113558,,"STAT3 activation, PERK-JAK1-STAT3 pathway",,,
+EIF2AK3,Eif2ak3,Y619-p,1256400,NKVDDCNyAIKRIRL,"enzymatic activity, induced",signaling pathway regulation,25113558,Pkinase,"STAT3 activation, PERK-JAK1-STAT3 pathway",,,
+EIF2AK3,Eif2ak3,S715-p,4270777,HIEIIAPsPQRSRSF,phosphorylation,"transcription, induced",30045994,,induces phosphorylation of ELF2a ,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHN2,Chn2,Y21-p,482808,VSSDAEEyQPPIWKS,"activity, inhibited","cell motility, altered",17560670,,negatively controls Rac-GAP activity,,,
+CHN2,Chn2,S171-p,13790300,EKVSRRLsRSKNEPR,"molecular association, regulation; intracellular localization; activity, inhibited","cell motility, altered",20335173,,,RAC1(NOT_REPORTED,Rac1,UNKNOWN
+CHN2,Chn2,Y153-p,473503,KMTTNPIyEHIGYAT,"intracellular localization; activity, inhibited",cytoskeletal reorganization,19201754,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYSLTR1,Cysltr1,S313-p,11143517,LSTFRKHsLSSVTYV,"receptor desensitization, induced","transcription, induced",22230957,,,,,
+CYSLTR1,Cysltr1,S316-p,11146368,FRKHSLSsVTYVPRK,"receptor desensitization, induced","transcription, induced",22230957,,,,,
+CYSLTR1,Cysltr1,S315-p,11143521,TFRKHSLsSVTYVPR,"receptor desensitization, induced","transcription, induced",22230957,,,,,

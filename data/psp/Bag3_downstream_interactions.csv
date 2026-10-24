@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAG3,Bag3,S377-p,452222,PVPCPPPsPGPSAVP,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; cell motility, inhibited",34215846,,,FBXO22,Fbxo22,INDUCES
+BAG3,Bag3,S187-p,12217052,SSSSSSAsLPSSGRS,,"cell motility, induced",23108398,,involved in epithelial-mesenchymal transition (EMT);  promotes migration and invasion of FRO cells,,,
+BAG3,Bag3,T285-p,467534,GSPARSStPLHSPSP,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,27659916; 34685619,,,HSBP1,Hsbp1,DISRUPTS
+BAG3,Bag3,S289-p,469169,RSSTPLHsPSPIRVH,"molecular association, regulation; intracellular localization",,27659916,,,HSBP1,Hsbp1,DISRUPTS
+BAG3,Bag3,S291-p,467532,STPLHSPsPIRVHTV,protein degradation,neural plasticity,31955914,,,,,

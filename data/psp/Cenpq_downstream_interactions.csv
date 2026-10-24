@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CENPQ,Cenpq,S255-p,40245504,SSQMKSMsTFIEEAY,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,S138-p,18007846,MEDLTNVsSLLNMER,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,T256-p,40245502,SQMKSMStFIEEAYK,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,S249-p,3850352,LDILHNSsQMKSMST,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,T123-p,40245503,RLLQQCEtLKVPPKK,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,S50-p,18007851,KNHLKDLsSEGQTKH,intracellular localization,cell cycle regulation,25395579,,regulation of chromosome congression mechanism,,,
+CENPQ,Cenpq,S248-p,40245501,DLDILHNsSQMKSMS,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,S253-p,23092802,HNSSQMKsMSTFIEE,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,S139-p,31868909,EDLTNVSsLLNMERA,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,
+CENPQ,Cenpq,T135-p,40245505,PKKMEDLtNVSSLLN,"molecular association, regulation; intracellular localization",,25670858,CENP-Q,CENPQ phosphorylation promotes the delocalization of the PBIP1-CENPQ complex from kinetochores,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF3F,Eif3f,T119-p,7098400,GAARVIGtLLGTVDK,"molecular association, regulation","translation, altered; apoptosis, induced",19245811,JAB,,eIF3-eta,Eif3h,INDUCES
+EIF3F,Eif3f,S46-p,448818,PAAAPASsSDPAAAA,,"transcription, altered",12446680,,,,,

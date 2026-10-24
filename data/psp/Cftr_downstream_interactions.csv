@@ -1,0 +1,23 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CFTR,Cftr,S511-p,477193,ENIIFGVsYDEYRYR,"activity, induced",,17289674,ABC_tran,regulates CFTR channel gating,,,
+CFTR,Cftr,T1471-p,21440502,IAALKEEtEEEVQDT,"protein degradation; intracellular localization; activity, inhibited",,21930781,,Regulates CFTR trafficking,,,
+CFTR,Cftr,S686-p,449980,WTETKKQsFKQTGEF,"activity, induced; protein conformation",,12588899; 14695900; 32123855,CFTR_R,,,,
+CFTR,Cftr,S795-p,449982,TASTRKVsLAPQANL,"activity, induced; molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation",,14602047; 1716180; 26888287; 32102849; 36695813,CFTR_R,primes phosphorylation at S813,14-3-3 beta,Ywhab,INDUCES
+CFTR,Cftr,S795-p,449982,TASTRKVsLAPQANL,"activity, induced; molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation",,14602047; 1716180; 26888287; 32102849; 36695813,CFTR_R,primes phosphorylation at S813,CFTR,Cftr,INDUCES
+CFTR,Cftr,T682-p,2907505,APVSWTEtKKQSFKQ,"activity, induced; protein conformation; activity, inhibited",,12588899; 14695900; 32123855,CFTR_R,,,,
+CFTR,Cftr,T604-p,2907506,NKTRILVtSKMEHLK,"activity, induced",,12588899; 14695900,,,,,
+CFTR,Cftr,S790-p,2907510,IHRKTTAsTRKVSLA,"activity, induced",,12588899,CFTR_R,,,,
+CFTR,Cftr,S641-p,2907508,QNLQPDFsSKLMGCD,"activity, induced; protein conformation; activity, inhibited",,12588899; 14695900; 32123855,CFTR_R,,,,
+CFTR,Cftr,S1045-p,56689900,QQLKQLEsEGRSPIF,"activity, induced; ubiquitination; receptor internalization, altered",,27261451,ABC_membrane,"S1045Y-CFTR exhibits a 50% reduction in channel function, accelerated internalization, docking of E3 ubiquitin ligase c-cbl",,,
+CFTR,Cftr,S700-p,449978,FGEKRKNsILNPINS,"molecular association, regulation; enzymatic activity, inhibited",,14602047,CFTR_R,,CFTR,Cftr,INDUCES
+CFTR,Cftr,K447-sm,52485001,VLKDINFkIERGQLL,protein degradation; protein conformation,,26627832,ABC_tran,formation of a non-native formation of a non-native CFTR NBD1 protein conformation ,,,
+CFTR,Cftr,S422-p,3333404,NNNNRKTsNGDDSLF,"activity, induced",,21930781,,,,,
+CFTR,Cftr,S813-p,449983,DIYSRRLsQETGLEI,"activity, induced; molecular association, regulation; enzymatic activity, inhibited; protein conformation",,11053017; 14602047; 1716180; 32102849; 36695813,CFTR_R,,CFTR,Cftr,INDUCES
+CFTR,Cftr,S707-p,2907509,SILNPINsIRKFSIV,"activity, induced",,12588899,CFTR_R,,,,
+CFTR,Cftr,Y512-p,21041602,NIIFGVSyDEYRYRS,intracellular localization,"endocytosis, induced",21807898; 21930781,ABC_tran,regulates cell surface expression,,,
+CFTR,Cftr,S660-p,449979,FSAERRNsILTETLH,"activity, induced; molecular association, regulation; enzymatic activity, inhibited; protein conformation",,11053017; 14602047; 1716180; 25330774,CFTR_R,S660A mutant is constitutively active; potentiates channel function,CFTR,Cftr,INDUCES
+CFTR,Cftr,T582-p,2907507,FGYLDVLtEKEIFES,"activity, induced",,12588899; 14695900,,,,,
+CFTR,Cftr,S737-p,449981,EPLERRLsLVPDSEQ,"activity, induced; molecular association, regulation; enzymatic activity, inhibited; protein conformation; activity, inhibited","endocytosis, induced",11053017; 14602047; 1716180; 19095655; 19328185; 24727471; 26079370,CFTR_R,attenuates CFTR-dependent iodide efflux via S737 phosphorylation; inhibits Cl- secretion,CFTR,Cftr,INDUCES
+CFTR,Cftr,S712-p,455297,INSIRKFsIVQKTPL,"molecular association, regulation; enzymatic activity, inhibited",,14602047,CFTR_R,,CFTR,Cftr,INDUCES
+CFTR,Cftr,S768-p,455300,LQARRRQsVLNLMTH,"activity, induced; molecular association, regulation; intracellular localization; enzymatic activity, inhibited; activity, inhibited",,14602047; 15657296; 19095655; 19328185; 19419994; 20952391; 26888287; 28242698,CFTR_R,cell surface CFTR ,14-3-3 beta,Ywhab,INDUCES
+CFTR,Cftr,S768-p,455300,LQARRRQsVLNLMTH,"activity, induced; molecular association, regulation; intracellular localization; enzymatic activity, inhibited; activity, inhibited",,14602047; 15657296; 19095655; 19328185; 19419994; 20952391; 26888287; 28242698,CFTR_R,cell surface CFTR ,CFTR,Cftr,INDUCES

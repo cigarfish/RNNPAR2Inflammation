@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSNK1E,Csnk1e,T44-p,14694702,IKLECVKtKHPQLHI,"enzymatic activity, induced",,20507565,Pkinase,,,,
+CSNK1E,Csnk1e,T337-p,453419,PGPPTGAtANRLRSA,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,T407-p,453420,SRIPASQtSVPFDHL,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,T334-p,453418,ALPPGPPtGATANRL,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,S368-p,449793,NTSPRAIsRVDRERK,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,S408-p,453421,RIPASQTsVPFDHLG,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,T325-p,453417,GQLRGSAtRALPPGP,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,S389-p,482888,RGAPANVsSSDLTGR,protein degradation,"transcription, altered",17525164,,phaosphorylation induces degredation of mPer2 and expression of circadian clock genes.,,,
+CSNK1E,Csnk1e,S323-p,453416,RMGQLRGsATRALPP,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,
+CSNK1E,Csnk1e,S405-p,449794,EVSRIPAsQTSVPFD,"enzymatic activity, inhibited",,10542239; 12223474,,some subset of these 8 sites,,,

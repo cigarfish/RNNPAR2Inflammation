@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRF7,Irf7,S471-p,1276102,GTQREGVsSLDSSSL,,"transcription, inhibited",10893229,,,,,
+IRF7,Irf7,K92-ac,458962,TAERAGWkTNFRCAL,"molecular association, regulation",,12374802,IRF,,,,
+IRF7,Irf7,S479-p,2868600,SLDSSSLsLCLSSAN,"activity, induced; molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10893229; 25225665,,,H4,Hist1h4a,DISRUPTS
+IRF7,Irf7,K444-ub,4666607,DLSAGRPkEKSLVLV,,"transcription, induced",18710948,IRF-3,,,,
+IRF7,Irf7,S487-p,1276100,LCLSSANsLYDDIEC,,"transcription, inhibited",10893229,,,,,
+IRF7,Irf7,S472-p,1276103,TQREGVSsLDSSSLS,,"transcription, inhibited",10893229,,,,,
+IRF7,Irf7,K452-ub,4666609,EKSLVLVkLEPWLCR,,"transcription, induced",18710948,IRF-3,,,,
+IRF7,Irf7,S483-p,486437,SSLSLCLsSANSLYD,,"transcription, inhibited",10893229,,,,,
+IRF7,Irf7,K446-ub,4666608,SAGRPKEkSLVLVKL,,"transcription, induced",18710948,IRF-3,,,,
+IRF7,Irf7,S477-p,1276101,VSSLDSSsLSLCLSS,"activity, induced; molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10893229; 25225665,,,H4,Hist1h4a,DISRUPTS
+IRF7,Irf7,K375-ub,573779820,ARRMGKCkVYWEVGG,,"transcription, induced",35792897,IRF-3,increased levels of H3K27ac on IRF7 binding regions,,,

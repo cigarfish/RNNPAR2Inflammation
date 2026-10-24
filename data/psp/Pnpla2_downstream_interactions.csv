@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PNPLA2,Pnpla2,S404-p,473045,VELRRVQsLPSVPLS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",38038968,,,FAM82A2,Fam82a2,INDUCES
+PNPLA2,Pnpla2,S404-p,473045,VELRRVQsLPSVPLS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",38038968,,,RAB25,Rab25,DISRUPTS
+PNPLA2,Pnpla2,S404-p,473045,VELRRVQsLPSVPLS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",38038968,,,IRAK1,Irak1,INDUCES
+PNPLA2,Pnpla2,S404-p,473045,VELRRVQsLPSVPLS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",38038968,,,NPDC1,Npdc1,DISRUPTS
+PNPLA2,Pnpla2,K100-ub,21181820,IIRSFLLkVLPADSH,protein degradation,,27658392,Patatin,regulation of hepatic lipid metabolism ,,,

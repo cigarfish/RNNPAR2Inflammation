@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMAD1,Smad1,S239-p,25546600,DPMTQDGsQPMDTNM,"activity, induced; molecular association, regulation","DNA repair, induced; carcinogenesis, inhibited; apoptosis, induced; transcription, induced",22588298,,,p53,Trp53,INDUCES
+SMAD1,Smad1,S239-p,25546600,DPMTQDGsQPMDTNM,"activity, induced; molecular association, regulation","DNA repair, induced; carcinogenesis, inhibited; apoptosis, induced; transcription, induced",22588298,,,PPPM1A,Ppm1a,INDUCES
+SMAD1,Smad1,K118-ub,1051005,FPFGSKQkEVCINPY,protein degradation,,17963781,MH1,,,,
+SMAD1,Smad1,S187-p,451173,NSHPFPHsPNSSYPN,intracellular localization,,9335504,,Erk-mediated phosphorylation inhibits the nuclear accumulation of Smad1.,,,
+SMAD1,Smad1,S206-p,451175,SSSTYPHsPTSSDPG,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","transcription, altered",17289590; 19914168; 9335504,,,YAP1,Yap1,INDUCES
+SMAD1,Smad1,S465-p,448363,HNPISSVs_______,"activity, induced; molecular association, regulation; intracellular localization","transcription, altered",9136927; 9335504,,,SMAD4,Smad4,INDUCES
+SMAD1,Smad1,S463-p,448362,SPHNPISsVS_____,"activity, induced; molecular association, regulation; intracellular localization","cell growth, inhibited; transcription, induced; transcription, altered",35573984; 9136927; 9335504,,,SMAD4,Smad4,INDUCES
+SMAD1,Smad1,T322-p,25802105,SNVNRNStIENTRRH,"activity, inhibited; phosphorylation",,21690388,MH2,phosphorylation of the site inhibits phosphorylation of the C-terminal domain of SMAD1.,,,
+SMAD1,Smad1,S214-p,451176,PTSSDPGsPFQMPAD,"molecular association, regulation; intracellular localization",,19914168; 9335504,,Erk-mediated phosphorylation inhibits the nuclear accumulation of Smad1.,YAP1,Yap1,INDUCES
+SMAD1,Smad1,K269-ub,1051004,AVAYEEPkHWCSIVY,protein degradation,,17963781,MH2,,,,
+SMAD1,Smad1,S195-p,451174,PNSSYPNsPGSSSST,intracellular localization,,9335504,,Erk-mediated phosphorylation inhibits the nuclear accumulation of Smad1.,,,
+SMAD1,Smad1,K116-ub,1051003,CEFPFGSkQKEVCIN,protein degradation,,17963781,MH1,,,,
+SMAD1,Smad1,S462-p,448361,GSPHNPIsSVS____,"activity, induced; molecular association, regulation; intracellular localization","transcription, altered",9136927; 9335504,,,SMAD4,Smad4,INDUCES

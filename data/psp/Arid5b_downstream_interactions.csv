@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARID5B,Arid5b,K336-m2,20936502,YKYMKERkTPIERIP,"molecular association, regulation","transcription, induced",21532585,ARID,"demethylation of Mrf-2 K336, complex is then targeted to promoters and removes repressive H3K9m2",Mrf-2,Mrfap1,INDUCES

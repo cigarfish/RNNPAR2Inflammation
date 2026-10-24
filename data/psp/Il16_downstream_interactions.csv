@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL16,Il16,T757-p,11280303,TQGHPDGtPPKLDTA,intracellular localization,cell cycle regulation,12450396,,regulate nuclear localization,,,
+IL16,Il16,S743-p,11280302,MPLQPNAsLNEEEGT,intracellular localization,cell cycle regulation,12450396,,regulate nuclear localization,,,

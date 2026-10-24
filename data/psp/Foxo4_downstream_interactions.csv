@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FOXO4,Foxo4,S268-p,231166708,SSNASSVsTRLSPLR,protein degradation; phosphorylation,,28945225,,26 S proteasome-mediated FOXO4 proteolysis in the nuclei of RAS mutant colon cancer cells,,,
+FOXO4,Foxo4,K189-ac,459043,PEGGKSGkAPRRRAA,"activity, inhibited","transcription, inhibited",12964026,Forkhead,,,,
+FOXO4,Foxo4,S230-p,471960,PEGATPTsPVGHFAK,,"carcinogenesis, altered; transcription, altered",20959475,,,,,
+FOXO4,Foxo4,S265-p,231166707,PRSSSNAsSVSTRLS,protein degradation; phosphorylation,,28945225,,26 S proteasome-mediated FOXO4 proteolysis in the nuclei of RAS mutant colon cancer cells,,,
+FOXO4,Foxo4,T455-p,448570,ALGTPVLtPPTEAAS,intracellular localization,"cell cycle regulation; transcription, induced",11689711; 15538382,,,,,
+FOXO4,Foxo4,T32-p,455572,QSRPRSCtWPLPRPE,intracellular localization,"transcription, inhibited",16272144,,,,,
+FOXO4,Foxo4,S197-p,448516,APRRRAAsMDSSSKL,intracellular localization,"apoptosis, altered; transcription, inhibited",10217147; 11313479; 16272144; 18794113,,,,,
+FOXO4,Foxo4,K407-ac,459044,GGLPSSSkLATGVGL,"activity, inhibited","transcription, inhibited",12964026,,,,,
+FOXO4,Foxo4,K186-ac,459042,MLNPEGGkSGKAPRR,"activity, inhibited","transcription, inhibited",12964026,Forkhead,,,,
+FOXO4,Foxo4,T227-p,15798100,PAPPEGAtPTSPVGH,,"carcinogenesis, altered; transcription, altered",20959475,,,,,
+FOXO4,Foxo4,S262-p,448517,TFRPRSSsNASSVST,intracellular localization,"transcription, inhibited",10217147; 11313479,,,,,
+FOXO4,Foxo4,T451-p,448518,PIPKALGtPVLTPPT,intracellular localization,"cell cycle regulation; transcription, induced",11689711; 15538382,,,,,

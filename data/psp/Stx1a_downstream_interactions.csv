@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STX1A,Stx1a,S14-p,451261,ELRTAKDsDDDDDVA,"activity, induced; molecular association, regulation; protein conformation","exocytosis, altered; exocytosis, induced",19748891; 25774383; 34948351,,,DAT,Slc6a3,INDUCES
+STX1A,Stx1a,S14-p,451261,ELRTAKDsDDDDDVA,"activity, induced; molecular association, regulation; protein conformation","exocytosis, altered; exocytosis, induced",19748891; 25774383; 34948351,,,STXBP1,Stxbp1,DISRUPTS

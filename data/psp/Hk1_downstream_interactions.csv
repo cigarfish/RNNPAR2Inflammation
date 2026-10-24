@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HK1,Hk1,Y732-p,462391,YDRLVDEySLNAGKQ,"protein conformation; enzymatic activity, induced","cell motility, induced; cell growth, induced",28054552,Hexokinase_2,promote cell migration and invasion; tumour incidence and metastasis,,,
+HK1,Hk1,S124-p,55569800,NIVHGSGsQLFDHVA,"enzymatic activity, induced",,27153534,Hexokinase_1,,,,
+HK1,Hk1,S364-p,55569801,TRLGVEPsDDDCVSV,"enzymatic activity, induced",,27153534,Hexokinase_2,,,,

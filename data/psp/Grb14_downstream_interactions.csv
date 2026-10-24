@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRB14,Grb14,S366-p,29576856,GCSSQSIsPMRSISE,"molecular association, regulation; phosphorylation",,24535599; 28130417,,,INSR,Insr,DISRUPTS
+GRB14,Grb14,S372-p,7611001,ISPMRSIsENSLVAM,"molecular association, regulation","cell cycle regulation; cell growth, altered",19359342,BPS,modulates the Grb14 inhibitory effect on insulin signaling,INSR,Insr,INDUCES
+GRB14,Grb14,S362-p,31834912,QGRSGCSsQSISPMR,"molecular association, regulation; phosphorylation",,24535599; 28130417,,,INSR,Insr,DISRUPTS
+GRB14,Grb14,S358-p,31834913,MHPYQGRsGCSSQSI,"molecular association, regulation; phosphorylation",,24535599; 28130417,,,INSR,Insr,DISRUPTS

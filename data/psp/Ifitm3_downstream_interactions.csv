@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IFITM3,Ifitm3,Y20-p,463584,NSGQPPNyEMLKEEH,"activity, induced; ubiquitination; intracellular localization","endocytosis, inhibited",23055554; 24627473; 26354436; 29263263,,"ubiquitination, decreased",,,

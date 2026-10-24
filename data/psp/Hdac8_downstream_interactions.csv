@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC8,Hdac8,S39-p,450667,AKIPKRAsMVHSLIE,"acetylation; enzymatic activity, inhibited; protein conformation",,14701748; 15242608; 31633931,Hist_deacetyl,Crystalographic data suggests how phosphorylation of S39 alters conformation and negatively regulate HDAC8 activity.; regulates deacetylation ,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GAK,Gak,Y1149-p,23108884,CTQPRPNyASNFSVI,intracellular localization; phosphorylation,"cell cycle regulation; cell growth, induced",28135906,,regulation of MCM2 and timing of MCM3 S112  phosphorylation ,,,
+GAK,Gak,Y412-p,63063501,KGDLDISyITSRIAV,,cell cycle regulation,28135906,,,,,

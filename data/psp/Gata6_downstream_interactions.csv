@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATA6,Gata6,S290-p,18009944,KPQKRVPsSRRLGLS,"protein stabilization; molecular association, regulation","cell growth, inhibited; transcription, induced",25969542,,,,,
+GATA6,Gata6,S37-p,15419868,REPSTPPsPISSSSS,protein degradation,"transcription, induced",27273097,,alleviates GATA6 repression of transcription,,,
+GATA6,Gata6,S266-p,2833503,VSARFPYsPSPPMAN,,"transcription, induced; cell growth, altered",18454176,GATA-N,,,,

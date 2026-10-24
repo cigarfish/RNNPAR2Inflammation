@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VAMP8,Vamp8,S55-p,12738929,TEDLEATsEHFKTTS,"activity, inhibited",,27402227,Synaptobrevin,"abolish function in SNARE complex during mast cell secretion, reduces in vitro ensemble vesicle fusion",,,
+VAMP8,Vamp8,T54-p,5434062,KTEDLEAtSEHFKTT,"activity, inhibited",,27402227,Synaptobrevin,"abolish function in SNARE complex during mast cell secretion, reduces in vitro ensemble vesicle fusion",,,
+VAMP8,Vamp8,T48-p,472548,LEHLRNKtEDLEATS,"activity, inhibited",,27402227,Synaptobrevin,"abolish function in SNARE complex during mast cell secretion, reduces in vitro ensemble vesicle fusion",,,

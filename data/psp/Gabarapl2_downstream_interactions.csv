@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABARAPL2,Gabarapl2,S87-p,1869546303,VDKTVPQsSLTMGQL,"molecular association, regulation","apoptosis, induced",31709703,ATG8," ; including ATG4A, ATG4C, ATG4D",ATG4B,Atg4b,DISRUPTS
+GABARAPL2,Gabarapl2,S88-p,1869546302,DKTVPQSsLTMGQLY,"molecular association, regulation","apoptosis, induced",31709703,ATG8," ; including ATG4A, ATG4C, ATG4D",ATG4B,Atg4b,DISRUPTS

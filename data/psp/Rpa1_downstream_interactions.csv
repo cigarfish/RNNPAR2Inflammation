@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPA1,Rpa1,K163-ac,461501,SKAYGASkTFGKAAG,"molecular association, regulation","DNA repair, induced",28854354; 28854355,,,XPA,Xpa,INDUCES
+RPA1,Rpa1,K449-sm,580826242,WKTLYEVkSENLGQG,,"DNA repair, induced",22661229,,,,,
+RPA1,Rpa1,K577-sm,1872852102,FIFRVRVkVETYNDE,,"DNA repair, induced",22661229,Rep_fac-A_C,,,,
+RPA1,Rpa1,S384-p,3189442,AIKGARVsDFGGRSL,"molecular association, regulation","cell cycle regulation; apoptosis, inhibited",37230964,REPA_OB_2,,SHFM1,Dss1,INDUCES

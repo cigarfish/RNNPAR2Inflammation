@@ -1,0 +1,53 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NFE2L2,Nfe2l2,S558-p,10292703,HLLKKQLsTLYLEVF,protein stabilization; intracellular localization,"cell differentiation, inhibited; transcription, induced",19668370; 37126714,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K508-ac,7106327,IRRRGKNkVAAQNCR,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,Y576-p,460703,RDEDGKPySPSEYSL,protein degradation; ubiquitination; intracellular localization,"apoptosis, induced; transcription, inhibited",21097520; 21690096; 32295843,,,,,
+NFE2L2,Nfe2l2,K596-ac,23940022,GNVFLVPkSKKPDVK,"molecular association, regulation; intracellular localization","transcription, induced",21196497,,,,,
+NFE2L2,Nfe2l2,T439-p,40642202,VSPGHRKtPFTKDKH,intracellular localization,,25909891,,nuclear translocation,,,
+NFE2L2,Nfe2l2,S351-p,18258503,SGISLNTsPSVASPE,"protein degradation; molecular association, regulation",,22751928; 32295843,,,BTRC,Btrc,DISRUPTS
+NFE2L2,Nfe2l2,K53-ub,1880457104,YELEKQKkLEKERQE,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,K518-ac,7106319,AQNCRKRkLENIVEL,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,S433-p,27461383,PEKELPVsPGHRKTP,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","transcription, induced; transcription, inhibited; signaling pathway regulation",25909891; 31805502; 37627580,,,BTRC,Btrc,INDUCES
+NFE2L2,Nfe2l2,S433-p,27461383,PEKELPVsPGHRKTP,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","transcription, induced; transcription, inhibited; signaling pathway regulation",25909891; 31805502; 37627580,,,FBW1B,Btrc,INDUCES
+NFE2L2,Nfe2l2,K536-ac,7106310,LDHLKDEkEKLLKEK,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K516-ac,7106317,VAAQNCRkRKLENIV,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K472-ac,7106321,HIPFPVEkIINLPVV,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,S408-p,10292700,GDMVQPLsPSQGQST,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","carcinogenesis, induced; transcription, induced; transcription, inhibited; signaling pathway regulation",19668370; 31805502; 34918396; 37627580,,,BTRC,Btrc,INDUCES
+NFE2L2,Nfe2l2,S408-p,10292700,GDMVQPLsPSQGQST,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","carcinogenesis, induced; transcription, induced; transcription, inhibited; signaling pathway regulation",19668370; 31805502; 34918396; 37627580,,,PIN1,Pin1,INDUCES
+NFE2L2,Nfe2l2,S408-p,10292700,GDMVQPLsPSQGQST,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","carcinogenesis, induced; transcription, induced; transcription, inhibited; signaling pathway regulation",19668370; 31805502; 34918396; 37627580,,,FBW1B,Btrc,INDUCES
+NFE2L2,Nfe2l2,K445-ac,7106316,KTPFTKDkHSSRLEA,"molecular association, regulation","transcription, induced",19273602,,,,,
+NFE2L2,Nfe2l2,T395-p,40642203,VKQNGPKtPVHSSGD,intracellular localization,,25909891,,nuclear translocation,,,
+NFE2L2,Nfe2l2,S347-p,18258501,NDSDSGIsLNTSPSV,"protein degradation; molecular association, regulation; ubiquitination","transcription, inhibited",22751928; 32295843,,,BTRC,Btrc,INDUCES
+NFE2L2,Nfe2l2,K64-ub,21179894,ERQEQLQkEQEKAFF,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,S374-p,35497700,GDTLLGLsDSEVEEL,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination","transcription, induced; transcription, inhibited; signaling pathway regulation",31805502; 37627580,,,BTRC,Btrc,INDUCES
+NFE2L2,Nfe2l2,S374-p,35497700,GDTLLGLsDSEVEEL,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination","transcription, induced; transcription, inhibited; signaling pathway regulation",31805502; 37627580,,,FBW1B,Btrc,INDUCES
+NFE2L2,Nfe2l2,K487-ac,7106323,DFNEMMSkEQFNEAQ,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K56-ub,1880457106,EKQKKLEkERQEQLQ,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,S215-p,10292704,VETTMVPsPEAKLTE,"protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced; transcription, induced",19668370; 34918396,,,PIN1,Pin1,INDUCES
+NFE2L2,Nfe2l2,S356-p,18258502,NTSPSVAsPEHSVES,"protein degradation; molecular association, regulation",,22751928; 32295843,,,BTRC,Btrc,DISRUPTS
+NFE2L2,Nfe2l2,K555-ac,7106313,KSLHLLKkQLSTLYL,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K44-ub,21179896,FDFSQRRkEYELEKQ,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,K462-ac,7106318,TRDELRAkALHIPFP,"molecular association, regulation","transcription, induced",19273602,,,,,
+NFE2L2,Nfe2l2,K438-ac,7106326,PVSPGHRkTPFTKDK,"molecular association, regulation","transcription, induced",19273602,,,,,
+NFE2L2,Nfe2l2,K538-ac,7106320,HLKDEKEkLLKEKGE,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K543-ac,7106315,KEKLLKEkGENDKSL,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K50-ub,1880457100,RKEYELEkQKKLEKE,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,S344-p,18258505,AEFNDSDsGISLNTS,"protein degradation; molecular association, regulation; ubiquitination","transcription, inhibited",22751928; 32295843,,,BTRC,Btrc,INDUCES
+NFE2L2,Nfe2l2,S40-p,450082,SREVFDFsQRRKEYE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced; carcinogenesis, inhibited; apoptosis, inhibited; cell motility, inhibited; autophagy, inhibited; transcription, induced",12700136; 23645672; 25107906; 25236495; 25340789; 25505069; 26845617; 27517753; 32259797; 33403569; 36240204; 36458309,,,HMOX1,Hmox1,DISRUPTS
+NFE2L2,Nfe2l2,S40-p,450082,SREVFDFsQRRKEYE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced; carcinogenesis, inhibited; apoptosis, inhibited; cell motility, inhibited; autophagy, inhibited; transcription, induced",12700136; 23645672; 25107906; 25236495; 25340789; 25505069; 26845617; 27517753; 32259797; 33403569; 36240204; 36458309,,,KEAP1,Keap1,DISRUPTS
+NFE2L2,Nfe2l2,S40-p,450082,SREVFDFsQRRKEYE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced; carcinogenesis, inhibited; apoptosis, inhibited; cell motility, inhibited; autophagy, inhibited; transcription, induced",12700136; 23645672; 25107906; 25236495; 25340789; 25505069; 26845617; 27517753; 32259797; 33403569; 36240204; 36458309,,,LANA,NA,INDUCES
+NFE2L2,Nfe2l2,S40-p,450082,SREVFDFsQRRKEYE,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced; carcinogenesis, inhibited; apoptosis, inhibited; cell motility, inhibited; autophagy, inhibited; transcription, induced",12700136; 23645672; 25107906; 25236495; 25340789; 25505069; 26845617; 27517753; 32259797; 33403569; 36240204; 36458309,,,SIAH2,Siah2,INDUCES
+NFE2L2,Nfe2l2,T369-p,1876350200,ESSSYGDtLLGLSDS,protein degradation; ubiquitination; intracellular localization,"apoptosis, induced; transcription, inhibited",35108418,,,,,
+NFE2L2,Nfe2l2,R437-me,56423804,LPVSPGHrKTPFTKD,"molecular association, regulation","transcription, induced",27183873,,,,,
+NFE2L2,Nfe2l2,K533-ac,7106322,EQDLDHLkDEKEKLL,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K541-ac,7106312,DEKEKLLkEKGENDK,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K110-sm,1877458700,SQVAHIPkSDALYFD,intracellular localization,"carcinogenesis, induced; cell growth, induced; cell motility, inhibited; transcription, induced; cell adhesion, inhibited",31546024; 33299528,,"increased the antioxidant ability of NRF2 and reduced cellular ROS levels; binding to the GPX2 promoter, recruitment of the coactivator CHD-6, decreases intracellular ROS level in hepatocellular carcinoma (HCC), upregulates PHGDH expression, serine accumulation, resistance to serine starvation, SUMOylation maintains HCC tumorigenesis ",,,
+NFE2L2,Nfe2l2,K52-ub,1880457102,EYELEKQkKLEKERQ,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,K443-ac,7106325,HRKTPFTkDKHSSRL,"molecular association, regulation","transcription, induced",19273602,,,,,
+NFE2L2,Nfe2l2,K68-ub,1880457108,QLQKEQEkAFFAQLQ,"protein degradation; molecular association, regulation","transcription, altered",28115426,,,VCP,Vcp,INDUCES
+NFE2L2,Nfe2l2,K548-ac,7106314,KEKGENDkSLHLLKK,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,S577-p,10292702,DEDGKPYsPSEYSLQ,"molecular association, regulation; intracellular localization","carcinogenesis, induced; transcription, induced",19668370; 34918396,,,PIN1,Pin1,INDUCES
+NFE2L2,Nfe2l2,K506-ac,7106324,RDIRRRGkNKVAAQN,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,K599-ac,23940021,FLVPKSKkPDVKKN_,"molecular association, regulation; intracellular localization","transcription, induced",21196497,,,,,
+NFE2L2,Nfe2l2,K554-ac,7106311,DKSLHLLkKQLSTLY,"molecular association, regulation","transcription, induced",19273602,bZIP_Maf,,,,
+NFE2L2,Nfe2l2,T559-p,10292701,LLKKQLStLYLEVFS,intracellular localization,"transcription, induced",19668370,bZIP_Maf,moderate effects observed only in NFE2L2-5A mutant,,,

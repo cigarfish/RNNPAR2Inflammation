@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VIPR1,Vipr1,T429-p,455876,SGGSNGAtCSTQVSM,"receptor desensitization, altered",,16554109,,,,,
+VIPR1,Vipr1,S447-p,455662,VSPGARRsSSFQAEV,"receptor desensitization, altered",,14645688,,,,,
+VIPR1,Vipr1,S250-p,455875,LLAVSFFsERKYFWG,"receptor internalization, altered",,15932876,7tm_2,,,,

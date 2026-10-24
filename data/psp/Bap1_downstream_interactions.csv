@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAP1,Bap1,S395-p,3208182,VRPPQQYsDDEDDYE,intracellular localization,"DNA repair, induced",38383726,,,,,
+BAP1,Bap1,S583-p,482082,TEGGKGSsPSIRPIQ,intracellular localization,"DNA repair, induced",24347639,,,,,
+BAP1,Bap1,S592-p,477921,SIRPIQGsQGSSSPV,intracellular localization,"DNA repair, induced",24211834; 24347639,,,,,
+BAP1,Bap1,T273-p,31012813,TQPELIQtHKSQESQ,intracellular localization,"DNA repair, induced",24347639,,,,,
+BAP1,Bap1,T493-p,37043703,PTPSNEStDTASEIG,"molecular association, regulation; intracellular localization",,25451922,,,FOXK2,Foxk2,INDUCES
+BAP1,Bap1,T493-p,37043703,PTPSNEStDTASEIG,"molecular association, regulation; intracellular localization",,25451922,,,FOXK1,Foxk1,INDUCES
+BAP1,Bap1,S276-p,31012814,ELIQTHKsQESQLPE,intracellular localization,"DNA repair, induced",24347639,,,,,
+BAP1,Bap1,S571-p,31012815,LAEDGVLsPLALTEG,intracellular localization,"DNA repair, induced",24347639,,,,,
+BAP1,Bap1,S597-p,482083,QGSQGSSsPVEKEVV,intracellular localization,"DNA repair, induced",24347639,,,,,

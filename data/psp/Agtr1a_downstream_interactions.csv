@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AGTR1,Agtr1a,S335-p,467238,SNLSTKMsTLSYRPS,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB1,Arrb1,INDUCES
+AGTR1,Agtr1a,S335-p,467238,SNLSTKMsTLSYRPS,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB2,Arrb2,INDUCES
+AGTR1,Agtr1a,Y319-p,448745,YFLQLLKyIPPKAKS,"molecular association, regulation",,9516477,,,PLCG1,Plcg1,INDUCES
+AGTR1,Agtr1a,S338-p,452092,STKMSTLsYRPSDNV,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB1,Arrb1,INDUCES
+AGTR1,Agtr1a,S338-p,452092,STKMSTLsYRPSDNV,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB2,Arrb2,INDUCES
+AGTR1,Agtr1a,T336-p,467237,NLSTKMStLSYRPSD,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB1,Arrb1,INDUCES
+AGTR1,Agtr1a,T336-p,467237,NLSTKMStLSYRPSD,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB2,Arrb2,INDUCES
+AGTR1,Agtr1a,T332-p,467239,KSHSNLStKMSTLSY,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB1,Arrb1,INDUCES
+AGTR1,Agtr1a,T332-p,467239,KSHSNLStKMSTLSY,"activity, induced; molecular association, regulation; intracellular localization; receptor internalization, altered",,11579203; 15177932,,,ARRB2,Arrb2,INDUCES

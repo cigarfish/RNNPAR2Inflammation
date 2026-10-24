@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DHPS,Dhps,S233-p,1870426002,KNHIPVFsPALTDGS,"enzymatic activity, induced","cell growth, induced",32989218,DS,,,,

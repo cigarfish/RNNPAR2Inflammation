@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPIP5K2,Ppip5k2,S1006-p,3175115,TGRRRRRsGEQITSS,"molecular association, regulation; intracellular localization","carcinogenesis, inhibited; DNA repair, inhibited",26084399; 34645979,,,14-3-3 gamma,Ywhag,INDUCES

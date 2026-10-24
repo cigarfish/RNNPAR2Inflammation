@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ASIC1,Asic1,S40-p,6057800,IFSYERLsLKRALWA,"activity, inhibited",,19091960,ASC,,,,
+ASIC1,Asic1,S25-p,25554906,IQAFASSsTLHGLAH,"activity, induced; intracellular localization",signaling pathway regulation,22553040,ASC,"increase the surface expression, pain hypersensitivity/ regulates BDNF-mediated mechanical hyperalgesia PI3K/Akt signaling pathway",,,
+ASIC1,Asic1,S525-p,449558,QKEAKRSsADKGVAL,"molecular association, regulation",,12578970,,,PICK1,Pick1,DISRUPTS
+ASIC1,Asic1,S499-p,4737851,KRHNPCEsLRGHPAG,"activity, inhibited",,19091960,,,,,

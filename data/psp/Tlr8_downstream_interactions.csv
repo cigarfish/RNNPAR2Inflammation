@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TLR8,Tlr8,Y880-p,953801,LSTSQTFyDAYISYD,"activity, induced",signaling pathway regulation,17868034,TIR,activates NF-kB activity,,,
+TLR8,Tlr8,Y1030-p,953800,LTENDSRyNNMYVDS,"molecular association, regulation",signaling pathway regulation,17868034,TIR,inhibits IL-8 synthesis,PIK3R1,Pik3r1,INDUCES

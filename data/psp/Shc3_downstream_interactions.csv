@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SHC3,Shc3,Y283-p,451257,RQGSSDIySTPEGKL,"molecular association, regulation",,11791173,,,CRK,Crk,INDUCES
+SHC3,Shc3,Y283-p,451257,RQGSSDIySTPEGKL,"molecular association, regulation",,11791173,,,RAPGEF1,Rapgef1,INDUCES
+SHC3,Shc3,Y424-p,451259,PTGEAPTyVNTQQIP,,"apoptosis, inhibited",12242309,,,,,
+SHC3,Shc3,Y341-p,451254,GDGSDHPyYNSIPSK,,"apoptosis, inhibited",12242309,,,,,
+SHC3,Shc3,Y218-p,451254,GDGSDHPyYNSIPSK,"molecular association, regulation",,11791173,,,CRK,Crk,INDUCES
+SHC3,Shc3,Y218-p,451254,GDGSDHPyYNSIPSK,"molecular association, regulation",,11791173,,,RAPGEF1,Rapgef1,INDUCES
+SHC3,Shc3,Y219-p,451258,DGSDHPYyNSIPSKM,"molecular association, regulation",,11791173,,,CRK,Crk,INDUCES
+SHC3,Shc3,Y219-p,451258,DGSDHPYyNSIPSKM,"molecular association, regulation",,11791173,,,RAPGEF1,Rapgef1,INDUCES
+SHC3,Shc3,Y342-p,451258,DGSDHPYyNSIPSKM,,"apoptosis, inhibited",12242309,,,,,
+SHC3,Shc3,Y301-p,451259,PTGEAPTyVNTQQIP,"activity, induced; molecular association, regulation; phosphorylation","transcription, altered",11791173; 16126371,,ERK activation,DYN1,Dnm1,INDUCES
+SHC3,Shc3,Y301-p,451259,PTGEAPTyVNTQQIP,"activity, induced; molecular association, regulation; phosphorylation","transcription, altered",11791173; 16126371,,ERK activation,SOS1,Sos1,INDUCES
+SHC3,Shc3,Y301-p,451259,PTGEAPTyVNTQQIP,"activity, induced; molecular association, regulation; phosphorylation","transcription, altered",11791173; 16126371,,ERK activation,GRB2,Grb2,INDUCES

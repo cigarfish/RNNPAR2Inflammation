@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XPC,Xpc,K655-sm,2798303,ALKRHLLkYEAIYPE,protein degradation,"DNA repair, induced",17693435,BHD_1,,,,
+XPC,Xpc,S94-p,3194024,VIKDEALsDGDDLRD,ubiquitination,"DNA repair, induced",29660033,,UVB-induced DNA damage repair;  recruitment of NER factors to the chromatin post-UVB irradiation,,,
+XPC,Xpc,S892-p,481830,DEEEGTSsQAEAARI,,"DNA repair, inhibited",29660033,,,,,
+XPC,Xpc,S129-p,14161729,SNEEEEEsENDWEEV,"molecular association, regulation",,26029824,,,GTF2H1,Gtf2h1,INDUCES

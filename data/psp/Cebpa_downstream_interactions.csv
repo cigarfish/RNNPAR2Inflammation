@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEBPA,Cebpa,S16-p,1884387100,AEPRPPMsSHLQSPP,"molecular association, regulation","carcinogenesis, inhibited; cell differentiation, induced; transcription, induced",37903757,,,C/EBP-alpha,Cebpa,INDUCES
+CEBPA,Cebpa,K326-ac,56394106,SDNDRLRkRVEQLSR,,"cell differentiation, inhibited",27005833,bZIP_2,,,,
+CEBPA,Cebpa,K161-sm,2793923,ALRPLVIkQEPREED,protein degradation,"cell cycle regulation; cell differentiation, inhibited; cell growth, induced; transcription, inhibited",17671234; 30644437,,MORC2 overexpression,,,
+CEBPA,Cebpa,K302-ac,56394105,AVRKSRDkAKQRNVE,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",27005833,bZIP_2,,,,
+CEBPA,Cebpa,R35-m1,1878324500,SAAFGFPrGAGPAQP,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, inhibited",31015230,,,HDAC3,Hdac3,DISRUPTS
+CEBPA,Cebpa,K298-ac,56394104,RNNIAVRkSRDKAKQ,"molecular association, regulation","cell differentiation, inhibited; transcription, inhibited",27005833,bZIP_2,,,,
+CEBPA,Cebpa,R156-m2,1878324501,RVGAPALrPLVIKQE,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, inhibited",31015230,,,HDAC3,Hdac3,DISRUPTS
+CEBPA,Cebpa,S190-p,457552,PPPPPPPsHPHPHPP,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cell differentiation, induced; transcription, induced",29159818; 34245919,,,HDAC1,Hdac1,DISRUPTS
+CEBPA,Cebpa,S190-p,457552,PPPPPPPsHPHPHPP,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cell differentiation, induced; transcription, induced",29159818; 34245919,,,PSMD10,Psmd10,INDUCES
+CEBPA,Cebpa,K275-ac,1880804506,GSGAGKAkKSVDKNS,protein stabilization; ubiquitination,"apoptosis, induced",29535398,,,,,
+CEBPA,Cebpa,S21-p,448308,PMSSHLQsPPHAPSS,"activity, induced; molecular association, regulation; protein conformation; activity, inhibited","cell differentiation, inhibited; cell differentiation, altered; transcription, inhibited; transcription, altered",14701740; 16446383; 16807249; 20101026; 26515730,,,,,
+CEBPA,Cebpa,R165-m1,1878324502,LVIKQEPrEEDEAKQ,,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, inhibited",31015230,,,HDAC3,Hdac3,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERCC3,Ercc3,S90-p,1867858202,HIFLEAFsPVYKYAQ,protein degradation; ubiquitination,,30762924,Helicase_C_3,polyubiquitination by SCF E3 ligase,,,
+ERCC3,Ercc3,S751-p,454425,FGTMSSMsGADDTVY,"activity, inhibited",,15549133,,,,,

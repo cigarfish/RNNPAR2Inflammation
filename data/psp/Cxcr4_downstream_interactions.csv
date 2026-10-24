@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CXCR4,Cxcr4,K327-ub,6198957,VSRGSSLkILSKGKR,protein degradation,,24489825,,,,,
+CXCR4,Cxcr4,K333-ub,12324743,LKILSKGkRGGHSSV,protein degradation,,24489825,,,,,
+CXCR4,Cxcr4,S339-p,458320,GKRGGHSsVSTESES,"activity, induced; receptor internalization, induced; intracellular localization","cell growth, induced; cell growth, inhibited",19687226; 24632620; 26212080; 30327409,,cytoplasmic localization; colony forming of cKit+ AML cells,,,
+CXCR4,Cxcr4,K331-ub,12324739,SSLKILSkGKRGGHS,protein degradation,,24489825,,,,,
+CXCR4,Cxcr4,S324-p,6140803,LTSVSRGsSLKILSK,"receptor desensitization, induced; receptor internalization, induced; protein degradation; molecular association, regulation; enzymatic activity, induced; activity, induced; ubiquitination; intracellular localization","endocytosis, induced",19116316; 25355818; 30327409; 30936203; 34973340,,,ITCH,Itch,INDUCES
+CXCR4,Cxcr4,Y135-p,1869808401,AFISLDRyLAIVHAT,"activity, induced","carcinogenesis, induced; cell motility, induced",31562188,7tm_1,,,,
+CXCR4,Cxcr4,S325-p,3849622,TSVSRGSsLKILSKG,"receptor desensitization, induced; receptor internalization, induced; protein degradation; molecular association, regulation; enzymatic activity, induced; activity, induced; ubiquitination; intracellular localization","endocytosis, induced",19116316; 30327409; 30936203; 34973340,,,ITCH,Itch,INDUCES
+CXCR4,Cxcr4,Y157-p,455337,LLAEKVVyVGVWIPA,phosphorylation,"transcription, altered",15615703,7tm_1; TM,,,,

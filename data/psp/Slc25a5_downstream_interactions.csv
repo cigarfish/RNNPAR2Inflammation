@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC25A5,Slc25a5,K105-ac,461136,IFLGGVDkRTQFWLY,protein degradation; phosphorylation,,32194820,,"reciprocal regulation of T107, K105",,,
+SLC25A5,Slc25a5,Y195-p,458470,RAAYFGIyDTAKGML,"molecular association, regulation",,23322602,Mito_carr; TM,,NCK2(NOT_REPORTED,Nck2,UNKNOWN
+SLC25A5,Slc25a5,T107-p,1876923700,LGGVDKRtQFWLYFA,protein stabilization; acetylation,"apoptosis, inhibited",32194820,,"reciprocal regulation of T107, K105",,,

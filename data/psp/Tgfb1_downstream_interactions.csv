@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGFB1,Tgfb1,K315-ub,1881978301,WKWIHEPkGYHANFC,protein degradation,,35701426,TGF_beta, p62-dependent autophagic degradation of TGFB1,,,
+TGFB1,Tgfb1,C355-sn,1893200101,PGASAAPcCVPQALE,"molecular association, regulation",,39571651,,,TGFB1,Tgfb1,INDUCES
+TGFB1,Tgfb1,C389-sn,1893200100,MIVRSCKcS______,"molecular association, regulation",,39571651,,,TGFB1,Tgfb1,INDUCES
+TGFB1,Tgfb1,C356-sn,1893200102,GASAAPCcVPQALEP,"molecular association, regulation",,39571651,,,TGFB1,Tgfb1,INDUCES

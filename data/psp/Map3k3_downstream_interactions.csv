@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP3K3,Map3k3,S526-p,458796,MSGTGMRsVTGTPYW,"enzymatic activity, induced","transcription, altered",16362041; 18308725,Pkinase,necessary for MEKK3 T294 phosphorylation and its interaction with 14-3-3beta; S526 functions in LPS-induced IL6 transcription.,,,
+MAP3K3,Map3k3,S61-p,1884686802,ERRIIAFsRPVKYED,protein stabilization; ubiquitination,,37203562,,inhibits ubiquitination,,,
+MAP3K3,Map3k3,T516-p,12607405,GASKRLQtICMSGTG,"enzymatic activity, induced",,20068038,Pkinase,essential for MEKK3-mediated IKK-beta/NFkB activation,,,
+MAP3K3,Map3k3,S520-p,12607406,RLQTICMsGTGMRSV,"enzymatic activity, induced",,20068038,Pkinase,essential for MEKK3-mediated IKK-beta/NFkB activation,,,
+MAP3K3,Map3k3,T294-p,2243102,DYSDGRRtFPRIRRH,"molecular association, regulation",,18308725,,facilitated by phosphorylation of S526,14-3-3 beta,Ywhab,INDUCES

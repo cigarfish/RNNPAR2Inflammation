@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLI2,Gli2,T1546-p,1874115100,QNSSRLTtPRNSLTL,protein stabilization,"carcinogenesis, induced; cell growth, induced; transcription, induced",34267186,,inhibits ubiquitination,,,
+GLI2,Gli2,K757-ac,31077500,TPHTRNTkLPPLPGS,"protein degradation; ubiquitination; activity, inhibited","transcription, inhibited",23762415; 31576013,,,,,
+GLI2,Gli2,S149-p,10414536,ISAARGLsPADVAQE,"molecular association, regulation; acetylation; intracellular localization","carcinogenesis, induced; cell motility, induced; transcription, induced",25416949,,"CCL21 treatment, nuclear translocation",SNIP1,Snip1,DISRUPTS

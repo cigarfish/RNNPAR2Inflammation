@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLBP,Slbp,S23-p,470508,DGDASPPsPARWSLG,protein degradation; ubiquitination,,22907757,,,,,
+SLBP,Slbp,K156-ub,41495287,IAYDRYIkEVPRHLR,,"cell cycle regulation; RNA splicing, induced; chromatin organization, altered; cell growth, induced",27203182,SLBP_RNA_bind,"regulation of histone mRNA processing, DNA replication during S-phase ",,,
+SLBP,Slbp,T61-p,466351,ERRPESFtTPEGPKP,"protein degradation; molecular association, regulation",,12588979; 18490441; 27254819,,,CUL4A,Cul4a,INDUCES
+SLBP,Slbp,T61-p,466351,ERRPESFtTPEGPKP,"protein degradation; molecular association, regulation",,12588979; 18490441; 27254819,,,WDR23,Wdr23,INDUCES
+SLBP,Slbp,T171-p,11003653,QPGIHPKtPNKFKKY,"molecular association, regulation; intracellular localization; protein conformation",,16492733; 22907757; 23286197; 25002523,SLBP_RNA_bind,crystal structure of human T171 phosphorylated SLBP ,SLBP,Slbp,DISRUPTS
+SLBP,Slbp,T171-p,11003653,QPGIHPKtPNKFKKY,"molecular association, regulation; intracellular localization; protein conformation",,16492733; 22907757; 23286197; 25002523,SLBP_RNA_bind,crystal structure of human T171 phosphorylated SLBP ,PIN1,Pin1,INDUCES
+SLBP,Slbp,S20-p,470507,SRCDGDAsPPSPARW,protein degradation; ubiquitination,,22907757,,,,,
+SLBP,Slbp,T62-p,466352,RRPESFTtPEGPKPR,"protein degradation; molecular association, regulation; phosphorylation","apoptosis, inhibited",12588979; 18490441; 27254819,,degradation is essential for the viability of cells,CUL4A,Cul4a,INDUCES
+SLBP,Slbp,T62-p,466352,RRPESFTtPEGPKPR,"protein degradation; molecular association, regulation; phosphorylation","apoptosis, inhibited",12588979; 18490441; 27254819,,degradation is essential for the viability of cells,WDR23,Wdr23,INDUCES

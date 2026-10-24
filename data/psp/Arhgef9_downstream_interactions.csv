@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGEF9,Arhgef9,K515-ub,1873595602,FSRLTPFkK______,protein degradation,,29069083,,regulates gephyrin clustering and dendritic arborization,,,
+ARHGEF9,Arhgef9,K516-ub,1873595604,SRLTPFKk_______,protein degradation,,29069083,,regulates gephyrin clustering and dendritic arborization,,,

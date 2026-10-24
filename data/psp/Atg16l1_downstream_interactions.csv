@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG16L1,Atg16l1,K151-m1,1079821901,ECLDLRTkLCDLERA,,"apoptosis, induced; autophagy, inhibited",29634390,ATG16,methylation at K151 inhibits phosphorylation of ATG16L1 at S139 ,,,
+ATG16L1,Atg16l1,S268-p,3202215,SRAATRRsVSSFPVP,protein degradation,"autophagy, inhibited",31580256,,,,,
+ATG16L1,Atg16l1,T300-p,54390606,VPQDNVDtHPGSGKE,protein stabilization; intracellular localization,"autophagy, induced",31267703,,induces xenophagy,,,
+ATG16L1,Atg16l1,S269-p,460725,RAATKRLsQPAGGLL,protein degradation,"autophagy, inhibited",31580256,,,,,
+ATG16L1,Atg16l1,S278-p,15425208,PAGGLLDsITNIFGR,protein stabilization,"autophagy, induced",28082356; 31126908,,enhance cleavage of T300A ATG16L1 via phosphorylation on S278,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP8AP2,Casp8ap2,K1813-sm,8474900,EVKKDELkSEPGSNC,,"transcription, induced",19615980,,K1813R mutant coexpressed with SENP1,,,

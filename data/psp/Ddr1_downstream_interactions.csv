@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDR1,Ddr1,Y792-p,462055,FGMSRNLyAGDYYRV,"activity, induced","carcinogenesis, induced; cell adhesion, induced; signaling pathway regulation",24509848; 31979355,PK_Tyr_Ser-Thr,,,,
+DDR1,Ddr1,Y740-p,458377,AQGPTISyPMLLHVA,"molecular association, regulation",,16337946,PK_Tyr_Ser-Thr,,SHP-2,Ptpn11,INDUCES
+DDR1,Ddr1,Y740-p,458377,AQGPTISyPMLLHVA,"molecular association, regulation",,16337946,PK_Tyr_Ser-Thr,,NCK2,Nck2,INDUCES
+DDR1,Ddr1,Y484-p,1016886,GPREPPPyQEPRPRG,"activity, induced",,24509848,,phosphorylated in the N211QDDR1 mutant,,,
+DDR1,Ddr1,Y796-p,457957,RNLYAGDyYRVQGRA,"activity, induced; molecular association, regulation",,16611743; 24509848,PK_Tyr_Ser-Thr,"phosphorylated in the N211QDDR1 mutant; required for the DDR1-mediated suppression of tyrosine phosphorylation of Stat1 and Stat3, cell migration, branching tubulogenesis",SHP-2,Ptpn11,INDUCES
+DDR1,Ddr1,Y520-p,1026167,YRLLLATyARPPRGP,"activity, induced",,24509848,,phosphorylated in the N211QDDR1 mutant,,,
+DDR1,Ddr1,Y586-p,1869973809,GVTGGNTyAVPALPP,"enzymatic activity, induced",,32839343,,,,,
+DDR1,Ddr1,Y703-p,462887,PLCMITDyMENGDLN,"molecular association, regulation",,16611743,PK_Tyr_Ser-Thr,"required for the DDR1-mediated suppression of tyrosine phosphorylation of Stat1 and Stat3, cell migration, branching tubulogenesis",SHP-2,Ptpn11,INDUCES
+DDR1,Ddr1,Y569-p,1869973810,PQNSVPHyAEADIVT,"enzymatic activity, induced",,32839343,,,,,
+DDR1,Ddr1,Y797-p,457958,NLYAGDYyRVQGRAV,"activity, induced",,24509848,PK_Tyr_Ser-Thr,phosphorylated in the N211QDDR1 mutant,,,
+DDR1,Ddr1,Y513-p,457956,LLLSNPAyRLLLATY,"activity, induced; molecular association, regulation",,24509848; 27605668; 9659899,,,SHC1,Shc1,INDUCES

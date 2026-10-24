@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLD1,Pld1,T147-p,448573,PIPTRRHtFRRQNVR,"intracellular localization; enzymatic activity, induced",,16978840,PX,,,,
+PLD1,Pld1,S2-p,448572,______MsLKNEPRV,"intracellular localization; enzymatic activity, induced",,16978840,,,,,
+PLD1,Pld1,S505-p,11091057,GSVKRVTsGPSLGSL,"enzymatic activity, induced",,20231899,,in response to glucose deprivation,,,

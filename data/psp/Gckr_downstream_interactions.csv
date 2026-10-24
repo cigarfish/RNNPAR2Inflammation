@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GCKR,Gckr,K126-ac,1880781400,VSFNQLMkGLGQKPL,"molecular association, regulation",,29296001,,,GK,Gykl1,INDUCES

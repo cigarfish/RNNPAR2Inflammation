@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CPT2,Cpt2,K79-ac,1883486800,LNDGQFRkTEQFCKS,acetylation,,35728063,,"acetylation causes acylcarnitine accumulation cause mitochondrial damage in platelets and nucleated cells, blocking acylcarnitine generation with AMPK or CPT1 inhibitors, and SIRT3 agonists can induce platelet survival ",,,

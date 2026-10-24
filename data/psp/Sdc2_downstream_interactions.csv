@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SDC2,Sdc2,Y179-p,448375,RKKDEGSyDLGERKP,"molecular association, regulation",,16997272,Syndecan,,RACK1,Rack1,INDUCES
+SDC2,Sdc2,S188-p,452069,LGERKPSsAAYQKAP,,"transcription, induced",28821612,Syndecan,MMP-7 expression in HT-29  colon cancer cells,,,

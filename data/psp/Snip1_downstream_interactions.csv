@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNIP1,Snip1,S35-p,470652,VVKQERLsPEVAPPA,sumoylation,,27703003,,S35 phosphorylation induces SNIP1 SUMOylation,,,
+SNIP1,Snip1,K30-sm,15513209,LPAGVVVkQERLSPE,"molecular association, regulation","cell motility, induced; transcription, induced",27703003,,SUMOylation decreases the inhibitory effect of SNIP1 on TGF-beta-induced formation of the Smad2/4  and Smad3/4 complexes,,,
+SNIP1,Snip1,K108-sm,55438617,HHSTVKVkQEREDHP,"molecular association, regulation","cell motility, induced; transcription, induced",27703003,,SUMOylation decreases the inhibitory effect of SNIP1 on TGF-beta-induced formation of the Smad2/4  and Smad3/4 complexes,,,
+SNIP1,Snip1,K5-sm,59149203,___MKAVkSERERGS,"molecular association, regulation","cell motility, induced; transcription, induced",27703003,,SUMOylation decreases the inhibitory effect of SNIP1 on TGF-beta-induced formation of the Smad2/4  and Smad3/4 complexes,,,

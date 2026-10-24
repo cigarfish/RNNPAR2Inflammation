@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SREBF1,Srebf1,K418-sm,2793924,DVLMEGVkTEVEDTL,,"transcription, inhibited",12615929,,,,,
+SREBF1,Srebf1,T426-p,467200,TEVEDTLtPPPSDAG,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","transcription, induced",16825193; 19126544; 22384276; 26759235,,,FBXW7,Fbxw7,INDUCES
+SREBF1,Srebf1,T402-p,467200,TEVEDTLtPPPSDAG,,"transcription, induced",25353341,,mRNA expression of central SREBP-1 target genes;  Phosphorylation interferes with lipid metabolism and the secretory activity of liver cells.,,,
+SREBF1,Srebf1,S63-p,23940711,AGGTDPAsPDTSSPG,,"transcription, induced",22384276,,,,,
+SREBF1,Srebf1,S93-p,469986,YPSMPAFsPGPGIKE,,"transcription, induced",25353341,,mRNA expression of central SREBP-1 target genes;  Phosphorylation interferes with lipid metabolism and the secretory activity of liver cells.,,,
+SREBF1,Srebf1,T81-p,36533415,SPPQPAPtPLKMYPS,,"transcription, induced",25353341,,mRNA expression of central SREBP-1 target genes;  Phosphorylation interferes with lipid metabolism and the secretory activity of liver cells.,,,
+SREBF1,Srebf1,S39-p,23940711,AGGTDPAsPDTSSPG,,"transcription, induced",25353341,,mRNA expression of central SREBP-1 target genes;  Phosphorylation interferes with lipid metabolism and the secretory activity of liver cells.,,,
+SREBF1,Srebf1,K324-ac,459100,SAQSRGEkRTAHNAI,protein stabilization; ubiquitination,"transcription, induced",12640139; 20595232,HLH,,,,
+SREBF1,Srebf1,K333-ac,459102,TAHNAIEkRYRSSIN,protein stabilization; ubiquitination,"transcription, induced",12640139; 20595232,HLH,,,,
+SREBF1,Srebf1,R321-m2,53350800,APASAQSrGEKRTAH,"protein stabilization; molecular association, regulation","cell growth, induced; transcription, induced",26759235,,"PRMT5 knockdown caused faster degradation,   PRMT5-induced methylation prevented phosphorylation of SREBP1A on S430",FBXW7,Fbxw7,DISRUPTS
+SREBF1,Srebf1,S372-p,4934079,TAVHKSKsLKDLVSA,"protein stabilization; intracellular localization; activity, inhibited","transcription, induced; transcription, inhibited",21459323; 30733434; 33675805,,inhibits proteolytic processing; inhibits lipogenesis,,,
+SREBF1,Srebf1,K123-sm,2715401,FSPGPGIkEESVPLS,,"transcription, inhibited",12615929,,,,,
+SREBF1,Srebf1,S338-p,458357,IEKRYRSsINDKIIE,"molecular association, regulation","transcription, inhibited",16381800,HLH,inhibits lipogenesis,SREBP-1,Srebf1,DISRUPTS
+SREBF1,Srebf1,T59-p,900975702,AGSGAGGtDPASPDT,protein stabilization,"cell growth, induced; transcription, induced",29514980,,PKM2  interaction with nuclear  SREBP-1a increases SREBP-target  gene expression and subsequent  lipid biosynthesis in cancer cells.,PKM,Pkm,INDUCES
+SREBF1,Srebf1,S117-p,469986,YPSMPAFsPGPGIKE,sumoylation,"transcription, induced; transcription, altered",10915800; 18403372; 20863500; 22384276,,,,,
+SREBF1,Srebf1,S430-p,467201,DTLTPPPsDAGSPFQ,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","transcription, induced",16825193; 19126544; 26759235,,,FBXW7,Fbxw7,INDUCES
+SREBF1,Srebf1,S410-p,6729302,PPPSDAGsPFQSSPL,"protein degradation; activity, inhibited",,19126544,,,,,
+SREBF1,Srebf1,S434-p,6729302,PPPSDAGsPFQSSPL,"protein degradation; molecular association, regulation; activity, inhibited; phosphorylation",,19126544,,,FBXW7,Fbxw7,INDUCES
+SREBF1,Srebf1,S439-p,469115,AGSPFQSsPLSLGSR,protein stabilization,"cell cycle regulation; transcription, induced",16880739,,specific for mitotic cells regulates G1/S cell cycle ,,,
+SREBF1,Srebf1,S314-p,458357,IEKRYRSsINDKIIE,"molecular association, regulation","transcription, inhibited",16381800,HLH,inhibits lipogenesis,SREBP-1 iso3,Srebf1,DISRUPTS

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG13,Atg13,T342-p,1869357206,DRTHCAAtPSSSEDT,,"cell cycle regulation; autophagy, induced; cell growth, induced",32516310,,,,,
+ATG13,Atg13,S224-p,53377101,DRPYPSSsPMHPCNY,,"cell cycle regulation; autophagy, induced; cell growth, induced",32516310,,,,,
+ATG13,Atg13,S355-p,21127300,DTETVSNsSEGRASP,intracellular localization,"carcinogenesis, altered; autophagy, induced; autophagy, inhibited; signaling pathway regulation",21855797; 24590173; 27259258; 34586834,,,,,
+ATG13,Atg13,S356-p,34499855,TETVSNSsEGRASPH,,"carcinogenesis, inhibited; autophagy, induced; transcription, altered",34482636; 34604061; 35035775; 35182693,,,,,
+ATG13,Atg13,S44-p,1869357207,ICTRSSSsPTGSDWF,,"cell cycle regulation; autophagy, induced; cell growth, induced",32516310,,,,,
+ATG13,Atg13,T332-p,27444371,QERLATCtPSDRTHC,,"cell cycle regulation; autophagy, induced; cell growth, induced",32516310,,,,,

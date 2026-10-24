@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC22A6,Slc22a6,K315-ub,27202153,VLRASLQkELTMGKG,"receptor internalization, induced",,23640180,Sugar_tr,,,,
+SLC22A6,Slc22a6,K303-ub,53529107,GKREEGAkLSMEVLR,"receptor internalization, induced",,23640180,Sugar_tr,,,,
+SLC22A6,Slc22a6,K297-ub,53529106,RVARINGkREEGAKL,"receptor internalization, induced",,23640180,Sugar_tr,,,,

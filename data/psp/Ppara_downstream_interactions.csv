@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPARA,Ppara,S6-p,1789804,__MVDTEsPLCPLSP,,"transcription, inhibited",18079279; 21224484,,,,,
+PPARA,Ppara,K185-sm,11539303,RSEKAKLkAEILTCE,"molecular association, regulation","transcription, inhibited",19955185,,mammalian one-hybrid used for interaction,N-CoR1,Ncor1,INDUCES
+PPARA,Ppara,S280-p,1867858200,FHCCQCTsVETVTEL,"activity, induced; molecular association, regulation","transcription, induced",30745182,Hormone_recep,,RXRA,Rxra,INDUCES
+PPARA,Ppara,S179-p,457549,RFGRMPRsEKAKLKA,,"transcription, altered",15131257,,,,,
+PPARA,Ppara,S12-p,1789802,ESPLCPLsPLEAGDL,,"transcription, inhibited",18079279; 21224484,,,,,
+PPARA,Ppara,S230-p,2902207,VKARVILsGKASNNP,,"transcription, altered",15131257,,,,,
+PPARA,Ppara,S21-p,1789803,LEAGDLEsPLSEEFL,"activity, induced; protein stabilization","signaling pathway regulation; transcription, inhibited",18079279; 21224484; 21525007,,"increases SR-BI stability, increases cholesterol efflux. ",,,

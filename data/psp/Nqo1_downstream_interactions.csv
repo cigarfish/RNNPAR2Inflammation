@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NQO1,Nqo1,S40-p,23255660,KGWEVVEsDLYAMNF,protein degradation; protein conformation,,36096178,Flavodoxin_2,,,,
+NQO1,Nqo1,S82-p,13910234,AYKEGHLsPDIVAEQ,"protein degradation; protein stabilization; molecular association, regulation; enzymatic activity, inhibited; protein conformation",,30243998; 34817874; 36096178,Flavodoxin_2,,p73,Trp73,DISRUPTS
+NQO1,Nqo1,T128-p,1868914500,FIGEFAYtYAAMYDK,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, inhibited; phosphorylation; enzymatic activity, induced","apoptosis, induced",31358653; 36096178,Flavodoxin_2, repression of dopaminergic loss observed in S40A/T128A mutatnt; induces AEP activity and synuclein phosphorylation; inhibits FAD binding,PARK2,Park2,INDUCES

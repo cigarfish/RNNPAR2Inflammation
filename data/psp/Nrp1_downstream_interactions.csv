@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NRP1,Nrp1,Y297-p,21656101,QITASSQySTNWSAE,"molecular association, regulation; phosphorylation","cell motility, induced",21653826,F5_F8_type_C, binding to NRP1 is required for FAK signaling,NRP1,Nrp1,INDUCES

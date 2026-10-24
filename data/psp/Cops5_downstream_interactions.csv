@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+COPS5,Cops5,S320-p,33365506,EAIHGLMsQVIKDKL,protein stabilization,,24710276,CSN5_C,deubiquitinates and stabilizes PEA-15,,,
+COPS5,Cops5,S177-p,1874115102,IDPTRTIsAGKVNLG,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",34244488,,,,,
+COPS5,Cops5,S201-p,1827354807,KPPDEGPsEYQTIPL,"enzymatic activity, inhibited",signaling pathway regulation,31950832,,NFkB signaling pathway,,,
+COPS5,Cops5,T205-p,1827354804,EGPSEYQtIPLNKIE,"enzymatic activity, inhibited",signaling pathway regulation,31950832,,NFkB signaling pathway,,,

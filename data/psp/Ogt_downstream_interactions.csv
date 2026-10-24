@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OGT,Ogt,S20-p,3174941,EPTKRMLsFQGLAEL,protein stabilization; intracellular localization,,29021254,,OGT(S20A) attenuates vimentin O-GlcNAcylation and phosphorylation,,,
+OGT,Ogt,S3-p,27713500,_____MAsSVGNVAD,"enzymatic activity, induced",,23395175,,,,,
+OGT,Ogt,K119-ub,1885732408,YRHALRLkPDFIDGY,ubiquitination,"carcinogenesis, induced; cell growth, induced",37867237,,"K48-linked polyubiquitination, cell ferroptosis inhibited",,,
+OGT,Ogt,S4-p,27713501,____MASsVGNVADS,"enzymatic activity, induced",,23395175,,,,,

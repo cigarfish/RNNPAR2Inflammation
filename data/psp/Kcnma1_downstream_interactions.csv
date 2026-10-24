@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNMA1,Kcnma1,S992-p,469989,HGMLRQPsITTGVNI,"activity, induced",,11078709,,,,,
+KCNMA1,Kcnma1,S978-p,456598,PPGMDRSsPDNSPVH,"activity, induced",,11078709,,,,,
+KCNMA1,Kcnma1,S1200-p,9805700,SHSSQSSsKKSSSVH,"activity, induced",,19592459,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BMX,Bmx,Y566-p,448067,RYVLDDQyVSSVGTK,"protein stabilization; molecular association, regulation","apoptosis, induced; cell growth, altered",10688651; 14532277; 27601470,PK_Tyr_Ser-Thr,,STAT3,Stat3,INDUCES
+BMX,Bmx,Y566-p,448067,RYVLDDQyVSSVGTK,"protein stabilization; molecular association, regulation","apoptosis, induced; cell growth, altered",10688651; 14532277; 27601470,PK_Tyr_Ser-Thr,,PIK3R1,Pik3r1,INDUCES
+BMX,Bmx,Y40-p,448066,LTKTNLSyYEYDKMK,"molecular association, regulation; intracellular localization; enzymatic activity, induced","cell motility, altered; cytoskeletal reorganization",11331870,PH,,FAK,Ptk2,INDUCES

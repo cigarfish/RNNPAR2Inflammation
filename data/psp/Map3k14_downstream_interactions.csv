@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP3K14,Map3k14,K862-ub,1880487000,PSYFNGVkVQIQSLN,protein degradation,,30018073,,,,,
+MAP3K14,Map3k14,T559-p,455390,TGDYIPGtETHMAPE,"enzymatic activity, induced","transcription, altered",9742107,Pkinase,,,,
+MAP3K14,Map3k14,S817-p,27259013,EKNPSKAsQSSRDTL,protein degradation,,20501937,,IKKA-dependent destabilization of Nik,,,
+MAP3K14,Map3k14,S814-p,27259014,DDSEKNPsKASQSSR,protein degradation,,20501937,,IKKA-dependent destabilization of Nik,,,
+MAP3K14,Map3k14,S820-p,27259015,PSKASQSsRDTLSSG,protein degradation,,20501937,,IKKA-dependent destabilization of Nik,,,
+MAP3K14,Map3k14,K882-ub,15393656,IREFHRVkVGDIATG,protein degradation,,30018073,,,,,

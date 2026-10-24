@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATA2,Gata2,T176-p,40245500,HLFGFPPtPPKEVSP,"protein degradation; molecular association, regulation",,25670854,,,FBXW7,Fbxw7,INDUCES
+GATA2,Gata2,K419-ub,1883354002,ECFEELSkCMQEKSS,,"cell growth, inhibited",36251994,,,,,
+GATA2,Gata2,K424-ub,1883354003,LSKCMQEkSSPFSAA,,"cell growth, inhibited",36251994,,,,,
+GATA2,Gata2,S401-p,455583,QTRNRKMsNKSKKSK,"molecular association, regulation; intracellular localization; activity, inhibited","cell growth, induced; cell differentiation, induced; transcription, induced; transcription, altered; cell growth, altered",15837948; 35172146,,,FOG1,Zfpm1,INDUCES
+GATA2,Gata2,S192-p,14573920,PSTTGAAsPASSSAG,"molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced; transcription, induced",25056917; 27545880,,"chromatin occupancy, nuclear foci localization; S192-dependent GATA-2 hyperphosphorylation",,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RELB,Relb,S472-p,36392502,DFFSGTVsLPGLEPP,"molecular association, regulation","cell motility, induced; transcription, induced",25267645,RelB_transactiv,MMP3  transcription,IkB-alpha,Nfkbia,DISRUPTS

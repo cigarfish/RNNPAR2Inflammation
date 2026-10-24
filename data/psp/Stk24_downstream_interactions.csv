@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STK24,Stk24,T190-p,468211,DTQIKRNtFVGTPFW,"enzymatic activity, induced","cell motility, altered",17046825; 35413286,Pkinase,,,,
+STK24,Stk24,T18-p,452058,ALNKRRAtLPHPGGS,"activity, induced",,10644707,,,,,

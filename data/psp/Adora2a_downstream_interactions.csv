@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADORA2A,Adora2a,S374-p,13417800,SGGSAQEsQGNTGLP,"molecular association, regulation",,20197060,,,DRD2,Drd2,INDUCES

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCOR2,Ncor2,S2407-p,454664,AKVSGRPsSRKAKSP,protein degradation; intracellular localization,"transcription, induced",15494311,,,,,
+NCOR2,Ncor2,S2511-p,465590,CSQYETLsDSE____,"molecular association, regulation",,11451368,,phosphorylation stabilizes SMRT interaction with TR-alpha in vitro,TR-alpha,Thra,INDUCES
+NCOR2,Ncor2,S2426-p,6422852,ASGDRPPsVSSVHSE,protein degradation; ubiquitination; intracellular localization,"transcription, induced; signaling pathway regulation",22888005,,activates Notch1 signaling in intact cells,,,
+NCOR2,Ncor2,T1383-p,3217644,KLLKREGtPPPPPPS,intracellular localization,signaling pathway regulation,26778753,,inhibits Wnt/beta-catenin signaling in HCC,,,

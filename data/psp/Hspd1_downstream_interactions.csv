@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPD1,Hspd1,S70-p,468008,IIEQSWGsPKVTKDG,protein conformation,,34557266,Cpn60_TCP1,regulates folding of ALDH2 and ACADS,,,

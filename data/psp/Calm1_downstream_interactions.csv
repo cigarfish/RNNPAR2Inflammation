@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CALM1,Calm1,S102-p,448706,KDGNGYIsAAELRHV,protein conformation,,26675311,EF-hand_7,,,,
+CALM1,Calm1,T80-p,448704,MARKMKDtDSEEEIR,"activity, induced",signaling pathway regulation,25108821; 36273583,,induces CaV1.2 activity; CaM phosphorylation promotes greater SK channel inhibition through hMR1 mediated PIP2 hydrolysis.,,,
+CALM1,Calm1,S82-p,448705,RKMKDTDsEEEIREA,"activity, induced; protein conformation",,15461451; 17173306; 36273583,,induces CaV1.2 activity,,,
+CALM1,Calm1,T118-p,469586,TNLGEKLtDEEVDEM,protein conformation,,26675311,EF-hand_7,,,,
+CALM1,Calm1,Y100-p,448707,FDKDGNGyISAAELR,"molecular association, regulation; intracellular localization",,26858457,EF-hand_7,,TRPC6,Trpc6,DISRUPTS
+CALM1,Calm1,Y100-p,448707,FDKDGNGyISAAELR,"molecular association, regulation; intracellular localization",,26858457,EF-hand_7,,PIK3R1,Pik3r1,INDUCES

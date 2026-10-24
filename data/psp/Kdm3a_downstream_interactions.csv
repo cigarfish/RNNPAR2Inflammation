@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM3A,Kdm3a,K421-ac,1877323800,PKECLPTkASSKAEL,protein stabilization; intracellular localization,"carcinogenesis, induced; cell growth, induced",32522824,,K421 acetylation promotes JMJD1A recruitment to AR via BRD4 and prostate cancer cell growth,CHIP,Stub1,DISRUPTS
+KDM3A,Kdm3a,K421-ac,1877323800,PKECLPTkASSKAEL,protein stabilization; intracellular localization,"carcinogenesis, induced; cell growth, induced",32522824,,K421 acetylation promotes JMJD1A recruitment to AR via BRD4 and prostate cancer cell growth,BRD4,Brd4,INDUCES
+KDM3A,Kdm3a,Y1114-p,35527104,ITPEDRKyGTTNLHL,"enzymatic activity, inhibited","transcription, induced",25148682,,,,,
+KDM3A,Kdm3a,S264-p,8100021,IGAVKRKsSENNGTL,"molecular association, regulation","chromatin organization, altered; transcription, induced",25535969,,,STAT1,Stat1,INDUCES
+KDM3A,Kdm3a,S265-p,453894,GAVKRKSsENNGTLV,"molecular association, regulation","cell cycle regulation; RNA splicing, induced; transcription, induced",25948511; 29674659; 34321328,,,ARID1A,Arid1a,INDUCES
+KDM3A,Kdm3a,S265-p,453894,GAVKRKSsENNGTLV,"molecular association, regulation","cell cycle regulation; RNA splicing, induced; transcription, induced",25948511; 29674659; 34321328,,,PPAR-gamma,Pparg,INDUCES
+KDM3A,Kdm3a,S265-p,453894,GAVKRKSsENNGTLV,"molecular association, regulation","cell cycle regulation; RNA splicing, induced; transcription, induced",25948511; 29674659; 34321328,,,PRDM16,Prdm16,INDUCES
+KDM3A,Kdm3a,Y1101-p,462537,PDLGPKMyNAYGLIT,"methylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",30377265,,induces H3 demethylation,,,
+KDM3A,Kdm3a,K918-ub,12301471,FASLVQNkTTSDLSK,intracellular localization,"DNA repair, induced; cell growth, induced; transcription, induced",32238799,,"recruitment of p300 to c-Myc for the expression of DDR genes, resistance of prostate cancer cells to genotoxic stress",,,

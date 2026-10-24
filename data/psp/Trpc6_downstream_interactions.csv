@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPC6,Trpc6,S14-p,4959823,FGPRRGSsPRGAAGA,intracellular localization,,28877958,,plasma membrane expression,,,
+TRPC6,Trpc6,T70-p,470868,RLAHRRQtVLREKGR,"activity, inhibited","cell motility, inhibited",19961855; 23814119; 24740790,,,,,
+TRPC6,Trpc6,S282-p,21358400,NAYKGLAsPAYLSLS,phosphorylation,signaling pathway regulation,23645677,TRP_2, increased ERK1 phosphorylation,,,
+TRPC6,Trpc6,S322-p,3363401,KNDYKKLsMQCKDFV,"activity, inhibited",,19961855,,"suppresses TRPC6 channel current, G-alpha agonist-induced NFAT activation and myocyte hypertrophic responses",,,

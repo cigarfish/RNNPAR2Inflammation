@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUMO1,Sumo1,T76-p,15178384,QRIADNHtPKELGME,sumoylation; protein stabilization,"cell growth, induced; transcription, induced",25867063,Rad60-SLD,induces global sumoylation,,,
+SUMO1,Sumo1,K39-sm,2358309,SEIHFKVkMTTHLKK,"molecular association, regulation",,21474068,Rad60-SLD,,DAXX,Daxx,INDUCES

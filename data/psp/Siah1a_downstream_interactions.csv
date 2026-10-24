@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIAH1,Siah1a,T239-p,36694105,RRLTWEAtPRSIHEG,"molecular association, regulation; acetylation; intracellular localization",signaling pathway regulation,25391652,Sina,augments p300 acetylation;  nuclear translocation ,GAPDH,Gapdh,INDUCES
+SIAH1,Siah1a,S19-p,2840508,GTSKCPPsQRVPALT,"molecular association, regulation; ubiquitination; activity, inhibited",,18536714,,facilitates HIPK2 polyubiquitination,HIPK2,Hipk2,DISRUPTS
+SIAH1,Siah1a,Y100-p,457101,SVLFPCKyASSGCEI,protein stabilization,"apoptosis, altered",16230351,Sina,,,,
+SIAH1,Siah1a,T235-p,36694106,NGHRRRLtWEATPRS,"molecular association, regulation; acetylation; intracellular localization",signaling pathway regulation,25391652,Sina,augments p300 acetylation;  nuclear translocation ,GAPDH,Gapdh,INDUCES
+SIAH1,Siah1a,Y126-p,457102,ELCEFRPySCPCPGA,protein stabilization,"apoptosis, altered",16230351,Sina,,,,
+SIAH1,Siah1a,T74-p,36694103,PKLTCCPtCRGPLGS,"molecular association, regulation; acetylation; intracellular localization",signaling pathway regulation,25391652,,augments p300 acetylation;  nuclear translocation ,GAPDH,Gapdh,INDUCES
+SIAH1,Siah1a,T70-p,36694104,SNCRPKLtCCPTCRG,"molecular association, regulation; acetylation; intracellular localization",signaling pathway regulation,25391652,,augments p300 acetylation;  nuclear translocation ,GAPDH,Gapdh,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SYMPK,Sympk,K361-sm,2586340,DSTLKKMkLEPNLGE,,"RNA splicing, altered; cell growth, induced",17923699,,regulation of mRNA 3'-end processing- cleavage and polyadenylation,,,
+SYMPK,Sympk,T1257-p,3208452,VGEDAMKtPSPAAED,intracellular localization,"cell growth, induced; transcription, induced",28630428,,"nuclear accumulation, TJ localization",,,
+SYMPK,Sympk,K483-sm,2586341,PKEEKVVkTESVLIK,,"RNA splicing, altered; cell growth, induced",17923699,,regulation of mRNA 3'-end processing- cleavage and polyadenylation,,,

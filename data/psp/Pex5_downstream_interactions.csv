@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PEX5,Pex5,K209-ub,22249280,VAKVDDPkLANSEFL,"molecular association, regulation; ubiquitination",,26344566,,"phosphorylated at S141 becomes ubiquitylated at K209, binding to SQSTM1, and directing the autophagosome to peroxisomes to induce pexophagy",SQSTM1,Sqstm1,INDUCES
+PEX5,Pex5,K464-ub,1873159800,DSLFLEVkELFLAAV,protein stabilization,,28724525,,regulates peroxisomal cargo protein import,,,
+PEX5,Pex5,S141-p,50389701,DYNETDWsQEFISEV,"molecular association, regulation; ubiquitination",,26344566,,"phosphorylated at S141 becomes ubiquitylated at K209, binding to SQSTM1, and directing the autophagosome to peroxisomes to induce pexophagy",SQSTM1,Sqstm1,INDUCES

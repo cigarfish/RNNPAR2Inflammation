@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DCK,Dck,S74-p,456305,EFEELTMsQKNGGNV,"activity, induced; molecular association, regulation; protein conformation; enzymatic activity, induced","cell cycle regulation; DNA repair, induced; autophagy, induced; apoptosis, inhibited; signaling pathway regulation",16361699; 17065079; 18258203; 20544527; 20637175; 21351740; 22490700; 22850745; 24462681; 25101980; 27879648; 29393406,dNK,IR induced autophagy,CDK1,Cdk1,INDUCES
+DCK,Dck,S11-p,460585,PPKRSCPsFSASSEG,phosphorylation,,20544527,,regulates phosphorylation of S74,,,
+DCK,Dck,S15-p,460586,SCPSFSAsSEGTRIK,phosphorylation,,20544527,,regulates phosphorylation of S74,,,
+DCK,Dck,T3-p,460584,_____MAtPPKRSCP,protein stabilization; phosphorylation,,20544527,,,,,

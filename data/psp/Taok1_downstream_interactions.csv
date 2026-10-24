@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAOK1,Taok1,S990-p,3627517,SRSTSVTsQISNGSH,"activity, induced",cell cycle regulation,17396146,,,,,
+TAOK1,Taok1,T440-p,23150854,RNREHFAtIRTASLV,"molecular association, regulation",cytoskeletal reorganization,25456499; 36595571,,induces binding to membrane phosphoinositides; spine development,MYL5,Myl5,INDUCES
+TAOK1,Taok1,T440-p,23150854,RNREHFAtIRTASLV,"molecular association, regulation",cytoskeletal reorganization,25456499; 36595571,,induces binding to membrane phosphoinositides; spine development,DBN1,Dbn1,INDUCES
+TAOK1,Taok1,S554-p,3627515,ELNSFLEsQKREYKL,,cell cycle regulation,17396146,,,,,
+TAOK1,Taok1,T643-p,3627518,EELNKRQtQKDLEHA,"activity, induced",cell cycle regulation,17396146,,,,,
+TAOK1,Taok1,T443-p,1880716204,EHFATIRtASLVTRQ,"molecular association, regulation",,36595571,,induces binding to membrane phosphoinositides,,,
+TAOK1,Taok1,T502-p,3627514,RLDKDLEtQRNNFAA,"activity, induced",cell cycle regulation,17396146,,,,,
+TAOK1,Taok1,T785-p,3627516,SINEMLStQALRLDE,"activity, induced",cell cycle regulation,17396146,,,,,

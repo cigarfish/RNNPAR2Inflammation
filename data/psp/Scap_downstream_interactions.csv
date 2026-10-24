@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SCAP,Scap,K305-ub,1877340000,YIYFSTRkIDMVKSK,"activity, induced; protein conformation","transcription, induced",32054686,," promotes loop 1?loop 7 interaction, cholesterol biosynthesis",,,

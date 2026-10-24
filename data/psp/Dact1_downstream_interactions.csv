@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DACT1,Dact1,S827-p,18159800,KKILRFRsGSLKLMT,"molecular association, regulation","carcinogenesis, altered; cell growth, altered",21262972,Dapper, ; modulates Wnt signaling,14-3-3 beta,Ywhab,INDUCES
+DACT1,Dact1,S237-p,18159801,GAVCRSLsTPQFNSL,"molecular association, regulation","carcinogenesis, altered; cell growth, altered",21262972,Dapper, ; modulates Wnt signaling,14-3-3 beta,Ywhab,INDUCES

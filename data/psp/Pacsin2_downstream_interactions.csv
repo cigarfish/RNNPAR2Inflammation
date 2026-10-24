@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PACSIN2,Pacsin2,S372-p,3215997,EDEDDTGsTVSEKDD,"molecular association, regulation; receptor internalization, altered",neural plasticity,23918399,,regulates AMPAR trafficking,PICK1,Pick1,DISRUPTS
+PACSIN2,Pacsin2,S375-p,4786399,DDTGSTVsEKDDTKA,"molecular association, regulation; receptor internalization, altered",neural plasticity,23918399,,regulates AMPAR trafficking,PICK1,Pick1,DISRUPTS
+PACSIN2,Pacsin2,S313-p,4786393,ADLNRTLsRREKKKA,"molecular association, regulation; ubiquitination","cell motility, induced; cytoskeletal reorganization; transcription, inhibited",31801866; 37296607,,NS5A protein from Hepatitis C virus inhibits phosphorylation of this site which promotes its interaction with PACSIN2 domain I; inhibits ubiquitination and degradation of N-WASP,,,

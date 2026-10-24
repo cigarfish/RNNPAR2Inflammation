@@ -1,0 +1,38 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DNMT1,Dnmt1,K961-ac,25171006,SPVKRPRkEPVDEDL,,cell cycle regulation,21947282,BAH,,,,
+DNMT1,Dnmt1,K259-ac,25171012,PTPKQKLkEEPDREA,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,K1609-sm,12726305,ESASAKIkEEEAAKD,"enzymatic activity, induced",,19450230,,,,,
+DNMT1,Dnmt1,S143-p,3189394,RTPRRSKsDGEAKPE,"molecular association, regulation; protein stabilization; enzymatic activity, inhibited; methylation","carcinogenesis, induced",21151116; 26553800,,inhibits K142 methylation; 14-3-3 overexpression results in genome hypomethylation with and cell invasion,14-3-3 beta,Ywhab,INDUCES
+DNMT1,Dnmt1,S143-p,3189394,RTPRRSKsDGEAKPE,"molecular association, regulation; protein stabilization; enzymatic activity, inhibited; methylation","carcinogenesis, induced",21151116; 26553800,,inhibits K142 methylation; 14-3-3 overexpression results in genome hypomethylation with and cell invasion,14-3-3 gamma,Ywhag,INDUCES
+DNMT1,Dnmt1,S143-p,3189394,RTPRRSKsDGEAKPE,"molecular association, regulation; protein stabilization; enzymatic activity, inhibited; methylation","carcinogenesis, induced",21151116; 26553800,,inhibits K142 methylation; 14-3-3 overexpression results in genome hypomethylation with and cell invasion,14-3-3 eta,Ywhah,INDUCES
+DNMT1,Dnmt1,K749-ac,25171013,GKKSYYKkVCIDAET,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,S878-p,27447600,QDYARFEsPPKTQPT,"protein stabilization; molecular association, regulation; enzymatic activity, induced","transcription, induced",33227819,BAH,,HDAC1,Hdac1,INDUCES
+DNMT1,Dnmt1,S878-p,27447600,QDYARFEsPPKTQPT,"protein stabilization; molecular association, regulation; enzymatic activity, induced","transcription, induced",33227819,BAH,,GATA1,Gata1,INDUCES
+DNMT1,Dnmt1,S878-p,27447600,QDYARFEsPPKTQPT,"protein stabilization; molecular association, regulation; enzymatic activity, induced","transcription, induced",33227819,BAH,,HDAC2,Hdac2,INDUCES
+DNMT1,Dnmt1,S878-p,27447600,QDYARFEsPPKTQPT,"protein stabilization; molecular association, regulation; enzymatic activity, induced","transcription, induced",33227819,BAH,,Bcl-11A,Bcl11a,INDUCES
+DNMT1,Dnmt1,K148-sm,12726304,SKSDGEAkPEPSPSP,"enzymatic activity, induced",,19450230,,,,,
+DNMT1,Dnmt1,K739-sm,12726302,SWVGEAVkTDGKKSY,"enzymatic activity, induced",,19450230,,,,,
+DNMT1,Dnmt1,K957-ac,25171005,IKLSSPVkRPRKEPV,,cell cycle regulation,21947282,BAH,,,,
+DNMT1,Dnmt1,K1111-ac,466385,RSPGNKGkGKGKGKG,,"cell cycle regulation; transcription, inhibited",21947282,,,,,
+DNMT1,Dnmt1,K1054-ac,25171008,EEAVVDFkAVQGRCT,,cell cycle regulation,21947282,BAH,,,,
+DNMT1,Dnmt1,K1115-ac,466146,NKGKGKGkGKGKPKS,,"cell cycle regulation; transcription, inhibited",21947282,,,,,
+DNMT1,Dnmt1,K194-sm,12726303,AKSDESIkEEDKDQD,"enzymatic activity, induced",,19450230,,,,,
+DNMT1,Dnmt1,K366-ac,25171009,YLDDPDLkYGQHPPD,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,K142-m1,17772901,PRTPRRSkSDGEAKP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell growth, inhibited",21151116; 21239472; 24492612; 29691401,,,CUL4A,Cul4a,INDUCES
+DNMT1,Dnmt1,K142-m1,17772901,PRTPRRSkSDGEAKP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell growth, inhibited",21151116; 21239472; 24492612; 29691401,,,L3MBTL3,L3mbtl3,INDUCES
+DNMT1,Dnmt1,K142-m1,17772901,PRTPRRSkSDGEAKP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell growth, inhibited",21151116; 21239472; 24492612; 29691401,,,PHF20L1,Phf20l1,INDUCES
+DNMT1,Dnmt1,K142-m1,17772901,PRTPRRSkSDGEAKP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell growth, inhibited",21151116; 21239472; 24492612; 29691401,,,CUL4B,Cul4b,INDUCES
+DNMT1,Dnmt1,K1117-ac,474640,GKGKGKGkGKPKSQA,,"cell cycle regulation; transcription, inhibited",21947282,,,,,
+DNMT1,Dnmt1,K975-ac,25171007,LYPEHYRkYSDYIKG,,cell cycle regulation,21947282,BAH,,,,
+DNMT1,Dnmt1,K188-ac,25171004,QEESERAkSDESIKE,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,K675-sm,12726307,KACKDMVkFGGSGRS,"enzymatic activity, induced",,19450230,zf-CXXC,,,,
+DNMT1,Dnmt1,K957-sm,12726306,IKLSSPVkRPRKEPV,"enzymatic activity, induced",,19450230,BAH,,,,
+DNMT1,Dnmt1,K160-ac,25171011,PSPRITRkSTRQTTI,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,K1113-ac,466386,PGNKGKGkGKGKGKP,,"cell cycle regulation; transcription, inhibited",21947282,,,,,
+DNMT1,Dnmt1,K891-ac,25171010,PTEDNKFkFCVSCAR,,cell cycle regulation,21947282,,,,,
+DNMT1,Dnmt1,S730-p,452655,DNIPEMPsPKKMHQG,"molecular association, regulation; protein conformation; activity, inhibited",,28143904,,,RBBP7,Rbbp7,INDUCES
+DNMT1,Dnmt1,K1349-ac,25171003,SVVVDDKkFVSNITR,"enzymatic activity, inhibited",cell cycle regulation,21947282,DNA_methylase,,,,
+DNMT1,Dnmt1,K1415-ac,25171002,ILRDHICkDMSALVA,"enzymatic activity, inhibited",cell cycle regulation,21947282,DNA_methylase,,,,
+DNMT1,Dnmt1,S714-p,452655,DNIPEMPsPKKMHQG,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; chromatin organization, altered; transcription, inhibited",32071079; 35402240,,,,,
+DNMT1,Dnmt1,S154-p,476108,AKPEPSPsPRITRKS,"acetylation; protein stabilization; enzymatic activity, induced","transcription, altered",21565170; 35246513,,decreased stability in 154A mutant after treatment with 5'-Aza-2-Deoxycytidine; regulates MRTF-A acetylation,,,
+DNMT1,Dnmt1,K1135-sm,12726301,SEPEIEIkLPKLRTL,"enzymatic activity, induced",,19450230,,,,,

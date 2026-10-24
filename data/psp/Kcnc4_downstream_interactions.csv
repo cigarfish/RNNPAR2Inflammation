@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNC4,Kcnc4,S15-p,451077,SSYRGRKsGNKPPSK,"receptor inactivation, altered; protein conformation; activity, inhibited",,7993631; 9649584,Potassium_chann,,,,
+KCNC4,Kcnc4,S21-p,451078,KSGNKPPsKTCLKEE,"receptor inactivation, altered; protein conformation; activity, inhibited",,7993631; 9649584,Potassium_chann,,,,
+KCNC4,Kcnc4,S8-p,451075,MISSVCVsSYRGRKS,"receptor inactivation, altered",,9649584,Potassium_chann,,,,
+KCNC4,Kcnc4,S9-p,451076,ISSVCVSsYRGRKSG,"receptor inactivation, altered",,9649584,Potassium_chann,,,,

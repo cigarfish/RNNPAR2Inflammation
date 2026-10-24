@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSK,Csk,S364-p,448477,ALREKKFsTKSDVWS,"phosphorylation; enzymatic activity, induced",,11181701; 12600271,PK_Tyr_Ser-Thr,In vitro the presence of SH3 domain of CSK  greatly increases phosphotransferase activity of CSK. PKA mediated phosphorylation of S364 is independent of SH3 domain. ,PKACA,Prkaca,INDUCES

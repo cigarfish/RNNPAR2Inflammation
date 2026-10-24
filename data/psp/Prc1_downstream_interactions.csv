@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRC1,Prc1,T616-p,7444691,TSGILNStNIQS___,"molecular association, regulation","cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",17351640; 22621898; 23940115; 24120663,,Dephosphorylation at T481 and phosphorylation at T616 lead to mitotic exit,PLK1,Plk1,INDUCES
+PRC1,Prc1,Y464-p,474466,QTETEMLyGSAPRTP,intracellular localization,,33510346,MAP65_ASE1,,,,
+PRC1,Prc1,S577-p,26331401,FSINSVAsTYSEFAK,phosphorylation,,17351640,,Docking site phosphorylation at T616 is regulated  T578  phosphorylation.,,,
+PRC1,Prc1,T578-p,26331400,SINSVAStYSEFAKD,phosphorylation,,17351640,,Docking site phosphorylation at T616 is regulated  T578  phosphorylation.,,,
+PRC1,Prc1,S513-p,3887566,FGGTVYHsPVSRLPP,,cytoskeletal reorganization,39472429,,,,,
+PRC1,Prc1,T481-p,483541,RRGLAPNtPGKARKL,"activity, induced; intracellular localization; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, inhibited; cell growth, induced; chromatin organization, altered; cytoskeletal reorganization",16603632; 17512944; 24120663; 27551054; 30626720; 30992425; 34158398; 39472429,,,,,
+PRC1,Prc1,T470-p,471795,LYGSAPRtPSKRRGL,"activity, induced; intracellular localization",cell cycle regulation; cytoskeletal reorganization,16603632; 17438553; 17512944; 27551054; 39472429,MAP65_ASE1,,PRC1,Prc1,INDUCES
+PRC1,Prc1,S615-p,4274308,ATSGILNsTNIQS__,"molecular association, regulation",,17351640,,phosphorylation and docking site of PLK1,PLK1,Plk1,INDUCES

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BRCA2,Brca2,S3291-p,455462,SPICTFVsPAAQKAF,"molecular association, regulation","cell cycle regulation; chromatin organization, altered; DNA repair, inhibited",15800615; 17515903; 18593900; 32726637,,,RAD51,Rad51,DISRUPTS
+BRCA2,Brca2,T207-p,469578,TPPTLSStVLIVRNE,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, induced",32286328,,causes self priming of its phosphorylation,PPP2CA,Ppp2ca,INDUCES
+BRCA2,Brca2,T207-p,469578,TPPTLSStVLIVRNE,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, induced",32286328,,causes self priming of its phosphorylation,BUB1,Bub1,INDUCES
+BRCA2,Brca2,T207-p,469578,TPPTLSStVLIVRNE,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, induced",32286328,,causes self priming of its phosphorylation,PLK1,Plk1,INDUCES
+BRCA2,Brca2,T77-p,15418117,SYNQLAStPIIFKEQ,"molecular association, regulation",cell cycle regulation,24448238; 24835992,,,PLK1,Plk1,INDUCES
+BRCA2,Brca2,T77-p,15418117,SYNQLAStPIIFKEQ,"molecular association, regulation",cell cycle regulation,24448238; 24835992,,,RAD51,Rad51,INDUCES
+BRCA2,Brca2,S193-p,469574,AEVDPDMsWSSSLAT,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,24448238,," Inhibiting this binding inactivated the ATPase activity, formation of the midbody, and interruption of cytokinesis.; localizes to Flemming body",MYH14,Myh14,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZNRF2,Znrf2,S19-p,3206973,NGRTRAYsGSDLPSS,"molecular association, regulation",,19648646,,yeast 14-3-3 used for binding assay,14-3-3 beta,Ywhab,INDUCES
+ZNRF2,Znrf2,S145-p,4742836,GPRLVIGsLPAHLSP,intracellular localization,,27244671,,,,,

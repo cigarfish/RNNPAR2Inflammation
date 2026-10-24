@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC12A2,Slc12a2,T203-p,467235,HQHYYYDtHTNTYYL,"activity, induced; intracellular localization; enzymatic activity, induced",,16669787; 22032326; 36766805,AA_permease_N,,,,
+SLC12A2,Slc12a2,T217-p,455546,LRTFGHNtMDAVPRI,"activity, induced; intracellular localization",,12145304; 12145305; 36766805,AA_permease_N,,,,
+SLC12A2,Slc12a2,T207-p,467236,YYDTHTNtYYLRTFG,"activity, induced; intracellular localization; enzymatic activity, induced",,16669787; 20442269; 22032326; 36766805,AA_permease_N,,,,
+SLC12A2,Slc12a2,T212-p,455545,TNTYYLRtFGHNTMD,"activity, induced; intracellular localization; enzymatic activity, induced",,12145304; 12145305; 16669787; 22032326; 36766805,AA_permease_N,,,,
+SLC12A2,Slc12a2,T230-p,459123,RIDHYRHtAAQLGEK,"activity, induced; intracellular localization",,12145304; 36766805,AA_permease_N,,,,
+SLC12A2,Slc12a2,S77-p,3192079,RPLGPTPsQSRFQVD,"activity, inhibited",,24702155,,Co-transporter activity of NKCC1 is reduced.,,,
+SLC12A2,Slc12a2,T1023-p,1886659901,QKKQGKNtIDVWWLF,"activity, induced",,36318922,,Induces cell volume recovery during hypertonic stress,,,

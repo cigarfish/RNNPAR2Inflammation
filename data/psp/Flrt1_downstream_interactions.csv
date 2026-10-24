@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLRT1,Flrt1,Y671-p,14150101,GGIPDIDySYT____,intracellular localization,"cell growth, altered",20421966,,regulates ERK1/2 activation,,,
+FLRT1,Flrt1,Y600-p,14150102,GSRKKDDyMESGTKK,intracellular localization,"cell growth, altered",20421966,TM,regulates ERK1/2 activation,,,
+FLRT1,Flrt1,Y633-p,14150100,PYRAKEEyVVHTIFP,intracellular localization,"cell growth, altered",20421966,,regulates ERK1/2 activation,,,

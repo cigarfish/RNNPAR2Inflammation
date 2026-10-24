@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WASF2,Wasf2,S497-p,6377639,EFDEDDWsD______,"activity, inhibited",cytoskeletal reorganization,19012317,,,,,
+WASF2,Wasf2,S343-p,18715501,PPPVGFGsPGTPPPP,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",21419341,,regulates WRC (WAVE2 regulatory complex) interaction with Arp2/3 and lamellipodial protrusion,,,
+WASF2,Wasf2,S489-p,6377640,SDSEDDSsEFDEDDW,"activity, inhibited",cytoskeletal reorganization,19012317,,,,,
+WASF2,Wasf2,T346-p,18715502,VGFGSPGtPPPPSPP,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",21419341,,regulates WRC (WAVE2 regulatory complex) interaction with Arp2/3 and lamellipodial protrusion,,,
+WASF2,Wasf2,Y150-p,455197,GKEALKFyTDPSYFF,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,15657136,,,Abi-1,Abi1,INDUCES
+WASF2,Wasf2,S308-p,12626400,PPAPPLGsPPGPKPG,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",21419341,,regulates WRC (WAVE2 regulatory complex) interaction with Arp2/3 and lamellipodial protrusion,,,
+WASF2,Wasf2,S484-p,6377638,IAVEYSDsEDDSSEF,"activity, inhibited",cytoskeletal reorganization,19012317,,,,,
+WASF2,Wasf2,S482-p,6377642,RRIAVEYsDSEDDSS,"activity, inhibited",cytoskeletal reorganization,19012317,,,,,
+WASF2,Wasf2,S351-p,18715500,PGTPPPPsPPSFPPH,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",21419341,,regulates WRC (WAVE2 regulatory complex) interaction with Arp2/3 and lamellipodial protrusion,,,
+WASF2,Wasf2,S488-p,6377641,YSDSEDDsSEFDEDD,"activity, inhibited",cytoskeletal reorganization,19012317,,,,,

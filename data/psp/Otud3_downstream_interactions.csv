@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OTUD3,Otud3,S326-p,15710569,ENNKAQAsPSEENKA,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",38351178,,Inhiqbits YY1 ubiquitination,YY1,Yy1,INDUCES
+OTUD3,Otud3,K129-ac,1875273800,KHVASLAkPGTFAGN,"enzymatic activity, induced",,32679077; 35675783,OTU,,,,

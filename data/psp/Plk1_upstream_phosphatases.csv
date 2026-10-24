@@ -1,0 +1,7 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Plk1,Eya1,EYA1,EYA1,PLK1,Y445,Putative upstream phosphatases
+Plk1,Eya3,EYA3,EYA3,PLK1,Y445,Putative upstream phosphatases
+Plk1,Eya4,EYA4,EYA4,PLK1,Y445,Putative upstream phosphatases
+Plk1,Ppp1ca,PPP1CA,PPP1CA,PLK1,T210,Putative upstream phosphatases
+Plk1,Ppp1cc,PPP1CC,PPP1CC,PLK1,T210,Putative upstream phosphatases
+Plk1,Ppp1r12a,PPP1R12A,MYPT1,PLK1,T210,Putative upstream phosphatases

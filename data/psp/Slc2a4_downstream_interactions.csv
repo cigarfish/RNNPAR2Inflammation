@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC2A4,Slc2a4,S274-p,478418,LERERPLsLLQLLGS,"activity, induced",,17382906,Sugar_tr,activation of glucose transport,,,

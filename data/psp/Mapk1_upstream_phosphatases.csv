@@ -1,0 +1,6 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Mapk1,Dusp1,DUSP1,DUSP1,MAPK1,T185,"Phosphatases, in vitro"
+Mapk1,Dusp1,DUSP1,DUSP1,MAPK1,Y187,"Phosphatases, in vitro"
+Mapk1,Ppp2ca,PPP2CA,PPP2CA,MAPK1,T185,"Phosphatases, in vitro"
+Mapk1,Ptpn1,PTPN1,PTP1B,MAPK1,T185,Putative upstream phosphatases
+Mapk1,Ptpn1,PTPN1,PTP1B,MAPK1,Y187,Putative upstream phosphatases

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKAR2B,Prkar2b,S114-p,452036,NRFTRRAsVCAEAYN,"protein degradation; enzymatic activity, inhibited; intracellular localization; phosphorylation","neural plasticity; transcription, altered",15187164; 33608270; 33649504,,inhibits CREB phosphorylation,,,

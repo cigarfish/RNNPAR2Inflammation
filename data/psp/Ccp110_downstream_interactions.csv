@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCP110,Ccp110,S98-p,126835300,VRKAPNAsDFDQWEM,,cell cycle regulation,28562169,CaM_bind,centrosome duplication,,,
+CCP110,Ccp110,S45-p,35546003,FHGVAILsPLLNIEK,intracellular localization,cell cycle regulation,12361598,CaM_bind,,,,
+CCP110,Ccp110,S516-p,23095734,ASSQCIAsPNFGTVS,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,S400-p,4744475,PINACELsPKGKEQA,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,S170-p,22351338,RDSEGFNsPKQCDSS,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,T566-p,35546004,NTRQQMDtPMVSCGN,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,S366-p,9314148,GSYAKLPsPEPSMSP,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,T194-p,2024013,FPKTSSAtPQETLIS,intracellular localization,cell cycle regulation,12361598,,,,,
+CCP110,Ccp110,S372-p,9318022,PSPEPSMsPKMHRRR,intracellular localization,cell cycle regulation,12361598,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNK2,Tnk2,Y284-p,450946,LPQNDDHyVMQEHRK,"phosphorylation; enzymatic activity, induced","cell cycle regulation; cell growth, induced; apoptosis, inhibited; transcription, induced",16472662; 25148682; 37330596,PK_Tyr_Ser-Thr,,,,
+TNK2,Tnk2,Y860-p,448884,KVSSTHYyLLPERPS,"enzymatic activity, inhibited; protein conformation; phosphorylation; enzymatic activity, induced",,36178070; 37662484,,,,,
+TNK2,Tnk2,Y635-p,4251154,PLPPPPAyDDVAQDE,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced; signaling pathway regulation",25257795,,PDGF-induced PDGFRB-ACK1-AKT signaling,Akt1,Akt1,INDUCES
+TNK2,Tnk2,Y859-p,448883,KKVSSTHyYLLPERP,"enzymatic activity, inhibited; protein conformation; phosphorylation; enzymatic activity, induced",,36178070; 37662484,,,,,

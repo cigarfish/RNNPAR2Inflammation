@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACO2,Aco2,K258-ac,1875261900,VAGILTVkGGTGAIV,"enzymatic activity, induced","transcription, inhibited",33115805,Aconitase,K258 acetylation of ACO2 is important for its optimal enzyme activity and function in prostate cancer cells: AR and its coregulator SRC-2 repress SIRT3 expression and maintain high levels of acetylated K258.,,,

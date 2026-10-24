@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH3GL1,Sh3gl1,Y315-p,450745,QPSCKALyDFEPEND,"molecular association, regulation",,16054026,SH3_1,,DYN1,Dnm1,DISRUPTS

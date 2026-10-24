@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RHOT1,Rhot1,S156-p,21587701,AKNLKNIsELFYYAQ,protein degradation,"autophagy, induced",22078885; 35455950,Ras,induces mitophagy; arrest of mitochondrial motility,,,
+RHOT1,Rhot1,K153-ub,22250894,ECSAKNLkNISELFY,protein degradation; intracellular localization,"autophagy, induced",34152608,Ras,induces mitophagy by recruiting Parkin to mitochondria,,,
+RHOT1,Rhot1,K194-ub,27206526,KALTRIFkISDQDND,protein degradation; intracellular localization,"autophagy, induced",34152608,,induces mitophagy by recruiting Parkin to mitochondria,,,
+RHOT1,Rhot1,K187-ub,7287869,EMKPACIkALTRIFK,protein degradation; intracellular localization,"autophagy, induced",34152608,,induces mitophagy by recruiting Parkin to mitochondria,,,
+RHOT1,Rhot1,K182-ub,12255120,CPEEKEMkPACIKAL,protein degradation; intracellular localization,"autophagy, induced",34152608,,induces mitophagy by recruiting Parkin to mitochondria,,,
+RHOT1,Rhot1,K572-ub,32005103,PSKDIFVkLTTMAMY,protein degradation; intracellular localization,"autophagy, induced",34152608,,induces mitophagy by recruiting Parkin to mitochondria,,,

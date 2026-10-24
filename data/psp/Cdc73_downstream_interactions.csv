@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC73,Cdc73,Y315-p,15402684,KIDTMGTyHGMTLKS,"molecular association, regulation; protein conformation","transcription, inhibited; signaling pathway regulation",21726809,,inhibits Wnt signaling pathway,CTNNB1,Ctnnb1,DISRUPTS
+CDC73,Cdc73,Y290-p,3449102,KQPIPAAyNRYDQER,"molecular association, regulation; protein conformation","transcription, inhibited; signaling pathway regulation",21726809,CDC73_N,inhibits Wnt signaling pathway,CTNNB1,Ctnnb1,DISRUPTS
+CDC73,Cdc73,Y293-p,20831311,IPAAYNRyDQERFKG,"molecular association, regulation; protein conformation","transcription, inhibited; signaling pathway regulation",21726809,CDC73_N,inhibits Wnt signaling pathway,CTNNB1,Ctnnb1,DISRUPTS
+CDC73,Cdc73,K243-ub,603484760,TILQSTGkNFSKNIF,protein degradation; ubiquitination,,35551175,CDC73_N,,,,
+CDC73,Cdc73,S465-p,1879768900,PWLLPDGsPVDIFAK,protein stabilization,,35551175,,,,,
+CDC73,Cdc73,K257-ub,41483948,FAILQSVkAREEGRA,protein degradation; ubiquitination,,35551175,CDC73_N,,,,
+CDC73,Cdc73,K247-ub,12302328,STGKNFSkNIFAILQ,protein degradation; ubiquitination,,35551175,CDC73_N,,,,

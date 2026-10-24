@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PGD,Pgd,Y481-p,465221,GTVSSSSyNA_____,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",30824700,,phosphorylation of this site increases NADP+ binding affinity of 6PGD;  required for ROS detoxification and tumor cell survival upon IR treatment ;  promotes DNA synthesis,,,

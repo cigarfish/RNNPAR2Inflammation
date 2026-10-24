@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC37,Cdc37,S13-p,450034,VWDHIEVsDDEDETH,"molecular association, regulation",,12930845; 27105117,CDC37_N,S13 phosphorylation does not impact recognition or affnity for BRAF. S13  affects chaperone cycle at a stage later than Cdc37 recognition.,HSP90A,Hsp90aa1,INDUCES
+CDC37,Cdc37,S13-p,450034,VWDHIEVsDDEDETH,"molecular association, regulation",,12930845; 27105117,CDC37_N,S13 phosphorylation does not impact recognition or affnity for BRAF. S13  affects chaperone cycle at a stage later than Cdc37 recognition.,HRI,Eif2ak1,INDUCES
+CDC37,Cdc37,S339-p,62877802,HMQRCIDsGLWVPNS,"molecular association, regulation",,28073914,CDC37_C,,CDK4,Cdk4,DISRUPTS
+CDC37,Cdc37,S339-p,62877802,HMQRCIDsGLWVPNS,"molecular association, regulation",,28073914,CDC37_C,,AurB,Aurkb,DISRUPTS
+CDC37,Cdc37,S339-p,62877802,HMQRCIDsGLWVPNS,"molecular association, regulation",,28073914,CDC37_C,,Src,Src,DISRUPTS
+CDC37,Cdc37,S97-p,1214257700,QLRKEERsWEQKLEE,"protein stabilization; molecular association, regulation",,30068645,CDC37_N,inhibits ubiquitination and degradation of AXL,HSP90A,Hsp90aa1,INDUCES
+CDC37,Cdc37,Y298-p,451691,GLDPVEVyESLPEEL,"molecular association, regulation",,22727666,CDC37_C,,CDK4,Cdk4,DISRUPTS
+CDC37,Cdc37,Y298-p,451691,GLDPVEVyESLPEEL,"molecular association, regulation",,22727666,CDC37_C,,RAF1,Raf1,DISRUPTS
+CDC37,Cdc37,Y4-p,34490407,____MVDySVWDHIE,"molecular association, regulation",,22727666,CDC37_N,,,,

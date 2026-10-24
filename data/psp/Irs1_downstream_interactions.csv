@@ -1,0 +1,25 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRS1,Irs1,S636-p,447506,SGDYMPMsPKSVSAP,intracellular localization,"carcinogenesis, induced; cell motility, induced",16914728; 27014871,,,,,
+IRS1,Irs1,S629-p,478346,VPSGRKGsGDYMPMS,"molecular association, regulation",,17640984,,,PIK3R1,Pik3r1,INDUCES
+IRS1,Irs1,Y612-p,447555,TLHTDDGyMPMSPGV,"activity, induced; molecular association, regulation","cell differentiation, induced; transcription, induced",11416002; 12525499; 22081023,,,PIK3R1,Pik3r1,INDUCES
+IRS1,Irs1,S616-p,447562,DDGYMPMsPGVAPVP,"molecular association, regulation; intracellular localization; activity, inhibited",signaling pathway regulation,12917346; 16914728; 9335553,,morphine-inhibited insulin receptor signaling; via cell fractionation experiments; Phosphorylated S616 results in an inhibition of insulin signaling.,PIK3R1,Pik3r1,DISRUPTS
+IRS1,Irs1,T525-p,27532989,DNRFRKRtHSAGTSP,intracellular localization,,34253290,,disassociation of IRS2 from plasma membrane to cytosol;  limits PM-associated PI3K and PIP3 synthesis,,,
+IRS1,Irs1,S1223-p,456047,SSSTRRSsEDLSAYA,"activity, inhibited",,16020478,,,SHP-2,Ptpn11,DISRUPTS
+IRS1,Irs1,S307-p,450190,TRRSRTEsITATSPA,"molecular association, regulation; intracellular localization; phosphorylation",,15143153; 16129690; 16914728; 34253290,,disassociation of IRS2 from plasma membrane to cytosol; via cell fractionation experiments;  limits PM-associated PI3K and PIP3 synthesis,INSR,Insr,DISRUPTS
+IRS1,Irs1,S270-p,447566,EFRPRSKsQSSSNCS,"molecular association, regulation; intracellular localization",,34253290; 9312143,,,14-3-3 beta,Ywhab,INDUCES
+IRS1,Irs1,S330-p,447559,SFRVRASsDGEGTMS,intracellular localization,,34253290,,disassociation of IRS2 from plasma membrane to cytosol;  limits PM-associated PI3K and PIP3 synthesis,,,
+IRS1,Irs1,K1189-ub,1873529900,LDLVKDFkQCPQECT,"molecular association, regulation; phosphorylation","cell growth, induced; signaling pathway regulation",33991522,,regulates IRS1-tyrosine phosphorylation and IGF1-mediated downstream signaling,IGF1R,Igf1r,INDUCES
+IRS1,Irs1,Y896-p,447556,EPKSPGEyVNIEFGS,"activity, induced; molecular association, regulation; phosphorylation",cell cycle regulation,11259577; 22081023,,regulation of glucose metabolism; Erk1/2 phosphorylation,GRB2,Grb2,INDUCES
+IRS1,Irs1,S527-p,447561,RFRKRTHsAGTSPTI,intracellular localization,signaling pathway regulation,16914728; 34253290; 35810470,,disassociation of IRS2 from plasma membrane to cytosol; via cell fractionation experiments; regulates insulin signaling;  limits PM-associated PI3K and PIP3 synthesis,,,
+IRS1,Irs1,Y632-p,447565,GRKGSGDyMPMSPKS,"molecular association, regulation","cell differentiation, induced; transcription, induced",11416002; 12525499,,,PIK3R1,Pik3r1,INDUCES
+IRS1,Irs1,S1101-p,453434,GCRRRHSsETFSSTP,"protein degradation; intracellular localization; activity, inhibited",signaling pathway regulation,15364919; 26956053; 34253290; 36178534; 37890688,,regulates IRS-1-Akt signalling,,,
+IRS1,Irs1,S312-p,447558,TESITATsPASMVGG,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered; cell motility, inhibited",12351658; 12510059; 16914728; 18794113; 37298039,,,IKKA,Chuk,DISRUPTS
+IRS1,Irs1,S312-p,447558,TESITATsPASMVGG,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered; cell motility, inhibited",12351658; 12510059; 16914728; 18794113; 37298039,,,IKKB,Ikbkb,DISRUPTS
+IRS1,Irs1,S639-p,447507,YMPMSPKsVSAPQQI,intracellular localization,,16914728,,via cell fractionation experiments,,,
+IRS1,Irs1,K1186-ub,1873529901,YIDLDLVkDFKQCPQ,"molecular association, regulation; phosphorylation","cell growth, induced; signaling pathway regulation",33991522,,regulates IRS1-tyrosine phosphorylation and IGF1-mediated downstream signaling,IGF1R,Igf1r,INDUCES
+IRS1,Irs1,S24-p,455604,GYLRKPKsMHKRFFV,"molecular association, regulation",,15849359,PH,,PIK3C2A,Pik3c2a,INDUCES
+IRS1,Irs1,S24-p,455604,GYLRKPKsMHKRFFV,"molecular association, regulation",,15849359,PH,,INSR,Insr,INDUCES
+IRS1,Irs1,Y662-p,450356,QRVDPNGyMMMSPSG,"molecular association, regulation","cell differentiation, induced; transcription, induced",12525499,,,PIK3R1,Pik3r1,INDUCES
+IRS1,Irs1,S323-p,451399,MVGGKPGsFRVRASS,phosphorylation,,16611834,,S323A has increased DOG-uptake and increased IRS-1 pTyr in +insulin.,,,
+IRS1,Irs1,S794-p,447557,QHLRLSTsSGRLLYA,"molecular association, regulation; phosphorylation","apoptosis, induced; signaling pathway regulation; cell growth, altered",17459875; 20363874,,"decreases IRS1-tyrosine phosphorylation, decreases protein synthesis, inhibits Akt/TSC2/p70S6K signaling pathway",PIK3C2A,Pik3c2a,DISRUPTS
+IRS1,Irs1,S794-p,447557,QHLRLSTsSGRLLYA,"molecular association, regulation; phosphorylation","apoptosis, induced; signaling pathway regulation; cell growth, altered",17459875; 20363874,,"decreases IRS1-tyrosine phosphorylation, decreases protein synthesis, inhibits Akt/TSC2/p70S6K signaling pathway",PIK3R1,Pik3r1,DISRUPTS

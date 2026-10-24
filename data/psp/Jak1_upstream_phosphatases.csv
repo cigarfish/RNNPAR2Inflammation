@@ -1,0 +1,9 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Jak1,Ptpn2,PTPN2,PTPN2,JAK1,Y1034,"Phosphatases, in vitro"
+Jak1,Ptpn2,PTPN2,PTPN2,JAK1,Y1035,"Phosphatases, in vitro"
+Jak1,Ptpn22,PTPN22,PTPN22,JAK1,Y1034,"Phosphatases, in vitro"
+Jak1,Ptpn22,PTPN22,PTPN22,JAK1,Y1035,"Phosphatases, in vitro"
+Jak1,Ptpn2,PTPN2,PTPN2,JAK1,Y1034,Putative upstream phosphatases
+Jak1,Ptpn2,PTPN2,PTPN2,JAK1,Y1035,Putative upstream phosphatases
+Jak1,Ptpn22,PTPN22,PTPN22,JAK1,Y1034,Putative upstream phosphatases
+Jak1,Ptpn22,PTPN22,PTPN22,JAK1,Y1035,Putative upstream phosphatases

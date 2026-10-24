@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SKIL,Skil,K383-sm,3144803,QSWYPVIkQEGDHVS,,"carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited",16966324; 28493978,,,,,
+SKIL,Skil,K50-sm,3144802,INKVPTVkKEHLDDY,,"cell differentiation, inhibited; carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited",16966324; 17202138; 28493978,,,,,
+SKIL,Skil,K449-ub,3144806,HSSGKLQkTVSYPDV,protein degradation,signaling pathway regulation,11691834,,TGF-beta signaling,,,
+SKIL,Skil,K446-ub,3144804,EKAHSSGkLQKTVSY,protein degradation,signaling pathway regulation,11691834,,TGF-beta signaling,,,
+SKIL,Skil,K440-ub,3144805,SISRQSEkAHSSGKL,protein degradation,signaling pathway regulation,11691834,,TGF-beta signaling,,,

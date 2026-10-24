@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HTR6,Htr6,S350-p,1867750504,ERQASLAsPSLRTSH,"molecular association, regulation; activity, inhibited; enzymatic activity, induced","cell growth, induced",32047117,,induces Cdc42 activity further enhancing neurite growth,GRIN1,Grin1,DISRUPTS

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YWHAH,Ywhah,S25-p,14159200,ERYDDMAsAMKAVTE,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization; transcription, inhibited; signaling pathway regulation",33116123,14-3-3,"after binding Snali2, induces Snail2 binding to CDH1 promoter, thus inducing cancer invasion through the KHK-A-YWHAH-SLUG-CDH1 pathway",Snail2,Snai2,INDUCES

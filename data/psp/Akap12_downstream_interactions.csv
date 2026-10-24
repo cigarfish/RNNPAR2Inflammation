@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AKAP12,Akap12,S696-p,480148,KKRARRGsSSDEEGG,"receptor desensitization, inhibited; molecular association, regulation",,14657015,,,ADRB2,Adrb2,INDUCES
+AKAP12,Akap12,S698-p,455890,RARRGSSsDEEGGPK,"receptor desensitization, inhibited; molecular association, regulation",,14657015,,,ADRB2,Adrb2,INDUCES
+AKAP12,Akap12,S627-p,476343,KKRVRRPsESDKEDE,"receptor desensitization, inhibited; molecular association, regulation",,14657015,WSK,,ADRB2,Adrb2,INDUCES
+AKAP12,Akap12,K531-ac,1883516301,GLKKLSGkKQKGKRG,protein degradation; ubiquitination,,36122629,,deacetylation K531 by HDAC6 facilitates its ubiquitination and degradation,,,
+AKAP12,Akap12,T767-p,3801512,ESFKRLVtPRKKSKS,"molecular association, regulation; intracellular localization","cell cycle regulation; cell growth, induced",23063527,WSK,,PLK1,Plk1,INDUCES
+AKAP12,Akap12,S732-p,481957,TDGILAGsQEHDPGQ,"molecular association, regulation; intracellular localization","DNA repair, induced",27683220,,,,,
+AKAP12,Akap12,S772-p,34663200,LVTPRKKsKSKLEEK,"receptor desensitization, inhibited; molecular association, regulation",,14657015,WSK,,ADRB2,Adrb2,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRB10,Grb10,T155-p,22312200,PGSPPVLtPGSLPPS,protein stabilization,,21659604,,,,,
+GRB10,Grb10,S476-p,455870,MNILGSQsPLHPSTL,"protein stabilization; activity, inhibited",,15952796; 21659604,,,,,
+GRB10,Grb10,S104-p,483656,RSIQPQVsPRQRVQR,protein stabilization,,21659604,,,,,
+GRB10,Grb10,Y67-p,448348,NASLESLySACSMQS,"molecular association, regulation",,10871840,,,INSR,Insr,DISRUPTS
+GRB10,Grb10,S150-p,454185,PELCGPGsPPVLTPG,"protein stabilization; activity, inhibited",,15952796; 21659604,,,,,
+GRB10,Grb10,S428-p,455333,STPVRSVsENSLVAM,protein stabilization,,21659604,BPS,,,,

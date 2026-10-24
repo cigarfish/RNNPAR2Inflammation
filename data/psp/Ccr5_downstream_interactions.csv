@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCR5,Ccr5,S342-p,449902,ASSVYTRsTGEQEIS,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10085131; 11782464; 12065593,,,ARRB1,Arrb1,INDUCES
+CCR5,Ccr5,S342-p,449902,ASSVYTRsTGEQEIS,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10085131; 11782464; 12065593,,,ARRB2,Arrb2,INDUCES
+CCR5,Ccr5,S336-p,449901,QEAPERAsSVYTRST,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered; activity, inhibited",,10085131; 11782464; 12065593,,,ARRB1,Arrb1,INDUCES
+CCR5,Ccr5,S336-p,449901,QEAPERAsSVYTRST,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered; activity, inhibited",,10085131; 11782464; 12065593,,,ARRB2,Arrb2,INDUCES
+CCR5,Ccr5,S349-p,448724,STGEQEIsVGL____,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered; activity, inhibited",,10085131; 11782464; 12065593; 21148810,,,ARRB1,Arrb1,INDUCES
+CCR5,Ccr5,S349-p,448724,STGEQEIsVGL____,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered; activity, inhibited",,10085131; 11782464; 12065593; 21148810,,,ARRB2,Arrb2,INDUCES
+CCR5,Ccr5,S337-p,448725,EAPERASsVYTRSTG,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10085131; 11782464; 12065593,,,ARRB1,Arrb1,INDUCES
+CCR5,Ccr5,S337-p,448725,EAPERASsVYTRSTG,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10085131; 11782464; 12065593,,,ARRB2,Arrb2,INDUCES
+CCR5,Ccr5,Y339-p,2431400,PERASSVyTRSTGEQ,phosphorylation,,16809330,,"necessary for vaccina virus infection and subsequent ERK, IRS-2, and GRB2 phosphorylation",,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTK6,Ptk6,Y447-p,450276,RLSSFTSyENPT___,"molecular association, regulation; enzymatic activity, inhibited",,12121988; 14676834; 15539407,,,Akt1,Akt1,DISRUPTS
+PTK6,Ptk6,Y342-p,450274,RLIKEDVyLSHDHNI,"phosphorylation; enzymatic activity, induced",signaling pathway regulation,12121988; 14676834; 34145060,PK_Tyr_Ser-Thr,induces DOK1 phosphorylation;   regulates TCR/CD28 signaling,Brk,PtK6,INDUCES

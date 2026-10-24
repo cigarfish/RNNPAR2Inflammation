@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP3,Casp3,T152-p,34488901,GDRCRSLtGKPKLFI,"enzymatic activity, inhibited",,29414778,Peptidase_C14,,,,
+CASP3,Casp3,S249-p,866032500,KVATEFEsFSFDATF,"enzymatic activity, inhibited",,29414778,Peptidase_C14,,,,
+CASP3,Casp3,S150-p,450984,FRGDRCRsLTGKPKL,"molecular association, regulation; activity, inhibited","neural plasticity; apoptosis, inhibited",14970175; 33176141,Peptidase_C14,,GluR1,Gria1,DISRUPTS

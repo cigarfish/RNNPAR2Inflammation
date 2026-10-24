@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FRAT1,Frat1,S188-p,471366,RLQQRRGsQPETRTG,"protein degradation; activity, inhibited","transcription, inhibited",16982607,GSK-3_bind,phosphorylation of this site inhibits FRAT1 activity (towards GSK3beta) and reduces its ability to activate beta catenin-TCF/LEF-dependent transcription,,,

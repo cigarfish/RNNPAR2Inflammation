@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3CD,Pik3cd,S1039-p,466429,NWLAHNVsKDNRQ__,"enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",10064595; 24213578,,,,,
+PIK3CD,Pik3cd,Y524-p,454088,RRGSGELyEHEKDLV,,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",24213578,PI3Ka,,,,

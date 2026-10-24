@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RORA,Rora,S100-p,1212279800,CKGFFRRsQQSNATY,"molecular association, regulation; intracellular localization","transcription, induced",30025153; 32686824; 34157297,zf-C4,,,,
+RORA,Rora,K441-ub,1883509401,SWLQEKVkIEKLQQK,protein degradation,,36114756,Hormone_recep,PRMT5 is involved in RORa degradation by regulating ITCH binding R37A (mutant),,,
+RORA,Rora,R37-m2,1883509400,PLNQESArKSEPPAP,protein degradation,,36114756,,PRMT5 is involved in RORa degradation by regulating ITCH binding R37A (mutant),,,
+RORA,Rora,T128-p,482887,PGEAEPLtPTYNISA,"activity, inhibited","transcription, inhibited",17512500,,,,,
+RORA,Rora,S35-p,12613703,ETPLNQEsARKSEPP,"molecular association, regulation","cell motility, altered; cell growth, altered",20122401,,downregulates the Wnt signaling ,CTNNB1,Ctnnb1,INDUCES
+RORA,Rora,K240-sm,6124702,GLDINGIkPEPICDY,,"transcription, induced",19041634,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPR15,Gpr15,S359-p,17737600,RRRKRSVsL______,"molecular association, regulation; protein processing; intracellular localization",,21189250,,,14-3-3 beta,Ywhab,INDUCES
+GPR15,Gpr15,S359-p,17737600,RRRKRSVsL______,"molecular association, regulation; protein processing; intracellular localization",,21189250,,,COPB1,Copb1,DISRUPTS
+GPR15,Gpr15,S357-p,125971702,FARRRKRsVSL____,,"endocytosis, induced",28615320,,,,,

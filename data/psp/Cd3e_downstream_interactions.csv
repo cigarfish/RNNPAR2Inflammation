@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD3E,Cd3e,Y188-p,448918,PPVPNPDyEPIRKGQ,"molecular association, regulation; phosphorylation",,17617578; 18555270; 32317279,ITAM,,NCK2,Nck2,DISRUPTS
+CD3E,Cd3e,Y188-p,448918,PPVPNPDyEPIRKGQ,"molecular association, regulation; phosphorylation",,17617578; 18555270; 32317279,ITAM,,EPS8,Eps8,DISRUPTS
+CD3E,Cd3e,Y188-p,448918,PPVPNPDyEPIRKGQ,"molecular association, regulation; phosphorylation",,17617578; 18555270; 32317279,ITAM,,NCK1,Nck1,DISRUPTS

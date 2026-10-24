@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TH,Th,S58-p,448544,SYTPTPRsPRFIGRR,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S44-p,448545,RFIGRRQsLIEDARK,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S31-p,448544,KQAEAIMsPRFIGRR,"molecular association, regulation; intracellular localization; enzymatic activity, induced; phosphorylation",,19833152; 28637871; 7901013; 9920892,TOH_N,absence of S31 and S40 in an alternative spliced variant lacking exon 3 that has reduced enzymatic activity in vitro,SLC18A2,Slc18a2,INDUCES
+TH,Th,S31-p,448544,KQAEAIMsPRFIGRR,"molecular association, regulation; intracellular localization; enzymatic activity, induced; phosphorylation",,19833152; 28637871; 7901013; 9920892,TOH_N,absence of S31 and S40 in an alternative spliced variant lacking exon 3 that has reduced enzymatic activity in vitro,SNCA,Snca,INDUCES
+TH,Th,S71-p,448545,RFIGRRQsLIEDARK,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S67-p,448545,RFIGRRQsLIEDARK,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S35-p,448544,AIMVRGQsPRFIGRR,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S40-p,1876194200,GQGAPGPsLTGSPWP,"molecular association, regulation; protein conformation; enzymatic activity, induced",,35013193,TOH_N,inhibits binding to Dopamine,,,
+TH,Th,S19-p,448542,KGFRRAVsELDAKQA,"molecular association, regulation; enzymatic activity, induced",,12421349; 19801645; 24947669; 33456492,TOH_N,,14-3-3 zeta,Ywhaz,INDUCES
+TH,Th,S19-p,448542,KGFRRAVsELDAKQA,"molecular association, regulation; enzymatic activity, induced",,12421349; 19801645; 24947669; 33456492,TOH_N,,14-3-3 gamma,Ywhag,INDUCES
+TH,Th,S19-p,448542,KGFRRAVsELDAKQA,"molecular association, regulation; protein conformation; enzymatic activity, induced",,16626642; 24055376; 34031189,TOH_N,,14-3-3 zeta,Ywhaz,INDUCES
+TH,Th,S19-p,448542,KGFRRAVsELDAKQA,"molecular association, regulation; protein conformation; enzymatic activity, induced",,16626642; 24055376; 34031189,TOH_N,,14-3-3 gamma,Ywhag,INDUCES
+TH,Th,S62-p,448544,SYTPTPRsPRFIGRR,"enzymatic activity, induced",,7901013,TOH_N,,,,
+TH,Th,S40-p,448545,RFIGRRQsLIEDARK,"enzymatic activity, induced",,12421349; 33456492; 7901013; 9920892,TOH_N,absence of S31 and S40 in an alternative spliced variant lacking exon 3 that has reduced enzymatic activity in vitro,,,

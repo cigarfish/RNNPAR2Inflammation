@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOS1,Nos1,Y609-p,465469,DYCDNSRyNILEEVA,"molecular association, regulation; enzymatic activity, inhibited",,16690617,NO_synthase,prevents homodimerization,Src,Src,INDUCES

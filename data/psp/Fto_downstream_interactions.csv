@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FTO,Fto,K216-ub,22244732,PQKMPYLkEEPYFGM,protein degradation,"carcinogenesis, induced",34218271,FTO_NTD,  hypoxic tumor microenvironment promotes hypoxic tumor microenvironment promotes CRC metastasis; FTO exerts a tumor suppressive effect,,,
+FTO,Fto,T150-p,23108331,NDYLQIEtIQALEEL,intracellular localization,"cell cycle regulation; cell growth, inhibited; RNA stability, inhibited",32268083,FTO_NTD,,,,

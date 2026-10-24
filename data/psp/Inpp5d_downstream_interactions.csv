@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+INPP5D,Inpp5d,S33-p,1869876001,GSFLVRAsESISRAY,protein stabilization,"carcinogenesis, induced; cell growth, induced",31377397,SH2,,,,
+INPP5D,Inpp5d,S933-p,4778416,LHVKQTLsPDQQPTA,intracellular localization,,29852247,,nucleocytoplasmic shuttling (A mutant reduced accumulation in nucleus),,,
+INPP5D,Inpp5d,S27-p,15621800,SRTGKDGsFLVRASE,protein degradation,"carcinogenesis, induced; cell growth, induced",31377397,SH2,,,,
+INPP5D,Inpp5d,Y864-p,454794,GKTREKLyDFVKTER,intracellular localization,,29852247,,nucleocytoplasmic shuttling (A mutants show accumulation in nucleus) ,,,
+INPP5D,Inpp5d,Y865-p,454794,GKTREKLyDFVKTER,"molecular association, regulation",,23322602,,,SH2D1B(NOT_REPORTED,Sh2d1b1,UNKNOWN
+INPP5D,Inpp5d,Y1021-p,448865,EMFENPLyGSLSSFP,intracellular localization,,29852247,,nucleocytoplasmic shuttling (A mutants show accumulation in nucleus) ,,,
+INPP5D,Inpp5d,Y914-p,450030,TEIINPNyMGVGPFG,intracellular localization,,29852247,,nucleocytoplasmic shuttling (A mutants show accumulation in nucleus) ,,,

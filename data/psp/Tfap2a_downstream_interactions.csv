@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TFAP2A,Tfap2a,S429-p,20797701,TDNNAKSsDKEEKHR,protein stabilization,"transcription, induced",21777522,,induces AP-2 alpha transcription,,,
+TFAP2A,Tfap2a,S219-p,25581601,CSVPGRLsLLSSTSK,"activity, induced; molecular association, regulation","transcription, induced",22561688; 27391154,TF_AP-2,IkB-alpha expression,,,
+TFAP2A,Tfap2a,S258-p,5024712,GVLRRAKsKNGGRSL,"molecular association, regulation","transcription, altered",18845787,TF_AP-2,,,,
+TFAP2A,Tfap2a,K10-sm,580826098,WKLTDNIkYEDCEDR,"activity, induced","transcription, induced",30926672,,enhances transcription of HIF1A,,,

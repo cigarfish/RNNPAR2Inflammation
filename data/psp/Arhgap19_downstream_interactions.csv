@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP19,Arhgap19,S422-p,3196670,QKRARSRsFSGLIKR,"molecular association, regulation",,29420299,,  binding protects from dephosphorylation of the T404 and T476 residues; binding to 14-3-3 proteins,,,

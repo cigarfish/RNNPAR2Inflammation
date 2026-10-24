@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AQP4,Aqp4,S331-p,1877492100,XLEDRTEsRQDSLEL,intracellular localization,,35625560,,,,,
+AQP4,Aqp4,S276-p,465556,AAQQTKGsYMEVEDN,intracellular localization,,26013827,,translocation to cell surface,,,
+AQP4,Aqp4,S180-p,467301,TIFASCDsKRTDVTG,"activity, inhibited","cell motility, altered",19761816,MIP, mutation of this site (S180A) increases invasion of tumor cells; reduces water permeability,,,
+AQP4,Aqp4,S335-p,1877492101,RTESRQDsLELSSDF,intracellular localization,,35625560,,,,,

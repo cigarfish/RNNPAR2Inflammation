@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HTRA2,Htra2,S212-p,477180,RVRVRLLsGDTYEAV,"intracellular localization; enzymatic activity, inhibited","apoptosis, induced",17311912,Peptidase_M50; Trypsin_2,,,,
+HTRA2,Htra2,S142-p,487466,VPSPPPAsPRSQYNF,"enzymatic activity, induced","carcinogenesis, inhibited; cytoskeletal reorganization",17906618; 24662565,Peptidase_M50,phosphorylation of this site activates beta actin cleavage and decreases F actin presence in the cytosol,,,

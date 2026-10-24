@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3CG,Pik3cg,S582-p,28702402,LWHFRYEsLKHPKAY,"molecular association, regulation; enzymatic activity, induced",signaling pathway regulation,23824069,PI3Ka, GPCR-mediated p110gamma signaling; disrupts immune cell responses activated by G protein-coupled receptors (GPCRs),PIK3R6,Pik3r6,DISRUPTS
+PIK3CG,Pik3cg,T1024-p,20506703,YLALRHHtNLLIILF,"enzymatic activity, inhibited",,21474070,PI3_PI4_kinase,"inhibits PIP3 production, enhances B-AR density, improves cardiac function in heart failure",,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACTR2,Actr2,T237-p,36440502,EQKLALEtTVLVESY,intracellular localization,"carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",25601402; 27872092; 33755220,Actin,,,,
+ACTR2,Actr2,T238-p,36440501,QKLALETtVLVESYT,intracellular localization,"carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",25601402; 27872092; 33755220,Actin,,,,
+ACTR2,Actr2,Y202-p,38546300,KLLLLRGyAFNHSAD,,cytoskeletal reorganization,25601402,Actin,"EGF-increased actin filament assembly membrane protrusion, actin nucleation activity",,,

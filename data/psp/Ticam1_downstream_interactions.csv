@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TICAM1,Ticam1,S210-p,31858079,LASNLEIsQSPTMPF,"molecular association, regulation; phosphorylation",,25636800,,induces IFN production,IRF3,Irf3,INDUCES

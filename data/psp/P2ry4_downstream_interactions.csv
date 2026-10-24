@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+P2RY4,P2ry4,S333-p,10349702,PQPRTAAsSLALVSL,"receptor desensitization, altered; receptor internalization, altered",,11114308,,,,,
+P2RY4,P2ry4,S334-p,10349701,QPRTAASsLALVSLP,"receptor desensitization, altered; receptor internalization, altered",,11114308,,,,,

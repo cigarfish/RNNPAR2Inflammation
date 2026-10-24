@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TOPORS,Topors,S718-p,5938002,KDRDGYEsSYRRRTL,"protein degradation; sumoylation; ubiquitination; enzymatic activity, altered",cell cycle regulation,19473992; 19821153; 26872363,,,,,
+TOPORS,Topors,S98-p,453973,QTVPADAsPDSKCPI,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, altered; enzymatic activity, induced",,19053840; 26872363,,"regulation of E3 ligase activities of TOPORS; regulates the ubiquitin, but not the SUMO ligase activity of TOPORS",UBE2D1,Ube2d1,INDUCES
+TOPORS,Topors,T515-p,25756871,EKMETVKtQEQEQSY,"molecular association, regulation","DNA repair, induced",35061896,,"RAD51 SUMOylation is required for HR-mediated DSB repair, GFP-TOPORS-WT restored the interaction between RAD51 and BRCA2, but the T515A mutant restored to a lesser degree",BRCA2,Brca2,INDUCES

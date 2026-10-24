@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAPGEF2,Rapgef2,S1248-p,30995200,AADSGRGsWTSCSSG,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, inhibited","carcinogenesis, induced; cell motility, induced",24290981,,inhibits Rap1 activity,BTRC,Btrc,INDUCES
+RAPGEF2,Rapgef2,S1244-p,30995201,ASLDAADsGRGSWTS,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, inhibited","carcinogenesis, induced; cell motility, induced",24290981,,inhibits Rap1 activity,BTRC,Btrc,INDUCES
+RAPGEF2,Rapgef2,S1254-p,30995202,GSWTSCSsGSHDNIQ,phosphorylation,,24290981,,Phosphorylation at S1254 promotes CK1-alpha dependent phosphorylation at S1244 and S1248,,,
+RAPGEF2,Rapgef2,S960-p,1245534,KKRVRRSsFLNAKKL,"activity, induced","cell adhesion, altered",18796635,,Rap1 activation,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM4C,Kdm4c,S918-p,1869778705,MFDDGSFsRDTFPED,"protein degradation; molecular association, regulation; ubiquitination",signaling pathway regulation,31888886,,,BTRC,Btrc,INDUCES

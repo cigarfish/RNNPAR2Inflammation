@@ -1,0 +1,26 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HIPK2,Hipk2,Y367-p,1033356,TYLQSRYyRAPEIIL,protein stabilization; intracellular localization,"apoptosis, induced; transcription, induced",25944899,Pkinase,,,,
+HIPK2,Hipk2,K805-ub,3059903,TTSSRKSkQHQSSVR,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,T119-p,28847903,HNLMRRStVSLLDTY,"protein stabilization; molecular association, regulation; phosphorylation; enzymatic activity, induced",,23871434,,increase protein stabilization and reduce phosphorylation of WIP1 ,PPM1D,Ppm1d,DISRUPTS
+HIPK2,Hipk2,K1191-ub,3059901,GYPLSPAkVNQYPYI,protein degradation; ubiquitination,,17349959; 18536714,,,,,
+HIPK2,Hipk2,K32-sm,1727700,FCSVKKLkIEPSSNW,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","transcription, induced; transcription, inhibited",15766567; 15896780; 17018294,,K32A (aka K25A) mutant increases phosphorylation of CBX4,TLE1,Tle1,DISRUPTS
+HIPK2,Hipk2,S882-p,29668001,IVIPDTPsPTVSVIT,"protein stabilization; molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced","apoptosis, induced",24145406,,,PIN1,Pin1,INDUCES
+HIPK2,Hipk2,S121-p,28847902,LMRRSTVsLLDTYQK,"protein stabilization; molecular association, regulation; phosphorylation; enzymatic activity, induced",,23871434,,increase protein stabilization and reduce phosphorylation of WIP1 ,PPM1D,Ppm1d,DISRUPTS
+HIPK2,Hipk2,S441-p,27732203,FFNRDTDsPYPLWRL,protein conformation,,31519758,Pkinase,,,,
+HIPK2,Hipk2,K1191-sm,2407407,GYPLSPAkVNQYPYI,intracellular localization,,10535925,,localization to the nuclear speckles (dots),,,
+HIPK2,Hipk2,T1114-p,28847906,APAALGStGTVAHLV,"protein stabilization; molecular association, regulation; phosphorylation; enzymatic activity, induced",,23871434,,increase protein stabilization and reduce phosphorylation of WIP1 ,PPM1D,Ppm1d,DISRUPTS
+HIPK2,Hipk2,S359-p,12119325,HVSKAVCsTYLQSRY,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced; signaling pathway regulation",27321923,Pkinase,HIPK2 and JNK activation,ASK1,Map3k5,INDUCES
+HIPK2,Hipk2,S359-p,12119325,HVSKAVCsTYLQSRY,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced; signaling pathway regulation",27321923,Pkinase,HIPK2 and JNK activation,JNK2,Mapk9,INDUCES
+HIPK2,Hipk2,T880-p,29668000,QTIVIPDtPSPTVSV,"protein stabilization; molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced","apoptosis, induced",24145406,,,PIN1,Pin1,INDUCES
+HIPK2,Hipk2,K32-ub,3059900,FCSVKKLkIEPSSNW,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,K552-ub,3059902,FQNMEICkRRVNMYD,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,K803-ub,3059905,TSTTSSRkSKQHQSS,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,T566-p,27732205,DTVNQSKtPFITHVA,"enzymatic activity, induced","cell growth, inhibited",28060750,,IPK2-T566P mutant showed a very mild reduction of kinase activity,,,
+HIPK2,Hipk2,K671-ub,3059904,GLQASPSkHAGYSVR,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,Y361-p,449571,SKAVCSTyLQSRYYR,"protein stabilization; molecular association, regulation; intracellular localization; protein conformation; phosphorylation","cell cycle regulation; apoptosis, induced; cell growth, inhibited; signaling pathway regulation; transcription, inhibited",23000554; 24196445; 31387937; 31519758,Pkinase,,SIAH2,Siah2,INDUCES
+HIPK2,Hipk2,Y361-p,449571,SKAVCSTyLQSRYYR,"protein stabilization; molecular association, regulation; intracellular localization; protein conformation; phosphorylation","cell cycle regulation; apoptosis, induced; cell growth, inhibited; signaling pathway regulation; transcription, inhibited",23000554; 24196445; 31387937; 31519758,Pkinase,,PIN1,Pin1,INDUCES
+HIPK2,Hipk2,T360-p,8086452,VSKAVCStYLQSRYY,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced; signaling pathway regulation",27321923,Pkinase,HIPK2 and JNK activation,ASK1,Map3k5,INDUCES
+HIPK2,Hipk2,T360-p,8086452,VSKAVCStYLQSRYY,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced; signaling pathway regulation",27321923,Pkinase,HIPK2 and JNK activation,JNK2,Mapk9,INDUCES
+HIPK2,Hipk2,K565-ub,3059906,YDTVNQSkTPFITHV,protein degradation,,18536714,,,,,
+HIPK2,Hipk2,S364-p,4783726,VCSTYLQsRYYRAPE,"molecular association, regulation; intracellular localization; phosphorylation","cell cycle regulation; cell growth, inhibited; transcription, inhibited",23000554,Pkinase,,SIAH2,Siah2,INDUCES
+HIPK2,Hipk2,S364-p,4783726,VCSTYLQsRYYRAPE,"molecular association, regulation; intracellular localization; phosphorylation","cell cycle regulation; cell growth, inhibited; transcription, inhibited",23000554,Pkinase,,PIN1,Pin1,INDUCES

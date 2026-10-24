@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH2D2A,Sh2d2a,Y290-p,449441,PDEPIAFyAMGRGSP,"molecular association, regulation",,18541536,,,Lck,Lck,INDUCES
+SH2D2A,Sh2d2a,Y305-p,450668,GEAPSNIyVEVEDEG,"molecular association, regulation",,18541536,,,Lck,Lck,INDUCES
+SH2D2A,Sh2d2a,Y280-p,449440,PKPSNPIyNEPDEPI,"molecular association, regulation",,18541536,,,Lck,Lck,INDUCES

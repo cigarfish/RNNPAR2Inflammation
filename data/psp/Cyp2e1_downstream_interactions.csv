@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYP2E1,Cyp2e1,R379-me,1878196104,ATRDTIFrGYLIPKG,protein degradation,,31077594,, me-CYP2E1 is reduced in Mat1a KO liver mitochondria; down-regulation of CYP2E1 protein level requires R379 methylation,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AIP,Aip,S53-p,10888703,EGTVLDDsRARGKPM,intracellular localization,,12361709,FKBP_C,,,,
+AIP,Aip,S132-p,10888702,AQMREHSsLGHADLD,"molecular association, regulation",,12361709,,,HSP90A,Hsp90aa1,INDUCES
+AIP,Aip,S131-p,10888701,VAQMREHsSLGHADL,"molecular association, regulation",,12361709,,,HSP90A,Hsp90aa1,INDUCES

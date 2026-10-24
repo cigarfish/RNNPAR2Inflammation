@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLT4,Flt4,Y1230-p,4119675,RHSLAARyYNWVSFP,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced",16076871,,,GRB2,Grb2,INDUCES
+FLT4,Flt4,Y1337-p,2874406,QVFYNSEyGELSEPS,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced",16076871; 20431062,,,SHC1,Shc1,INDUCES
+FLT4,Flt4,Y1337-p,2874406,QVFYNSEyGELSEPS,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced",16076871; 20431062,,,CRK,Crk,INDUCES
+FLT4,Flt4,Y1063-p,473000,FGLARDIyKDPDYVR,"molecular association, regulation; enzymatic activity, induced","apoptosis, inhibited",16076871; 20431062,PK_Tyr_Ser-Thr,,SHC1,Shc1,INDUCES
+FLT4,Flt4,Y1063-p,473000,FGLARDIyKDPDYVR,"molecular association, regulation; enzymatic activity, induced","apoptosis, inhibited",16076871; 20431062,PK_Tyr_Ser-Thr,,CRK,Crk,INDUCES
+FLT4,Flt4,Y1231-p,4119681,HSLAARYyNWVSFPG,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced",16076871,,,GRB2,Grb2,INDUCES

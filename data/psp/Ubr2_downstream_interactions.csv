@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBR2,Ubr2,S1694-p,1885128100,KTKGCFYsPPYLDDY,"protein stabilization; molecular association, regulation; ubiquitination",,38225265,,inhibits ubiquitination,BTRC,Btrc,DISRUPTS
+UBR2,Ubr2,Y1697-p,1885128102,GCFYSPPyLDDYGET,"protein stabilization; molecular association, regulation; ubiquitination",,38225265,,inhibits ubiquitination,BTRC,Btrc,DISRUPTS

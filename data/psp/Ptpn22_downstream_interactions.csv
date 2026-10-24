@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN22,Ptpn22,S35-p,1725300,FLKLKRQsTKYKADK,"enzymatic activity, inhibited; protein conformation",,18056643,,I-C11 compound inhibits phosphatase activity of PTPN22,,,
+PTPN22,Ptpn22,S751-p,5963554,KSFTRSKsLKILRNM,"protein stabilization; molecular association, regulation; intracellular localization",signaling pathway regulation,32184287,, TCR signaling; Inhibits ubiquitination and protein degradation,CSK,Csk,INDUCES
+PTPN22,Ptpn22,S325-p,41453841,TLQADSYsPNLPKST,"protein conformation; enzymatic activity, induced","transcription, altered",38777143,,,,,

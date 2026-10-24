@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IMPDH1,Impdh1,S477-p,1885266600,DIGARSLsVLRSMMY,"protein conformation; enzymatic activity, altered",,38323936,,Inhibits filament assembly ,,,

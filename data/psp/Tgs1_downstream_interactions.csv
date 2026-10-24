@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGS1,Tgs1,S656-p,1881245402,AQRYRLFsRFDDGIK,"molecular association, regulation; phosphorylation","transcription, altered; signaling pathway regulation",36866247,,"induces PKA-PIMT-Ep300 signaling, regulates AKT phosphorylation",p300,Ep300,INDUCES
+TGS1,Tgs1,S298-p,3636737,DLVSFPSsPIMVDND,,"transcription, induced",24358311,,"PEPCK promoter binding and transcription, augment hepatic glucose output, and enhance gluconeogenic genes",,,

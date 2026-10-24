@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACE,Ace,S1299-p,450699,SHGPQFGsEVELRHS,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","exocytosis, altered; transcription, induced",12386153; 14615289; 15569856; 16186248; 16476786; 21901117,,,ACE,Ace,INDUCES
+ACE,Ace,S1299-p,450699,SHGPQFGsEVELRHS,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","exocytosis, altered; transcription, induced",12386153; 14615289; 15569856; 16186248; 16476786; 21901117,,,MYH9,Myh9,INDUCES

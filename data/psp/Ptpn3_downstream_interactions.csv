@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN3,Ptpn3,S835-p,451192,VRSLRVDsEPVLVHC,"molecular association, regulation",,9341175,Y_phosphatase,,14-3-3 beta,Ywhab,INDUCES
+PTPN3,Ptpn3,S459-p,25594501,QKSSSSVsPSSNAPG,"protein stabilization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",22730326; 26079946,,,,,
+PTPN3,Ptpn3,S359-p,451191,PAMRRSLsVEHLETK,"molecular association, regulation",,9341175,,,14-3-3 beta,Ywhab,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMARCC2,Smarcc2,S969-p,15707400,PPALPPGsQPIPPTG,"molecular association, regulation","chromatin organization, altered",19525936,,interaction enhanced after DNA damage with ionizing radiation,MCPH1,Mcph1,INDUCES

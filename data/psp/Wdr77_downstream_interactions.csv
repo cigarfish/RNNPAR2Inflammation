@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WDR77,Wdr77,T5-p,471217,___MRKEtPPPLVPP,,"carcinogenesis, altered",20951943,,in CCND1 T286A mutant ,,,
+WDR77,Wdr77,S264-p,17797201,CVTGLVFsPHSVPFL,,"carcinogenesis, altered",20951943,,in CCND1 T286A mutant ,,,

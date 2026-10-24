@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTBP1,Ctbp1,S100-p,2089801,RIIVRIGsGFDNIDI,"molecular association, regulation",,18184656,2-Hacid_dh,,SF1,Sf1,INDUCES
+CTBP1,Ctbp1,S147-p,455351,REGTRVQsVEQIREV,intracellular localization,"endocytosis, induced",18323776,2-Hacid_dh; 2-Hacid_dh_C,"facilitates infectious entry of Ad3 (virus), cytoplasmic localization",,,
+CTBP1,Ctbp1,K428-sm,2407413,PSPGQTVkPEADRDH,"molecular association, regulation; intracellular localization","transcription, inhibited",12769861,,,nNOS,Nos1,DISRUPTS
+CTBP1,Ctbp1,S422-p,455350,AHPPHAPsPGQTVKP,protein degradation,"apoptosis, induced",14567915; 15708980; 16984892,,in H1299 cells lacking p53,,,
+CTBP1,Ctbp1,T144-p,2089802,LNLYRRAtWLHQALR,"molecular association, regulation; protein conformation","transcription, induced",18184656,2-Hacid_dh; 2-Hacid_dh_C,,CTBP2,Ctbp2,INDUCES
+CTBP1,Ctbp1,T144-p,2089802,LNLYRRAtWLHQALR,"molecular association, regulation; protein conformation","transcription, induced",18184656,2-Hacid_dh; 2-Hacid_dh_C,,GCN5,Kat2a,DISRUPTS
+CTBP1,Ctbp1,S158-p,455351,REGTRVQsVEQIREV,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization; enzymatic activity, inhibited","transcription, induced; transcription, altered",12872159; 18184656; 23291169,2-Hacid_dh; 2-Hacid_dh_C,attenuates the repressive function of CtBP1 on Bax promoter,STF-1,Ptf1a,DISRUPTS

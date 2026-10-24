@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AFDN,Afdn,T909-p,6208300,VVTVAENtADELARS,"molecular association, regulation",,12808105,,phosphorylation by Bcr induces formation of a complex with Ras,HRas,Hras,INDUCES
+AFDN,Afdn,S1718-p,481813,KERQRLFsQGQDVSN,,signaling pathway regulation,30670780,,PI3K/Akt signaling,,,

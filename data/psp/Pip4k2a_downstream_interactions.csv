@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIP4K2A,Pip4k2a,S304-p,450664,DGEEEGEsDGTHPVG,intracellular localization,,10508590,PIP5K,,,,
+PIP4K2A,Pip4k2a,T376-p,460716,KAAHAAKtVKHGAGA,"enzymatic activity, inhibited",,16563698,PIP5K,,,,

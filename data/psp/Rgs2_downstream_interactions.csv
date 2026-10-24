@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS2,Rgs2,S46-p,10772900,KDWKTRLsYFLQNSS,"activity, induced; molecular association, regulation; intracellular localization",,14608379; 24777815,,"RGS2 phosphorylation increases G-alpha GTPase activity, and association with membrane fraction.  ; inhibits CPA-induced hydrolysis",G-alpha i3,Gnai3,INDUCES
+RGS2,Rgs2,S3-p,1870773103,_____MQsAMFLAVQ,"protein stabilization; molecular association, regulation",,33008920,,,FBXO44,Fbxo44,DISRUPTS
+RGS2,Rgs2,S64-p,10772901,KPKTGKKsKQQAFIK,"activity, induced; molecular association, regulation; intracellular localization",,14608379; 24777815,,"RGS2 phosphorylation increases G-alpha GTPase activity, and association with membrane fraction.  ; inhibits CPA-induced hydrolysis",G-alpha i3,Gnai3,INDUCES

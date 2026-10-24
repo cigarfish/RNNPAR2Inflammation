@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TBXA2R,Tbxa2r,S145-p,469630,FSRPAVAsQRRAWAT,"receptor desensitization, induced",signaling pathway regulation,17466390,7tm_1,,,,
+TBXA2R,Tbxa2r,T332-p,18790000,TRPRRSLtLWPSLEY,"receptor desensitization, altered",,14530262,,,,,
+TBXA2R,Tbxa2r,S145-p,469630,FSRPAVAsQRRAWAT,"receptor desensitization, altered",,16956790,7tm_1,,,,
+TBXA2R,Tbxa2r,S330-p,18790001,LSTRPRRsLTLWPSL,"receptor desensitization, altered",,12147288; 14530262,,,,,
+TBXA2R,Tbxa2r,S329-p,450989,RLSTRPRsLSLQPQL,"receptor desensitization, altered",,10827090,,TXA2-R alpha is subject to cross-desensitization by the prostacyclin receptor which is mediated through direct PKA phosphorylation of S329.,,,
+TBXA2R,Tbxa2r,T399-p,451396,LLPFEPPtGKALSRK,"receptor desensitization, altered",,15100160,,,,,
+TBXA2R,Tbxa2r,T337-p,451395,LSLQPQLtQRSGLQ_,"receptor desensitization, induced; receptor desensitization, altered",signaling pathway regulation,15100160; 17466390,,,,,
+TBXA2R,Tbxa2r,S331-p,470029,STRPRSLsLQPQLTQ,"activity, induced; receptor desensitization, induced; molecular association, regulation; receptor desensitization, altered",signaling pathway regulation,12370102; 17466390; 24490858,,,,,
+TBXA2R,Tbxa2r,S357-p,469629,RLPGSSDsRASASRA,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,16956790,,,ARRB2,Arrb2,INDUCES
+TBXA2R,Tbxa2r,S324-p,3061802,RRLQPRLsTRPRSLS,"molecular association, regulation; activity, inhibited",,24490858,,desensitization of thromboxane receptor to agonist binding,,,
+TBXA2R,Tbxa2r,S239-p,469628,AQQRPRDsEVEMMAQ,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,16956790,7tm_1,,ARRB2,Arrb2,INDUCES

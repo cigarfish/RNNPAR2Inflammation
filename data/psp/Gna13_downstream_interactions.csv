@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNA13,Gna13,T203-p,448723,ILLARRPtKGIHEYD,"molecular association, regulation",,12399457,G-alpha,,TXA2-R iso2,Tbxa2r,INDUCES

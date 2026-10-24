@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIKFYVE,Pikfyve,S307-p,457532,PARNRSAsITNLSLD,"enzymatic activity, induced",,15546921,,,,,
+PIKFYVE,Pikfyve,S318-p,3216759,LSLDRSGsPMVPSYE,"activity, induced; enzymatic activity, induced","carcinogenesis, inhibited; cell motility, inhibited; signaling pathway regulation",19232516; 23188060; 23757022; 30445978,,Increased Kir2.1 mediated current; induce activation of chloride channel CLCN2; dephosphorylation of PIKFYVE leads to activated EGFR signaling; induces EGFR degradation and regulates EGFR phosphorylation,,,

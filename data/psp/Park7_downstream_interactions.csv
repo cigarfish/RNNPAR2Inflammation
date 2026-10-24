@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARK7,Park7,T154-p,2566111,EKDGLILtSRGPGTS,"protein stabilization; molecular association, regulation; intracellular localization",,31353306,DJ-1_PfpI,,DJ-1,Park7,INDUCES
+PARK7,Park7,T125-p,1869992402,GFGSKVTtHPLAKDK,"protein degradation; protein conformation; enzymatic activity, induced",,32858971,DJ-1_PfpI,,,,
+PARK7,Park7,K130-sm,2407414,VTTHPLAkDKMMNGG,"molecular association, regulation; intracellular localization","cell growth, induced; apoptosis, induced; apoptosis, inhibited; transcription, inhibited",11477070; 15976810; 18339323,DJ-1_PfpI,,PIAS1,Pias1,DISRUPTS

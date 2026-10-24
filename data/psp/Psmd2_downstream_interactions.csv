@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSMD2,Psmd2,S361-p,487471,ENNRFGGsGSQVDSA,"activity, induced; molecular association, regulation","cell growth, induced",31843888,,regulates 26S proteosome activity and function,RPT2,Psmd2,INDUCES

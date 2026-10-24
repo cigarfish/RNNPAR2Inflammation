@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GHR,Ghr,Y595-p,450480,SEMPVPDyTSIHIVQ,"molecular association, regulation",,25505247,GHBP,"The following proteins have been pulled-down by GHR_Y595 beads: CRL5-SOCS2 E3 ligase complex (SOCS2, EloB, EloC, Cul5, Rbx2) ,  and  Cul1, FBXO31, Rbx1, Skp1, CISH, CSK and NEDD8 ",SOCS2,Socs2,INDUCES

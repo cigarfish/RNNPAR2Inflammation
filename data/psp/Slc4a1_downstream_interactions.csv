@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC4A1,Slc4a1,Y8-p,451570,MEELQDDyEDMMEEN,"molecular association, regulation",,10942405; 27856737,,,LYN,Lyn,INDUCES
+SLC4A1,Slc4a1,Y8-p,451570,MEELQDDyEDMMEEN,"molecular association, regulation",,10942405; 27856737,,,ANK1,Ank1,DISRUPTS
+SLC4A1,Slc4a1,Y359-p,455384,AKPDSSFyKGLDLNG,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation",,12070037; 15649129; 18827007; 32411010; 32517126,,"induces capacitation, AR and viability",SHP-2,Ptpn11,INDUCES
+SLC4A1,Slc4a1,Y904-p,455304,EEEGRDEyDEVAMPV,intracellular localization,,15649129,,,,,
+SLC4A1,Slc4a1,Y21-p,457533,ENLEQEEyEDPDIPE,"molecular association, regulation",,10942405; 27856737,,,LYN,Lyn,INDUCES
+SLC4A1,Slc4a1,Y21-p,457533,ENLEQEEyEDPDIPE,"molecular association, regulation",,10942405; 27856737,,,ANK1,Ank1,DISRUPTS

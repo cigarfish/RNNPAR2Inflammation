@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP22,Usp22,K129-ac,11316055,KDMEIIAkEEQRKAW,"molecular association, regulation; enzymatic activity, induced",,23382074,,,ataxin-7L3,Atxn7l3,INDUCES
+USP22,Usp22,K129-ac,11316055,KDMEIIAkEEQRKAW,"molecular association, regulation; enzymatic activity, induced",,23382074,,,GCN5,Kat2a,INDUCES

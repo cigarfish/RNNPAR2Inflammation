@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP3K1,Map3k1,S67-p,3053616,RQLRKVRsVELDQLP,"molecular association, regulation",,12228228,,,JNK1,Mapk8,DISRUPTS

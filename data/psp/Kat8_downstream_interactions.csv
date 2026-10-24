@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KAT8,Kat8,K274-ac,479461,AKLFLDHkTLYFDVE,"protein stabilization; molecular association, regulation; acetylation; protein conformation; enzymatic activity, induced","transcription, inhibited",21502975; 22020126; 27382063,MOZ_SAS,inhibits H4 acetylation ,,,
+KAT8,Kat8,T392-p,34424910,LSQMTSItQNDIIST,"molecular association, regulation; intracellular localization","DNA repair, induced; apoptosis, inhibited",24953651,MOZ_SAS,"DNA DSB repair by HR pathway, enhanced chromatin retention of MOF",53BP1,Trp53bp1,DISRUPTS
+KAT8,Kat8,K175-ub,964529360,KEHEAITkVKYVDKI,,"cell motility, inhibited; transcription, altered",36849520,,inhibits migration and invasion of CRC cells,,,
+KAT8,Kat8,K168-ub,964529358,PTTAALEkEHEAITK,,"cell motility, inhibited; transcription, altered",36849520,,inhibits migration and invasion of CRC cells,,,

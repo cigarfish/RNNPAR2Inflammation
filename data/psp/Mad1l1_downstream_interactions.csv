@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAD1L1,Mad1l1,T680-p,5024706,SKMQLLEtEFSHTVG,"activity, induced; intracellular localization",cell cycle regulation,18922800,MAD,,,,
+MAD1L1,Mad1l1,S546-p,1868914507,RTKVLHMsLNPTSVA,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; chromatin organization, altered; cell growth, induced",31291454,MAD,RZZ  (Rod1-ZW10-ZWILCH) complex ,ZWILCH,Zwilch,INDUCES
+MAD1L1,Mad1l1,S546-p,1868914507,RTKVLHMsLNPTSVA,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; chromatin organization, altered; cell growth, induced",31291454,MAD,RZZ  (Rod1-ZW10-ZWILCH) complex ,ZW10,Zw10,INDUCES
+MAD1L1,Mad1l1,S546-p,1868914507,RTKVLHMsLNPTSVA,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; chromatin organization, altered; cell growth, induced",31291454,MAD,RZZ  (Rod1-ZW10-ZWILCH) complex ,ROD1,Cwc27,INDUCES
+MAD1L1,Mad1l1,Y634-p,1019903,QEFRKACyTLTGYQI,,cell cycle regulation,29162720,MAD,,,,
+MAD1L1,Mad1l1,S610-p,334535801,ELKKQVEsAELKNQR,"molecular association, regulation",cell cycle regulation,29162720,MAD,,Mad2,Mad2l1,INDUCES
+MAD1L1,Mad1l1,S214-p,482335,KIQELQAsQEARADH,"molecular association, regulation; protein conformation; phosphorylation","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; signaling pathway regulation",24728176; 32944396,MAD,"induces DNAPK phosphorylation, regulates MAD1/KU80 pathway; homodimerization",Mad2,Mad2l1,INDUCES
+MAD1L1,Mad1l1,S214-p,482335,KIQELQAsQEARADH,"molecular association, regulation; protein conformation; phosphorylation","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; signaling pathway regulation",24728176; 32944396,MAD,"induces DNAPK phosphorylation, regulates MAD1/KU80 pathway; homodimerization",Ku80,Xrcc5,INDUCES
+MAD1L1,Mad1l1,T708-p,5024703,PAFLSSLtLELFSRQ,intracellular localization,,18922800,MAD,,,,
+MAD1L1,Mad1l1,S598-p,18911590,AAASLPSsKEVAELK,"molecular association, regulation",cell cycle regulation,29162720,MAD,,Mad2,Mad2l1,INDUCES
+MAD1L1,Mad1l1,T716-p,334535800,LELFSRQtVA_____,"molecular association, regulation",cell cycle regulation,29162720; 32202322,MAD,,Mad2,Mad2l1,INDUCES
+MAD1L1,Mad1l1,T624-p,334535804,RLKEVFQtKIQEFRK,"molecular association, regulation",cell cycle regulation,29162720,MAD,,Mad2,Mad2l1,INDUCES

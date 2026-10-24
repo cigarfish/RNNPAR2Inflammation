@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EFNB2,Efnb2,Y311-p,447829,YEKVSGDyGHPVYIV,protein stabilization; protein conformation,,12606549,,,,,
+EFNB2,Efnb2,Y304-p,451679,DSVFCPHyEKVSGDY,"molecular association, regulation; protein conformation",,15096211,,Y304 phosphopeptide can also bind (simultaneously) to PDZ domain of RGS3;  not phosphorylation-dependent,NCK2,Nck2,INDUCES
+EFNB2,Efnb2,Y316-p,447830,GDYGHPVyIVQEMPP,protein stabilization; protein conformation,,12606549,,,,,

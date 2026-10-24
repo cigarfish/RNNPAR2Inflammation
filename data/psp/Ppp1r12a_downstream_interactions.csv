@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP1R12A,Ppp1r12a,T577-gl,1868585004,TTSTPTVtSAAGLQK,"molecular association, regulation; phosphorylation",cell cycle regulation,32295844,,"inhibits CDK1-dependent phosphorylation at MYPT1 S473, regulates mitotic progression and centrosome integrity",PLK1,Plk1,DISRUPTS
+PPP1R12A,Ppp1r12a,S585-gl,1868585003,SAAGLQKsLLSSTST,"molecular association, regulation; phosphorylation",cell cycle regulation,32295844,,"inhibits CDK1-dependent phosphorylation at MYPT1 S473, regulates mitotic progression and centrosome integrity",PLK1,Plk1,DISRUPTS
+PPP1R12A,Ppp1r12a,S472-p,452042,AGVTRSAsSPRLSSS,"molecular association, regulation","cell adhesion, altered",20354225,,,14-3-3 beta,Ywhab,INDUCES
+PPP1R12A,Ppp1r12a,S589-gl,1868585002,LQKSLLSsTSTTTKI,"molecular association, regulation; phosphorylation",cell cycle regulation,32295844,,"inhibits CDK1-dependent phosphorylation at MYPT1 S473, regulates mitotic progression and centrosome integrity",PLK1,Plk1,DISRUPTS
+PPP1R12A,Ppp1r12a,K442-m1,1872438900,TWRLGLRkTGSYGAL,protein stabilization,,21115810,,,,,
+PPP1R12A,Ppp1r12a,S20-p,25265500,QLKRWIGsETDLEPP,"protein degradation; molecular association, regulation; ubiquitination",,29262732,,,PPP1CB,Ppp1cb,INDUCES
+PPP1R12A,Ppp1r12a,S601-gl,1868585001,TKITTGSsSAGTQSS,"molecular association, regulation; phosphorylation",cell cycle regulation,32295844,,"inhibits CDK1-dependent phosphorylation at MYPT1 S473, regulates mitotic progression and centrosome integrity",PLK1,Plk1,DISRUPTS
+PPP1R12A,Ppp1r12a,S910-p,1983104,SLLGRSGsYSYLEER,,"cell adhesion, altered",20354225,,,,,
+PPP1R12A,Ppp1r12a,T696-p,448587,ARQSRRStQGVTLTD,"enzymatic activity, inhibited; intracellular localization; phosphorylation","cell motility, induced; cell growth, inhibited; cell differentiation, induced; cell adhesion, induced; cytoskeletal reorganization; signaling pathway regulation",16038801; 31834925; 33762326; 33802280; 35594862,,,,,
+PPP1R12A,Ppp1r12a,S473-p,3174680,GVTRSASsPRLSSSL,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R2C,Ppp2r2c,DISRUPTS
+PPP1R12A,Ppp1r12a,S473-p,3174680,GVTRSASsPRLSSSL,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3B,Ppp2r3b,INDUCES
+PPP1R12A,Ppp1r12a,S473-p,3174680,GVTRSASsPRLSSSL,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R5C,Ppp2r5c,DISRUPTS
+PPP1R12A,Ppp1r12a,S473-p,3174680,GVTRSASsPRLSSSL,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3A,Ppp2r3a,INDUCES
+PPP1R12A,Ppp1r12a,T853-p,452075,PREKRRStGVSFWTQ,"enzymatic activity, inhibited; phosphorylation","cell motility, induced; cell growth, inhibited; cell differentiation, induced; cell adhesion, induced; cytoskeletal reorganization; signaling pathway regulation",31834925; 33802280; 35594862; 37064875,,,,,
+PPP1R12A,Ppp1r12a,S507-p,477839,TIPRRLAsTSDIEEK,,cytoskeletal reorganization,37064875,,,,,
+PPP1R12A,Ppp1r12a,S445-p,452077,LGLRKTGsYGALAEI,"molecular association, regulation","cell adhesion, altered",20354225,,,14-3-3 beta,Ywhab,INDUCES

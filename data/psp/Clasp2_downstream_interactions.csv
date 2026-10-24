@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLASP2,Clasp2,S1092-p,27434506,MKLTQEEsFSVWDEH,,cell cycle regulation,23045552,,,,,
+CLASP2,Clasp2,S533-p,22349885,QGCSREAsRESSRDT,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,19638411,,inhibits binding with microtubules,EB1,Mapre1,DISRUPTS
+CLASP2,Clasp2,S533-p,22349885,QGCSREAsRESSRDT,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,19638411,,inhibits binding with microtubules,IQGAP1,Iqgap1,DISRUPTS
+CLASP2,Clasp2,S1034-p,7990150,SISPFNKsALKEAMF,,cell cycle regulation,23045552,,,,,
+CLASP2,Clasp2,S1027-p,7320226,NPYNYSDsISPFNKS,,cell cycle regulation,23045552,,,,,
+CLASP2,Clasp2,S541-p,24976300,RESSRDTsPVRSFQP,,cytoskeletal reorganization,22467876,,,,,
+CLASP2,Clasp2,S1013-p,4753159,HSMPTHSsPRSRDYN,"molecular association, regulation; phosphorylation",cell cycle regulation; cytoskeletal reorganization,23045552,,primes for phosphorylation at other sites,PLK1,Plk1,INDUCES
+CLASP2,Clasp2,S1053-p,14159685,DQFPDDLsLDHSDLV,,cell cycle regulation,23045552,,,,,
+CLASP2,Clasp2,S507-p,481392,QGCSREAsPSRLSVA,,cytoskeletal reorganization,22467876,,,,,
+CLASP2,Clasp2,S537-p,22648007,REASRESsRDTSPVR,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,19638411,,inhibits binding with microtubules,EB1,Mapre1,DISRUPTS
+CLASP2,Clasp2,S537-p,22648007,REASRESsRDTSPVR,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,19638411,,inhibits binding with microtubules,IQGAP1,Iqgap1,DISRUPTS

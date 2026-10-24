@@ -1,0 +1,31 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDCA5,Cdca5,S126-p,20727702,NPEAESSsKEGELDA,"activity, inhibited",cell cycle regulation,23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,T115-p,469416,VPATPTStPVPNPEA,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,T115-p,469416,VPATPTStPVPNPEA,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,T115-p,469416,VPATPTStPVPNPEA,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,S79-p,470691,AVQSPRRsPRISFFL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S79-p,470691,AVQSPRRsPRISFFL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,S79-p,470691,AVQSPRRsPRISFFL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,S181-p,20727382,AEDLSGVsPVVCSKL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S181-p,20727382,AEDLSGVsPVVCSKL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,S181-p,20727382,AEDLSGVsPVVCSKL,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,S139-p,20727378,DARDLEMsKKVRRSY,"activity, inhibited",cell cycle regulation,23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S83-p,3208977,PRRSPRIsFFLEKEN,"activity, inhibited",cell cycle regulation,23901111,,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,T48-p,472119,LPEIWPKtPSAAAVR,"molecular association, regulation",cell cycle regulation,21878504,,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,T48-p,472119,LPEIWPKtPSAAAVR,"molecular association, regulation",cell cycle regulation,21878504,,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,S75-p,470993,VEVPAVQsPRRSPRI,"molecular association, regulation",cell cycle regulation,21878504,,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,S75-p,470993,VEVPAVQsPRRSPRI,"molecular association, regulation",cell cycle regulation,21878504,,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,T151-p,28750703,RSYSRLEtLGSASTS,"activity, inhibited",cell cycle regulation,23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S21-p,3208968,RSGPRAPsPTKPLRR,"molecular association, regulation",cell cycle regulation,21878504,,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,S21-p,3208968,RSGPRAPsPTKPLRR,"molecular association, regulation",cell cycle regulation,21878504,,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,T159-p,483401,LGSASTStPGRRSCF,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 21987589; 23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,T159-p,483401,LGSASTStPGRRSCF,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 21987589; 23901111,Sororin,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,T159-p,483401,LGSASTStPGRRSCF,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 21987589; 23901111,Sororin,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,T159-p,483401,LGSASTStPGRRSCF,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 21987589; 23901111,Sororin,,PLK1,Plk1,INDUCES
+CDCA5,Cdca5,T111-p,469415,KTHSVPAtPTSTPVP,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,T111-p,469415,KTHSVPAtPTSTPVP,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,T111-p,469415,KTHSVPAtPTSTPVP,"molecular association, regulation; activity, inhibited",cell cycle regulation,21878504; 23901111,Sororin,,SMC3,Smc3,DISRUPTS
+CDCA5,Cdca5,S33-p,472118,LRRSQRKsGSELPSI,"activity, inhibited",cell cycle regulation,23901111,,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S164-p,9316471,TSTPGRRsCFGFEGL,"activity, inhibited",cell cycle regulation,23901111,Sororin,,SCC-112,NA,DISRUPTS
+CDCA5,Cdca5,S209-p,3208965,DMTLPGIsPPPEKQK,"molecular association, regulation","cell cycle regulation; carcinogenesis, altered; cell growth, altered",20551060; 21878504,Sororin,,H2A.1,Hist1h2aa,DISRUPTS
+CDCA5,Cdca5,S209-p,3208965,DMTLPGIsPPPEKQK,"molecular association, regulation","cell cycle regulation; carcinogenesis, altered; cell growth, altered",20551060; 21878504,Sororin,,SMC3,Smc3,DISRUPTS

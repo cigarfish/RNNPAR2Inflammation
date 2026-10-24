@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCB,Prkcb,T642-p,447897,TRQPVELtPTDKLFI,"molecular association, regulation; intracellular localization; enzymatic activity, induced",,17504762; 36717249,Pkinase_C,,CLTA,Clta,INDUCES
+PRKCB,Prkcb,S661-p,448672,QNEFAGFsYTNPEFV,"intracellular localization; phosphorylation; enzymatic activity, induced","transcription, induced",17504762; 35835217,Pkinase_C,,,,
+PRKCB,Prkcb,S660-p,1869073011,QSEFEGFsFVNSEFL,"intracellular localization; enzymatic activity, induced","transcription, induced",10828076; 24236208; 36775967,Pkinase_C,,,,
+PRKCB,Prkcb,T500-p,447896,WDGVTTKtFCGTPDY,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation; enzymatic activity, induced","endocytosis, induced",36717249,Pkinase,primes phosphorylation of T642,RICTOR,Rictor,INDUCES
+PRKCB,Prkcb,T500-p,447896,WDGVTTKtFCGTPDY,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation; enzymatic activity, induced","endocytosis, induced",36717249,Pkinase,primes phosphorylation of T642,ACTA1,Acta1,INDUCES
+PRKCB,Prkcb,T500-p,447896,WDGVTTKtFCGTPDY,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation; enzymatic activity, induced","endocytosis, induced",36717249,Pkinase,primes phosphorylation of T642,CLTA,Clta,INDUCES

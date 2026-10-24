@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD47,Cd47,Y288-p,478877,AQLLGLVyMKFVASN,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced",37541303,CD47; TM,inhibits polyubiquitination of itself,TRIM21,Trim21,DISRUPTS

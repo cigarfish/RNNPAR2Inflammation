@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRS2,Irs2,Y978-p,463371,QRSPLSDyMNLDFSS,"molecular association, regulation",,30459283,,,PIK3C2A,Pik3c2a,INDUCES
+IRS2,Irs2,S1100-p,453065,PEAARVAsPTSGVKR,,"cell growth, inhibited",25297629,,"induces immunogenicity, phospho-peptidesfor  T-cell  recognition showed some control of tumor growth in vivo",,,
+IRS2,Irs2,S679-p,472256,SDDYMPMsPASVSAP,"activity, inhibited",,34731634,,,,,
+IRS2,Irs2,S577-p,483923,GLRKRTYsLTTPARQ,intracellular localization,,34253290,,disassociation of IRS2 from plasma membrane to cytosol;  limits PM-associated PI3K and PIP3 synthesis,,,
+IRS2,Irs2,S306-p,3217341,EFRPRSKsQSSGSSA,intracellular localization,,34253290,,disassociation of IRS2 from plasma membrane to cytosol;  limits PM-associated PI3K and PIP3 synthesis,,,
+IRS2,Irs2,S365-p,483509,SCRVRTAsEGDGGAA,"activity, inhibited",,34731634,,,,,
+IRS2,Irs2,Y675-p,454968,GSCRSDDyMPMSPAS,"molecular association, regulation",,30459283,,,PIK3C2A,Pik3c2a,INDUCES
+IRS2,Irs2,S388-p,1984212,RPVSVAGsPLSPGPV,"activity, inhibited",,34731634,,,,,
+IRS2,Irs2,Y823-p,454963,CGGDSDQyVLMSSPV,"activity, induced",,34731634,,,,,
+IRS2,Irs2,S391-p,1984215,SVAGSPLsPGPVRAP,"activity, inhibited",,34731634,,,,,

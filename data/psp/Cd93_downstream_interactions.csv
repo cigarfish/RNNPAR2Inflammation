@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD93,Cd93,Y644-p,463128,SRAMENQySPTPGTD,"molecular association, regulation","cell motility, induced; cell adhesion, induced",26848865,,CD93 binds to Cbl inducing phosphorylation on tyrosine 774 of CBL,CBL,Cbl,INDUCES
+CD93,Cd93,Y628-p,1031156,PQNAADSySWVPERA,"molecular association, regulation","cell motility, induced; cell adhesion, induced",26848865,,CD93 binds to Cbl inducing phosphorylation on tyrosine 774 of CBL,CBL,Cbl,INDUCES

@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNIP1,Tnip1,S123-p,1880462802,PPSSGTSsEFEVVTP,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,LC3B,Map1lc3b,INDUCES
+TNIP1,Tnip1,S123-p,1880462802,PPSSGTSsEFEVVTP,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,LC3C,Map1lc3c,INDUCES
+TNIP1,Tnip1,S123-p,1880462802,PPSSGTSsEFEVVTP,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,GABARAPL2,Gabarapl2,INDUCES
+TNIP1,Tnip1,S123-p,1880462802,PPSSGTSsEFEVVTP,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,RB1CC1,Rb1cc1,INDUCES
+TNIP1,Tnip1,Y552-p,25790900,CGAYPYAyPPMPAMV,"molecular association, regulation","cell adhesion, induced",17632516,,activation of alpha-M beta-2 integrin,SELPLG,Selplg,INDUCES
+TNIP1,Tnip1,Y552-p,25790900,CGAYPYAyPPMPAMV,"molecular association, regulation","cell adhesion, induced",17632516,,activation of alpha-M beta-2 integrin,PIK3R1,Pik3r1,INDUCES
+TNIP1,Tnip1,S122-p,1880462800,KPPSSGTsSEFEVVT,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,LC3B,Map1lc3b,INDUCES
+TNIP1,Tnip1,S122-p,1880462800,KPPSSGTsSEFEVVT,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,LC3C,Map1lc3c,INDUCES
+TNIP1,Tnip1,S122-p,1880462800,KPPSSGTsSEFEVVT,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,GABARAPL2,Gabarapl2,INDUCES
+TNIP1,Tnip1,S122-p,1880462800,KPPSSGTsSEFEVVT,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; transcription, induced",36574265; 39059492,,,RB1CC1,Rb1cc1,INDUCES

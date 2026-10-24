@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FKBP1A,Fkbp1a,K35-ub,3931455,TGMLEDGkKFDSSRD,protein conformation,,31375563,FKBP_C,Partially unfolded but not aggregated drives FKBP12 ubiquitylation at the proteasome ,,,
+FKBP1A,Fkbp1a,K48-ub,22244556,RDRNKPFkFMLGKQE,protein conformation,,31375563,FKBP_C,Partially unfolded but not aggregated drives FKBP12 ubiquitylation at the proteasome ,,,
+FKBP1A,Fkbp1a,K53-ub,7251155,PFKFMLGkQEVIRGW,protein conformation,,31375563,FKBP_C,Partially unfolded but not aggregated drives FKBP12 ubiquitylation at the proteasome ,,,

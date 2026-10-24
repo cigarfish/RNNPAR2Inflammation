@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+F3,F3,S295-p,3540201,ENSPLNVs_______,,"cell motility, altered",15630487,,,,,
+F3,F3,S290-p,451613,GQSWKENsPLNVS__,"molecular association, regulation; ubiquitination; intracellular localization; protein conformation; phosphorylation","cell motility, altered; cell growth, altered",15630487; 18297283; 20076769; 21310953; 27599717; 29044292; 38233821,,promotes angiogenesis,MAGI1,Magi1,DISRUPTS
+F3,F3,S290-p,451613,GQSWKENsPLNVS__,"molecular association, regulation; ubiquitination; intracellular localization; protein conformation; phosphorylation","cell motility, altered; cell growth, altered",15630487; 18297283; 20076769; 21310953; 27599717; 29044292; 38233821,,promotes angiogenesis,FLNA,Flna,INDUCES
+F3,F3,S285-p,451611,RKAGVGQsWKENSPL,"molecular association, regulation; ubiquitination; intracellular localization; protein conformation; phosphorylation","apoptosis, altered; cell motility, altered; cell growth, altered",12920028; 15039423; 15630487; 18297283; 20076769; 21310953; 27599717; 29044292,,promotes angiogenesis; accelerates the incorporation of F3 into microparticles and induces S290 phosphorylation,FLNA,Flna,INDUCES
+F3,F3,K287-ub,15398676,AGVGQSWkENSPLNV,ubiquitination; phosphorylation,"endocytosis, induced",27599717,,,,,

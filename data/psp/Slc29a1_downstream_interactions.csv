@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC29A1,Slc29a1,S281-p,21326706,QPTNESHsIKAILKN,"activity, induced",,25725289,Nucleoside_tran,,,,
+SLC29A1,Slc29a1,S254-p,486282,ETKLDLIsKGEEPRA,"activity, induced; molecular association, regulation","cell growth, induced",17520485,Nucleoside_tran,,SLC29A1,Slc29a1,DISRUPTS

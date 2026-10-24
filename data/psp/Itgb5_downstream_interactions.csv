@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGB5,Itgb5,S759-p,14694704,REFAKFQsERSRARY,,"cell motility, altered",20507994,Integrin_b_cyt,,,,
+ITGB5,Itgb5,S762-p,14694703,AKFQSERsRARYEMA,,"cell motility, altered",20507994,Integrin_b_cyt,,,,

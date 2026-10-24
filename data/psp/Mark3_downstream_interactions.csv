@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MARK3,Mark3,T211-p,450314,TVGGKLDtFCGSPPY,"enzymatic activity, induced",,12879020,Pkinase,,,,
+MARK3,Mark3,S96-p,3597304,KTQLNPTsLQKLFRE,"enzymatic activity, inhibited",,15319445,Pkinase,,,,
+MARK3,Mark3,S215-p,450315,KLDTFCGsPPYAAPE,"enzymatic activity, induced",,12879020,Pkinase,,,,
+MARK3,Mark3,T90-p,3597303,AIKIIDKtQLNPTSL,"enzymatic activity, inhibited",,15319445,Pkinase,,,,
+MARK3,Mark3,T95-p,3597305,DKTQLNPtSLQKLFR,"enzymatic activity, inhibited",,15319445,Pkinase,,,,

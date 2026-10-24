@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKP1,Pkp1,T180-p,27717309,GSKGQKTtQNRYSFY,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,S185-p,15405312,KTTQNRYsFYSTCSG,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,T171-p,27717301,RGTLRKGtLGSKGQK,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,T166-p,15405306,LYCDPRGtLRKGTLG,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,S191-p,15405309,YSFYSTCsGQKAIKK,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,S188-p,15413421,QNRYSFYsTCSGQKA,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,T179-p,27717307,LGSKGQKtTQNRYSF,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,T189-p,15413424,NRYSFYStCSGQKAI,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,S155-p,4712625,QKIKASRsEPDLYCD,"molecular association, regulation; intracellular localization","cell adhesion, inhibited",29678907,,destabilizing desmosomal adhesion;  increased the cytosolic fraction of PKP,14-3-3 gamma,Ywhag,INDUCES
+PKP1,Pkp1,S174-p,27717303,LRKGTLGsKGQKTTQ,"activity, induced; protein stabilization","cell motility, induced; cell growth, induced; translation, induced; cell adhesion, inhibited",23444369,,,,,
+PKP1,Pkp1,S118-p,4712605,EPDNRRFsSYSQMEN,intracellular localization,,23444369,,,,,

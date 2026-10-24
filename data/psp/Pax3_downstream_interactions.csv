@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAX3,Pax3,K475-ac,25042101,YGQYGQSkPWTF___,"molecular association, regulation","cell growth, inhibited; cell differentiation, induced; transcription, altered",21169561,,"K437 decreases Hes1 transcription, K437 and K475 increase transcription of Neurog2",,,
+PAX3,Pax3,S205-p,4145506,APQSDEGsDIDSEPD,,"cell growth, inhibited",25821947,,,,,
+PAX3,Pax3,K437-ac,25042100,SQRLDHMkSLDSLPT,"molecular association, regulation","cell growth, inhibited; cell differentiation, induced; transcription, altered",21169561,,"K437 decreases Hes1 transcription, K437 and K475 increase transcription of Neurog2",,,
+PAX3,Pax3,S201-p,18744500,ERASAPQsDEGSDID,,"cell growth, inhibited; cell motility, inhibited",25821947,,,,,

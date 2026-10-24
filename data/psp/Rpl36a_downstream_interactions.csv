@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPL36A,Rpl36a,K53-m1,8106909,SGYGGQTkPIFRKKA,"molecular association, regulation",,28567122,Ribosomal_L44,,ETF1,Etf1,INDUCES

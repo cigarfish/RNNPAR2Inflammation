@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPM6,Trpm6,T1851-p,2255402,FNQVKPQtIPYTPRF,"activity, inhibited",,18258429,Alpha_kinase,RACK1-induced inhibition of channel activity is dependent on T1851 phosphorylation,,,

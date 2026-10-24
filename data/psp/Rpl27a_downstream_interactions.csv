@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPL27A,Rpl27a,K92-ub,22251190,QTRVNAAkNKTGAAP,protein degradation; protein stabilization; ubiquitination,,37481436,Ribosomal_L27A,MAR reduced ubiquitylation  increased stabilization and prevented ribosomal protein degradation,,,
+RPL27A,Rpl27a,K94-ub,15396734,RVNAAKNkTGAAPII,protein degradation; protein stabilization; ubiquitination,,37481436,Ribosomal_L27A,MAR reduced ubiquitylation  increased stabilization and prevented ribosomal protein degradation,,,

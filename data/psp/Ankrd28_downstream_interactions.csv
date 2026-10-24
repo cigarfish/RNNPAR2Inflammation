@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ANKRD28,Ankrd28,S1011-p,459225,TNTSKTVsFEALPIM,intracellular localization,"transcription, inhibited",16564677; 17023142,,,PPP1CA,Ppp1ca,DISRUPTS
+ANKRD28,Ankrd28,S1007-p,459224,INRYTNTsKTVSFEA,intracellular localization,"transcription, inhibited",16564677; 17023142,,,PPP1CA,Ppp1ca,DISRUPTS

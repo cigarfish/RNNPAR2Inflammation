@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PFKL,Pfkl,S775-p,468408,HVTRRTLsMDKGF__,"enzymatic activity, induced",,25131207,,,,,
+PFKL,Pfkl,K689-ac,14367386,AMLWLSEkLREVYRK,"molecular association, regulation; intracellular localization",,28424264,,regulates formation of multienzyme metabolic complexes,FBPase,Fbp1,INDUCES

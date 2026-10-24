@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RNF25,Rnf25,S450-p,15414485,RPGTRREsLGLESKD,ubiquitination,"carcinogenesis, induced; cell motility, induced",38286671,,Induces E-cadherin degradation and ubiquitination,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPRD1B,Rprd1b,S145-p,10404515,KATEEKKsLKRTFQQ,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, induced; cytoskeletal reorganization",30518842,,regulate the expression of cyclin B1 in gastric cancer,AurB,Aurkb,INDUCES

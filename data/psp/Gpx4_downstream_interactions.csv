@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPX4,Gpx4,K191-ub,27289701,EEPLVIEkDLPHYF_,protein degradation,,38110356,,induction of ferroptosis,,,
+GPX4,Gpx4,S2-p,1885071200,______MsLGRLCRL,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell growth, induced",37554285,,,p53,Trp53,INDUCES
+GPX4,Gpx4,S131-p,1884892100,NVKFDMFsKICVNGD,"protein stabilization; molecular association, regulation","carcinogenesis, induced; autophagy, inhibited",37156912,,,HSC70,Hspa8,DISRUPTS

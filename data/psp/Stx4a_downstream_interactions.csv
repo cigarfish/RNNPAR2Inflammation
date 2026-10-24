@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STX4,Stx4a,S78-p,1172732400,ATPLPEEsMKQELQN,protein degradation; ubiquitination,,29896202,Syntaxin,induce resistance of tumor cells to Cisplatin ,,,

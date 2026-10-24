@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,K18,Krt18,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,Vimentin,Vim,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,K14,Krt14,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,desmin,Des,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,NFH,Nefl,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,K8,Krt8,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,NFL,Nefm,DISRUPTS
+PLEC,Plec,S4642-p,3196844,RAGSRRGsFDATGSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23843618,,disrupts binding to intermediate filaments,K5,Krt5,DISRUPTS

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNA15,Gna15,S336-p,11380905,GSKKGARsRRLFSHY,"activity, induced",,12647293,G-alpha,GNA15 receptor mediated PLC-B  activation ,,,

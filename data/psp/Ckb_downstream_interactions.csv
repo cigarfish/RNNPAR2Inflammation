@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CKB,Ckb,T133-p,18909514,VLSSRVRtGRSIRGF,"molecular association, regulation; phosphorylation","carcinogenesis, induced",37156912,,induces phosphorylation of GPX4,GPX4,Gpx4,INDUCES

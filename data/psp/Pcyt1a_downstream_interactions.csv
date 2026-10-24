@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCYT1A,Pcyt1a,S319-p,451322,QAISPKQsPSSSPTR,intracellular localization; phosphorylation,,32186954; 38280862,,induces STAT3 phosphorylation,,,
+PCYT1A,Pcyt1a,Y359-p,463968,SRHKAAAyDISEDEE,intracellular localization,,32186954,,,,,
+PCYT1A,Pcyt1a,S315-p,451321,GRMLQAIsPKQSPSS,intracellular localization; phosphorylation,,32186954; 38280862,,induces STAT3 phosphorylation,,,
+PCYT1A,Pcyt1a,S362-p,451335,KAAAYDIsEDEED__,intracellular localization,,32186954,,,,,
+PCYT1A,Pcyt1a,S323-p,451324,PKQSPSSsPTRERSP,phosphorylation,,38280862,,induces STAT3 phosphorylation,,,
+PCYT1A,Pcyt1a,K57-ub,7761224,EIEVDFSkPYVRVTM,"protein degradation; molecular association, regulation; intracellular localization",,19332566,,,KPNA1,Kpna1,DISRUPTS

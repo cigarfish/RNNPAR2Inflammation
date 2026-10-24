@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EDC4,Edc4,S107-p,23101593,IVASSDSsISSKARG,,"RNA stability, altered",30467221,,increase formation of P bodies,,,
+EDC4,Edc4,S855-p,56660920,GLQEKHKsLAFHRPP,,"RNA stability, altered",30467221,,increase formation of P bodies,,,
+EDC4,Edc4,S583-p,4271998,PAPADFLsLSSETKP,,"RNA stability, altered",30467221,,increase formation of P bodies,,,
+EDC4,Edc4,S405-p,1337911000,PDIFSSVsVPPSLKV,,"RNA stability, altered",30467221,Ge1_WD40,increase formation of P bodies,,,

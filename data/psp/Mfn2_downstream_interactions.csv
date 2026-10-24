@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MFN2,Mfn2,S27-p,25594503,HMAEVNAsPLKHFVT,protein degradation; ubiquitination,"apoptosis, induced",22748923; 37498743,,"HUWE1 associates with Mfn2, and leads to Its ubiquitination and degradation.",HUWE1,Huwe1,INDUCES
+MFN2,Mfn2,T111-p,17402150,RTSNGKStVINAMLW,protein degradation; intracellular localization,"autophagy, induced",35646911; 37498743,Dynamin_N,miophagy,,,
+MFN2,Mfn2,S442-p,4746700,AEEIRRLsVLVDDYQ,protein degradation; intracellular localization,"cell cycle regulation; carcinogenesis, induced; autophagy, induced; cell growth, induced; apoptosis, inhibited",34275172; 35646911; 37498743,,miophagy,,,
+MFN2,Mfn2,S378-p,1877509600,AVRLIMDsLHMAARE,,"autophagy, induced",35646911,,miophagy,,,
+MFN2,Mfn2,K192-ub,31067000,NSKCPLLkDDLVLMD,"molecular association, regulation; intracellular localization",,23727017,Dynamin_N,"induces calcium mobilization, induces mitochondria-ER membrane formation (MAM) and MFN2-oligomerization",MFN2,Mfn2,INDUCES

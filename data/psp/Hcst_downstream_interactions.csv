@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HCST,Hcst,Y86-p,23112287,AQEDGKVyINMPGRG,intracellular localization,,25002577,DAP10,"recruitment of PI3K, GRB2 & GRB7",,,

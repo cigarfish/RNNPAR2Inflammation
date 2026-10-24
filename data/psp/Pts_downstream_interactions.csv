@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTS,Pts,S19-p,450662,AQVSRRIsFSASHRL,"enzymatic activity, induced",,10531334,PTPS,,,,
+PTS,Pts,T58-p,1869465810,HNYKVVVtVHGEIDP,"molecular association, regulation; phosphorylation","cell cycle regulation; carcinogenesis, induced; cell growth, induced; signaling pathway regulation",31628042,PTPS,"binds LTB1 subsequently stabilizing LTBP1-iNOS interaction, regulates LTBP1-TGF-? pathway, inhibits SMAD3 phosphorylation",LTBP1,Ltbp1,INDUCES

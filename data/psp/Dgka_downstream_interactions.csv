@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DGKA,Dgka,Y335-p,486452,ILPPSSIyPSVLASG,"intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; cell motility, altered",15773894; 17700527; 18424699; 35962191,,,,,

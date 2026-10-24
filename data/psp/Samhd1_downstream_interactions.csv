@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SAMHD1,Samhd1,K622-ub,1878023500,KSRVQLFkDDPM___,protein degradation,,31797533,,,,,
+SAMHD1,Samhd1,K354-ac,1883981500,LRICARDkEVGNLYD,acetylation; intracellular localization,"DNA repair, inhibited",36344525,, deacetylation promotes genome stability;  K354 deacetylation facilitates SAMHD1 localization to DSBs and SAMHD1 residues 300?465; K354 deacetylation by SIRT1 promotes HR and DNA end resection,,,
+SAMHD1,Samhd1,T592-p,468674,DVIAPLItPQKKEWN,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; protein conformation; enzymatic activity, induced","cell cycle regulation; cell growth, inhibited",28956603; 34321470; 34379507; 34513928; 35801923; 37127613; 37800914,,,SAMHD1,Samhd1,DISRUPTS
+SAMHD1,Samhd1,K405-ac,1880765300,EITGAGGkKYRISTA,"enzymatic activity, induced","cell cycle regulation; cell growth, induced",28978134,,,,,
+SAMHD1,Samhd1,K421-ub,1885566500,DDMEAYTkLTDNIFL,protein stabilization,"apoptosis, altered",37081042,, modulates cell survival and apoptosis under genotoxic insults; USP7 significantly reduced the survival rate  in cisplatin and doxorubicin concentration-dependent manner,,,
+SAMHD1,Samhd1,K595-sm,580826984,APLITPQkKEWNDST,"enzymatic activity, induced",,34321470,,SUMOylation of K595 is required for SAMHD1 to be antivirally active.,,,

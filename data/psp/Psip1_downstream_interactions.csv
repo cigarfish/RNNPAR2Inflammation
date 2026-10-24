@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSIP1,Psip1,K254-sm,13875715,EPDKKEGkKEVESKR,protein degradation,"transcription, inhibited",20382164,,,,,
+PSIP1,Psip1,K75-sm,13875713,YGKPNKRkGFNEGLW,protein degradation,"transcription, inhibited",20382164,PWWP,,,,
+PSIP1,Psip1,S206-p,7231784,MVKQPCPsESDIITE,phosphorylation,,19864417,,stimulates phosphorylation of MCM2 at S53,,,
+PSIP1,Psip1,K250-sm,13875712,KPRKEPDkKEGKKEV,protein degradation,"transcription, inhibited",20382164,,,,,
+PSIP1,Psip1,K364-sm,13875714,AEIKNSLkIDNLDVN,"protein degradation; molecular association, regulation","cell growth, inhibited; transcription, inhibited",20382164; 22748127,LEDGF,,,,

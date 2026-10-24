@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD81,Cd81,K11-ub,4666603,EGCTKCIkYLLFVFN,protein degradation,,18713730,Tetraspanin,cell surface downregulation of tetraspanins,,,
+CD81,Cd81,K8-ub,4666602,MGVEGCTkCIKYLLF,protein degradation,"endocytosis, induced",18713730; 31902824,,"cell surface downregulation of tetraspanins; clathrin-mediated endocytosis, poly-Ub chain binds to Lys8 at the intracellular N-terminal domain, degradation depends  on the poly-ubiquitination of K8",,,

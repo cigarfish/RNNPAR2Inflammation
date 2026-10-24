@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPHB2,Ephb2,Y504-p,139835700,GLKAGAIyVFQVRAR,"molecular association, regulation; intracellular localization",,28719605,fn3,"cell surface,retain NMDARs to spine synapse, pathological pain, mechanical hypersensitivity",NMDAR1,Grin1,INDUCES
+EPHB2,Ephb2,K891-ub,1881446405,IRNPNSLkAMAPLSS,"molecular association, regulation","autophagy, induced",33280498,,,MAP1LC3B2,Map1lc3b,INDUCES

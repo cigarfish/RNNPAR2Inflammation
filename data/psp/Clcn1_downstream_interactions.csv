@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLCN1,Clcn1,T893-p,14645301,SFRNTTStRKSTGAP,"activity, induced",,20511714,,,,,
+CLCN1,Clcn1,S892-p,14645302,ASFRNTTsTRKSTGA,"activity, induced",,20511714,,,,,
+CLCN1,Clcn1,T891-p,14645303,LASFRNTtSTRKSTG,"activity, induced",,20511714,,,,,

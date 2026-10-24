@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD226,Cd226,Y322-p,454845,DDTREDIyVNYPTFS,"activity, induced; phosphorylation","cell growth, induced; cell adhesion, induced; signaling pathway regulation",12847109; 32265229,,"induces IFN-gamma secretion, phosphorylation of ERK, p38, AKT and hence TCR signaling",,,
+CD226,Cd226,S329-p,450987,YVNYPTFsRRPKTRV,"activity, induced; molecular association, regulation",,10591186; 15684041; 9712030,,"S329 phosphorylation is critical for DNAM-1 adhesion.; Wild type, but not S329 mutant, DNAM-1 associated with lipid rafts in the forming immunological synapse. ",ITGAL,Itgal,INDUCES

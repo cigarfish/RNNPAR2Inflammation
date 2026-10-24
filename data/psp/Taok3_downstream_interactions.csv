@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAOK3,Taok3,T181-p,15423763,PANSFVGtPYWMAPE,,"cell growth, inhibited",38166031,Pkinase,,,,
+TAOK3,Taok3,Y256-p,25755759,SFRRFVDyCLQKIPQ,"phosphorylation; enzymatic activity, induced","cell growth, induced; translation, inhibited",38166031,Pkinase,inhibits JNK phosphorylation,,,
+TAOK3,Taok3,Y183-p,38486824,NSFVGTPyWMAPEVI,,"cell growth, inhibited",38166031,Pkinase,,,,
+TAOK3,Taok3,S324-p,468901,RNGPLNEsQEDEEDS,"activity, induced; phosphorylation; enzymatic activity, induced","cell cycle regulation; cell growth, induced; translation, inhibited",17396146; 38166031,,inhibits JNK phosphorylation,,,

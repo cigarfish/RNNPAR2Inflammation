@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLITRK1,Slitrk1,S695-p,4749248,DCGSHSLsD______,"molecular association, regulation","cell growth, altered",19640509,,,14-3-3 beta,Ywhab,INDUCES

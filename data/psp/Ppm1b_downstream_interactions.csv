@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPM1B,Ppm1b,S195-p,27461503,MIQRVNGsLAVSRAL,protein degradation; ubiquitination,,23756813,PP2C,inhibition of anti-inflammatory response,,,
+PPM1B,Ppm1b,K326-ub,21182132,RVEEIMEkSGEEGMP,ubiquitination; intracellular localization,,35176871,PP2C_C, Yap inhibits ubiquitination and nuclear translocation ; nuclear translocation,,,

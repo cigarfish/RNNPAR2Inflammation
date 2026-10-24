@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAF1,Maf1,T64-p,3211923,EALSPPQtSGLSPSR,,"transcription, induced",20233713,Maf1,,,,
+MAF1,Maf1,S75-p,477954,SPSRLSKsQGGEEEG,"protein degradation; ubiquitination; activity, inhibited","transcription, induced; transcription, altered",20233713; 20516213; 20543138; 31645432,Maf1,regulates sensitivity of cells for doxorubicin,,,
+MAF1,Maf1,K35-sm,31094506,RIESYSCkMAGDDKH,"molecular association, regulation","cell growth, inhibited; transcription, inhibited",23673667,Maf1,,POLR3A,Polr3a,INDUCES
+MAF1,Maf1,S68-p,3211920,PPQTSGLsPSRLSKS,"activity, inhibited","transcription, induced",20233713; 20516213,Maf1,,,,
+MAF1,Maf1,S60-p,3211917,PHVLEALsPPQTSGL,"activity, inhibited","transcription, induced",20233713; 20516213,Maf1,,,,

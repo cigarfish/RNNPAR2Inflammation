@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS20,Rps20,K8-ub,486915,MAFKDTGkTPVEPEV,,"translation, altered",32324387,,"translational read-through of poly(A) mRNA sequence (KAAA) 20, ZNF598 plays a role in this process",,,

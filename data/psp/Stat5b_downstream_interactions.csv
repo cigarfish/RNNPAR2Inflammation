@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAT5B,Stat5b,K705-ac,62484404,GYVKPQIkQVVPEFV,phosphorylation,"transcription, induced",23980167,,increases pSTAT5B at Y699,,,
+STAT5B,Stat5b,Y743-p,448736,PQAHYNMyPQNPDSV,"activity, inhibited","transcription, altered; transcription, inhibited",16772534; 17822672,,transcriptional activation of STAT5B Y740/743 mutant requires phosphorylation of S731 and Y699,,,
+STAT5B,Stat5b,K701-ac,11323911,KAVDGYVkPQIKQVV,phosphorylation,"transcription, induced",23980167,,increases pSTAT5B at Y699,,,
+STAT5B,Stat5b,K694-ac,62484405,PCESATAkAVDGYVK,phosphorylation,"transcription, induced",23980167,,increases pSTAT5B at Y699,,,
+STAT5B,Stat5b,Y740-p,448735,AVCPQAHyNMYPQNP,"activity, inhibited","transcription, altered; transcription, inhibited",16772534; 17822672,,transcriptional activation of STAT5B Y740/743 mutant requires phosphorylation of S731 and Y699,,,
+STAT5B,Stat5b,Y699-p,448198,TAKAVDGyVKPQIKQ,"activity, induced; molecular association, regulation; phosphorylation","cell cycle regulation; transcription, induced; transcription, altered",11751923; 12411494; 16772534; 16862179; 17822672; 17997837; 18430728; 18550772; 23980167,,increases pSTAT5B at Y699,Bcr,Bcr,INDUCES
+STAT5B,Stat5b,Y699-p,448198,TAKAVDGyVKPQIKQ,"activity, induced; molecular association, regulation; phosphorylation","cell cycle regulation; transcription, induced; transcription, altered",11751923; 12411494; 16772534; 16862179; 17822672; 17997837; 18430728; 18550772; 23980167,,increases pSTAT5B at Y699,Hck,Hck,INDUCES
+STAT5B,Stat5b,K681-ac,62484403,PKDEVYSkYYTPVPC,phosphorylation,"transcription, induced",23980167,,increases pSTAT5B at Y699,,,
+STAT5B,Stat5b,S731-p,448751,TYMDQAPsPAVCPQA,"activity, induced; enzymatic activity, induced","transcription, altered",17822672; 25006129,,increases the basal transcriptional activity of the Y740/743 mutant comparing with the wt STAT5B ,,,
+STAT5B,Stat5b,Y725-p,448734,AGGGSATyMDQAPSP,,"transcription, induced",16772534,,,,,
+STAT5B,Stat5b,S193-p,483615,FGPLAQLsPQERLSR,"molecular association, regulation","transcription, induced",22442148,STAT_alpha,,,,

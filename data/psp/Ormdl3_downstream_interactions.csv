@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ORMDL3,Ormdl3,P137-hy,1886659900,SLMSVLIpKLPQLHG,"protein degradation; ubiquitination; intracellular localization; enzymatic activity, induced",,36408842,,Induces SPT activity,,,

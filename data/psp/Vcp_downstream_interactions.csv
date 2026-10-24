@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VCP,Vcp,T76-p,1876872800,CIVLSDDtCSDEKIR,intracellular localization; protein conformation,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited; cytoskeletal reorganization; transcription, altered",35430615,CDC48_N,,,,
+VCP,Vcp,S664-p,7435526,LKANLRKsPVAKDVD,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,29950310,,"Cdc48 in the stabilization of Cln3 in the nucleus, regulates G1-cyclin activity for cell cycle entry, enhanced pRB phosphorylation",OTUB1,Otub1,INDUCES
+VCP,Vcp,S664-p,7435526,LKANLRKsPVAKDVD,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,29950310,,"Cdc48 in the stabilization of Cln3 in the nucleus, regulates G1-cyclin activity for cell cycle entry, enhanced pRB phosphorylation",CLN3,Cln3,INDUCES
+VCP,Vcp,S746-p,457557,AMRFARRsVSDNDIR,,"apoptosis, inhibited",16551632,Vps4_C,,,,
+VCP,Vcp,T761-p,3653838,KYEMFAQtLQQSRGF,"enzymatic activity, induced",,19335618,Vps4_C,,,,
+VCP,Vcp,K696-ac,7435507,EICQRACkLAIRESI,"enzymatic activity, induced",,19335618,AAA_lid_3,,,,
+VCP,Vcp,K315-m3,15381938,AIAPKREkTHGEVER,"enzymatic activity, inhibited",,23349634,AAA,inhibits ATPase activity,,,
+VCP,Vcp,T509-p,4271173,KFLKFGMtPSKGVLF,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,29950310,,"Cdc48 in the stabilization of Cln3 in the nucleus, regulates G1-cyclin activity for cell cycle entry, enhanced pRB phosphorylation",OTUB1,Otub1,INDUCES
+VCP,Vcp,T509-p,4271173,KFLKFGMtPSKGVLF,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,29950310,,"Cdc48 in the stabilization of Cln3 in the nucleus, regulates G1-cyclin activity for cell cycle entry, enhanced pRB phosphorylation",CLN3,Cln3,INDUCES
+VCP,Vcp,S784-p,456210,NQGGAGPsQGSGGGT,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization; phosphorylation","DNA repair, induced; carcinogenesis, inhibited; signaling pathway regulation",16140914; 32521270; 34680224,,,NPL4,Vcpip1,DISRUPTS
+VCP,Vcp,S784-p,456210,NQGGAGPsQGSGGGT,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization; phosphorylation","DNA repair, induced; carcinogenesis, inhibited; signaling pathway regulation",16140914; 32521270; 34680224,,,UFD1L,Ufd1,DISRUPTS
+VCP,Vcp,S352-p,457556,AATNRPNsIDPALRR,,"apoptosis, inhibited",16551632,AAA,,,,
+VCP,Vcp,S748-p,457558,RFARRSVsDNDIRKY,,"apoptosis, inhibited",16551632,Vps4_C,,,,
+VCP,Vcp,Y805-p,449060,EDNDDDLyG______,"molecular association, regulation; intracellular localization",,29743287,,enriched localization in focal adhesions,P130Cas,Bcar1,DISRUPTS

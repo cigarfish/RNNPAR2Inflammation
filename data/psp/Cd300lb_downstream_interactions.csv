@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD300LB,Cd300lb,Y188-p,975498,EPGEQPIyMNFSEPL,"activity, induced","transcription, altered",16920917; 17928527,,cytokine production; Interaction with Grb2 required Fyn. ,GRB2,Grb2,INDUCES

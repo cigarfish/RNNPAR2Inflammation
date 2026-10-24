@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSPA8,Hspa8,R76-me,1885733400,DAKRLIGrRFDDAVV,,"carcinogenesis, induced",37715221,,enhanced arginine methylation of R76 and R100 to inhibit ferroptosis in HCC,,,
+HSPA8,Hspa8,K561-m3,3898513,EDEKLQGkINDEDKQ,"molecular association, regulation",,23921388,HSP70,,SNCA,Snca,DISRUPTS
+HSPA8,Hspa8,R100-me,1885733402,MVVNDAGrPKVQVEY,,"carcinogenesis, induced",37715221,,enhanced arginine methylation of R76 and R100 to inhibit ferroptosis in HCC,,,

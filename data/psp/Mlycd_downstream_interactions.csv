@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MLYCD,Mlycd,Y405-p,41196501,LMRLCAWyLYGEKHR,"protein conformation; enzymatic activity, induced",,26004805,MCD,,,,
+MLYCD,Mlycd,S204-p,41196500,LERVTWHsPCEVLQK,"protein conformation; enzymatic activity, induced",,26004805,MCD,,,,

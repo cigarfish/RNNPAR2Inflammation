@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCA,Prkca,Y658-p,455927,SDFEGFSyVNPQFVH,intracellular localization,,16627824,Pkinase_C,,,,
+PRKCA,Prkca,S657-p,448597,QSDFEGFsYVNPQFV,"intracellular localization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; cytoskeletal reorganization; signaling pathway regulation",17504762; 22521536; 35132180,Pkinase_C,,,,
+PRKCA,Prkca,T638-p,448685,TRGQPVLtPPDQLVI,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced",cell cycle regulation,17504762; 17942932,Pkinase_C,phosphorylation of PKCA induces phosphorylation of EGFR; Requires dual phosphorylation to locate to pericentrion.,CD82,Cd82,INDUCES
+PRKCA,Prkca,T228-p,3875546,PQWNESFtFKLKPSD,"molecular association, regulation; enzymatic activity, induced",,26414765,C2,,RhoGDI beta,Arhgdib,INDUCES
+PRKCA,Prkca,S226-p,2050181,LNPQWNEsFTFKLKP,"molecular association, regulation; enzymatic activity, induced",,26414765,C2,,RhoGDI beta,Arhgdib,INDUCES

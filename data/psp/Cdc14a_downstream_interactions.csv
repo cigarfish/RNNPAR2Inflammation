@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC14A,Cdc14a,S549-p,1216243800,SNGGNLNsPPGPHSA,"molecular association, regulation",,30089874,,interaction with putative  unknown substrates or regulators,,,
+CDC14A,Cdc14a,S484-p,31085757,INSRLASsLGNLNAA,,"cell cycle regulation; autophagy, induced",33090408,,,,,
+CDC14A,Cdc14a,S453-p,1216243801,KTSKMALsPSATAKR,"molecular association, regulation",,30089874,,interaction with putative  unknown substrates or regulators,,,
+CDC14A,Cdc14a,S411-p,25733761,SQRQPRTsPSCAFRS,"molecular association, regulation",,30089874,,interaction with putative  unknown substrates or regulators,,,
+CDC14A,Cdc14a,S429-p,5276069,KGHPRAVsQPFRLSS,phosphorylation,cell cycle regulation,31722221,,induces phosphorylation of its substrates by inhibiting its activity,,,

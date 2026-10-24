@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LTB4R2,Ltb4r2,T324-p,12267086,GGRSREGtMELRTTP,"molecular association, regulation","cell motility, induced",22044535; 23928309,TM,,RANBP9,Ranbp9,DISRUPTS

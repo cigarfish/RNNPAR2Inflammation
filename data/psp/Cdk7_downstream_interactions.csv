@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK7,Cdk7,T170-p,448306,GSPNRAYtHQVVTRW,"protein conformation; enzymatic activity, induced; enzymatic activity, altered","cell cycle regulation; cell growth, induced; cytoskeletal reorganization; transcription, altered",32855301; 35337817; 39097586; 9832506,Pkinase,,,,
+CDK7,Cdk7,S164-p,450041,GLAKSFGsPNRAYTH,"molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, altered; enzymatic activity, induced","cell cycle regulation; cell growth, induced; cytoskeletal reorganization; transcription, altered",32855301; 35337817; 39097586; 9832506,Pkinase,,MAT1A,Mat1a,INDUCES

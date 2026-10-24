@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGF10,Fgf10,T114-p,12063900,PYSILEItSVEIGVV,"activity, induced; molecular association, regulation","cell growth, altered",20036575,FGF,,FGFR2(NOT_REPORTED,Fgfr2,UNKNOWN

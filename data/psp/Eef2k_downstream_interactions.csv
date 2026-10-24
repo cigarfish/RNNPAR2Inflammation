@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EEF2K,Eef2k,S70-p,7320074,LTKSERYsSSGSPAN,"enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced; translation, induced",35513296,,,,,
+EEF2K,Eef2k,S398-p,450686,DSLPSSPsSATPHSQ,,"autophagy, induced; apoptosis, inhibited",23182879,,,,,
+EEF2K,Eef2k,S72-p,3150896,KSERYSSsGSPANSF,"enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced; translation, induced",35513296,,,,,
+EEF2K,Eef2k,T348-p,3150902,KLLQSAKtILRGTEE,"protein degradation; protein conformation; phosphorylation; enzymatic activity, induced",,22216903; 24732796; 25012662; 25670349; 27956550; 29800565; 33890716,,,,,
+EEF2K,Eef2k,S74-p,3150899,ERYSSSGsPANSFHF,"enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced; translation, induced",35513296,,,,,
+EEF2K,Eef2k,S359-p,447826,GTEEKCGsPQVRTLS,"enzymatic activity, inhibited",,11500363; 18337751,,,,,
+EEF2K,Eef2k,S445-p,483529,SGDSGYPsEKRGELD,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited; translation, induced; translation, inhibited",22669845; 25670349; 35513296,,,BTRC,Btrc,INDUCES
+EEF2K,Eef2k,S445-p,483529,SGDSGYPsEKRGELD,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited; translation, induced; translation, inhibited",22669845; 25670349; 35513296,,,BRD8,Brd8,INDUCES
+EEF2K,Eef2k,S78-p,450687,SSGSPANsFHFKEAW,"molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","cell growth, induced; autophagy, inhibited",15024086; 21112387; 22216903; 23182879,,,Calmodulin,Calm1,DISRUPTS
+EEF2K,Eef2k,Y69-p,1877127902,NLTKSERySSSGSPA,"enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced; translation, induced",35513296,,,,,
+EEF2K,Eef2k,S441-p,23101751,ESENSGDsGYPSEKR,"protein degradation; molecular association, regulation; ubiquitination","translation, induced",22669845; 25670349,,,BTRC,Btrc,INDUCES
+EEF2K,Eef2k,S441-p,23101751,ESENSGDsGYPSEKR,"protein degradation; molecular association, regulation; ubiquitination","translation, induced",22669845; 25670349,,,BRD8,Brd8,INDUCES
+EEF2K,Eef2k,S500-p,455998,RLHLPRAsAVALEVQ,"molecular association, regulation; protein conformation; enzymatic activity, induced",,27956550,,,Calmodulin,Calm1,INDUCES
+EEF2K,Eef2k,K603-ub,12106679,KGFDYLLkAAEAGDR,ubiquitination,,25670349,,,,,
+EEF2K,Eef2k,S366-p,447827,SPQVRTLsGSRPPLL,"enzymatic activity, inhibited; phosphorylation; enzymatic activity, induced","autophagy, inhibited; translation, induced",22216903; 23182879; 35841486; 37584653,,,,,

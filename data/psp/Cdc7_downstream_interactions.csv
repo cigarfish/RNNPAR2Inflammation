@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC7,Cdc7,T472-p,23092186,LRGMDSStPKLTSDI,protein degradation; ubiquitination,,27611229,Pkinase,,,,
+CDC7,Cdc7,T376-p,2864203,QVAPRAGtPGFRAPE,"protein degradation; ubiquitination; enzymatic activity, induced",,10846177; 27611229,Pkinase,,,,
+CDC7,Cdc7,T503-p,23092189,KASCLVQtPPGQYSG,protein degradation; ubiquitination,,27611229,,,,,

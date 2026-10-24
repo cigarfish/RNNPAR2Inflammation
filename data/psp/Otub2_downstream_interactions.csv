@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OTUB2,Otub2,K233-sm,1879841200,NILYAADkH______,"protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced",30472188,,Enhances stem cell-like properties of breast cancer cells,YAP1,Yap1,INDUCES
+OTUB2,Otub2,K233-sm,1879841200,NILYAADkH______,"protein stabilization; molecular association, regulation; intracellular localization","carcinogenesis, induced",30472188,,Enhances stem cell-like properties of breast cancer cells,WWTR1,Wwtr1,INDUCES

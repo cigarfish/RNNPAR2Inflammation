@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APBB1IP,Apbb1ip,Y45-p,462981,PPRAEFNySVGFKDL,"activity, induced; intracellular localization; protein conformation","signaling pathway regulation; cell adhesion, inhibited",30733287,,"autoinhibited by an intramolecular association, inhibits T cell adhesion",,,

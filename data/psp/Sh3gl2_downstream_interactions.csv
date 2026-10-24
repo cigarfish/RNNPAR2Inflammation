@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH3GL2,Sh3gl2,T14-p,457634,KKQFHKAtQKVSEKV,"molecular association, regulation",,16164598,BAR,,SH3KBP1,Sh3kbp1,DISRUPTS

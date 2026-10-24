@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALYREF,Alyref,T219-p,4614100,GGGTRRGtRGGARGR,"activity, induced","cell growth, altered",18562279,FoP_duplication,required for THOC4 mRNA export activity,,,

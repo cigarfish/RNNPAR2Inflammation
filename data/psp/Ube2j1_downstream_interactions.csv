@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBE2J1,Ube2j1,S184-p,465537,KELARQIsFKAEVNS,"protein degradation; enzymatic activity, induced",,16720581; 28321712,,ER stress cell recovery,cIAP1,Birc2,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM9,Trim9,S80-p,1046182901,EADSGYGsYGGFASA,protein stabilization,,29669288,,MKK6 enhances TRIM9s phosphorylation to inhibit Its ubiquitination,,,
+TRIM9,Trim9,S76-p,1046182900,SLYSEADsGYGSYGG,protein stabilization,,29669288,,MKK6 enhances TRIM9s phosphorylation to inhibit Its ubiquitination,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MBD4,Mbd4,K215-sm,1877787601,TSTHLLLkEDEGVDD,,"DNA repair, induced",31476572,,,,,
+MBD4,Mbd4,S262-p,22730000,SGFVQSDsKRESVCN,"enzymatic activity, induced","DNA repair, induced",19829383,,,,,
+MBD4,Mbd4,K377-sm,1877787602,HLHTDILkRGSEMDN,,"DNA repair, induced",31476572,,,,,
+MBD4,Mbd4,K137-sm,1877787600,KNGETSLkPEDFDFT,,"DNA repair, induced",31476572,MBD,,,,
+MBD4,Mbd4,S165-p,22730001,CSMAALTsHLQNQSN,"enzymatic activity, induced","DNA repair, induced",19829383,,,,,

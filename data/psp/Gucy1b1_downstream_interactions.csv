@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GUCY1B1,Gucy1b1,Y192-p,469612,ESKEEDFyEDLDRFE,"molecular association, regulation",,16079134,,,Src,Src,INDUCES
+GUCY1B1,Gucy1b1,Y192-p,469612,ESKEEDFyEDLDRFE,"molecular association, regulation",,16079134,,,Fyn,Fyn,INDUCES

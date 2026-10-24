@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBA52,Uba52,S65-p,9765474,DYNIQKEsTLHLVLR,"molecular association, regulation; protein conformation","autophagy, induced",36205098; 36469690,ubiquitin,induces mitophagy,UBA52,Uba52,DISRUPTS

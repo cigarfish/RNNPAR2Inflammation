@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EMD,Emd,Y95-p,448938,KGYNDDYyEESYFTT,,"transcription, altered",38824643,,regulates DNM3Ta activity,,,
+EMD,Emd,Y34-p,10897602,VGSTRRLyEKKIFEY,"molecular association, regulation",,19789182,LEM,,BAF,baf,INDUCES
+EMD,Emd,S54-gl,28850308,RLSPPSSsAASSYSF,O-GlcNAc glycosylation,,24014020,,induces O-GlcNAcylation at other residues,,,
+EMD,Emd,Y161-p,449652,MYGRDSAyQSITHYR,"molecular association, regulation",,19789182,,,BAF,baf,INDUCES
+EMD,Emd,S53-gl,28850305,RRLSPPSsSAASSYS,O-GlcNAc glycosylation,,24014020,,induces O-GlcNAcylation at other residues,,,
+EMD,Emd,S175-p,457527,RPVSASRsSLDLSYY,"molecular association, regulation",,16204256,,,BAF,baf,DISRUPTS
+EMD,Emd,Y19-p,10897601,LTTLLRRyNIPHGPV,"molecular association, regulation",,19789182,LEM,,BAF,baf,INDUCES
+EMD,Emd,S173-gl,28850307,HYRPVSAsRSSLDLS,"O-GlcNAc glycosylation; molecular association, regulation; phosphorylation",,24014020,,,BAF,baf,DISRUPTS
+EMD,Emd,Y4-p,3071455,____MDNyADLSDTE,"molecular association, regulation",,19789182,LEM,,BAF,baf,DISRUPTS
+EMD,Emd,Y74-p,451787,TRGDADMyDLPKKED,,"transcription, altered",38824643,,regulates DNM3Ta activity,,,

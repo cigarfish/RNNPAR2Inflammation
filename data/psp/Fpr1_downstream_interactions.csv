@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FPR1,Fpr1,S342-p,450850,ATNSTLPsAEVELQA,"molecular association, regulation","cell motility, induced",22447027,,,GRK2,Grk2,DISRUPTS
+FPR1,Fpr1,T339-p,450846,SDTATNStLPSAEVE,"receptor desensitization, altered; receptor internalization, altered",,10514456,,,,,
+FPR1,Fpr1,S328-p,450847,ERALTEDsTQTSDTA,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10514456; 16622009,,,ARRB2,Arrb2,INDUCES
+FPR1,Fpr1,S332-p,450851,TEDSTQTsDTATNST,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10514456; 16622009,,,ARRB2,Arrb2,INDUCES
+FPR1,Fpr1,S338-p,450845,TSDTATNsTLPSAEV,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,10514456; 16622009,,,ARRB2,Arrb2,INDUCES
+FPR1,Fpr1,T331-p,450666,LTEDSTQtSDTATNS,"receptor desensitization, altered; receptor internalization, altered",,10514456,,,,,
+FPR1,Fpr1,T334-p,450843,DSTQTSDtATNSTLP,"receptor desensitization, altered; receptor internalization, altered",,10514456,,,,,
+FPR1,Fpr1,T329-p,450665,RALTEDStQTSDTAT,"receptor desensitization, altered; receptor internalization, altered",,10514456,,,,,
+FPR1,Fpr1,T336-p,450844,TQTSDTAtNSTLPSA,"receptor desensitization, altered; receptor internalization, altered",,10514456,,,,,

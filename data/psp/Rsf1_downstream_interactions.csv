@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RSF1,Rsf1,S1359-p,3072999,ENVGKVGsPLDYSLV,,cell cycle regulation,26259146,,plays a role in PLK1 recruitment and deposition on mitotic kinetochores,,,
+RSF1,Rsf1,S1375-p,3088513,LPSTNGQsPGKAIEN,phosphorylation,cell cycle regulation,26259146,,phosphorylation of this site facilitates the subsequent phosphorylation by Plk1 at S1359; plays a role in PLK1 recruitment and deposition on mitotic kinetochores,,,

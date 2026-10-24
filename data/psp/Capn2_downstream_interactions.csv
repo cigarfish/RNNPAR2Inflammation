@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAPN2,Capn2,Y625-p,3413522,RSGTMNSyEMRKALE,"enzymatic activity, induced","carcinogenesis, induced; cell growth, inhibited",35697802,,,,,
+CAPN2,Capn2,K674-ub,21170842,VRLETLFkIFKQLDP,ubiquitination,,36964131,,KCTD7?Cullin-3 controls calpain 1 and calpain 2 using diferent polyubiquitination chains at different protein sites,,,
+CAPN2,Capn2,K390-sm,7780001,MNPQYLIkLEEEDED,"enzymatic activity, induced","cell motility, induced",19422794,Calpain_III,,,,
+CAPN2,Capn2,S369-p,451303,DGNWRRGsTAGGCRN,"activity, inhibited","cell motility, altered",11909964,Calpain_III,,,,
+CAPN2,Capn2,K280-ub,21170840,ESNGSLQkLIRIRNP,ubiquitination,,36964131,Peptidase_C2,KCTD7?Cullin-3 controls calpain 1 and calpain 2 using diferent polyubiquitination chains at different protein sites,,,
+CAPN2,Capn2,S50-p,451162,GTLFQDPsFPAIPSA,"activity, induced","cell motility, altered; cell adhesion, altered",14993287; 26248159,Peptidase_C2,,,,
+CAPN2,Capn2,T370-p,451304,GNWRRGStAGGCRNY,"activity, inhibited","cell motility, altered",11909964,Calpain_III,,,,

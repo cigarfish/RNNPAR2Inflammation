@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TERT,Tert,K236-ub,14561001,SRSLPLPkRPRRGAA,protein degradation,"chromatin organization, altered; apoptosis, induced",20453884,,,,,
+TERT,Tert,K78-ub,14561002,FRQVSCLkELVARVL,protein degradation,"chromatin organization, altered; apoptosis, induced",20453884,,,,,
+TERT,Tert,K329-ub,14561003,PPVYAETkHFLYSSG,protein degradation,"chromatin organization, altered; apoptosis, induced",20453884,,,,,
+TERT,Tert,K338-ub,14561004,FLYSSGDkEQLRPSF,protein degradation,"chromatin organization, altered; apoptosis, induced",20453884,,,,,
+TERT,Tert,S921-p,1105513500,VLRLKCHsLFLDLQV,,"apoptosis, inhibited",29748384,,"protects telomere damage, and results in  delayed senescence and  protection from apoptosis",,,
+TERT,Tert,S824-p,11418801,AVRIRGKsYVQCQGI,"intracellular localization; enzymatic activity, induced",,10224060; 22902867,RVT_1,,,,
+TERT,Tert,K94-ub,14561000,RLCERGAkNVLAFGF,protein degradation,"chromatin organization, altered; apoptosis, induced",20453884,,,,,
+TERT,Tert,T249-p,1868023600,AAPEPERtPVGQGSW,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, altered",32214089; 38806647,,"induces RdRP activity, and  binding to FOXO4 and RMRP RNA, reducing their transcription, alters transcription of other proteins  ",,,
+TERT,Tert,Y707-p,450084,QDPPPELyFVKVDVT,"molecular association, regulation; intracellular localization","apoptosis, altered",12808100; 18829466; 20211239; 24413564,,,RAN,Ran,INDUCES
+TERT,Tert,S227-p,11418800,GARRRGGsASRSLPL,"intracellular localization; enzymatic activity, induced","apoptosis, inhibited; cytoskeletal reorganization",10224060; 22366458; 25999477,,facilitates nuclear import of TERT; nuclear import,KPNA1,Kpna1,INDUCES
+TERT,Tert,S227-p,11418800,GARRRGGsASRSLPL,"intracellular localization; enzymatic activity, induced","apoptosis, inhibited; cytoskeletal reorganization",10224060; 22366458; 25999477,,facilitates nuclear import of TERT; nuclear import,KPNA5,Kpna5,INDUCES
+TERT,Tert,S227-p,11418800,GARRRGGsASRSLPL,"intracellular localization; enzymatic activity, induced","apoptosis, inhibited; cytoskeletal reorganization",10224060; 22366458; 25999477,,facilitates nuclear import of TERT; nuclear import,KPNB1,Kpnb1,INDUCES

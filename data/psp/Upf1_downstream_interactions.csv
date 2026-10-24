@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UPF1,Upf1,T151-p,50788283,FCNGRGNtSGSHIVN,"molecular association, regulation; protein conformation; enzymatic activity, induced","RNA stability, inhibited",35675814,UPF1_Zn_bind,,ELF4,Elf4,DISRUPTS
+UPF1,Upf1,T151-p,50788283,FCNGRGNtSGSHIVN,"molecular association, regulation; protein conformation; enzymatic activity, induced","RNA stability, inhibited",35675814,UPF1_Zn_bind,,UPF2,Upf2,DISRUPTS
+UPF1,Upf1,T151-p,50788283,FCNGRGNtSGSHIVN,"molecular association, regulation; protein conformation; enzymatic activity, induced","RNA stability, inhibited",35675814,UPF1_Zn_bind,,UPF3B,Upf3b,DISRUPTS
+UPF1,Upf1,T151-p,50788283,FCNGRGNtSGSHIVN,"molecular association, regulation; protein conformation; enzymatic activity, induced","RNA stability, inhibited",35675814,UPF1_Zn_bind,,CTIF,Ctif,DISRUPTS
+UPF1,Upf1,T28-p,21560213,AELLGADtQGSEFEF,"molecular association, regulation","RNA stability, inhibited",21965535,,important for NMD (nonsense-mediated mRNA decay),EST1A,Smg6,INDUCES
+UPF1,Upf1,S1116-p,460825,HGGVTGLsQY_____,"molecular association, regulation",,25184677,,marker for cellular NMD targets,,,
+UPF1,Upf1,S1089-p,12559503,GLSQPELsQDSYLGD,"molecular association, regulation",,21965535,,,SMG7,Smg7,INDUCES
+UPF1,Upf1,S1107-p,456314,SQIDVALsQDSTYQG,"molecular association, regulation","RNA stability, inhibited",21965535; 23826386,,"regulates nonsense-mediated RNA decay, phosphorylation blocked by MARVELD1;  important for NMD (nonsense-mediated mRNA decay); as apart of SMD-5:SMG-7 complex binding",SMG7,Smg7,INDUCES
+UPF1,Upf1,S1107-p,456314,SQIDVALsQDSTYQG,"molecular association, regulation","RNA stability, inhibited",21965535; 23826386,,"regulates nonsense-mediated RNA decay, phosphorylation blocked by MARVELD1;  important for NMD (nonsense-mediated mRNA decay); as apart of SMD-5:SMG-7 complex binding",SMG5,Smg5,INDUCES

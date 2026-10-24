@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDEL1,Ndel1,S285-p,1884825200,KDQASRKsYISGNVN,intracellular localization,cell cycle regulation; cytoskeletal reorganization,36350697,,regulates MAD1 localization,,,
+NDEL1,Ndel1,S242-p,3685801,IPNGFGTsPLTPSAR,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,PAFAH1B1,Pafah1b1,INDUCES
+NDEL1,Ndel1,S242-p,3685801,IPNGFGTsPLTPSAR,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,DYNC1I1,Dync1i1,INDUCES
+NDEL1,Ndel1,S231-p,474507,GTENTFPsPKAIPNG,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,PAFAH1B1,Pafah1b1,INDUCES
+NDEL1,Ndel1,S231-p,474507,GTENTFPsPKAIPNG,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,DYNC1I1,Dync1i1,INDUCES
+NDEL1,Ndel1,T245-p,3211851,GFGTSPLtPSARISA,"molecular association, regulation; intracellular localization",,12556484,NUDE_C,,PAFAH1B1,Pafah1b1,INDUCES
+NDEL1,Ndel1,T219-p,468252,ASLSLPAtPVGKGTE,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,PAFAH1B1,Pafah1b1,INDUCES
+NDEL1,Ndel1,T219-p,468252,ASLSLPAtPVGKGTE,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,DYNC1I1,Dync1i1,INDUCES
+NDEL1,Ndel1,S198-p,474508,TRKSAPSsPTLDCEK,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,PAFAH1B1,Pafah1b1,INDUCES
+NDEL1,Ndel1,S198-p,474508,TRKSAPSsPTLDCEK,"molecular association, regulation; intracellular localization",,12556484; 37086789,NUDE_C,,DYNC1I1,Dync1i1,INDUCES

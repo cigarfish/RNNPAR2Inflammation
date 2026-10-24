@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DMD,Dmd,S3066-p,35542205,GPWERAIsPNKVPYY,"protein stabilization; molecular association, regulation",cytoskeletal reorganization,25082828,WW,,DAG1,Dag1,INDUCES
+DMD,Dmd,T3361-p,35542206,YPMVEYCtPTTSGED,"protein stabilization; molecular association, regulation",cytoskeletal reorganization,25082828,,,DAG1,Dag1,INDUCES

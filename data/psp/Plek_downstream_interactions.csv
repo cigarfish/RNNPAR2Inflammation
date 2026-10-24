@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLEK,Plek,S117-p,451306,ARKSTRRsIRLPETI,"activity, induced",,7559487,,,,,
+PLEK,Plek,T114-p,478034,QKFARKStRRSIRLP,"activity, induced",,7559487,,,,,
+PLEK,Plek,S113-p,451305,GQKFARKsTRRSIRL,"activity, induced",,7559487,,,,,

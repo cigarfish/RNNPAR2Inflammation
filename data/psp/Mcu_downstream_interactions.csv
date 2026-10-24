@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCU,Mcu,S92-p,27259017,VISVRLPsRRERCQF,"molecular association, regulation; protein conformation",,26341627; 32499574,,"MCU-mediated mitochondrial Ca2+uptake, S92A mutant has a conformational change in L2-L4 loops which impairs Ca2+uptake.; inhibits dimerization;  Regulates MCU activity",MCU,Mcu,DISRUPTS
+MCU,Mcu,K332-ac,466738,AQAEMDLkRLRDPLQ,,"apoptosis, induced",35636016,,"increase of mitochondrial Ca2+ iflux and the loss of mitochondrial membrane potential (MMP), INZ treatment significantly induced cell apoptosis in tumor tissues ",,,
+MCU,Mcu,S57-p,27259016,TVHQRIAsWQNLGAV,"activity, induced; intracellular localization",cell cycle regulation,30858581,,Regulates mitochondrial Ca2+ uptake and mitotic progression,,,

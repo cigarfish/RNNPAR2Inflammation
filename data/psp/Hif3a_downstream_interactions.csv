@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HIF3A,Hif3a,S526-p,1884448400,VPRPRARsFHGLSPP,protein stabilization; ubiquitination,"cell motility, induced; cell growth, induced; transcription, induced; cell adhesion, inhibited",38020884,,,,,
+HIF3A,Hif3a,K570-ub,486276,SPMAGARkRTLAQSS,protein degradation,,12538644,,,,,
+HIF3A,Hif3a,K467-ub,486275,HRLFTSGkDTEAVET,protein degradation,,12538644,,,,,

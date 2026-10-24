@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDHD1,Ddhd1,S8-p,22351354,MNYPGRGsPRSPEHN,phosphorylation,,34089703,,regulates phosphorylation at other sites,,,
+DDHD1,Ddhd1,S727-p,465585,TIPSPVTsPVLSRRH,intracellular localization,,34089703,DDHD,,,,
+DDHD1,Ddhd1,S11-p,22351356,PGRGSPRsPEHNGRG,intracellular localization; phosphorylation,,34089703,,regulates phosphorylation at other sites,,,

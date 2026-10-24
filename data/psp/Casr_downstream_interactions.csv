@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASR,Casr,T888-p,449862,FKVAARAtLRRSNVS,"activity, induced; molecular association, regulation; receptor desensitization, altered; activity, inhibited; phosphorylation",signaling pathway regulation,12356761; 12409307; 15212956; 17376781; 21135065; 24336654; 31189667; 36818436; 38326620; 9694886,,G-q signaling; regulates Ca2+ sensitivity,G-alpha(q),Gnaq,DISRUPTS
+CASR,Casr,S915-p,11488700,STPSSSIsSKSNSED,"activity, induced",,9694886,,,,,
+CASR,Casr,S899-p,15507601,SNVSRKRsSSLGGST,"molecular association, regulation; intracellular localization",,20798521; 26317416,,,14-3-3 beta,Ywhab,INDUCES
+CASR,Casr,S899-p,15507601,SNVSRKRsSSLGGST,"molecular association, regulation; intracellular localization",,20798521; 26317416,,,14-3-3 beta,Ywhab,DISRUPTS
+CASR,Casr,S875-p,4782110,TIEEVRCsTAAHAFK,"activity, inhibited",signaling pathway regulation,31189667,,regulates Ca2+ sensitivity,,,
+CASR,Casr,S895-p,11488701,TLRRSNVsRKRSSSL,"activity, induced",,9694886,,,,,

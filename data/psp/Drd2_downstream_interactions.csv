@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DRD2,Drd2,K258-ub,1877221609,KLCTVIMkSNGSFPV,protein degradation,,32572597,7tm_1,,,,
+DRD2,Drd2,S321-p,31010702,GLHSTPDsPAKPEKN,"receptor internalization, induced; receptor desensitization, inhibited",signaling pathway regulation,24391960,7tm_1,decreased inhibition of the cAMP pathway ,,,
+DRD2,Drd2,S354-p,467255,PNGKTRTsLKTMSRR,"molecular association, regulation; intracellular localization; activity, inhibited",,10692483,7tm_1,inhibits D2 receptor clustering on the cell surface,FLNA,Flna,DISRUPTS
+DRD2,Drd2,S229-p,487433,RVNTKRSsRAFRAHL,"receptor desensitization, induced; receptor recycling, induced",,23082996,7tm_1,PKC mediated receptor desensitization and internalization,,,
+DRD2,Drd2,T225-p,13270200,RRRKRVNtKRSSRAF,"receptor internalization, altered",,20160122,7tm_1,,,,
+DRD2,Drd2,K221-ub,1877221606,IVLRRRRkRVNTKRS,protein degradation,,32572597,7tm_1,,,,
+DRD2,Drd2,S228-p,487432,KRVNTKRsSRAFRAH,"receptor desensitization, induced; receptor recycling, induced",,23082996,7tm_1,PKC mediated receptor desensitization and internalization,,,
+DRD2,Drd2,S228-p,487432,KRVNTKRsSRAFRAH,"receptor desensitization, induced",,17869243,7tm_1,,,,
+DRD2,Drd2,K226-ub,1877221607,RRKRVNTkRSSRAFR,protein degradation,,32572597,7tm_1,,,,
+DRD2,Drd2,K241-ub,4793400,AHLRAPLkGNCTHPE,protein degradation,,32572597,7tm_1,,,,
+DRD2,Drd2,T134-p,13315301,AISIDRYtAVAMPML,"receptor desensitization, induced",,23082996,7tm_1,PKC mediated receptor desensitization,,,
+DRD2,Drd2,K251-ub,1877221608,CTHPEDMkLCTVIMK,protein degradation,,32572597,7tm_1,,,,
+DRD2,Drd2,S325-p,467255,PNGKTRTsLKTMSRR,"receptor desensitization, induced",,23082996,7tm_1,PKC mediated receptor desensitization,,,
+DRD2,Drd2,S229-p,487433,RVNTKRSsRAFRAHL,"receptor desensitization, induced",,17869243,7tm_1,,,,
+DRD2,Drd2,T225-p,13270200,RRRKRVNtKRSSRAF,"receptor desensitization, induced; receptor recycling, induced",,23082996,7tm_1,PKC mediated receptor desensitization and internalization,,,

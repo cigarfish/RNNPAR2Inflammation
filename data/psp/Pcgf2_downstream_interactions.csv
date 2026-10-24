@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCGF2,Pcgf2,T334-p,34606690,TSRGRKMtVNGAPVP,"molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",33664452,,inhibits H2A ubiquitination,PHC1,Phc1,DISRUPTS
+PCGF2,Pcgf2,T334-p,34606690,TSRGRKMtVNGAPVP,"molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",33664452,,inhibits H2A ubiquitination,CBX8,Cbx8,DISRUPTS

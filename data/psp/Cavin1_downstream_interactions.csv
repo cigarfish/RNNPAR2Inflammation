@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAVIN1,Cavin1,K296-ac,1873356108,KLKTSRDkLRKSFTP,"molecular association, regulation; intracellular localization",,28559430,PTRF_SDPR,induces lipolysis,HSL,Lipe,INDUCES
+CAVIN1,Cavin1,K289-ac,1873356104,VPAERREkLKTSRDK,"molecular association, regulation; intracellular localization",,28559430,PTRF_SDPR,induces lipolysis,HSL,Lipe,INDUCES
+CAVIN1,Cavin1,K291-ac,1873356106,AERREKLkTSRDKLR,"molecular association, regulation; intracellular localization",,28559430,PTRF_SDPR,induces lipolysis,HSL,Lipe,INDUCES

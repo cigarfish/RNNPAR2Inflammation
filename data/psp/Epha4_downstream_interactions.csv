@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPHA4,Epha4,Y779-p,450858,EDDPEAAyTTRGGKI,"enzymatic activity, induced",,21439481,PK_Tyr_Ser-Thr,,,,
+EPHA4,Epha4,Y596-p,450856,LNQGVRTyVDPFTYE,"enzymatic activity, induced",,21439481,EphA2_TM,,,,
+EPHA4,Epha4,Y602-p,450857,TYVDPFTyEDPNQAV,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, inhibited; cell motility, inhibited",21439481; 36181793; 8622893,EphA2_TM,,Fyn,Fyn,INDUCES

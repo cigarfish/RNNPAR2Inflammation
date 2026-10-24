@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYH10,Myh10,S1938-p,4730824,GGPISFSsSRSGRRQ,,cytoskeletal reorganization,25869664,,poorly defined actomyosin bundles distributed throughout the cell,,,
+MYH10,Myh10,S1952-p,465599,QLHLEGAsLELSDDD,,cytoskeletal reorganization,25869664,,poorly defined actomyosin bundles distributed throughout the cell,,,
+MYH10,Myh10,S1975-p,465603,NETQPPQsE______,,cytoskeletal reorganization,30087119,,downregulates filament assembly,,,
+MYH10,Myh10,T1847-p,1874404500,ANKLVRRtEKKLKEI,"molecular association, regulation; intracellular localization",cell cycle regulation,34343568,Myosin_tail_1,,MYH10,Myh10,DISRUPTS
+MYH10,Myh10,T1847-p,1874404500,ANKLVRRtEKKLKEI,"molecular association, regulation; intracellular localization",cell cycle regulation,34343568,Myosin_tail_1,,Survivin,Birc5,DISRUPTS
+MYH10,Myh10,S1937-p,2017900,RGGPISFsSSRSGRR,"molecular association, regulation; intracellular localization; activity, inhibited",cytoskeletal reorganization,16611744; 25869664; 30655296,,,MYH10,Myh10,INDUCES
+MYH10,Myh10,S1937-p,2017900,RGGPISFsSSRSGRR,"molecular association, regulation; intracellular localization; activity, inhibited",cytoskeletal reorganization,16611744; 25869664; 30655296,,,ACTA1,Acta1,INDUCES
+MYH10,Myh10,S1935-p,4730818,LRRGGPIsFSSSRSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25869664; 30655296,,,MYH10,Myh10,INDUCES
+MYH10,Myh10,S1935-p,4730818,LRRGGPIsFSSSRSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25869664; 30655296,,,ACTA1,Acta1,INDUCES
+MYH10,Myh10,K1104-ub,52485012,LKLQLAKkEEELQGA,protein degradation,,26676607,Myosin_tail_1,,,,
+MYH10,Myh10,S1939-p,3189934,GPISFSSsRSGRRQL,,cytoskeletal reorganization,25869664,,poorly defined actomyosin bundles distributed throughout the cell,,,
+MYH10,Myh10,S1956-p,465600,EGASLELsDDDTESK,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25869664; 30087119; 30655296,,,MYH10,Myh10,INDUCES
+MYH10,Myh10,S1956-p,465600,EGASLELsDDDTESK,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,25869664; 30087119; 30655296,,,ACTA1,Acta1,INDUCES

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKD2,Pkd2,S829-p,4696848,HSSRRRGsISSGVSY,"activity, induced","cell cycle regulation; cell growth, induced; transcription, induced",23390129; 26269590,,,,,
+PKD2,Pkd2,S76-p,460685,AGAAASPsPPLSSCS,intracellular localization,,16551655,,,,,
+PKD2,Pkd2,S812-p,451598,FPRSLDDsEEDDDED,"activity, induced; molecular association, regulation",,14742446; 23838289,,,PACS2,Pacs2,INDUCES
+PKD2,Pkd2,S812-p,451598,FPRSLDDsEEDDDED,"activity, induced; molecular association, regulation",,14742446; 23838289,,,CBY1,Cby1,DISRUPTS
+PKD2,Pkd2,S801-p,15702202,SSLPRPMsSRSFPRS,"activity, induced",cell cycle regulation,20881056,,regulates ATP-induced calcium release,,,

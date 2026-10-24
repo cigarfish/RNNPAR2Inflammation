@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK10,Mapk10,T221-p,448034,AGTSFMMtPYVVTRY,,"cell cycle regulation; apoptosis, inhibited",38383842,Pkinase,,,,

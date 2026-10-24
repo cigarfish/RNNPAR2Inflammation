@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FCER1G,Fcer1g,Y76-p,454847,STRNQETyETLKHEK,"molecular association, regulation",,38359047,ITAM,,Syk,Syk,INDUCES
+FCER1G,Fcer1g,Y65-p,451737,YEKSDGVyTGLSTRN,"molecular association, regulation; phosphorylation",,27630214; 38359047,ITAM,,Syk,Syk,INDUCES
+FCER1G,Fcer1g,S69-p,13310016,DGVYTGLsTRNQETY,"molecular association, regulation",,27630214,ITAM,,Syk,Syk,DISRUPTS

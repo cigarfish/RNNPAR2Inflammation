@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYH9,Myh9,S1803-p,2482303,EMEGTVKsKYKASIT,intracellular localization,cytoskeletal reorganization,18394644,Myosin_tail_1,,,,
+MYH9,Myh9,S1808-p,2482304,VKSKYKAsITALEAK,intracellular localization,cytoskeletal reorganization,18394644,Myosin_tail_1,,,,
+MYH9,Myh9,S1916-p,451181,AMNREVSsLKNKLRR,"molecular association, regulation; intracellular localization","carcinogenesis, induced; exocytosis, induced; cell motility, induced; cell adhesion, induced; cytoskeletal reorganization; cell adhesion, altered",25544611; 28053086; 29208598; 36970214,Myosin_tail_1,,HBXIP,Lzts2,INDUCES
+MYH9,Myh9,Y1408-p,462335,HEEKVAAyDKLEKTK,,"carcinogenesis, inhibited; cell motility, inhibited",31735331,Myosin_tail_1,upregulates EGFR expression,,,
+MYH9,Myh9,S1943-p,456730,RKGAGDGsDEEVDGK,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, inhibited; cell adhesion, induced; cell motility, altered; cytoskeletal reorganization",17567956; 18971378; 19826041; 21316371; 22123909; 28053086; 30087119; 30267961,,,S100A4,S100a4,DISRUPTS
+MYH9,Myh9,S1943-p,456730,RKGAGDGsDEEVDGK,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, inhibited; cell adhesion, induced; cell motility, altered; cytoskeletal reorganization",17567956; 18971378; 19826041; 21316371; 22123909; 28053086; 30087119; 30267961,,,Cas-L,Nedd9,INDUCES
+MYH9,Myh9,T1800-p,2482302,KLQEMEGtVKSKYKA,intracellular localization,cytoskeletal reorganization,18394644,Myosin_tail_1,,,,

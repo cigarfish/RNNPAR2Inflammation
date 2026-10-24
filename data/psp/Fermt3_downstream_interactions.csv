@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FERMT3,Fermt3,T482-p,15406839,AFLSLQRtGSGGPGN,"activity, induced","cell motility, induced; cell adhesion, induced",25609252,FERM_M,"integrin activation, adhesion and spreading",,,
+FERMT3,Fermt3,S484-p,15424197,LSLQRTGsGGPGNHP,"activity, induced; molecular association, regulation; protein conformation","cell motility, induced; cell adhesion, induced",25609252; 32730588,FERM_M,"induces integrin activation; integrin activation, adhesion and spreading",ICAM1,Icam1,INDUCES

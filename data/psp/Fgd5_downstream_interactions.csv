@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGD5,Fgd5,Y820-p,464904,TANENDGyVDMSSFN,"activity, induced; enzymatic activity, induced",cytoskeletal reorganization,31088862; 31267715,,induces its activity as a GEF for Cdc42; responsible for Cdc42 activation and inhibition of thrombin-induced permeability;  not necessary for recruitment of FGD5 to endothelial junctions,,,

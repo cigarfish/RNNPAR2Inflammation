@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK9,Mapk9,Y185-p,447652,TNFMMTPyVVTRYYR,,"cell cycle regulation; carcinogenesis, inhibited; apoptosis, induced; signaling pathway regulation",28068431; 35154579,Pkinase,,,,

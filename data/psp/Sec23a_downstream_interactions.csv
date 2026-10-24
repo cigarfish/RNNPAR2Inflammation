@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SEC23A,Sec23a,S207-p,89117912,LQEMLGLsKVPLTQA,"molecular association, regulation",,28486929,Sec23_trunk,,SEC31A,Sec31a,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HCFC1,Hcfc1,K1808-ub,6423510,PSKAPMKkENQWFDV,protein stabilization,"cell cycle regulation; cell growth, induced",19188440,,,,,
+HCFC1,Hcfc1,K1807-ub,6423511,PPSKAPMkKENQWFD,protein stabilization,"cell cycle regulation; cell growth, induced",19188440,,,,,

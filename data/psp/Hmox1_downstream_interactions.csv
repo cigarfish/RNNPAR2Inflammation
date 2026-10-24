@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HMOX1,Hmox1,S188-p,2897404,LYRSRMNsLEMTPAV,"molecular association, regulation; enzymatic activity, induced",,15581622,Heme_oxygenase,,BVR,Blvrb,INDUCES
+HMOX1,Hmox1,S188-p,2897404,LYRSRMNsLEMTPAV,"molecular association, regulation; enzymatic activity, induced",,15581622,Heme_oxygenase,,POR,Por,INDUCES
+HMOX1,Hmox1,K256-ac,206219704,PVETPRGkPPLNTRS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",28846111,,Interaction leads to AP-1 transcriptional activation,JunD,Jund,INDUCES
+HMOX1,Hmox1,K243-ac,206219703,LRQRASNkVQDSAPV,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",28846111,,Interaction leads to AP-1 transcriptional activation,JunD,Jund,INDUCES

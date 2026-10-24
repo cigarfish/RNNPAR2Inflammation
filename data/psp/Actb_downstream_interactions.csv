@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACTB,Actb,K68-m3,1877292603,KRGILTLkYPIEHGI,,"cell motility, induced; cytoskeletal reorganization",33008892,Actin,,,,
+ACTB,Actb,K61-ac,461692,VGDEAQSkRGILTLK,"molecular association, regulation",,31871199,Actin,"acetyl-mimetic actin mutants inhibit INF2-mediated actin polimerization, CAP/Ac-actin binds INF2-DAD",CAP2,Cap2,INDUCES
+ACTB,Actb,K61-ac,461692,VGDEAQSkRGILTLK,"molecular association, regulation",,31871199,Actin,"acetyl-mimetic actin mutants inhibit INF2-mediated actin polimerization, CAP/Ac-actin binds INF2-DAD",INF2,Inf2,INDUCES
+ACTB,Actb,K50-ac,461691,VMVGMGQkDSYVGDE,"molecular association, regulation",,31871199,Actin,"acetyl-mimetic actin mutants inhibit INF2-mediated actin polimerization, CAP/Ac-actin binds INF2-DAD",CAP2,Cap2,INDUCES
+ACTB,Actb,K50-ac,461691,VMVGMGQkDSYVGDE,"molecular association, regulation",,31871199,Actin,"acetyl-mimetic actin mutants inhibit INF2-mediated actin polimerization, CAP/Ac-actin binds INF2-DAD",INF2,Inf2,INDUCES
+ACTB,Actb,K328-ac,3814584,APSTMKIkIIAPPER,"molecular association, regulation",,32873710,Actin, K328 modulates muscle contraction by disrupting inhibitory tropomysin positioning,TPM1,Tpm1,DISRUPTS
+ACTB,Actb,K328-ac,3814584,APSTMKIkIIAPPER,"molecular association, regulation",,32873710,Actin, K328 modulates muscle contraction by disrupting inhibitory tropomysin positioning,MYO3B,Myo3b,INDUCES
+ACTB,Actb,S239-p,3147240,SSSSLEKsYELPDGQ,phosphorylation,"cell motility, induced; cell growth, inhibited; cytoskeletal reorganization",37648284,Actin,inhibits Rac1/Cdc42 phosphorylation,,,
+ACTB,Actb,H73-me,1877656601,TLKYPIEhGIVTNWD,protein conformation,,30760599,Actin,Methyl-H73 N+-H  interaction with the side chain of R177 which allows the gamma-phosphate to escape ,,,
+ACTB,Actb,K84-m1,31094539,TNWDDMEkIWHHTFY,"molecular association, regulation","cell cycle regulation; cytoskeletal reorganization; cell motility, inhibited",23673617,Actin,,MYH10,Myh10,DISRUPTS
+ACTB,Actb,K68-sm,9859926,KRGILTLkYPIEHGI,intracellular localization,,19635839,Actin,nuclear localization,,,
+ACTB,Actb,K284-sm,2894412,TTFNSIMkCDVDIRK,intracellular localization,,19635839,Actin,nuclear localization,,,
+ACTB,Actb,K326-ac,466094,ALAPSTMkIKIIAPP,"molecular association, regulation",,32873710,Actin, K328 modulates muscle contraction by disrupting inhibitory tropomysin positioning,TPM1,Tpm1,DISRUPTS
+ACTB,Actb,K326-ac,466094,ALAPSTMkIKIIAPP,"molecular association, regulation",,32873710,Actin, K328 modulates muscle contraction by disrupting inhibitory tropomysin positioning,MYO3B,Myo3b,INDUCES

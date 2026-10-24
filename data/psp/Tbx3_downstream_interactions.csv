@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TBX3,Tbx3,S719-p,23151362,AEKEAATsELQSIQR,protein stabilization; intracellular localization,"cell motility, induced; transcription, inhibited",25595898,,TBX3 S719E promotes transcriptional repression of E-cadherin,,,

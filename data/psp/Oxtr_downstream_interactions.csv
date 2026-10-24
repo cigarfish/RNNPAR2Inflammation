@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OXTR,Oxtr,S261-p,1876282802,RVALARVsSVKLISK,"molecular association, regulation; phosphorylation",signaling pathway regulation,35104164,7tm_1,"induces PKD1 and ERK1 phosphorylation, induces MAPK signaling",G-alpha(q),Gnaq,INDUCES

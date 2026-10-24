@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRAIP,Traip,K205-sm,53529103,AVYCVSLkKEYENLK,"protein degradation; molecular association, regulation; protein stabilization; ubiquitination; intracellular localization",cell cycle regulation,26820530; 30619364,,interacts with nsp1-alpha of PRRSV (porcine reproductive and respiratory syndrome virus) K48 ubiquitination and degradation of serine/threonine-protein kinase (TBK1); inhibits ubiquitination,,,
+TRAIP,Traip,K462-sm,53529102,VPSLFQAkLDTFLWS,protein stabilization; ubiquitination; intracellular localization,,26820530,,inhibits ubiquitination,,,
+TRAIP,Traip,K247-sm,53529100,YSELDQAkLELKSAQ,protein stabilization; ubiquitination; intracellular localization,,26820530,,inhibits ubiquitination,,,
+TRAIP,Traip,K80-sm,53529104,VLDAEFLkNELDNVR,protein stabilization; ubiquitination; intracellular localization,,26820530,,inhibits ubiquitination,,,
+TRAIP,Traip,K127-sm,53529101,SLQQALGkAEMLCST,protein stabilization; ubiquitination; intracellular localization,,26820530,,inhibits ubiquitination,,,

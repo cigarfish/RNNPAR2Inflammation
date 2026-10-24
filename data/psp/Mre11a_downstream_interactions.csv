@@ -1,0 +1,36 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MRE11,Mre11a,S382-p,11506403,PFSVLRFsQKFVDRV,"molecular association, regulation",,19709933,Mre11_DNA_bind,,,,
+MRE11,Mre11a,S649-p,455765,EVIEVDEsDVEEDIF,,"cell cycle regulation; DNA repair, inhibited",28512243,,,,,
+MRE11,Mre11a,R577-me,2344808,RGRGRGRrGGRGQNS,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,S688-p,449207,SKGVDFEsSEDDDDD,"protein stabilization; molecular association, regulation","cell cycle regulation; DNA repair, inhibited",28436950; 28512243,,,PIH1D1,Pih1d1,INDUCES
+MRE11,Mre11a,S264-p,486366,EQQLFYIsQPGSSVV,"molecular association, regulation",,19709933,,,,,
+MRE11,Mre11a,R576-m2,62978402,GRGRGRGrRGGRGQN,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,T597-p,4333497,SQRGRADtGLETSTR,protein degradation,,28967905,,,,,
+MRE11,Mre11a,S678-p,460789,SSKIMSQsQVSKGVD,"protein degradation; molecular association, regulation","DNA repair, induced; chromatin organization, altered",19709933; 26240375; 31353207,,,C1QBP,C1qbp,DISRUPTS
+MRE11,Mre11a,S678-p,460789,SSKIMSQsQVSKGVD,"protein degradation; molecular association, regulation","DNA repair, induced; chromatin organization, altered",19709933; 26240375; 31353207,,,NBS1,Nbn,INDUCES
+MRE11,Mre11a,R580-m2,62978406,GRGRRGGrGQNSASR,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,R574-me,2344814,NKGRGRGrGRRGGRG,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,R587-m2,62978400,RGQNSASrGGSQRGR,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,K339-ub,964527898,IQSFCLEkIEEMLEN,"activity, induced; ubiquitination","DNA repair, induced",36563124,Mre11_DNA_bind,MRE11A promotes its exonuclease activity,,,
+MRE11,Mre11a,R594-m2,62978407,RGGSQRGrADTGLET,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,R572-me,2344809,ATNKGRGrGRGRRGG,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,S689-p,452321,KGVDFESsEDDDDDP,"protein stabilization; molecular association, regulation",,28436950,,,PIH1D1,Pih1d1,INDUCES
+MRE11,Mre11a,R570-m2,62978403,SAATNKGrGRGRGRR,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,R570-me,2344812,SAATNKGrGRGRGRR,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,T329-p,11506402,NPDNPKVtQAIQSFC,"molecular association, regulation",,19709933,Mre11_DNA_bind,,,,
+MRE11,Mre11a,R594-me,2344815,RGGSQRGrADTGLET,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,R592-m2,62978408,ASRGGSQrGRADTGL,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,R592-me,2344810,ASRGGSQrGRADTGL,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,R572-m2,62978401,ATNKGRGrGRGRRGG,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,S590-p,11506401,NSASRGGsQRGRADT,"molecular association, regulation",,19709933,,,,,
+MRE11,Mre11a,S676-p,460788,TSSSKIMsQSQVSKG,"molecular association, regulation","DNA repair, induced; chromatin organization, altered",19709933; 26240375,,,,,
+MRE11,Mre11a,R577-m2,62978404,RGRGRGRrGGRGQNS,,"DNA repair, altered",15741314,,,,,
+MRE11,Mre11a,R580-me,2344816,GRGRRGGrGQNSASR,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,R576-me,2344813,GRGRGRGrRGGRGQN,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,K480-ub,573764936,LVKYQLEkTQRFLKE,"activity, induced; ubiquitination","DNA repair, induced",36563124,,MRE11A promotes its exonuclease activity,,,
+MRE11,Mre11a,S561-p,23127159,MANDSDDsISAATNK,"protein stabilization; molecular association, regulation",,28436950,,,PIH1D1,Pih1d1,INDUCES
+MRE11,Mre11a,T481-p,11506400,VKYQLEKtQRFLKER,"molecular association, regulation",,19709933,,,,,
+MRE11,Mre11a,R587-me,2344811,RGQNSASrGGSQRGR,intracellular localization,,15970667,,localizes in nucleus and associates with nuclear bodies and sites of DNA damage,,,
+MRE11,Mre11a,S531-p,5846030,TRARALRsQSEESAS,"molecular association, regulation",,19709933,,,,,
+MRE11,Mre11a,S558-p,3191332,AEQMANDsDDSISAA,"protein stabilization; molecular association, regulation",,28436950,,,PIH1D1,Pih1d1,INDUCES
+MRE11,Mre11a,R574-m2,62978405,NKGRGRGrGRRGGRG,,"DNA repair, altered",15741314,,,,,

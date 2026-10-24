@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUMO3,Sumo3,K11-sm,2407412,EKPKEGVkTENDHIN,protein processing,signaling pathway regulation,12506199,,decreases amyloidogenesis and increases  nonamyloidogenic APP processing,,,

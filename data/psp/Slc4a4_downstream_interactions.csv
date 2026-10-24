@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC4A4,Slc4a4,S1026-p,469803,KKKKKKGsLDSDNDD,"activity, induced; molecular association, regulation",,12411514; 12730338,,"S1026 phosphorylation alters stoichiometry shift, while T49 mediates increase in membrane conductance.",CA2,Ca2,INDUCES
+SLC4A4,Slc4a4,T49-p,13194700,RRRHKRKtGHKEKKE,"activity, induced",,12730338,,"S1026 phosphorylation alters stoichiometry shift, while T49 mediates increase in membrane conductance.",,,
+SLC4A4,Slc4a4,S235-p,4699765,GKTVSSAsRMFTNPD,"protein conformation; activity, inhibited",,30377224,Band_3_cyto,,,,
+SLC4A4,Slc4a4,S65-p,4699735,ERISENYsDKSDIEN,intracellular localization,,23431199,, reduction of surface expression; inhibition by STLK3,,,
+SLC4A4,Slc4a4,S233-p,4699760,DIGKTVSsASRMFTN,"protein conformation; activity, inhibited",,30377224,Band_3_cyto,,,,
+SLC4A4,Slc4a4,S232-p,4699755,ADIGKTVsSASRMFT,"protein conformation; activity, inhibited",,30377224,Band_3_cyto,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HSD17B13,Hsd17b13,S33-p,4765436,FIPQRRKsVAGEIVL,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,36323699,,,PNPLA2,Pnpla2,DISRUPTS

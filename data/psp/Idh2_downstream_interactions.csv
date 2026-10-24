@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IDH2,Idh2,K166-ac,1194129,RLVPGWTkPITIGRH,"enzymatic activity, inhibited",,32457458,Iso_dh,oncometabolite 2-hydroxyglutarate (2HG) production,,,
+IDH2,Idh2,K106-ac,461227,DSALATQkYSVAVKC,"enzymatic activity, inhibited",,32457458,Iso_dh,oncometabolite 2-hydroxyglutarate (2HG) production,,,
+IDH2,Idh2,Y107-p,1914598,SALATQKySVAVKCA,intracellular localization,,34289383,Iso_dh,enhances ACAT1 recruitment,,,
+IDH2,Idh2,K384-ac,15291451,RGLEHRGkLDGNQDL,"enzymatic activity, inhibited",,32457458,Iso_dh,oncometabolite 2-hydroxyglutarate (2HG) production,,,
+IDH2,Idh2,R353-m2,1885732404,AAHGTVTrHYREHQK,"enzymatic activity, induced","cell growth, induced",37735873,, IDH2 enhances B cell proliferation and antibody secretion ; PRMT1 promotes the dimerization of IDH2,IDH2,Idh2,INDUCES
+IDH2,Idh2,K413-ac,1204122,VESGAMTkDLAGCIH,"molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, induced; cell growth, induced",26631723; 28536275; 32457458; 34289383,Iso_dh,"inhibits substrate (alpha -KG) and co-factor (NADPH) binding: 2-HG for transformation and but not high levels for cytotoxicity ; alters mitochondrial metabolism- increases cellular ROS and glycolysis, decreases IDH2 dimerization",IDH2,Idh2,DISRUPTS

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SATB1,Satb1,S185-p,464645,DLPPEQWsHTTVRNA,"molecular association, regulation; acetylation","transcription, inhibited",16630892,CUTL,Downregulates gene expression,HDAC1,Hdac1,INDUCES
+SATB1,Satb1,S185-p,464645,DLPPEQWsHTTVRNA,"molecular association, regulation; acetylation","transcription, inhibited",16630892,CUTL,Downregulates gene expression,PCAF,Kat2b,INDUCES
+SATB1,Satb1,T188-p,13906400,PEQWSHTtVRNALKD,"sumoylation; molecular association, regulation; intracellular localization",,20351170,CUTL,,PIAS1,Pias1,DISRUPTS
+SATB1,Satb1,K136-ac,464646,KGLIQVGkWNPVPLS,"molecular association, regulation","transcription, induced",16630892,ULD,Upregulates gene expression,,,
+SATB1,Satb1,K744-sm,2293715,TNTLFSVkLEEELSV,protein degradation; intracellular localization,"apoptosis, induced",18408014,,,,,

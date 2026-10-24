@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRIA1,Gria1,S849-p,448565,FCLIPQQsINEAIRT,"activity, induced; intracellular localization","endocytosis, induced",18305116; 32703948; 38322333,,,,,
+GRIA1,Gria1,C829-pa,9486202,LVALIEFcYKSRSES,"molecular association, regulation; intracellular localization; phosphorylation",,19503082,,depalmitoylation of C829 (aka C811) enhances GluR1 phosphorylation at S834 (aka S816) and S836 (aka S818); depalmitoylation of C829 (aka C811) enhances the interaction with EPB41L1 (4.1N) and receptor insertion into plasma membrane,EPB41L1,Epb41l1,DISRUPTS
+GRIA1,Gria1,S863-p,448566,TSTLPRNsGAGASSG,"molecular association, regulation; ubiquitination",,28377502,,"GluA1 ubiquitin-deficient mutant enhances GluA1 phosphorylation on S863, blocks GluA1 ubiquitination by reducing its interaction with Nedd4",NEDD4,Nedd4,DISRUPTS
+GRIA1,Gria1,S836-p,467226,CYKSRSEsKRMKGFC,"molecular association, regulation; intracellular localization",,19503082,,enhances receptor insertion into plasma membrane,EPB41L1,Epb41l1,INDUCES
+GRIA1,Gria1,S834-p,9486201,EFCYKSRsESKRMKG,"molecular association, regulation; intracellular localization",,19503082,,enhances receptor insertion into plasma membrane,EPB41L1,Epb41l1,INDUCES

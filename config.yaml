@@ -1,0 +1,1020 @@
+# LEMBAS-PAR2 configuration. All paths are relative to the LEMBAS project root
+# (the folder containing this file).
+
+paths:
+  data_dir: data
+  external_dir: data_external
+  output_dir: outputs
+
+  # context data (48 lung inflammation GEO sets)
+  geo_metadata: data/geo_context_metadata.csv
+  deg_dir: data/DEG
+  enrichment_dir: data/enrichment
+
+  # backbone + annotation
+  string_ppi: data/merged_signaling_network_new.tsv
+  reactome_pathway_gene: data/reactome_pathway_gene.csv
+  reactome_relation: data/ReactomePathwaysRelation.MMU.gene.txt
+  gene_binding_profiles: data/gene_binding_profiles.csv
+  gene_features: data/gene_feature_binary_matrix.csv
+
+  # curated evidence
+  omnipath: data/omnipath_ppi.mouse.tsv
+  trrust: data/trrust_rawdata.mouse.tsv
+  signor_dir: data/signor_mouse
+  psp_dir: data/psp
+  cellsignal_dir: data/cellsignal
+  cellsignal_location_dir: data/cellsignal_location
+
+  # non-gene signal entities (mtDNA, Ca2+, PIP3, ...)
+  signal_entity_edges: data/signal_entity/signal_entity_edges_seed_v1_2.csv
+  signal_entity_packages: data/signal_entity/signal_entity_gene_packages_v1_2.csv
+
+  # literature perturbations
+  perturbation_studies: data/perturbation/perturbation_studies_v0_2.csv
+  perturbation_contrasts: data/perturbation/perturbation_contrasts_v0_2.csv
+  perturbation_interventions: data/perturbation/perturbation_interventions_v0_2.csv
+  perturbation_observations: data/perturbation/perturbation_observations_v0_2.csv
+
+  # MEK/ERK inhibition training data
+  external_metadata: data_external/metadata.tsv
+
+  # user decisions on sign conflicts (optional; template written by step 2)
+  sign_decisions: curation/sign_decisions.csv
+  readout_sign_decisions: curation/readout_sign_decisions.csv   # TF->gene conflicts resolved by hand (2026-10-17)
+  readout_exclusions: curation/readout_exclusions.csv           # TF->gene pairs that encode feedback (2026-10-18)
+  # literature edges missing from the databases (db = 'manual')
+  manual_edges: curation/manual_edges.csv
+  # CollecTRI mouse TF regulons (scripts/fetch_collectri.py)
+  collectri: data/collectri_mouse.csv
+
+# MEK/ERK contrasts: file stem in data_external -> inhibitor target and training weight
+# (only Pimasertib and GSE134486 carry significant genes; the other three are down-weighted)
+external_contrasts:
+  GSE219229_Pimasertib:  {target: MEK, weight: 1.0}
+  GSE134486:             {target: MEK, weight: 1.0}
+  GSE219229_Selumetinib: {target: MEK, weight: 0.1}
+  GSE219229_GDC-0994:    {target: ERK, weight: 0.1}
+  GSE219229_Ulixertinib: {target: ERK, weight: 0.1}
+
+# perturbation studies kept out of training; used only for validation
+holdout_studies: [PAR2_26, PAR2_29, PAR2_30]
+
+# prior route F2rl1 -> ERK -> Bcl2 family -> Bak/Bax -> mtDNA -> Cgas -> Sting1
+route_genes: [F2rl1, Arrb1, Arrb2, Gnaq, Map2k1, Map2k2, Mapk1, Mapk3,
+              Rps6ka1, Rps6ka3, Gsk3b, Mcl1, Bad, Bcl2l11, Bcl2, Bcl2l1,
+              Bak1, Bax, Cgas, Sting1, Tbk1, Irf3]
+route_entities: [SE_CYTO_MTDNA]
+
+# old -> current mouse symbols seen in DEG files (older annotation releases).
+# Only renames whose current symbol is in the gene universe are listed; each pair
+# was checked never to co-occur in one DEG file. Excel date-mangled symbols
+# ("4-Sep" = Sept4) are mapped only where unambiguous; "N-Mar" (March vs Marc) is not.
+symbol_aliases:
+  Tmem173: Sting1
+  Mb21d1: Cgas
+  Atp5f1: Atp5pb
+  Ispd: Crppa
+  Fuk: Fcsk
+  Fdx1l: Fdx2
+  Hist1h1c: H1f2
+  Hist1h1e: H1f4
+  H2afj: H2aj
+  H2afx: H2ax
+  H2afv: H2az2
+  Hist1h2bc: H2bc4
+  Hist1h2be: H2bc6
+  Hist1h2bg: H2bc8
+  Hist2h2be: H2bc21
+  Hist1h4h: H4c8
+  Hist1h4i: H4c9
+  Pla2g16: Plaat3
+  Diexf: Utp25
+  Marc1: Mtarc1
+  Marc2: Mtarc2
+  Sept4: Septin4
+  Sept7: Septin7
+  4-Sep: Septin4
+  7-Sep: Septin7
+
+# human-style symbols in the STRING/Reactome gene list -> mouse symbol. All but
+# Znf598 duplicate an existing mouse node with overlapping neighbours, so they are
+# merged into it (their edges move to the mouse node).
+universe_merge:
+  Tp53: Trp53
+  C5: Hc
+  Kitlg: Kitl
+  Rab7a: Rab7
+  Stx5: Stx5a
+  Tf: Trf
+  Flt3lg: Flt3l
+  Tac3: Tac2
+  Fcn1: Fcnb
+  Fcn2: Fcna
+  Clec6a: Clec4n
+  Znf598: Zfp598
+
+# SIGNOR family/complex names (or typos) -> member mouse genes
+signor_families:
+  Erk1/2: [Mapk3, Mapk1]
+  Mek1/2: [Map2k1, Map2k2]
+  Ap1: [Jun, Fos]
+  Pi3k: [Pik3ca, Pik3cb, Pik3cd, Pik3r1]
+  Csf2ra/csf2rb: [Csf2ra, Csf2rb]
+  Cyclinb/cdk1: [Ccnb1, Cdk1]
+  Gsk3b/axin/apc: [Gsk3b, Axin1, Apc]
+  Lpr5/6: [Lrp5, Lrp6]
+  Lpr5: [Lrp5]
+  Lpr6: [Lrp6]
+
+# cellsignal EFFECT -> (sign, mechanism, phospho_kind). phospho_kind marks rows that
+# PSP overrides: dropped when PSP has the same kinase/phosphatase pair.
+cellsignal_effects:
+  activate:        [1, activation, null]
+  inhibit:         [-1, inhibition, null]
+  kill:            [-1, degradation, null]
+  inactivate:      [-1, inactivating_phosphorylation, kinase]
+  phosphorylate:   [0, phosphorylation, kinase]
+  dephosphorylate: [0, dephosphorylation, phosphatase]
+
+# PSP site functions (downstream_interactions on_function) -> site sign.
+# Activity terms decide when present; abundance terms only when no activity term is
+# annotated (on_function pools all interaction rows of a site, so e.g. ERK T202 lists
+# both "activity, induced" and "protein degradation"). Sites of one kinase->substrate
+# pair are combined by majority.
+psp_activity_positive: ["activity, induced", "enzymatic activity, induced"]
+psp_activity_negative: ["activity, inhibited", "enzymatic activity, inhibited"]
+psp_abundance_positive: ["protein stabilization"]
+psp_abundance_negative: ["protein degradation"]
+
+# signal-entity edge sign by biochemical_role; overrides for receivers that the
+# entity inactivates (cAMP releases PKA catalytic subunits from Prkar*; ROS
+# oxidizes Keap1)
+entity_role_signs:
+  producer_or_mobilizer: 1
+  release_mediator: 1
+  negative_controller: -1
+  direct_receiver: 1
+  upstream_signal: 1
+  downstream_signal: 1
+entity_sign_overrides:
+  - [SE_CAMP, Prkar1a, -1]
+  - [SE_CAMP, Prkar1b, -1]
+  - [SE_CAMP, Prkar2a, -1]
+  - [SE_CAMP, Prkar2b, -1]
+  - [SE_ROS, Keap1, -1]
+
+# ---------- step 4: network tiers ----------
+# T0 = prior route edges below (sign must match curated data; 'prior' marks edges
+# whose curated records are unsigned or absent, so the sign comes from this list;
+# an optional 5th field gives the prior's source).
+# T1 = curated, consensus-signed. T2 = curated but unsigned/conflicting (sign learned).
+# T3 = STRING-only pairs (both directions, sign learned).
+# Tier the prior route is built at. T0 (the default) is the hand-made prior: exempt from the
+# stability projection and initialised at 1.0/fan-in. Set to T1 to run with NO manual prior:
+# every route edge below stays in the network with its curated sign, but competes on the
+# same footing as the rest of the curated layer. Flip it with scripts/run_step29_no_prior.py,
+# which rebuilds and can revert.
+route_tier: T0
+
+route_edges:
+  # step 19 REVERTED (2026-10-18). Mapk1/Mapk3 -> Fos were promoted to T0 here on Kaiser et al.
+  # 2009 (TPL2-ERK negatively regulates IFN-beta) and Blair et al. 2022 (Fos deletion raises
+  # LPS-induced Ifnb1 in mouse BMDMs). The promotion moved Ifnb1 only from -0.012 to -0.0045
+  # (still the wrong sign, 0/5 seeds) while R4's step-13 holdouts fell 8/10 -> 7/10 on Bcl2l1,
+  # Tlr4 and Gsdmd, so it was reverted: the edges stay T1 (curated, consensus-signed), where
+  # they already were. The evidence itself is not in doubt - it still supports Fos -| Ifnb1 = -1
+  # in the readout layer. Do not re-promote without a reason beyond the Ifnb1 direction.
+  # membrane ERK: PAR2 -> Gq -> PLCb -> DAG -> (RasGRP -> Ras | PKC) -> RAF -> MEK -> ERK
+  - [F2rl1, Gnaq, 1]
+  - [Gnaq, Plcb1, 1]
+  - [Gnaq, Plcb3, 1]
+  - [Plcb1, SE_DAG, 1]
+  - [Plcb3, SE_DAG, 1]
+  - [SE_DAG, Prkca, 1]
+  - [SE_DAG, Rasgrp1, 1]
+  - [SE_DAG, Rasgrp3, 1]
+  - [Prkca, Rasgrp3, 1]
+  - [Rasgrp1, Kras, 1]
+  - [Rasgrp1, Hras, 1, prior, "RasGRP1 is a DAG-activated H-Ras GEF; STRING-only in data"]
+  - [Kras, Raf1, 1]
+  - [Kras, Braf, 1]
+  - [Hras, Raf1, 1]
+  - [Hras, Braf, 1]
+  - [Prkca, Raf1, 1]
+  - [Raf1, Map2k1, 1]
+  - [Raf1, Map2k2, 1]
+  - [Braf, Map2k1, 1]
+  - [Braf, Map2k2, 1]
+  - [Map2k1, Mapk1, 1]
+  - [Map2k1, Mapk3, 1]
+  - [Map2k2, Mapk1, 1]
+  - [Map2k2, Mapk3, 1]
+  # endosomal ERK: PAR2 recruits beta-arrestin, which scaffolds RAF -> MEK -> ERK
+  # (cellsignal GPCR_MAPK_ERK: recruitment rows + SCAFFOLD column)
+  - [F2rl1, Arrb1, 1, prior, "recruitment; cellsignal lists it as phosphorylate"]
+  - [F2rl1, Arrb2, 1, prior, "recruitment; cellsignal lists it as phosphorylate"]
+  - [Arrb1, Raf1, 1]
+  - [Arrb2, Raf1, 1]
+  - [Arrb1, Map2k1, 1, prior, "cellsignal scaffold"]
+  - [Arrb1, Map2k2, 1, prior, "cellsignal scaffold"]
+  - [Arrb2, Map2k1, 1, prior, "cellsignal scaffold"]
+  - [Arrb2, Map2k2, 1, prior, "cellsignal scaffold"]
+  - [Arrb1, Mapk1, 1]
+  - [Arrb1, Mapk3, 1]
+  - [Arrb2, Mapk1, 1, prior, "cellsignal scaffold"]
+  - [Arrb2, Mapk3, 1, prior, "cellsignal scaffold"]
+  # ERK -> BCL2 family (Bim, Mcl1, Gsk3b, RSK-Bad)
+  - [Mapk1, Bcl2l11, -1]
+  - [Mapk3, Bcl2l11, -1]
+  - [Mapk1, Mcl1, 1]
+  - [Mapk3, Mcl1, 1]
+  - [Mapk1, Gsk3b, -1]
+  - [Mapk3, Gsk3b, -1]
+  - [Mapk1, Rps6ka1, 1]
+  - [Mapk3, Rps6ka1, 1]
+  - [Mapk1, Rps6ka3, 1]
+  - [Mapk3, Rps6ka3, 1]
+  - [Mapk1, Bad, -1]
+  - [Mapk3, Bad, -1]
+  - [Rps6ka1, Bad, -1]
+  - [Rps6ka3, Bad, -1]
+  - [Rps6ka1, Gsk3b, -1]
+  - [Rps6ka3, Gsk3b, -1]
+  - [Gsk3b, Bax, 1]
+  - [Gsk3b, Mcl1, -1]
+  - [Bcl2l11, Bax, 1]
+  - [Bcl2l11, Bak1, 1]
+  - [Bcl2l11, Bcl2, -1]
+  - [Bcl2l11, Bcl2l1, -1]
+  - [Bcl2l11, Mcl1, -1]
+  - [Bad, Bcl2, -1]
+  - [Bad, Bcl2l1, -1]
+  - [Mcl1, Bak1, -1]
+  - [Mcl1, Bax, -1]
+  - [Bcl2, Bax, -1]
+  - [Bcl2, Bak1, -1]
+  - [Bcl2l1, Bax, -1]
+  - [Bcl2l1, Bak1, -1]
+  # BAX/BAK -> cytosolic mtDNA -> cGAS -> STING (direct cGAS->STING from cellsignal)
+  - [Bax, SE_CYTO_MTDNA, 1]
+  - [Bak1, SE_CYTO_MTDNA, 1]
+  - [Bcl2, SE_CYTO_MTDNA, -1]
+  - [Bcl2l1, SE_CYTO_MTDNA, -1]
+  - [Mcl1, SE_CYTO_MTDNA, -1]
+  # step 22 (2026-10-19): the terminal arm is DEMOTED out of T0, and a competing Ca2+ arm added.
+  #
+  # Why. T0 gave 2640/2640 paths F2rl1 -> Sting1 predicting UP, but that is a property of T0
+  # containing only ONE arm. Over all curated signed edges (T0+T1, 16298) the enumeration gives
+  # 44.3% up, i.e. significantly DOWN - and PAR2_29 Fig 3N measures pSTING DOWN in exactly the
+  # system this model simulates. The T0 subgraph was the outlier.
+  #
+  # SE_CYTO_MTDNA -> Cgas: removed from T0 -> falls to T1 (signal_entity direct_receiver, +1),
+  #   weight 1.0 -> 0.5. The biology is unchanged; it simply stops being double-weighted.
+  # Cgas -> Sting1: removed from T0 -> falls to T1 at 0.5 (curated in cellsignal-STING.tsv,
+  #   sign +1 'activation'; it is absent from omnipath and signor, and STRING scores it 916).
+  #   Mechanism is untouched, and in any case Cgas -> SE_CGAMP -> Sting1 already exists at T1
+  #   (+1, +1) as the biochemically correct two-step, so the direct edge was partly a shortcut
+  #   double-counting cGAS alongside cGAMP. Weight 1.0 -> 0.5 lets the other 18 curated Sting1
+  #   regulators compete instead of being overridden.
+  # SE_CA2 -> Vdac1: NEW (added to data/signal_entity/signal_entity_edges_seed_v1_2.csv), here
+  #   promoted to T0 so the Gq arm actually drives it. Vdac1 -> SE_CYTO_MTDNA already exists at
+  #   T1 (0.5, stronger than each T0 Bax/Bak1 edge at 0.2) and is deliberately LEFT at T1: at T0
+  #   its weight would fall to 1/6 = 0.167.
+  - [SE_CYTO_MTDNA, Cgas, 1]   # restored to T0 2026-10-19 (user): removing it as well as
+                               # Cgas -> Sting1 left T0 with no path past the mitochondrion
+  # step 26 (2026-10-19): the Ca2+ arm is REVERTED to T1. Step 25 promoted
+  # Plcb1/Plcb3 -> SE_IP3, SE_IP3 -> SE_CA2, SE_CA2 -> Vdac1 and Vdac1 -> SE_CYTO_MTDNA on the
+  # strength of an endosomal-KO result (Sting1 and Bak1 both fall). The collaborators have since
+  # confirmed there is NO measurement showing Ca2+ itself falls, so the arm's premise is
+  # unsupported and it must not sit in the prior. The edges all remain in the network at T1,
+  # including SE_CA2 -> Vdac1 which was added to the signal-entity file in step 22 and is kept:
+  # it is a reasonable curated edge, it simply makes no prior claim.
+  #
+  # What step 25 measured before the revert, worth keeping because it was the point of the test:
+  # at T0 the arm DID work (Vdac1 +0.0014 -> -0.1640, SE_CA2 -0.0007 -> -0.2016) and supplied
+  # ~15% of the mtDNA response, but mtDNA still rose (+0.1494) because five of its six inputs
+  # push up - Bcl2/Bcl2l1/Mcl1 are negative controllers with negative weights whose own deltas
+  # are negative, so they contribute upward too. Promotion is not what the arm lacked.
+  # STING readout
+  - [Sting1, Tbk1, 1]
+  - [Tbk1, Irf3, 1]
+  - [Irf3, Ifnb1, 1]
+  # ------------------------------------------------------------------------------------------
+  # step 33 (2026-10-20): the TLR4 cascade is promoted to T0.
+  # PRE-REGISTERED IN FULL BEFORE RUNNING: curation/TLR4_T0_prereg_2026-10-19.md (+ addenda 7b,
+  # 7c). Read that file before changing anything here. All 19 edges were ALREADY curated T1 with
+  # the signs below; none is invented and no node is created.
+  #
+  # Why, and the justification deliberately does NOT reference the Sting1 direction:
+  #   1. LPS enters the model AT Tlr4 (step13.contexts.lps = [Tlr4, Cd14]) and every Tlr4
+  #      out-edge was T1, so the stimulus defining the whole experiment entered unprivileged.
+  #      Measured: switching the entire LPS input off changed dSting1 by 0.8% (+0.00596 ->
+  #      +0.00591). The model was deaf to TLR4.
+  #   2. Dynasore cannot be simulated otherwise: cutting Tlr4 -> Ticam1/2 at T1 moved Ticam1
+  #      -0.046 but Irf3 only -0.0045 and Sting1 -0.0012. The perturbation died in two hops.
+  #   3. TLR4/NF-kB is the axis of PAR2_29 itself, and 4 of the 10 scored holdouts are TLR4-arm
+  #      outputs.
+  # ANTICIPATED, recorded in advance so it cannot later be presented as a discovery: the TRIF
+  # cut moves Sting1 NEGATIVE, and promotion amplifies that.
+  #
+  # Block A - receptor complex
+  - [Cd14, Tlr4, 1]
+  - [Ly96, Tlr4, 1]
+  # Block B - MyD88 branch. DYNAMIN-INDEPENDENT: dynasore does NOT cut these.
+  - [Tlr4, Tirap, 1]
+  - [Tirap, Myd88, 1]
+  - [Tlr4, Myd88, 1]
+  - [Myd88, Irak4, 1]
+  - [Irak4, Irak1, 1]
+  - [Irak1, Traf6, 1]
+  - [Irak4, Traf6, 1]
+  - [Traf6, Map3k7, 1]
+  - [Map3k7, Ikbkb, 1]
+  # Block C - NF-kB release via IkBa. Two negatives in series = activation.
+  # Ikbkb -> Nfkb1 is EXCLUDED on purpose: its sign is conflicted (signor -1, psp -1, trrust +1,
+  # omnipath 0) because of the p105-vs-active-complex ambiguity. This route is unambiguous.
+  - [Ikbkb, Nfkbia, -1]
+  - [Nfkbia, Nfkb1, -1]
+  # Block D - TRIF branch. DYNAMIN-DEPENDENT: this is the ONLY block dynasore cuts.
+  - [Tlr4, Ticam2, 1]
+  - [Ticam2, Ticam1, 1]
+  - [Tlr4, Ticam1, 1]
+  - [Ticam1, Traf3, 1]
+  # NOTE the declared cost of the next two: Tbk1's only T0 in-edge was Sting1 -> Tbk1 at 1.0.
+  # Adding these takes its T0 fan-in 1 -> 3, so Sting1 -> Tbk1 falls to 0.333 - this promotion
+  # WEAKENS STING's own output arm, and Ifnb1 is a scored holdout. Prereg 3 fixes the fallback
+  # (drop these two, TRIF terminates at Ticam1) if the Ifnb1 cost is too large.
+  - [Traf3, Tbk1, 1]
+  - [Ticam1, Tbk1, 1]
+  # ------------------------------------------------------------------------------------------
+  # step 38 (2026-10-20): Sting1 gets a SYMMETRIC T0 in-edge set, and Cgas is diluted.
+  # EXPLORATORY MODEL REVISION, applied after PAR2_29 Fig 3N and the dynasore RNA-seq were read.
+  # Every component below pushes dSting1 the same way. It may NOT be reported as the model
+  # predicting those observations. See HANDOFF step 37 for the projections.
+  #
+  # Sting1 had ZERO T0 in-edges after step 22, so promoting Tbk1 -> Sting1 ALONE would give it
+  # weight 1.0 and project dSting1 ~ -0.095 - rebuilding exactly the single-edge dominance that
+  # step 27 identified as the model's central defect, with the lever merely moved from Cgas to
+  # Tbk1. So all three mechanistically-established direct regulators go in together, fan-in 3:
+  #   Cgas    - the enzyme (cellsignal-STING.tsv, +1 'activation')
+  #   Tbk1    - phosphorylates STING S366 (TRIF branch of TLR4)
+  #   Map3k7  - TAK1, the MyD88 branch of the SAME receptor. NOTE: Map3k7 -> Sting1 currently
+  #             delivers -0.0063, MORE than Tbk1's -0.0054, so promoting Tbk1 without it would
+  #             privilege one branch of TLR4 over the other arbitrarily.
+  # This REVERSES the step-22 demotion of Cgas -> Sting1, deliberately: that demotion was made to
+  # stop one edge dominating, and fan-in 3 achieves the same end without silencing the node.
+  - [Cgas, Sting1, 1]
+  - [Tbk1, Sting1, 1]
+  - [Map3k7, Sting1, 1]
+  # Cgas dilution. SE_CYTO_MTDNA -> Cgas alone at T0 (w 1.0007) carried 94% of the node (step 27).
+  # SE_DSDNA is the sibling of the SAME evidence class (signal_entity direct_receiver), and CST's
+  # STING diagram shows cGAS responding to cytosolic ds DNA generally, not mtDNA specifically.
+  # Rule applied: a signal_entity direct_receiver edge must not be alone at T0 when a sibling
+  # entity of the same class exists. Fan-in 1 -> 2, so mtDNA -> Cgas goes 1.0 -> 0.5.
+  # DECLARED: SE_DSDNA's own delta is 0.00000 here, so it adds no signal - it is a PURE DILUTOR.
+  # That is honest dilution on a biological rule, not new evidence, and is recorded as such.
+  - [SE_DSDNA, Cgas, 1]
+
+# edges whose effect depends on cellular location/context (Src at the receptor,
+# clathrin pit and endosome; Src writes STING Y245 but inhibits cGAS Y248).
+# Kept with their curated sign, reported separately in the branch ablation.
+context_dependent_edges:
+  - [Arrb1, Src]
+  - [Arrb2, Src]
+  - [Src, Sting1]
+  - [Src, Cgas]
+  - [Ptpn1, Sting1]
+  - [Ptpn2, Sting1]
+
+# convergence nodes: only T0/T1 inputs allowed
+convergence_nodes: [Bak1, Bax, Mcl1, Cgas, Sting1, SE_CYTO_MTDNA]
+
+# residual cross-db conflicts: strict majority of databases decides, else unsigned (T2)
+conflict_rule: majority
+
+# STRING-only pairs become T3 when combined_score >= this
+string_min_score: 700
+
+# ---------- step 5: signalling vs readout layer ----------
+# Signalling layer: all non-transcriptional edges; node value = activity.
+# Readout layer: TF -> target mRNA (CollecTRI + TRRUST), used two ways:
+#   TF-activity outputs (TFs with >= min_tf_targets signed, measured targets)
+#   gene readout (genes measured in >= min_gene_contexts with >= 1 network TF)
+# Regulon TFs outside the gene universe join the network when they have a curated
+# signalling input (e.g. Mapk1 -> Elk1, Jak1 -> Stat1).
+readout:
+  require_collectri: true
+  min_tf_targets: 5
+  min_gene_contexts: 10
+  transcription_mechanisms: [transcription, transcriptional regulation]
+  key_tfs: [Elk1, Etv4, Srf, Fos, Jun, Irf3, Irf7, Irf9, Stat1, Stat2, Rela, Nfkb1, Trp53]
+  key_genes: [Dusp6, Spry2, Egr1, Fosl1, Etv5, Sting1, Cgas, Isg15, Ifnb1, Cxcl10, Bax, Bak1]
+  # Readout genes whose regulons miss their interferon control. Cgas has no regulator
+  # in CollecTRI/TRRUST and Sting1 only Creb1/Myc, yet both track ISGs across the 48
+  # contexts (r ~0.6-0.7 with Isg15/Irf7); cGAS is IFN-inducible (Ma et al., J Immunol
+  # 2015 - verify). These TF -> gene edges are unsigned (sign learned) and flagged
+  # db = putative_isg, never treated as curated evidence.
+  putative_regulators:
+    Cgas: [Irf3, Irf7, Irf9, Irf1, Stat1, Stat2]
+    Sting1: [Irf3, Irf7, Irf9, Irf1, Stat1, Stat2]
+
+# ---------- step 6: conditions and training targets ----------
+conditions:
+  # every condition = treated vs reference; inputs are activated nodes (+1),
+  # perturbations are inhibited nodes (knockout / knockdown / drug)
+  lps_inputs: [Tlr4, Cd14]
+  drug_deg_dir: data_external/GSE219229_DEG
+  drug_targets: curation/drug_targets.csv
+  drug_skip: [AZD1208, SGI1776]          # PIM targets are not network nodes
+  # drug weight from its own signal: n genes padj<0.05
+  drug_weight: {null_below: 10, null_weight: 0.05, base: 0.2, per_gene: 0.001, max: 1.0}
+  # on-target evidence: marker TFs downstream of each target class, with the
+  # expected activity change under inhibition. marker score = mean(expected sign x
+  # TF activity t) over available markers; w_marker rises linearly from score lo
+  # to hi (0 -> max). Final drug weight = max(gene-count weight, w_marker).
+  # Sign-aware: a paradoxical response (markers move the wrong way) earns nothing.
+  drug_marker_weight: {lo: 1.0, hi: 4.0, max: 1.0}
+  drug_markers:
+    MEK_ERK: [[Elk1, -1], [Etv4, -1], [Etv5, -1]]
+    JAK: [[Stat1, -1], [Stat2, -1], [Stat3, -1], [Irf9, -1]]
+    p38: [[Atf2, -1], [Mef2c, -1], [Creb1, -1]]
+    JNK: [[Jun, -1], [Atf2, -1]]
+    PI3K_AKT_mTOR: [[Foxo1, 1], [Foxo3, 1], [Srebf1, -1], [Tfeb, 1]]
+    NFKB: [[Rela, -1], [Nfkb1, -1]]
+    RTK_SRC: [[Stat3, -1], [Elk1, -1]]
+  # drug_targets.csv target_class -> marker set (classes not listed: no marker)
+  marker_set_of_class:
+    MEK: MEK_ERK
+    ERK: MEK_ERK
+    BRAF: MEK_ERK
+    JAK: JAK
+    JAK2/FLT3/IRAK1: JAK
+    p38: p38
+    JNK: JNK
+    AKT: PI3K_AKT_mTOR
+    PI3K/mTOR: PI3K_AKT_mTOR
+    mTORC1/2: PI3K_AKT_mTOR
+    PI3K beta/delta: PI3K_AKT_mTOR
+    PI3K gamma/delta: PI3K_AKT_mTOR
+    IKKbeta: NFKB
+    BTK: NFKB
+    EGFR/HER: RTK_SRC
+    HER2: RTK_SRC
+    VEGFR/EGFR/RET: RTK_SRC
+    MET: RTK_SRC
+    ABL/LYN: RTK_SRC
+    SRC family/VEGFR: RTK_SRC
+  extra_drug_contrasts:                  # other MEK/ERK inhibitor sets, own file schema
+    GSE134486_Trametinib: {file: data_external/GSE134486.tsv, targets: [Map2k1, Map2k2], weight: 1.0}
+  geo_weight: 0.3
+  geo_single_cell: [GSE169325epi, GSE169325mph, GSE289734t]
+  geo_single_cell_factor: 0.5
+  # GEO stimulus_subtype -> input nodes (Nod2 is not a network node; Ripk2 is
+  # the shared NOD1/NOD2 kinase) ; 'inhibit' entries are perturbations instead
+  stimulus_inputs:
+    LPS: [Tlr4, Cd14]
+    Pseudomonas aeruginosa: [Tlr4, Tlr5, Nod1]
+    P. aeruginosa: [Tlr4, Tlr5, Nod1]
+    PAO1: [Tlr4, Tlr5, Nod1]
+    PA103: [Tlr4, Tlr5, Nod1]
+    E. coli: [Tlr4, Tlr5, Nod1]
+    Klebsiella pneumoniae: [Tlr4, Tlr5, Nod1]
+    CRKP: [Tlr4, Tlr5, Nod1]
+    MRSA: [Tlr2, Ripk2]
+    epicutaneous S.aureus: [Tlr2, Ripk2]
+    S. aureus-pHrodo: [Tlr2, Ripk2]
+    S. pneumoniae: [Tlr2, Ripk2]
+    SP: [Tlr2, Ripk2]
+    Mycobacterium tuberculosis: [Tlr2, Clec4e]
+    M. abcessus: [Tlr2, Clec4e]
+    IAV: [SE_SSRNA, SE_DSRNA, SE_5PPPRNA]
+    PR8: [SE_SSRNA, SE_DSRNA, SE_5PPPRNA]
+    SARS-CoV-2: [SE_SSRNA, SE_DSRNA, SE_5PPPRNA]
+    HCoV-OC43: [SE_SSRNA, SE_DSRNA, SE_5PPPRNA]
+    delta C7 vaccina virus: [SE_DSDNA]
+    TLR9 agonist CpG: [SE_CPG_DNA]
+    Bleomycin: [SE_ROS, SE_DSDNA]
+    NKK: [SE_ROS]
+  stimulus_inhibit:
+    DKK1: [Lrp5, Lrp6]
+    PPARg antagonist: [Pparg]
+    Osimertinib: [Egfr]
+  cv_folds: 5
+  seed: 0
+  # literature perturbation contrasts (direction-only)
+  perturb_weight: 0.2
+  perturb_species_factor: {mouse: 1.0, rat: 0.75, human: 0.5}
+  # background_stimulus (substring, case-insensitive) -> input nodes
+  background_inputs:
+    "LPS + 2f-LIGRL": [Tlr4, Cd14, F2rl1]
+    "LPS + PAR2 agonism": [Tlr4, Cd14, F2rl1]
+    "2f-LIGRL": [F2rl1]
+    "SLIGKV": [F2rl1]
+    "LPS": [Tlr4, Cd14]
+    "IL-1": [Il1r1]
+    "UVB": [SE_ROS, SE_DSDNA]
+    "HDM": [Tlr4, F2rl1]
+    "cecal ligation": [Tlr4, Tlr2]
+    "IgE": [Fcer1a]
+    "bleomycin": [SE_ROS, SE_DSDNA]
+    "heme + Pam3": [Tlr4, Tlr2, Tlr1]
+    "hyperoxia": [SE_ROS]
+    "PAO1": [Tlr4, Tlr5, Nod1]
+    "ischemia-reperfusion": [SE_ROS, Tlr4]
+    "cerebral artery occlusion": [SE_ROS, Tlr4]
+  # observation readout_type -> layer (signal = node activity, mrna = readout gene)
+  readout_layers:
+    phosphoprotein: signal
+    signal_activity: signal
+    enzyme_activity: signal
+    protein_cleavage: signal
+    site_phosphorylation: signal
+    total_protein: signal
+    transcript: mrna
+    transcript/protein: mrna
+    secretion: mrna
+    transcript/secretion: mrna
+  secretion_factor: 0.5
+  # program scores (mean z of member genes)
+  programs:
+    MPAS: [Phlda1, Spry2, Spry4, Dusp4, Dusp6, Ccnd1, Epha2, Epha4, Etv4, Etv5]
+    ISG: [Isg15, Ifit1, Ifit3, Rsad2, Mx1, Oasl1, Irf7, Usp18]
+  lfc_clip: 5.0
+  min_tf_targets_condition: 5
+
+# ---------- step 8: perturbation mechanics ----------
+# inputs add input_level to the input node's pre-activation; inhibition scales the
+# inhibited node's outgoing signal by (1 - kappa)
+perturbation:
+  input_level: 1.0
+  kappa:                       # fixed, by intervention type
+    knockout: 0.95
+    CRISPR_KO: 0.95
+    siRNA: 0.7
+    knockdown: 0.7
+    antagonist: 0.7
+    inhibitor: 0.7
+    geo_chemical: 0.7          # GEO stimulus_inhibit (DKK1, PPARg antagonist, osimertinib)
+  drug_kappa_init: 0.7         # GSE219229 / GSE134486 drugs: kappa learned per drug
+  learn_drug_kappa: true
+
+# ---------- step 9: model ----------
+model:
+  # starting |weight| per tier (9b rescales T1-T3 jointly to meet the stability target)
+  init_strength: {T0: 1.0, T1: 0.5, T2: 0.1, T3: 0.01}
+  # T0 starting weight divided by the number of T0 inputs of the target node, so a
+  # node averages (not sums) its converging route branches; without it the route
+  # amplifies small input differences into on/off switching (step 9b diagnostics)
+  t0_fan_in_normalise: true
+  # per-node input normalisation of the bulk tiers: none | sqrt | indeg (step 12d)
+  fan_in_normalise: none
+  sign_locked_tiers: [T0, T1]        # w = sign * softplus(theta); T2/T3: w = theta (free sign)
+  # TF-output scale: predicted ULM t = alpha_TF * delta(TF activity), alpha > 0
+  alpha_init: 3.0
+  # gene readout: predicted log2FC = sum_TF W[g, TF] * delta(TF); signed regulon
+  # edges sign-locked, unsigned (incl. putative ISG) free; |W| starts at
+  # readout_init / sqrt(n regulators of g)
+  readout_init: 0.5
+  dtype: float32
+  # 9b initialisation
+  rho_target: 0.9                    # stability: rho(|A|) after rescaling the bulk (T1-T3) only
+  centre_target: 0.25                # every node's pre-activation under the pooled reference input
+  centre_reference: training_mean    # mean reference-arm input over training conditions
+
+# ---------- step 10: loss ----------
+loss:
+  # data terms (10a); each term is a condition-weighted mean, then scaled by lambda
+  lambda_tf: 1.0
+  lambda_gene: 1.0
+  lambda_direction: 1.0
+  tf_target_clip: 10.0           # ULM t-values clipped to +-10 (a few reach 27)
+  gene_padj_weight: {floor: 1.0, gain: 0.25, cap: 4.0}   # w_g = floor + gain * min(-log10 padj, cap)
+  direction_margin: 0.02         # signed constraint: s * delta >= margin
+  unchanged_scale: 1.0           # 'unchanged' observations: penalty on delta^2
+  # how the sign constraints enter the loss (see Targets.configure_direction);
+  # empty = the step-10a default (global weighted mean of an unbounded squared hinge)
+  direction: {}
+  # how predicted TF activity meets the measured ULM t-values (Targets.configure_tf):
+  # absolute | gain_global | gain_condition | standardized
+  # gain_global selected in step 12e (S5): one positive scalar absorbs the unit
+  # conversion between activity units and ULM t-values
+  tf_mode: gain_global
+  # a fitted gain is held >= 0: a negative one fits a condition by predicting the
+  # opposite pattern and flipping it (24/119 conditions in step 12e)
+  tf_gain_nonneg: true
+  # balance: rescale lambda_tf / lambda_gene / lambda_direction so each data term
+  # equals 1 at initialisation (the raw scales differ ~5000-fold, step 10a)
+  balance_data_terms: true
+
+  # priors and regularisation (10b)
+  mode: anchored                 # anchored | unanchored (route treated as ordinary T1, no route term)
+  lambda_anchor: {T0: 10.0, T1: 1.0}       # mean (|w| - |w_init|)^2 / |w_init|^2 per tier (relative)
+  lambda_l1: {T2: 0.01, T3: 0.1}           # mean |w| / initial mean |w| per tier (relative)
+  lambda_readout_l1: 0.001                 # mean |W| of the gene readout, relative to its start
+  lambda_bias: 0.01                        # mean (b - b_init)^2
+  lambda_spectral: 10.0                    # relu(rho(|A|) - rho_max)^2
+  rho_max: 0.95
+  route_constraint:                        # deep supervision mid-route
+    lambda: 1.0
+    context: pooled                        # reference input of the simulated experiment
+    inhibit: [Map2k1, Map2k2]              # simulated MEK inhibition
+    kappa: 0.7
+    up: [Bax, Bak1, SE_CYTO_MTDNA]         # must rise by >= margin
+    down: [Mapk1, Mapk3]                   # must fall by >= margin
+    margin: 0.02
+
+# ---------- step 11: training stage A ----------
+# route + 1-hop neighbourhood over curated edges (T0-T2); T3 and the rest frozen;
+# trained on the drug conditions, drug CV fold `val_fold` held out for validation
+stage_a:
+  hops: 1
+  tiers: [T0, T1, T2]
+  sources: [drug]
+  val_fold: 0
+  steps: 1500
+  lr: 0.01
+  warmup: 50
+  batch: 16
+  eval_every: 50
+  patience: 8
+  seed: 0
+  mek_axis_drugs: [Pimasertib, Trametinib, Selumetinib, Refametinib, GDC0994, Ulixertinib, Encorafenib]
+  # prior settings on top of `loss` (variant V6, selected in step 11b+). The base
+  # loss.lambda_bias stays 0.01 so the stage_a_variants below remain reproducible.
+  priors: {lambda_bias: 1.0, target_edge_anchor: 0.1, activation: 1.0}
+
+# stage A variants against bias drift (scripts/run_stage_a_variants.py). Keys:
+#   lambda_bias          bias penalty (base 0.01)
+#   bias_lr_mult         learning-rate multiplier for biases
+#   target_edge_anchor   anchor lambda for T1 edges leaving inhibited nodes (base 1.0)
+#   activation           lambda of the responsive-range penalty on trainable nodes
+# Selection uses validation fit + route responsiveness only; holdouts are reported, never used.
+stage_a_variants:
+  V0: {}
+  V1: {lambda_bias: 1.0}
+  V2: {bias_lr_mult: 0.1}
+  V3: {target_edge_anchor: 0.1}
+  V4: {activation: 1.0}
+  V5: {bias_lr_mult: 0.1, target_edge_anchor: 0.1}
+  V6: {lambda_bias: 1.0, target_edge_anchor: 0.1, activation: 1.0}
+stage_a_activation_range: [0.0, 0.5]
+
+# ---------- step 12: training stage B ----------
+# continue from the stage A checkpoint with the WHOLE network trainable (T3 included)
+# and all trained conditions (drug + GEO + perturbation papers; holdouts stay weight 0).
+# Priors still anchor to the step-9b initialised model, so T0/T1 are pulled towards
+# prior strength and T2/T3 towards sparsity, not towards the stage A result.
+stage_b:
+  init_from: stage_a            # outputs/<init_from>/checkpoint.pt
+  sources: [drug, geo, perturb]
+  val_fold: 0                   # drug + GEO conditions of this fold are validation
+  steps: 3000
+  lr: 0.003                     # lower than stage A: continuing from a fitted state
+  warmup: 100
+  batch: 32
+  eval_every: 100
+  patience: 10
+  seed: 0
+  # V6 priors; the responsive-range penalty now acts per node (summed) on the route's
+  # own nodes. A mean over thousands of nodes cannot see one node drifting, and ERK
+  # alone falling into the leak region costs the route 100x gain at its first hop.
+  # It keeps route nodes responsive, states nothing about direction, and is switched
+  # off in --mode unanchored together with the route term.
+  priors: {lambda_bias: 1.0, target_edge_anchor: 0.1, activation: 10.0}
+  activation_nodes: route        # route | trainable | all
+  activation_reduce: sum         # sum | mean
+  # re-balance lambda_tf/gene/direction on the stage B training set. The step-9b
+  # balance gives lambda_direction ~1595, and at the stage A state the untrained
+  # perturbation-paper constraints make that term ~97% of the loss.
+  rebalance_at_start: true
+  # enforce rho(|A|) <= loss.rho_max by projection after every step: with the whole
+  # T3 backbone trainable the soft penalty is outrun and rho passes 1, which makes
+  # the steady state (and every prediction) undefined.
+  project_stability: true
+  # the projection shrinks these groups in order, stopping once rho is back under the
+  # cap, so curated edges are touched only if the unsupported tiers cannot pay for it
+  projection_order: [[T3], [T2], [T1]]
+  # tiers zeroed and frozen for the whole run ([] = keep everything). Their stability
+  # budget is then free for the tiers that remain (see model.deactivate_tiers).
+  deactivate_tiers: []
+  # watch for the step-11b failure mode on every eval
+  watch_nodes: [SE_CYTO_MTDNA, Cgas, Sting1, Tbk1]
+
+# ---------- step 12b: direction-term variants ----------
+# The default term is a global weighted mean of an unbounded squared hinge. Step 12
+# measured that 3 of 206 constraints (Snai2, Nanog, Csf2 mRNA) make up 68% of it and
+# drag ERK into the leak region. Each variant addresses one cause; D5/D6 combine them.
+#   per_condition   no single paper can dominate (as the TF and gene terms already do)
+#   hinge2_capped   one badly predicted constraint cannot outweigh a hundred satisfied ones
+#   logistic        bounded gradient (soft-margin classification of the sign)
+#   layer_weight    predicted mRNA passes through a readout still being fitted
+direction_variants:
+  D0: {}
+  D1: {normalize: per_condition}
+  D2: {form: hinge2_capped, cap: 0.25}
+  D3: {form: logistic, scale: 0.1}
+  D4: {layer_weight: {mrna: 0.3}}
+  D5: {normalize: per_condition, form: hinge2_capped, cap: 0.25, layer_weight: {mrna: 0.3}}
+  D6: {normalize: per_condition, form: logistic, scale: 0.1, layer_weight: {mrna: 0.3}}
+direction_test:
+  steps: 300                     # short stage B per variant (~1 min each on a GPU)
+  init_from: stage_a             # falls back to stage_a_variants/V6 if absent
+  watch: [Mapk1, Mapk3, SE_CYTO_MTDNA, Cgas, Sting1, Tbk1]
+
+# ---------- step 12d: transmission variants ----------
+# rho(|A|) < 1 caps each node's total input, so with 254 k edges the admissible weight
+# is ~0.007 and a 3-hop path transmits ~3e-7 - which is why |delta| at the TF nodes is
+# 1.6e-04 against a measured |t| of ~0.9. Measured admissible weight / 3-hop gain:
+#   all tiers 0.0068 / 3e-7     curated T1+T2 0.039 / 6e-5     T1 only 0.051 / 1.3e-4
+#   all + /sqrt(in-deg) 0.011 / 1.4e-6        curated + /sqrt 0.052 / 1.4e-4 (90th pct 0.116)
+transmission_variants:
+  N0: {}                                                     # current stage B
+  N1: {deactivate_tiers: [T3]}                               # curated only (T0-T2)
+  N2: {fan_in_normalise: sqrt}                                # per-node input normalisation
+  N3: {fan_in_normalise: indeg}
+  N4: {deactivate_tiers: [T3], fan_in_normalise: sqrt}        # both
+  N5: {deactivate_tiers: [T3, T2], fan_in_normalise: sqrt}    # signed curated only
+# ---------- step 12e: scale-free data objective ----------
+# |delta| at the TF nodes is ~1e-4 while |ULM t| is ~0.9, and the two have no common
+# unit, so 'absolute' makes "predict ~0" the cheap optimum (every step-12d variant sat
+# at loss ~= the target variance 1.86). These variants let the objective absorb the unit
+# conversion. 'base' carries the keeper from step 12d (per-node input normalisation).
+objective_variants:
+  S0: {tf_mode: absolute}
+  S1: {tf_mode: gain_global}
+  S2: {tf_mode: gain_condition}
+  S3: {tf_mode: standardized}
+  S4: {tf_mode: standardized, deactivate_tiers: [T3]}
+  # S1/S2 allowed a free-sign gain; these repeat them with the constraint enforced
+  S5: {tf_mode: gain_global, tf_gain_nonneg: true}
+  S6: {tf_mode: gain_condition, tf_gain_nonneg: true}
+objective_test:
+  steps: 400
+  base: {fan_in_normalise: sqrt}
+  watch: [Mapk1, Bax, SE_CYTO_MTDNA, Sting1]
+
+# ---------- step 12j: per-source readout intercept / gain ----------
+# Step 12f0/12f: every drug target shares one DMSO reference (a constant profile scores
+# 0.57 on the drugs) and GEO shares a generic inflammation profile (0.71); no model has
+# drug-specific skill (residualised r 0.02-0.04). An intercept profile mu_s per source
+# gives those means a place that is not the signalling weights. GEO is tested both ways.
+source_variants:
+  J0: {}                                           # = S5 readout (one global gain >= 0)
+  J1: {intercept: [drug]}
+  J2: {intercept: [drug, geo]}
+  J3: {intercept: [drug, geo], gain: source}
+  J4: {base: selected, balance_sources: true}      # J1-J3 winner + per-source loss balancing
+  # 12i / 12m-B, re-posed after 12j: with the source means absorbed, does GEO still hurt
+  # drug-specific skill? J3 trained without GEO (GEO validation still scored). Its own
+  # rule (check_source_variants.py, fixed before running): GEO hurts iff J5 beats J3 by
+  # >= seed_tolerance on the median of 3 seeds AND on every seed. The GEO guard does not
+  # apply - dropping GEO is a scope decision, judged on drug skill alone.
+  J5: {intercept: [drug], gain: source, exclude_sources: [geo]}
+  # 12n: anchored vs unanchored comparison (route term, route responsive-range penalty off,
+  # T0 anchored like T1). Not selection candidates - reported next to the anchored runs.
+  J0U: {mode: unanchored}
+  J3U: {intercept: [drug, geo], gain: source, mode: unanchored}
+  # step 13b sign-free probe: unanchored AND the signs of every T0 edge and every T1 edge between
+  # route nodes are free (start at the curated sign; training may flip them)
+  J0F: {mode: unanchored, unlock_signs: route}
+  J3F: {intercept: [drug, geo], gain: source, mode: unanchored, unlock_signs: route}
+  # step 14: sign-locked magnitudes as w = sign*theta (theta >= 0) instead of sign*softplus(theta)
+  J0A: {locked_param: abs}
+  J0AU: {locked_param: abs, mode: unanchored}
+  J0AF: {locked_param: abs, mode: unanchored, unlock_signs: route}
+  # step 18: how the unsigned (free-sign) readout edges are treated. R0 = J0 exactly.
+  R0: {}
+  R1: {unsigned_init: 0.0}
+  R2: {unsigned_lr_mult: 0.11}
+  R3: {unsigned_l1_mult: 10.0}
+  R4: {unsigned_init: 0.0, unsigned_lr_mult: 0.11}
+source_test:
+  steps: 400
+  base: {fan_in_normalise: sqrt, tf_mode: gain_global, tf_gain_nonneg: true}   # = S5
+  refresh_every: 5          # refit mu / a on all training conditions every k steps
+  gene_intercept: true      # the gene log2FC targets share the same DMSO reference
+  # eligibility and verdict, fixed before running (tests/check_source_variants.py)
+  rho_max: 0.95
+  # RETIRED 2026-10-19: route_min required route dSting1 >= 0.02, i.e. it rejected any
+  # model that did not predict Sting1 UP. PAR2_29 measures pSTING DOWN, so that guard
+  # was enforcing the disputed claim. Kept only as a record of what it was.
+  route_min_RETIRED: 0.02
+  # its replacement: the receptor signal must reach ERK at all. Direction-free, and
+  # upstream of everything in dispute, so it rejects a dead model without asserting
+  # anything about Sting1. Typical fitted |dMapk1| is 0.03-0.05.
+  transmit_min: 0.002
+  geo_resid_min: 0.15       # keep GEO's context-specific skill (S5: 0.220)
+  bands: {adopt: 0.10, ambiguous: 0.05}   # residualised signal-drug r, median over seeds
+  seed_tolerance: 0.05      # differences below this, or not stable over seeds, = no difference
+
+transmission_test:
+  steps: 300
+  init_from: none        # none = start from the step-9b initialisation (stage A is
+                         # tier-specific, so a fresh initialise is the fair comparison)
+  watch: [Mapk1, Bax, SE_CYTO_MTDNA, Sting1]
+
+# ---------- step 12f: cell-composition confound in the bulk GEO contexts ----------
+# Measured: the neutrophil marker panel moves +1.70 (median) in the 45 bulk GEO sets and
+# +3.15 in the bacterial ones (up to +4.9, i.e. 30-fold), against an overall median
+# |log2FC| of 0.50; the 3 single-cell sets show +0.33. That is cell infiltration, which a
+# cell-intrinsic signalling model cannot represent. This tests whether removing it
+# recovers the drug fit (0.224 after drug-only stage A, <=0.033 after stage B).
+# The validation set is identical in every variant (drug + GEO fold 0); only the
+# TRAINING set changes, so val r(drug) is directly comparable.
+composition:
+  score_panel: neutrophil
+  marker_panels:
+    neutrophil: [S100a8, S100a9, Retnlg, Mmp8, Mmp9, Lcn2, Ngp, Camp, Il1r2, Cxcr2]
+    macrophage: [Csf1r, Mrc1, Cd68, Lyz2, Itgam, Adgre1, Mertk, Fcgr1]
+    tcell: [Cd3e, Cd3d, Cd8a, Cd4, Thy1, Lck, Zap70]
+    epithelial: [Sftpc, Sftpb, Scgb1a1, Epcam, Krt8]
+composition_variants:
+  C0: {}                                  # all GEO contexts (current stage B)
+  C1: {exclude_above: 2.0}                # drop the ~21 worst-contaminated bulk sets
+  C2: {exclude_above: 1.0}                # drop the ~31 sets above +1
+  C3: {downweight: true}                  # keep all, weight / (1 + score)
+  C4: {drug_only: true}                   # no GEO at all - the stage A-like ceiling
+composition_test:
+  steps: 400
+  priors_from: stage_b                    # S5 settings: gain_global + nonneg + fan_in sqrt
+  watch: [Mapk1, Bax, SE_CYTO_MTDNA, Sting1]
+
+expected_counts:
+  geo_contexts: 48
+  raw_string_genes: 8210
+  universe_genes: 8199
+
+seed: 0
+
+# ---------- step 13: PAR2-KO prediction, holdouts, sign-free probe, branches ----------
+# Rules fixed 2026-10-16 before any step-13 number was computed (lembas_par2/step13.py).
+step13:
+  seeds: [0, 1, 2, 3, 4]               # every trained variant needs all five
+  primary: J0                          # the adopted baseline (12j adopted nothing; S5 readout)
+  secondary: J3                        # best 12j candidate
+  ko_kappa: 0.95                       # F2rl1 knockout (perturbation.kappa.knockout)
+  contexts:                            # simulated PAR2-KO experiments for the route readout
+    pooled: pooled                     # pooled training reference input
+    lps: [Tlr4, Cd14]                  # macrophage under LPS (GSE219229 context)
+  call_threshold: 1.0e-3               # |prediction| below this = no call = counted as disagreement
+  holdout_alpha: 0.05                  # one-sided binomial vs random signs, unique observations
+  route_subset: [Bcl2l1, SE_CYTO_MTDNA, Ifnb1]   # holdout observations on the route (descriptive)
+  reversal_threshold: 0.005            # sign-free probe: median dSting1 < -thr reverses, |.| <= thr indifferent
+  sign_null_permutations: 200          # secondary null: random T0 signs, prior-only model
+  branches:                            # ERK -> BCL2-family branches for ablation / attribution
+    Mcl1: [[Mapk1, Mcl1], [Mapk3, Mcl1]]
+    Gsk3b: [[Mapk1, Gsk3b], [Mapk3, Gsk3b], [Rps6ka1, Gsk3b], [Rps6ka3, Gsk3b]]
+    Bad: [[Mapk1, Bad], [Mapk3, Bad], [Rps6ka1, Bad], [Rps6ka3, Bad]]
+    Bim: [[Mapk1, Bcl2l11], [Mapk3, Bcl2l11]]
+
+# ---------- step 14: locked-weight parameterisation ----------
+# Measured first (J0, 5 seeds): softplus slope at the locked weights ~0.04 (signalling) / ~0.11
+# (readout), so they moved 0.5-28 % from their start vs ~100 % for free edges. Rule fixed
+# 2026-10-17 before running; training/validation data only, holdouts not read
+# (tests/check_locked_param.py).
+locked_param_test:
+  candidate: J0A
+  baseline: J0
+  seeds: [0, 1, 2, 3, 4]
+  noninferiority: {r_tf_drug_resid_signal: 0.02, r_tf_geo_resid: 0.03}   # max allowed drop of the seed median
+  mobility_gain_min: 3.0     # median relative change of locked T1 + signed readout edges vs baseline
+
+# ---------- step 15: GSE275623, Cgas-KO BMDM + LPS (plan fixed 2026-10-17, before any data loaded) ----------
+# Mouse BMDM, WT vs Cgas-/-, untreated or LPS 100 ng/ml 2 h (3 reps each; WT LPS rep3 and KO LPS rep3
+# are GSM10065264/5); plus Cgas-/- with inducible ER-cGAS, beta-estradiol 0 h vs 24 h, all LPS 2 h.
+# Paper (series summary): NUCLEAR cGAS represses LPS primary-response genes (Cxcl1, Tnf) via PU.1 /
+# HDAC1, independent of STING. Our model has no nuclear cGAS, so Cgas-KO mixes an effect it can
+# represent (cytosolic cGAS -> STING -> IRF3 -> IFN-beta) with one it cannot (de-repression).
+# Role: VALIDATION ONLY (not training) in phase A; training use would be a separate later decision.
+cgas_test:
+  files: [GSE275623_BMDM_count_matrix.xlsx, GSE275623_ER_mergedCounts.txt.gz]   # data_external/GSE275623/
+  contrasts:
+    C1: {name: KO_LPS_vs_WT_LPS, role: primary}
+    C2: {name: KO_UT_vs_WT_UT, role: basal}
+    C3: {name: ERcGAS_24h_vs_0h_LPS, role: nuclear cGAS rescue (descriptive)}
+    C4: {name: WT_LPS_vs_WT_UT, role: sanity (LPS response)}
+  sanity:                          # A1: stop if C4 fails
+    lps_genes: [Tnf, Cxcl1, Il1b, Ifnb1]
+    lps_min_log2fc: 2.0            # each up with padj < 0.05 in C4
+    paper_genes: [Cxcl1, Tnf]      # reported: up in C1; reproduced or not, reported either way
+  sting_arm:                       # A2, model-free: is cGAS -> STING active at 2 h LPS in BMDM?
+    isg_genes: [Isg15, Ifit1, Ifit3, Rsad2, Mx1, Oasl1, Irf7, Usp18]
+    rule: >-
+      ACTIVE iff in C1 the ISG score (mean z-scored log2FC, as step 6) < 0 with permutation p < 0.05
+      against 10000 random 8-gene sets AND Ifnb1 log2FC < 0 with padj < 0.1; NOT DETECTED otherwise
+  model_validation:                # A3: no training; J0 and J0U, 5 seeds each, Cgas kappa 0.95, LPS inputs
+    inputs: [Tlr4, Cd14]
+    kappa: 0.95
+    scored: [Irf3_activity, Ifnb1, Isg15, Ifit1, Ifit3, Rsad2, Mx1, Oasl1, Irf7, Usp18, Cxcl10]
+    excluded: [Cgas, Cxcl1, Tnf]   # Cgas: trivially absent in KO; Cxcl1/Tnf: nuclear effect the model lacks
+    call_threshold: 1.0e-3
+    alpha: 0.05                    # one-sided binomial on sign agreement, median over seeds
+
+# ---------- step 16: method comparison (rules fixed 2026-10-18, before running) ----------
+# Can ANY method predict drug-specific TF responses from drug target profiles? Same inputs
+# ---------------------------------------------------------------------------
+# step 20: 5-fold cross-validation of LEMBAS itself.
+#
+# WHY. Until now LEMBAS has only ever been trained with fold 0 held out, while every method
+# in the step-16 benchmark also got a 5-fold out-of-fold number. The comparison was therefore
+# asymmetric in LEMBAS's favour on exactly the axis a reviewer will check first: one fold can
+# be lucky. This rotates the held-out fold and retrains, so LEMBAS gets the same out-of-fold
+# treatment as its rivals.
+#
+# RULES, FIXED BEFORE THE RUN (this is evaluation, never selection):
+#  - Nothing here may change any model, prior, sign or curation decision. The CV number is
+#    REPORTED. If it is worse than the fold-0 number, that is the result.
+#  - The sealed holdouts are not touched and not read.
+#  - Folds come from `fold` in step06_conditions.csv (data_test.cv_folds = 5), which existed
+#    long before this step; no re-splitting.
+#  - Reported per fold and pooled: residualised drug r on the signal subset (the selection
+#    metric), residualised GEO r, and each fold's own noise ceiling and constant-mean baseline.
+#  - Success is NOT "beats the baseline". On the drug conditions the constant-mean baseline is
+#    expected to win (step 12f0), and the honest question is only whether the fold-0 number
+#    was representative. State the spread, not a verdict.
+cv_test:
+  variants: [R4]                 # the adopted readout parameterisation
+  folds: [0, 1, 2, 3, 4]
+  seeds: [0, 1, 2]
+  primary: r_tf_drug_resid_signal
+  also_report: [r_tf_geo_resid, r_tf_drug_resid, baseline_drug_mean_signal,
+                ceiling_drug_rmax_signal, rho_absA, route_dSting1]
+  # the fold-0 numbers this is being checked against, copied from outputs/step18 at the time
+  # of writing so a later rerun cannot silently move the reference
+  fold0_reference: {r_tf_drug_resid_signal: 0.0440, r_tf_geo_resid: 0.2095}
+  # a fold counts as "consistent with fold 0" if it lands inside this band
+  consistency_band: 0.05
+
+# (step-12q union occupancy), same metric as the harness selection (residualised r), same folds.
+# LEMBAS trained once with fold 0 held out, so fold 0 is the primary comparison for every method;
+# the learners also get a 5-fold out-of-fold number, which LEMBAS cannot have without retraining.
+benchmark:
+  primary_fold: 0
+  signal_rmax: 0.30              # drugs with a step-12f0 noise ceiling >= this (9 of 12 in fold 0)
+  permutations: 5000
+  lembas_variant: J0             # the frozen model
+  lembas_seeds: [0, 1, 2, 3, 4]
+  beats_chance:                  # a method "beats chance" iff BOTH hold on the primary fold
+    min_resid_r: 0.15            # median residualised r over the signal drugs
+    max_perm_p: 0.05             # drug-label permutation p
+  verdict: >-
+    If no method beats chance, report the data limit: no method tested, mechanistic or black-box,
+    extracts drug-specific signal from this screen. If a learner beats chance, LEMBAS is beaten on
+    prediction and that is reported; what carries the mechanism is then a separate decision.
+  gnn: >-
+    A GNN is built only if any of ridge / elastic_net / pls / gradient_boosting / random_forest
+    beats chance. With 45 training drugs and 577 outputs it would be over-parameterised, and if the
+    simpler learners find nothing there is no signal for it to find.
+
+# ---------- step 17: Ifnb1 path enumeration (rules fixed 2026-10-18, before running) ----------
+# Does curated evidence say PAR2 loss raises Ifnb1, and by which route? Topology only: no fitted
+# weight enters, so the answer cannot be tuned. A path with net sign -1 predicts the target UP.
+# Measured first: all simple T0 paths F2rl1->Sting1 = 2640 (reproduces REPORT.md); in T0 Ifnb1 is
+# 9 hops away, in T0+T1 only 4 (F2rl1->Gnaq->Gsk3b->Irf3->Ifnb1, which bypasses the STING arm).
+paths_test:
+  source: F2rl1
+  layers:
+    T0: {tiers: [T0], max_depth: 20}          # saturates at depth 16; full enumeration
+    T0_T1: {tiers: [T0, T1], max_depth: 6}    # ~2 s, 9.6M explored, no cap needed
+  permutations: 1000
+  regulator_sets: [curated, all]              # 'all' gives the unsigned regulators the LEARNED sign
+  consequences: >-
+    (a) curated evidence favours Ifnb1 UP and the edges are already in T0/T1 -> the model's wrong
+    Ifnb1 call is a weighting problem, not a missing mechanism; nothing is added to the route.
+    (b) favours UP only via edges NOT in T0/T1 -> a curation gap; adding them is legitimate, but
+    Ifnb1 then LEAVES the scored holdout set and step 13 is re-reported without it.
+    (c) favours DOWN or is balanced -> the model's prediction is consistent with curated knowledge
+    and study 30's observation disagrees with the curated consensus; report as a limitation.
+    (d) the dominant UP paths bypass STING -> IFN-beta is a poor STING readout, consistent with
+    GSE275623 (step 15), and that weakens using Ifnb1 to support the route at all.
+
+# ---------- step 18: unsigned readout edges (plan fixed 2026-10-18, before running) ----------
+# Diagnosed in step 17: only 1258 of 39909 readout edges (3.2%) lack a curated sign, but they are
+# the ONLY freely-moving ones - signed edges are sign-locked through softplus, whose slope at their
+# magnitude is ~0.11, so they learn ~10x slower (step 14). Result: for Ifnb1 the two unsigned
+# regulators reached 0.45 / 0.41 while all 43 signed ones stayed at their ~0.10 initialisation.
+# Worst affected genes are Cgas (6/6 unsigned) and Sting1 (6/8) - the readouts the claim is about.
+# This is a parameterisation artefact, not biology. Judged on TRAINING/VALIDATION data only.
+readout_param_test:
+  baseline: R0
+  seeds: [0, 1, 2, 3, 4]
+  variants:
+    R0: {}                                      # current behaviour
+    R1: {unsigned_init: 0.0}                    # start at zero: an unsigned edge must earn its weight
+    R2: {unsigned_lr_mult: 0.11}                # same effective step size as the locked edges
+    R3: {unsigned_l1_mult: 10.0}                # stronger sparsity on unsigned edges only
+    R4: {unsigned_init: 0.0, unsigned_lr_mult: 0.11}
+  # the quantity the fix is meant to change
+  target_metric: unsigned_share_of_readout_weight   # sum |W| over unsigned edges / sum |W| overall
+  target_reduction: 0.5                         # must at least halve vs R0
+  noninferiority: {r_tf_drug_resid_signal: 0.02, r_tf_geo_resid: 0.03}   # max allowed drop of the seed median
+  selection: >-
+    Among variants that meet BOTH the target reduction and non-inferiority, pick the one with the
+    highest residualised drug r; if none qualifies, adopt none and record that. Holdouts are NOT
+    read. The PAR2-KO predictions for Ifnb1 / Cgas / Sting1 are printed for transparency and are
+    explicitly NOT selection criteria - this step was prompted by an Ifnb1 holdout miss, so using
+    them to choose would make the holdout circular.
+  on_adoption: >-
+    If a variant is adopted, step 13 is re-run as a THIRD sensitivity analysis and reported both
+    with and without Ifnb1 in the scored set, alongside the pre-registered 8/10 (p 0.055).

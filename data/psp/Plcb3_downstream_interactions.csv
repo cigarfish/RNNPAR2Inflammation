@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLCB3,Plcb3,S537-p,448450,PSLEPQKsLGDEGLN,,"cell motility, induced",35884879,,,,,
+PLCB3,Plcb3,S1105-p,448448,LDRKRHNsISEAKMR,"enzymatic activity, inhibited",,9660757,PLC-beta_C,,,,

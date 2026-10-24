@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLEC6A,Clec4n,K12-ub,56836804,QQPQSTEkRGWLSLR,protein degradation,,27432944,,negative regulation of antifungal immune response,,,

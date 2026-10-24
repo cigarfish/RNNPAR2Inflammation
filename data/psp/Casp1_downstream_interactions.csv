@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP1,Casp1,S376-p,469562,IFRKVRFsFEQPDGR,"enzymatic activity, induced",,15561713,Peptidase_C14,,,,

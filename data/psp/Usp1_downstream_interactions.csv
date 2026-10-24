@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP1,Usp1,S313-p,3177796,ATSDTLEsPPKIIPK,"enzymatic activity, induced",,23116119,UCH,,WDR48,Wdr48,INDUCES
+USP1,Usp1,K130-ac,9914428,LKDEANQkDKGNCKE,protein stabilization,,37821462,UCH,"GCN5 induces acetylation of USP1 to strengthen PARP1 stability, promotes CCA progression",,,

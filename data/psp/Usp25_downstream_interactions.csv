@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP25,Usp25,K141-sm,3084636,EASIAENkACLKRTP,"ubiquitination; enzymatic activity, inhibited",,18538659,,sumoylation inhibits ubiquitin chain hydrolysis and has reduced afinity to ubiquitin chains,,,
+USP25,Usp25,T727-p,40407603,QKLRESEtSVTTAQA,"ubiquitination; enzymatic activity, inhibited",,25755282,,in vitro deubiquitination assays,,,
+USP25,Usp25,K99-ub,7761222,IDLTGDDkDDLQRAI,"enzymatic activity, induced",,19440361,UIM,,,,
+USP25,Usp25,S745-p,40407602,PEYLEQPsRSDFSKH,"ubiquitination; enzymatic activity, inhibited",,25755282,,in vitro deubiquitination assays,,,
+USP25,Usp25,K99-sm,3084637,IDLTGDDkDDLQRAI,"ubiquitination; enzymatic activity, inhibited",,18538659,UIM,sumoylation inhibits ubiquitin chain hydrolysis and has reduced afinity to ubiquitin chains,,,
+USP25,Usp25,T680-p,27533602,QPLVGIEtLPPDLRD,"ubiquitination; enzymatic activity, inhibited",,25755282,,in vitro deubiquitination assays,,,

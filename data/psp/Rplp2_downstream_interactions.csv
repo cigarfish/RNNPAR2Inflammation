@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPLP2,Rplp2,S102-p,454319,KDEKKEEsEESDDDM,,"translation, altered",39437780,Ribosomal_60s,,,,
+RPLP2,Rplp2,S105-p,454320,KKEESEEsDDDMGFG,,"translation, altered",39437780,Ribosomal_60s,,,,

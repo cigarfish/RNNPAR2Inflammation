@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RNF41,Rnf41,S254-p,29675602,IENAHERsWPQGLAT,,cytoskeletal reorganization,24259665,USP8_interact,"required for epithelial cells to establish cell polarity, laminin-111 deposition on the basal surface of epithelial cells ",,,

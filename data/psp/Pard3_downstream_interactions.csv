@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARD3,Pard3,S873-p,3207429,VDDQKAGsPSRDVGP,"molecular association, regulation",,22883624,,,GAB1,Gab1,DISRUPTS
+PARD3,Pard3,S144-p,455668,PLHVRRSsDPALIGL,"molecular association, regulation",cytoskeletal reorganization,14653998; 22883624,,,GAB1,Gab1,DISRUPTS
+PARD3,Pard3,S144-p,455668,PLHVRRSsDPALIGL,"molecular association, regulation",cytoskeletal reorganization,14653998; 22883624,,,14-3-3 zeta,Ywhaz,INDUCES
+PARD3,Pard3,S889-p,455653,LGLKKSSsLESLQTA,"molecular association, regulation",,15721295,,,14-3-3 zeta,Ywhaz,INDUCES
+PARD3,Pard3,S827-p,467266,REGFGRQsMSEKRTK,phosphorylation,,27554858,,apical-junctional polarization ,PKCI,Prkci,DISRUPTS
+PARD3,Pard3,Y1127-p,457508,GHMMDALyAQVKKPR,"molecular association, regulation",cytoskeletal reorganization,17053785,,,LIMK2,Limk2,DISRUPTS

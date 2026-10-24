@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPRC,Ptprc,Y1218-p,451644,MVSTFEQyQFLYDVI,"activity, induced; molecular association, regulation",,7507203,Y_phosphatase,,Lck,Lck,INDUCES

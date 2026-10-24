@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SEC16A,Sec16a,S846-p,55578720,LAQPINFsVSLSNSH,intracellular localization,"autophagy, induced",27203176,,assembly of COPII components at ERESs and traf?cking of associated secretory cargos,,,

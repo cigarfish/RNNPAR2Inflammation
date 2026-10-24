@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WIPF1,Wipf1,T398-p,14582886,TSRALPAtPQLPSRS,,"cell growth, induced",28166194,,,,,
+WIPF1,Wipf1,S488-p,449880,RNESRSGsNRRERGA,"molecular association, regulation; protein conformation",cytoskeletal reorganization,12504004; 24962707,,reduces the stability and enhances the mobility of WIP and WASp clusters,WASP,Was,DISRUPTS
+WIPF1,Wipf1,S154-p,23073655,PGRFPVPsPGHRSGP,,"cell growth, induced",28166194,,,,,

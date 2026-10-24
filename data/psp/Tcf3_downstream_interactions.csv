@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TCF3,Tcf3,S379-p,3180968,AGAPGALsPSYDGGL,"activity, inhibited","transcription, inhibited",19801649,,,,,
+TCF3,Tcf3,T355-p,455166,NFSSSPStPVGSPQG,"activity, inhibited","transcription, inhibited",19801649,,,,,
+TCF3,Tcf3,S359-p,465682,SPSTPVGsPQGLAGT,"molecular association, regulation","transcription, induced",12810726,,,NEUROD1,Neurod1,INDUCES
+TCF3,Tcf3,T355-p,455166,NFSSSPStPVGSPQG,"molecular association, regulation","transcription, induced",12810726,,,NEUROD1,Neurod1,INDUCES
+TCF3,Tcf3,K34-ac,25218500,PLPVTNGkGRPASLA,"molecular association, regulation","transcription, induced",22207202,,,p300,Ep300,INDUCES
+TCF3,Tcf3,K34-ac,25218500,PLPVTNGkGRPASLA,"molecular association, regulation","transcription, induced",22207202,,,CBP,Crebbp,INDUCES
+TCF3,Tcf3,S245-p,455906,PMLGGGSsPLPLPPG,,"cell growth, altered",11114297,,,,,
+TCF3,Tcf3,S352-p,465681,SSNNFSSsPSTPVGS,"activity, inhibited","transcription, inhibited",19801649,,,,,
+TCF3,Tcf3,S39-p,15500103,NGKGRPAsLAGAQFG,intracellular localization,"cell motility, induced; cell adhesion, inhibited",26212009,,"colon cancer metastasis, importing into the nucleus, promotes epithelial mesenchymal transition",,,
+TCF3,Tcf3,S341-p,10359100,KALASIYsPDHSSNN,"activity, inhibited","transcription, inhibited",19801649,,,,,
+TCF3,Tcf3,S359-p,465682,SPSTPVGsPQGLAGT,"activity, inhibited","transcription, inhibited",19801649,,,,,
+TCF3,Tcf3,S352-p,465681,SSNNFSSsPSTPVGS,"molecular association, regulation","transcription, induced",12810726,,,NEUROD1,Neurod1,INDUCES
+TCF3,Tcf3,S139-p,455905,LNSPGPLsPSGMKGT,,"transcription, induced; cell growth, altered",11114297; 31540485,,POSTN expression,,,

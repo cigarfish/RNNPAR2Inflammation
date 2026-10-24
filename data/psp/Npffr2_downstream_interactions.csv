@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NPFFR2,Npffr2,T516-p,36533408,VMEELKEtTNSSEI_,"receptor desensitization, induced",,25326382,,,,,
+NPFFR2,Npffr2,S500-p,36533414,ETLLYRKsAEKPQQE,"receptor internalization, induced",,25326382,,,,,
+NPFFR2,Npffr2,S520-p,36533409,LKETTNSsEI_____,"receptor desensitization, induced",,25326382,,,,,
+NPFFR2,Npffr2,T477-p,36533413,KSHVLINtSNQLVQE,"receptor desensitization, induced",,25326382,,,,,
+NPFFR2,Npffr2,T517-p,36533412,MEELKETtNSSEI__,"receptor desensitization, induced",,25326382,,,,,

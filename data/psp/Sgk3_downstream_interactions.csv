@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SGK3,Sgk3,S486-p,448196,DDAFVGFsYAPPSED,"molecular association, regulation; enzymatic activity, induced",,14604990; 16888620,Pkinase_C,CISK interaction with ITCH inhibits CXCR4 degradation.,ITCH,Itch,INDUCES
+SGK3,Sgk3,S486-p,448196,DDAFVGFsYAPPSED,"molecular association, regulation; enzymatic activity, induced",,14604990; 16888620,Pkinase_C,CISK interaction with ITCH inhibits CXCR4 degradation.,PDK1,Pdk1,INDUCES
+SGK3,Sgk3,T320-p,448197,AISDTTTtFCGTPEY,"phosphorylation; enzymatic activity, induced",,31821448; 34181950,Pkinase,induces substrate phosphorylation; lost in SGK3 c.979-96TgtA variant,,,

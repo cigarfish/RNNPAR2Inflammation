@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD8A,Cd8a,S231-p,25286619,SGDKPSLsARYV___,,"carcinogenesis, inhibited; signaling pathway regulation",30131370,,,,,
+CD8A,Cd8a,K190-ub,52485006,PVVKSGDkPSLSARY,protein degradation,,26676607,,,,,

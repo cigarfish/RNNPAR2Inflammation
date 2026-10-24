@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HRC,Hrc,S96-p,34499322,EKEDEDVsKEYGHLL,"molecular association, regulation",,28784772,,,SERCA2,Atp2a2,INDUCES
+HRC,Hrc,S96-p,34499322,EKEDEDVsKEYGHLL,"molecular association, regulation",,28784772,,,TRDN,Trdn,INDUCES

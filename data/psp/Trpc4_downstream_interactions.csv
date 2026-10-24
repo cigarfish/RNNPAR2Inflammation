@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPC4,Trpc4,Y959-p,456713,EEDSSIDyDLNLPDT,"activity, induced; intracellular localization",,16144838; 21427121,,,NHERF,Slc9a3r1,INDUCES
+TRPC4,Trpc4,Y972-p,456714,DTVTHEDyVTTRL__,"activity, induced; intracellular localization",,16144838,,,NHERF,Slc9a3r1,INDUCES
+TRPC4,Trpc4,S688-p,26572402,KMRRKPEsFGTIGRR,"activity, induced",,28124739,,,,,

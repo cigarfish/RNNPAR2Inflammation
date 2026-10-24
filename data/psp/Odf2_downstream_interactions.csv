@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ODF2,Odf2,S796-p,449230,YSTFLTSsPIRSRSP,"molecular association, regulation",cytoskeletal reorganization,19386263,,,PLK1,Plk1,INDUCES

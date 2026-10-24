@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPA1,Trpa1,S602-p,1871177701,VVLTIIRsKRWDECL,"protein conformation; activity, inhibited",,33121177,Ank_2,inactivate human TRPA1 channel,,,
+TRPA1,Trpa1,T673-p,56672700,PLEFTKKtPTQDVIY,"activity, induced",,27345869,,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS3,Rgs3,S943-p,469926,SLRRRTHsEGSLLQE,"molecular association, regulation","transcription, altered",11985497,,,14-3-3 zeta,Ywhaz,INDUCES
+RGS3,Rgs3,S943-p,469926,SLRRRTHsEGSLLQE,"molecular association, regulation","transcription, altered",11985497,,,G-alpha(q),Gnaq,DISRUPTS

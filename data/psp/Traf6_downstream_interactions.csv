@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRAF6,Traf6,Y68-p,1884634104,DPPLESKyECPICLM,"ubiquitination; enzymatic activity, induced",,37977223,,inhibits ubiquitination and induces AEP activity,,,
+TRAF6,Traf6,T266-p,1867864101,ARHLQENtQSHMRML,protein degradation; protein stabilization; ubiquitination,"carcinogenesis, induced; cell motility, induced; autophagy, inhibited",30806153,,stabilises CTNNB1,,,
+TRAF6,Traf6,Y473-p,1884634100,RNPKGFGyVTFMHLE,"ubiquitination; enzymatic activity, induced",,37977223,,inhibits ubiquitination and induces AEP activity,,,
+TRAF6,Traf6,Y288-p,1869056900,SVIPDSGyISEVRNF,"activity, induced; ubiquitination; enzymatic activity, induced",,32403971; 37977223,,inhibits ubiquitination and induces AEP activity,TAK1,Map3k7,INDUCES
+TRAF6,Traf6,Y288-p,1869056900,SVIPDSGyISEVRNF,"activity, induced; ubiquitination; enzymatic activity, induced",,32403971; 37977223,,inhibits ubiquitination and induces AEP activity,TAB2,Tab2,INDUCES
+TRAF6,Traf6,Y381-p,1884634102,VIHSPGFyTGKPGYK,"ubiquitination; enzymatic activity, induced",,37977223,,inhibits ubiquitination and induces AEP activity,,,
+TRAF6,Traf6,Y353-p,1016707,AQQCNGIyIWKIGNF,"ubiquitination; enzymatic activity, induced",,37977223,,inhibits ubiquitination and induces AEP activity,,,
+TRAF6,Traf6,K124-ub,486279,LFPDNFAkREILSLM,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell differentiation, induced; transcription, induced; signaling pathway regulation",17135271; 19825828; 31451677,,"UBL4A promotes K63-linked ubiquitination of TRAF6; induces IKB phosphorylation and degradation, thus inducing NF-kB signaling; activation of NFkB and IKK, signaling in osteoclast differentiation, induces NEMO ubiquitination",UBL4A,Ubl4a,INDUCES
+TRAF6,Traf6,Y326-p,5411959,KMETQSMyVSELKRT,"ubiquitination; enzymatic activity, induced",,37977223,,inhibits ubiquitination and induces AEP activity,,,

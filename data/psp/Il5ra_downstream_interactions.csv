@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL5RA,Il5ra,K379-ub,1883407601,FPPIPAPkSNIKDLF,protein degradation,"cell differentiation, inhibited",35982175,,"translocation to and degradation in lysosomes, March2/3 negatively regulates eosinophil maturation, March2/3 de?ciency promotes eosinophilic airway in?ammation",,,
+IL5RA,Il5ra,K383-ub,1883407600,PAPKSNIkDLFVTTN,protein degradation,"cell differentiation, inhibited",35982175,,"translocation to and degradation in lysosomes, March2/3 negatively regulates eosinophil maturation, March2/3 de?ciency promotes eosinophilic airway in?ammation",,,

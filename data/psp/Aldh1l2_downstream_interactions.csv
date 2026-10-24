@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALDH1L2,Aldh1l2,K70-ac,36297654,PLALAAEkDGTPVFK,"enzymatic activity, inhibited","cell growth, inhibited; apoptosis, induced",37507016,Formyl_trans_N,"disturbs cellular redox balance, sensitizes cancer cells to 5-Fu treatment",,,

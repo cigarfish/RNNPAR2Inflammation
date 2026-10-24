@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLCG2,Plcg2,T1045-p,25692905,LQPESMRtEKYDPMP,,signaling pathway regulation,22759789,,B cell receptor signaling,,,
+PLCG2,Plcg2,Y1197-p,447938,LESEEELySSCRQLR,"enzymatic activity, induced",,30344948,,intramolecular tyrosine-phosphorylation and Rac mediated activation,,,
+PLCG2,Plcg2,Y1217-p,447939,LNNQLFLyDTHQNLR,"enzymatic activity, induced",signaling pathway regulation,30344948; 35639855,,regulates  B cell receptor (BCR) signaling; intramolecular tyrosine-phosphorylation and Rac mediated activation,,,
+PLCG2,Plcg2,Y753-p,447940,ERDINSLyDVSRMYV,"molecular association, regulation; enzymatic activity, induced",,12780340; 15184383; 30344948,,intramolecular tyrosine-phosphorylation and Rac mediated activation,LYN,Lyn,INDUCES
+PLCG2,Plcg2,S1164-p,25692906,AVKSGFRsVPLKNGY,,signaling pathway regulation,22759789,C2,B cell receptor signaling,,,
+PLCG2,Plcg2,Y759-p,447941,LYDVSRMyVDPSEIN,"molecular association, regulation; enzymatic activity, induced",,12780340; 15184383; 30344948; 32184360; 34607960,,,LYN,Lyn,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIGLEC10,Siglecg,Y667-p,450087,ESQEELHyATLNFPG,"molecular association, regulation",,11733002; 12163025,,,SHP-2,Ptpn11,INDUCES
+SIGLEC10,Siglecg,Y667-p,450087,ESQEELHyATLNFPG,"molecular association, regulation",,11733002; 12163025,,,SHP-1,Ptpn6,INDUCES

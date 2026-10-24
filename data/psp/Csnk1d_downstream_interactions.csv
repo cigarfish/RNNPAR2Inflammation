@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSNK1D,Csnk1d,T347-p,3190852,VAPPTPLtPTSHTAN,"enzymatic activity, induced",,28545154,,,,,
+CSNK1D,Csnk1d,T176-p,1868926302,ENKNLTGtARYASIN,"enzymatic activity, induced",,31096047,Pkinase,,,,

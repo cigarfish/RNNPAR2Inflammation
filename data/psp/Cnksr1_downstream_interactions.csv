@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CNKSR1,Cnksr1,Y519-p,50402001,PPREEDCySETEAED,intracellular localization,"transcription, inhibited",26319181,,,,,
+CNKSR1,Cnksr1,Y665-p,33638001,KEQNRELySEGLGAW,"activity, induced; molecular association, regulation; phosphorylation","cell growth, induced; transcription, inhibited; signaling pathway regulation",24825906; 26319181,,,EFNB1,Efnb1,INDUCES
+CNKSR1,Cnksr1,Y665-p,33638001,KEQNRELySEGLGAW,"activity, induced; molecular association, regulation; phosphorylation","cell growth, induced; transcription, inhibited; signaling pathway regulation",24825906; 26319181,,,RAF1,Raf1,INDUCES
+CNKSR1,Cnksr1,K414-ac,206219717,DGWLLLRkAPGGFMG,"molecular association, regulation; intracellular localization; phosphorylation","cell motility, induced; cell growth, induced; signaling pathway regulation",28819643,PH,ERK phosphorylation. Stimulates RAF/MEK/ERK pathway and mediates oncogenic RAS signaling,RAF1,Raf1,INDUCES
+CNKSR1,Cnksr1,S22-p,59070501,WLRGLDDsLQDYPFE,"molecular association, regulation; protein conformation","cell growth, induced",27769899,SAM_1,"oligomerization, invasion of cancer cells ",Akt1,Akt1,INDUCES

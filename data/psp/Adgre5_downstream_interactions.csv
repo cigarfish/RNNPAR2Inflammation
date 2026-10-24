@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADGRE5,Adgre5,T820-p,30961051,FTSTTSGtGHNQTRA,"molecular association, regulation; phosphorylation",,37938973,,induces ERK phosphorylation,ARRB2,Arrb2,INDUCES
+ADGRE5,Adgre5,T816-p,15408617,KYSEFTStTSGTGHN,"molecular association, regulation; phosphorylation",,37938973,,induces ERK phosphorylation,ARRB2,Arrb2,INDUCES
+ADGRE5,Adgre5,S833-p,3190861,RALRASEsGI_____,"molecular association, regulation; intracellular localization","cytoskeletal reorganization; signaling pathway regulation; cell adhesion, inhibited",30134161,,,DLG1,Dlg1,DISRUPTS
+ADGRE5,Adgre5,S818-p,4149091,SEFTSTTsGTGHNQT,"molecular association, regulation; phosphorylation",,37938973,,induces ERK phosphorylation,ARRB2,Arrb2,INDUCES

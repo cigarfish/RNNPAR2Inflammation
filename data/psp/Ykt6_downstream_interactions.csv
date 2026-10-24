@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YKT6,Ykt6,S174-p,27456090,LDDLVSKsEVLGTQS,"molecular association, regulation; intracellular localization; protein conformation","cell growth, inhibited; autophagy, inhibited",33723042,Synaptobrevin,,GOSR2,Gosr2,DISRUPTS
+YKT6,Ykt6,S174-p,27456090,LDDLVSKsEVLGTQS,"molecular association, regulation; intracellular localization; protein conformation","cell growth, inhibited; autophagy, inhibited",33723042,Synaptobrevin,,SCFD1,Scfd1,DISRUPTS
+YKT6,Ykt6,S174-p,27456090,LDDLVSKsEVLGTQS,"molecular association, regulation; intracellular localization; protein conformation","cell growth, inhibited; autophagy, inhibited",33723042,Synaptobrevin,,STX17,Stx17,DISRUPTS
+YKT6,Ykt6,S174-p,27456090,LDDLVSKsEVLGTQS,"molecular association, regulation; intracellular localization; protein conformation","cell growth, inhibited; autophagy, inhibited",33723042,Synaptobrevin,,SNAP29,Snap29,DISRUPTS

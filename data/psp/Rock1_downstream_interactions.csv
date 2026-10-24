@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ROCK1,Rock1,T1337-p,18261228,RTLSTRStANQSFRK,intracellular localization,cytoskeletal reorganization,21685893,,inhibits apical constriction,,,
+ROCK1,Rock1,T1024-p,20609219,IDRKKANtQDLRKKE,intracellular localization,cytoskeletal reorganization,21685893,,inhibits apical constriction,,,
+ROCK1,Rock1,S1333-p,4935818,RASPRTLsTRSTANQ,"intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,21685893; 24168723,,inhibits apical constriction,,,
+ROCK1,Rock1,T455-p,2526076,EMEQKCRtSNIKLDK,,signaling pathway regulation,34530870,,induces RhoA/ROCK1/MYPT1 signaling,,,
+ROCK1,Rock1,S1341-p,1216639,TRSTANQsFRKVVKN,"intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,21685893; 38150364,,inhibits apical constriction,,,
+ROCK1,Rock1,T1334-p,1210778,ASPRTLStRSTANQS,intracellular localization,cytoskeletal reorganization,21685893,,inhibits apical constriction,,,
+ROCK1,Rock1,S456-p,2526073,MEQKCRTsNIKLDKI,,signaling pathway regulation,34530870,,induces RhoA/ROCK1/MYPT1 signaling,,,

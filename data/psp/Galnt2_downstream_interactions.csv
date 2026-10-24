@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GALNT2,Galnt2,K103-ac,25336505,QDPYARNkFNQVESD,"enzymatic activity, inhibited; O-GalNAc glycosylation",,21651894,,inhibits glycosylation of mucin,,,
+GALNT2,Galnt2,S529-ac,25336510,WEQIEGNsKLRHVGS,"molecular association, regulation; protein conformation",,21651894,Ricin_B_lectin,induces binding to glycan,,,
+GALNT2,Galnt2,K363-ac,25336506,RVGHVFRkQHPYTFP,"enzymatic activity, inhibited; O-GalNAc glycosylation",,21651894,,inhibits glycosylation of mucin,,,
+GALNT2,Galnt2,S109-ac,25336511,NKFNQVEsDKLRMDR,"enzymatic activity, inhibited; O-GalNAc glycosylation",,21651894,,inhibits glycosylation of mucin,,,
+GALNT2,Galnt2,K521-ac,25336507,RENDSRQkWEQIEGN,"molecular association, regulation; O-GalNAc glycosylation; protein conformation",,21651894; 23096348,Ricin_B_lectin,"induces binding to glycan; enhances carbohydrate specificity, decreases glycosylation",MUC1,Muc1,DISRUPTS
+GALNT2,Galnt2,K521-ac,25336507,RENDSRQkWEQIEGN,"molecular association, regulation; O-GalNAc glycosylation; protein conformation",,21651894; 23096348,Ricin_B_lectin,"induces binding to glycan; enhances carbohydrate specificity, decreases glycosylation",MUC2,Muc2,DISRUPTS
+GALNT2,Galnt2,K111-ac,25336503,FNQVESDkLRMDRAI,"enzymatic activity, inhibited; O-GalNAc glycosylation",,21651894,,inhibits glycosylation of mucin,,,
+GALNT2,Galnt2,S373-ac,25336509,PYTFPGGsGTVFARN,"enzymatic activity, inhibited; O-GalNAc glycosylation",,21651894,,inhibits glycosylation of mucin,,,

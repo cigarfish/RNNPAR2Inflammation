@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HTATSF1,Htatsf1,S748-p,18016601,GSSFILSsDDDDDDI,"molecular association, regulation","carcinogenesis, induced; DNA repair, induced",35597237; 38762174,,,TOPBP1,Topbp1,INDUCES

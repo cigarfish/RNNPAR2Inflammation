@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XRCC2,Xrcc2,S247-p,482708,FFSKQDDsQSSNQFS,,"DNA repair, altered",30566856,Rad51,XRCC2 phosphorylation is involved in regulation of fork progression (slowing) during dNTP alterations,,,

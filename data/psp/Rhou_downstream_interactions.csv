@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RHOU,Rhou,Y254-p,14918203,SKSWWKKyCCFV___,"molecular association, regulation; intracellular localization; activity, inhibited","cytoskeletal reorganization; cell growth, altered",20547754,,,PAK1,Pak1,DISRUPTS

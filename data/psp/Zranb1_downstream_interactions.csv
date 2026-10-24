@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZRANB1,Zranb1,T35-p,50840530,RAQRPSGtIITEDPF,"activity, induced",signaling pathway regulation,30686098,,,,,
+ZRANB1,Zranb1,S78-p,1105513501,SARPRVKsSYSMENA,"enzymatic activity, induced",,29748601,,phosphorylation induced by AKT induces K63 deubiquitinating activity toward Twist1,,,
+ZRANB1,Zranb1,S209-p,23077543,RWRGSCSsGNSQRRS,"activity, induced",signaling pathway regulation,30686098,,,,,
+ZRANB1,Zranb1,T117-p,1105513502,QRRTRSPtESPQSSG,"enzymatic activity, induced",,29748601,,phosphorylation induced by AKT induces K63 deubiquitinating activity toward Twist1,,,

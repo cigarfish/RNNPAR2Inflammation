@@ -1,0 +1,9 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Ppp2ca,Pten,PTEN,PTEN,PPP2CA,T304,"Phosphatases, in vitro"
+Ppp2ca,Pten,PTEN,PTEN,PPP2CA,Y307,"Phosphatases, in vitro"
+Ppp2ca,Ptpn1,PTPN1,PTP1B,PPP2CA,Y307,"Phosphatases, in vitro"
+Ppp2ca,Ptpra,PTPRA,PTPRA,PPP2CA,Y307,"Phosphatases, in vitro"
+Ppp2ca,Pten,PTEN,PTEN,PPP2CA,T304,Putative upstream phosphatases
+Ppp2ca,Pten,PTEN,PTEN,PPP2CA,Y307,Putative upstream phosphatases
+Ppp2ca,Ptpn1,PTPN1,PTP1B,PPP2CA,Y307,Putative upstream phosphatases
+Ppp2ca,Ptpra,PTPRA,PTPRA,PPP2CA,Y307,Putative upstream phosphatases

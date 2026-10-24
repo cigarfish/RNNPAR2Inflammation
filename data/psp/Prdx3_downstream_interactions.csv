@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRDX3,Prdx3,K149-ub,22249998,AWINTPRkNGGLGHM,protein degradation,,38195664,AhpC-TSA,,,,
+PRDX3,Prdx3,K73-ub,1887094206,TQHAPYFkGTAVVNG,protein degradation,,38195664,,,,,
+PRDX3,Prdx3,K253-ac,36292413,ASKEYFQkVNQ____,,"apoptosis, induced",31655428,1-cysPrx_C,"inhibits dimerization, H2O2 induced the dimerization ",PRDX3,Prdx3,DISRUPTS

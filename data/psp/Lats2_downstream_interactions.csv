@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LATS2,Lats2,S408-p,17600400,PVPSRTNsFNSHQPR,"activity, induced","cell cycle regulation; apoptosis, inhibited; signaling pathway regulation",21118956; 30800215,, Hippo pathway; in SAS cell line,,,
+LATS2,Lats2,T168-gl,1869341905,GLMPTPVtRRPSFEG,phosphorylation,"carcinogenesis, induced; cell growth, induced",32513743,,inhibits phosphorylation at LATS2-S872 and T1041,,,
+LATS2,Lats2,T436-gl,1869341904,PNTVTAVtAAHILHP,"molecular association, regulation; enzymatic activity, inhibited; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",32513743,,inhibits phosphorylation at LATS2-S872 and T1041; disrupts the hippo-pathway,MOB1B,Mob1b,DISRUPTS
+LATS2,Lats2,T1041-p,31843001,EHAFYEFtFRRFFDD,"activity, induced; phosphorylation; enzymatic activity, induced","carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation",24362629; 30800215; 34465890,Pkinase_C,induces PRPS1 phosphorylation;  Hippo pathway; in SAS cell line,,,
+LATS2,Lats2,S872-p,10945601,HQRCLAHsLVGTPNY,,"cell growth, induced; transcription, inhibited",29934311,Pkinase,,,,
+LATS2,Lats2,S83-p,451703,ALREIRYsLLPFANE,intracellular localization,cell cycle regulation,15147269; 21788394,,,,,
+LATS2,Lats2,S835-p,28706304,GSHVRQDsMEPSDLW,"activity, induced; phosphorylation; enzymatic activity, induced","apoptosis, induced; signaling pathway regulation",23886938; 30800215,Pkinase, Hippo pathway; Chk1-dependent trans-autophosphorylation in SAS cell line; in SAS cell line; enhances p21Cip1 phosphoylation,,,
+LATS2,Lats2,S380-p,3213669,ATLARRDsLQKPGLE,intracellular localization,,21822051,, chromosome segregation and cytokinesis ; translocation from the centrosome to the chromosome and spindle during mitosis,,,

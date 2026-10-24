@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PACSIN1,Pacsin1,S348-p,4730482,AGDRGSVsSYDRGQP,"molecular association, regulation",,23918399,,regulates AMPAR trafficking,PICK1,Pick1,DISRUPTS
+PACSIN1,Pacsin1,S346-p,4730476,SQAGDRGsVSSYDRG,"molecular association, regulation",,23918399,,regulates AMPAR trafficking,PICK1,Pick1,DISRUPTS
+PACSIN1,Pacsin1,S349-p,4730488,GDRGSVSsYDRGQPY,"molecular association, regulation",,23918399,,regulates AMPAR trafficking,PICK1,Pick1,DISRUPTS

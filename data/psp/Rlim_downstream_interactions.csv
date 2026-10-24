@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RLIM,Rlim,S215-p,18014966,QRRARSRsPDHRRTR,intracellular localization,"cell motility, induced; apoptosis, inhibited",23904271,,phosphorylated S214 (human) or S215 (murine) RNF12 is localized in nucleus;  shuttling of RNF12 is important for promoting cell motility and alveolar cell survival,,,

@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRK2,Grk2,S670-p,447725,KMKNKPRsPVVELSK,"protein degradation; acetylation; molecular association, regulation; ubiquitination; phosphorylation","cell cycle regulation; chromatin organization, altered; cell motility, induced; cell adhesion, induced; cytoskeletal reorganization; cell growth, altered",20080565; 22193721; 33806062,,induces deacetylation of TUBA1A at K40 via HDAC6 phosphorylation; induces MST2 phosphorylation,PIN1,Pin1,INDUCES
+GRK2,Grk2,K21-ub,1872283502,LMAMEKSkATPAARA,protein degradation,,17006543,,,,,
+GRK2,Grk2,Y13-p,456872,AVLADVSyLMAMEKS,"protein degradation; molecular association, regulation",,11566877; 16725308,,,G-alpha(q),Gnaq,INDUCES
+GRK2,Grk2,S29-p,447724,ATPAARAsKKILLPE,"activity, induced",,11042191,,,,,
+GRK2,Grk2,Y92-p,456873,FYEEIKKyEKLETEE,"protein degradation; molecular association, regulation",,11566877; 16725308,RGS,,G-alpha(q),Gnaq,INDUCES
+GRK2,Grk2,K19-ub,1872283501,SYLMAMEkSKATPAA,protein degradation,,17006543,,,,,
+GRK2,Grk2,K220-ub,573762722,TGKMYAMkCLDKKRI,acetylation; phosphorylation,"cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",22193721,Pkinase,induces deacetylation of TUBA1A at K40 via HDAC6 phosphorylation,,,
+GRK2,Grk2,Y86-p,447727,ARPLVEFyEEIKKYE,"protein degradation; molecular association, regulation",,11566877; 16725308,RGS,,G-alpha(q),Gnaq,INDUCES
+GRK2,Grk2,K31-ub,573762708,PAARASKkILLPEPS,protein degradation,,17006543,,,,,
+GRK2,Grk2,K30-ub,1872283503,TPAARASkKILLPEP,protein degradation,,17006543,,,,,
+GRK2,Grk2,S685-p,447726,VPLVQRGsANGL___,"molecular association, regulation",,16885398,,,G-alpha(q),Gnaq,INDUCES

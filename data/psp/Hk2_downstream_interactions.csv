@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HK2,Hk2,T473-p,28704601,QHRARQKtLEHLQLS,"protein stabilization; intracellular localization; enzymatic activity, induced","carcinogenesis, induced; autophagy, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",29985480; 31435020,Hexokinase_1,,,,
+HK2,Hk2,Y686-p,62906106,GTGSNACyMEEMRNV,,"cell motility, induced",28054552,Hexokinase_2,promote cell migration and invasion,,,
+HK2,Hk2,K315-sm,1881215706,LILVKMAkEELLFGG,,"carcinogenesis, inhibited; cell growth, inhibited",33753739,,SUMO-defective HK2 contributes to prostate cancer cell proliferation and tumorigenesis,,,
+HK2,Hk2,K492-sm,1881215705,LEVKRRMkVEMERGL,,"carcinogenesis, inhibited; cell growth, inhibited",33753739,,SUMO-defective HK2 contributes to prostate cancer cell proliferation and tumorigenesis,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LONP1,Lonp1,S173-p,1869121004,VFLKRDDsNESDVVE,"enzymatic activity, induced","carcinogenesis, inhibited",31406245,LON_substr_bdg,regulation of mitochondrial bioenergetics,,,
+LONP1,Lonp1,S181-p,1869121003,NESDVVEsLDEIYHT,"enzymatic activity, induced","carcinogenesis, inhibited",31406245,LON_substr_bdg,regulation of mitochondrial bioenergetics,,,
+LONP1,Lonp1,K145-ac,1885539904,FIKIIEVkNKKLVEL,"molecular association, regulation","cell motility, induced; cell growth, induced",36739437,,"mitochondrial oxidative phosphorylation (OXPHOS), increased ATP production, advances tumor growth and invasion, inhibits K63 ubiquitin binding at K145 ",ubiquitin,Ubc,DISRUPTS

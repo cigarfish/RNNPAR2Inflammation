@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP2K4,Map2k4,K140-ub,11998604,IRSTVDEkEQKQLLM,protein degradation,,19737936,Pkinase,,,,
+MAP2K4,Map2k4,Y269-p,1881548606,RDAGCRPyMAPERID,"enzymatic activity, inhibited","carcinogenesis, inhibited; apoptosis, induced; transcription, inhibited",37020040,,,,,
+MAP2K4,Map2k4,S257-p,447654,ISGQLVDsIAKTRDA,"enzymatic activity, induced",,9162092,Pkinase,,,,
+MAP2K4,Map2k4,K143-ub,11998603,TVDEKEQkQLLMDLD,protein degradation,,19737936,Pkinase,,,,
+MAP2K4,Map2k4,Y307-p,1881548608,LATGRFPyPKWNSVF,"enzymatic activity, inhibited","carcinogenesis, inhibited; apoptosis, induced; transcription, inhibited",37020040,,,,,
+MAP2K4,Map2k4,S80-p,447655,IERLRTHsIESSGKL,"activity, inhibited","apoptosis, inhibited",11707464,,,,,
+MAP2K4,Map2k4,T261-p,447656,LVDSIAKtRDAGCRP,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced; transcription, induced",10727406; 15328343; 35843311; 9162092,Pkinase,,,,

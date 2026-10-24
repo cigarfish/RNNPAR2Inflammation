@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNF4A,Hnf4a,K126-ac,460633,KCFRAGMkKEAVQNE,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,Exportin-1,Xpo1,DISRUPTS
+HNF4A,Hnf4a,K126-ac,460633,KCFRAGMkKEAVQNE,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,CBP,Crebbp,INDUCES
+HNF4A,Hnf4a,S167-p,458371,VLSRQITsPVSGING,"molecular association, regulation","transcription, induced",16351573,,,PC4,Sub1,INDUCES
+HNF4A,Hnf4a,K458-ac,25336501,GAVATIVkPLSAIPQ,protein degradation,"transcription, inhibited",21708125; 33636024,,,,,
+HNF4A,Hnf4a,S143-p,458369,RISTRRSsYEDSSLP,"molecular association, regulation","transcription, inhibited; signaling pathway regulation",21598922,,PKA signaling pathway,,,
+HNF4A,Hnf4a,K106-ac,460631,SRQCVVDkDKRNQCR,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,Exportin-1,Xpo1,DISRUPTS
+HNF4A,Hnf4a,K106-ac,460631,SRQCVVDkDKRNQCR,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,CBP,Crebbp,INDUCES
+HNF4A,Hnf4a,Y288-p,22996303,IDDNEYAyLKAIIFF,protein degradation; intracellular localization; phosphorylation,"transcription, inhibited",22308320,Hormone_recep,"reduced nuclear localization and protein stability; multistep phosphorylation by Src, phosphorylating Y23 first, which interacts with the Src SH2 domain, followed by phosphorylation of Y286, Y288  ",,,
+HNF4A,Hnf4a,S313-p,449926,GKIKRLRsQVQVSLE,protein degradation,"transcription, inhibited",12740371; 28196117,Hormone_recep,,,,
+HNF4A,Hnf4a,K108-ac,460632,QCVVDKDkRNQCRYC,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,Exportin-1,Xpo1,DISRUPTS
+HNF4A,Hnf4a,K108-ac,460632,QCVVDKDkRNQCRYC,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,CBP,Crebbp,INDUCES
+HNF4A,Hnf4a,S142-p,458368,DRISTRRsSYEDSSL,"molecular association, regulation","transcription, inhibited; signaling pathway regulation",21598922,,PKA signaling pathway,,,
+HNF4A,Hnf4a,Y286-p,22996302,LQIDDNEyAYLKAII,protein degradation; intracellular localization; phosphorylation,"transcription, inhibited",22308320,Hormone_recep,"reduced nuclear localization and protein stability; multistep phosphorylation by Src, phosphorylating Y23 first, which interacts with the Src SH2 domain, followed by phosphorylation of Y286, Y288  ",,,
+HNF4A,Hnf4a,K127-ac,460634,CFRAGMKkEAVQNER,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,Exportin-1,Xpo1,DISRUPTS
+HNF4A,Hnf4a,K127-ac,460634,CFRAGMKkEAVQNER,"molecular association, regulation; intracellular localization; protein conformation","transcription, induced",10882110,zf-C4,,CBP,Crebbp,INDUCES

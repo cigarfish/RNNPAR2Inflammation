@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TXN,Txn1,T100-p,457590,NKEKLEAtINELV__,intracellular localization,"apoptosis, altered",20619274,Thioredoxin,,,,
+TXN,Txn1,T76-p,28716000,CEVKCMPtFQFFKKG,"protein degradation; ubiquitination; enzymatic activity, inhibited","apoptosis, inhibited; transcription, inhibited; signaling pathway regulation",23747528,Thioredoxin,"MPK38-mediated signaling through TGF-B, ASK1 and p53",,,

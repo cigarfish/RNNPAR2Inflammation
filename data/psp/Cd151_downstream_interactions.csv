@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD151,Cd151,K8-ub,4666606,MGEFNEKkTTCGTVC,protein degradation,,18713730,,cell surface downregulation of tetraspanins,,,
+CD151,Cd151,K17-ub,4666604,TCGTVCLkYLLFTYN,protein degradation,,18713730,Tetraspanin,cell surface downregulation of tetraspanins,,,
+CD151,Cd151,K7-ub,4666605,_MGEFNEkKTTCGTV,protein degradation,,18713730,,cell surface downregulation of tetraspanins,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNE3,Kcne3,S82-p,460569,LILGYTRsRKVDKRS,"activity, induced; activity, inhibited",,16449802; 21911611,ISK_Channel, KCNE3-S82A channels was not altered in the  presence of E2; S82A rundown much more rapidly than the non-mutated channels; controls KCNE3-Kv3.4 channel opening,,,

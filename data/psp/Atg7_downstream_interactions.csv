@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG7,Atg7,K413-ub,1881880200,CLGGGKPkALAAADR,ubiquitination,"autophagy, induced",35316220,,L.  monocytogenes  infection induced  autophagosome  accumulation,,,

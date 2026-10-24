@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATRX,Atrx,S2487-p,23052326,RSKNPGPsQGKSM__,,cell cycle regulation,25803170,,inability of cells to undergo geroconversion following CDK4 inhibition,,,

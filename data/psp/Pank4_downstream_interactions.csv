@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PANK4,Pank4,T406-p,478688,AQRARSGtFDLLEMD,"enzymatic activity, inhibited","cell growth, induced",35896750,,inhibits ACLY activity,,,

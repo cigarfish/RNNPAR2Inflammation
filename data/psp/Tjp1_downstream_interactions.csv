@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TJP1,Tjp1,T770-p,30306604,KNNHHLFtTTINLNS,"molecular association, regulation","cell adhesion, inhibited",24338688,Guanylate_kin,15(S)-HETE or 12(S)-HETE (high fat diet) -induced endothelial tight junction (TJ) disruption,occludin,Ocln,DISRUPTS
+TJP1,Tjp1,T772-p,3653898,NHHLFTTtINLNSMN,"molecular association, regulation","cell adhesion, inhibited",24338688,Guanylate_kin,15(S)-HETE or 12(S)-HETE (high fat diet) -induced endothelial tight junction (TJ) disruption,occludin,Ocln,DISRUPTS
+TJP1,Tjp1,S168-p,470469,ASRERSLsPRSDRRS,"molecular association, regulation; intracellular localization",,19567915,,,ITGA5,Itga5,INDUCES

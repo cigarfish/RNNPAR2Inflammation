@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBE2K,Ube2k,K14-sm,12004435,QRIKREFkEVLKSEE,"molecular association, regulation; ubiquitination; protein conformation",,15723079,UQ_con,inhibits ubiquitination,UBE1,Uba1,DISRUPTS

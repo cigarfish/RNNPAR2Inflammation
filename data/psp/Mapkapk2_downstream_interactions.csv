@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPKAPK2,Mapkapk2,T334-p,448273,QSTKVPQtPLHTSRV,"activity, induced; phosphorylation; enzymatic activity, induced","transcription, inhibited",16278218; 23740979; 35189144; 8846784,,,,,
+MAPKAPK2,Mapkapk2,T222-p,448269,TSHNSLTtPCYTPYY,"activity, induced; phosphorylation",,23740979; 8846784,Pkinase,,,,
+MAPKAPK2,Mapkapk2,S272-p,448268,SNHGLAIsPGMKTRI,"activity, induced",,8846784,Pkinase,,,,

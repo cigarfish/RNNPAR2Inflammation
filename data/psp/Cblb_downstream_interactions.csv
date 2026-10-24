@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CBLB,Cblb,Y363-p,455017,TQEQYELyCEMGSTF,"molecular association, regulation; ubiquitination; protein conformation; enzymatic activity, induced",,22158902; 26416283,,,UBE2D1,Ube2d1,INDUCES
+CBLB,Cblb,Y106-p,5641270,AQLSENEyFKIYIDS,"ubiquitination; enzymatic activity, induced",,26416283,Cbl_N,,,,
+CBLB,Cblb,Y709-p,475085,VEEDDDEyKIPSSHP,"molecular association, regulation",,10022120,,"in vitro and vivo;  Y709 is major binding site, and to lesser extent Y665",CRKL,Crkl,INDUCES
+CBLB,Cblb,Y665-p,451550,GHLGSEEyDVPPRLS,"molecular association, regulation",,10022120,,"in vitro and vivo;  Y709 is major binding site, and to lesser extent Y665",CRKL,Crkl,INDUCES
+CBLB,Cblb,Y133-p,50346901,KEGKERMyEEQSQDR,"ubiquitination; enzymatic activity, induced",,26416283,Cbl_N,,,,

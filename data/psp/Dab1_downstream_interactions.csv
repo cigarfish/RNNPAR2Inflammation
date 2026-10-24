@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAB1,Dab1,Y220-p,447630,PETEENIyQVPTSQK,"molecular association, regulation",,15316068,,,CRK,Crk,INDUCES
+DAB1,Dab1,Y232-p,447961,SQKKEGVyDVPKSQP,"molecular association, regulation",,15316068,,,CRK,Crk,INDUCES

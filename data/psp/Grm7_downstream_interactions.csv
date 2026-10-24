@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRM7,Grm7,K889-sm,25042302,DRPNGEAkTELCENV,sumoylation,"endocytosis, altered",26631532,,,,,
+GRM7,Grm7,S862-p,2846504,NVQKRKRsFKAVVTA,sumoylation,,26631532,,Ser862 phosphorylation promotes SUMOylation of mGluR7,,,

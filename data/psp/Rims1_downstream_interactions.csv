@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIMS1,Rims1,K488-sm,31089520,AVLMRKAkREKVETM,"molecular association, regulation","neural plasticity; exocytosis, induced",24290762,,,CACNA1A,Cacna1a,INDUCES

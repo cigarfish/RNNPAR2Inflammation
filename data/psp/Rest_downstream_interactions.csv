@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+REST,Rest,S861-p,36320700,SVSTEDLsPPSPPLP,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,BTRC,Btrc,INDUCES
+REST,Rest,S861-p,36320700,SVSTEDLsPPSPPLP,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,RCOR1,Rcor1,DISRUPTS
+REST,Rest,S861-p,36320700,SVSTEDLsPPSPPLP,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,PIN1,Pin1,INDUCES
+REST,Rest,S1024-p,138107501,SDLSDNMsEGSDDSG,protein degradation; ubiquitination,,29156689,,,,,
+REST,Rest,S1030-p,37042902,MSEGSDDsGLHGARP,protein degradation; ubiquitination,"carcinogenesis, induced; cell growth, induced",25453754; 29156689,,,,,
+REST,Rest,S864-p,453739,TEDLSPPsPPLPKEN,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,BTRC,Btrc,INDUCES
+REST,Rest,S864-p,453739,TEDLSPPsPPLPKEN,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,RCOR1,Rcor1,DISRUPTS
+REST,Rest,S864-p,453739,TEDLSPPsPPLPKEN,"protein degradation; molecular association, regulation; protein conformation","cell differentiation, inhibited; transcription, induced",25197063; 30217818,,,PIN1,Pin1,INDUCES
+REST,Rest,S1027-p,138107500,SDNMSEGsDDSGLHG,protein degradation; ubiquitination,,29156689,,,,,

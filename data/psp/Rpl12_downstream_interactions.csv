@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPL12,Rpl12,S38-p,468652,KIGPLGLsPKKVGDD,,"cell cycle regulation; translation, induced",30220558,Ribosomal_L11_N,regulates translation of mitotic-related mRNAs,,,

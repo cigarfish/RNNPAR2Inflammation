@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AMBRA1,Ambra1,S52-p,27443426,KRVELPDsPRSTFLL,"protein degradation; ubiquitination; enzymatic activity, inhibited; activity, inhibited","autophagy, inhibited; signaling pathway regulation",23524951; 36476874,,,,,
+AMBRA1,Ambra1,S1043-p,1255792404,CRPEALNsGVEYYWD,"protein stabilization; molecular association, regulation; ubiquitination; protein conformation","autophagy, induced",30217973; 38424148,,mitophagy induced interaction,LC3B,Map1lc3b,INDUCES
+AMBRA1,Ambra1,S1043-p,1255792404,CRPEALNsGVEYYWD,"protein stabilization; molecular association, regulation; ubiquitination; protein conformation","autophagy, induced",30217973; 38424148,,mitophagy induced interaction,CUL4A,Cul4a,DISRUPTS
+AMBRA1,Ambra1,S1043-p,1255792404,CRPEALNsGVEYYWD,"protein stabilization; molecular association, regulation; ubiquitination; protein conformation","autophagy, induced",30217973; 38424148,,mitophagy induced interaction,GABARAP,Gabarap,INDUCES

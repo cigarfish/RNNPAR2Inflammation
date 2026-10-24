@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMKK1,Camkk1,S74-p,452115,SLSARKLsLQERPAG,"molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced",,11574071; 18242179,,14-3-3 inhibits CAMKK1 activity. ; activity toward PKIV peptide;  replacement of S74 to A or D caused an increase in the enzyme activity,14-3-3 eta,Ywhah,INDUCES
+CAMKK1,Camkk1,S475-p,486103,RREERSMsAPGNLLV,"molecular association, regulation; enzymatic activity, inhibited",,18242179,,14-3-3 inhibits CAMKK1 activity. ,14-3-3 eta,Ywhah,INDUCES
+CAMKK1,Camkk1,S458-p,486077,KSMLRKRsFGNPFEP,"enzymatic activity, inhibited",,11574071,,activity toward PKIV peptide,,,
+CAMKK1,Camkk1,T108-p,452083,PRAWRRPtIESHHVA,"enzymatic activity, inhibited; enzymatic activity, induced",,11574071,,activity toward PKIV peptide; activity towards CAMK4.,,,

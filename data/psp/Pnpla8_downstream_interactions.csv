@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PNPLA8,Pnpla8,S515-p,18638842,KLGSDVFsQNVIVGT,"activity, induced; enzymatic activity, induced","transcription, induced; signaling pathway regulation",23258543; 25492867,Patatin,Increase PGE2 release and leads to conformational change in the enzyme; ATF6 activation,,,
+PNPLA8,Pnpla8,S511-p,18638838,ELYRKLGsDVFSQNV,"activity, induced; enzymatic activity, induced","transcription, induced; signaling pathway regulation",23258543; 25492867,Patatin,Increase PGE2 release and leads to conformational change in the enzyme; ATF6 activation,,,

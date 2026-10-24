@@ -1,0 +1,11 @@
+# Versions the published results were produced with (outputs/step00_report.json).
+# torch is listed without a CUDA suffix: install the build matching your driver
+# from https://pytorch.org if you want GPU support (training is ~10x slower on CPU).
+numpy==1.26.4
+scipy==1.17.1
+pandas==2.3.3
+torch==2.2.1
+PyYAML==6.0.3
+networkx==3.6.1
+matplotlib>=3.8
+scikit-learn>=1.4        # baseline learners in scripts/run_benchmark_16.py only

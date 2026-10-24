@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF3H,Eif3h,S183-p,471116,VCKEKDFsPEALKKA,"activity, induced","cell growth, altered",18544531,eIF3h_C,,,,

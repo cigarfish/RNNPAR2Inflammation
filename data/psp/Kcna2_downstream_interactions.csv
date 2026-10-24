@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNA2,Kcna2,Y415-p,455552,VIVSNFNyFYHRETE,"molecular association, regulation",,12151401,Ion_trans,,Cortactin,Cttn,DISRUPTS
+KCNA2,Kcna2,Y417-p,455553,VSNFNYFyHRETEGE,"molecular association, regulation",,12151401,Ion_trans,,Cortactin,Cttn,DISRUPTS
+KCNA2,Kcna2,Y132-p,452037,MFREDEGyIKEEERP,"activity, inhibited",,15215309; 23769686,,this site is required for channel suppression and channel endocytosis; gintonin inhibits Kv1.2 channel activity,,,

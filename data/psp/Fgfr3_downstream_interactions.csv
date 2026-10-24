@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGFR3,Fgfr3,Y577-p,463335,RRPPGLDySFDTCKP,,"cell growth, altered",11294897,PK_Tyr_Ser-Thr,,,,
+FGFR3,Fgfr3,Y760-p,448117,TVTSTDEyLDLSAPF,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",11294897; 11827956,,,SH2-B-beta,Sh2b1,INDUCES
+FGFR3,Fgfr3,Y770-p,2036700,LSAPFEQySPGGQDT,,"cell growth, altered",11294897,,Y770F  mutation increases the transforming activity of FGFR3,,,
+FGFR3,Fgfr3,Y724-p,448116,ANCTHDLyMIMRECW,"molecular association, regulation; phosphorylation; enzymatic activity, induced","transcription, altered; cell growth, altered",11294897; 11827956,PK_Tyr_Ser-Thr,"  stimulates phosphorylation of Shp2, MAPK, Stat1 and Stat3, activates PI3K; stimulates the transforming activity of FGFR3",SH2-B-beta,Sh2b1,INDUCES

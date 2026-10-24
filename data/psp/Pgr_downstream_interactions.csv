@@ -1,0 +1,18 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PGR,Pgr,K183-ac,30332700,SGTAAAHkVLPRGLS,"molecular association, regulation; phosphorylation","transcription, induced",24302725,Prog_receptor,FKBP5 transcription;  associated with increased S294 phosphorylation,,,
+PGR,Pgr,S676-p,450154,LSQRFTFsPGQDIQL,,"transcription, induced",8662865,,,,,
+PGR,Pgr,S400-p,449842,GAEASARsPRSYLVA,protein degradation; intracellular localization,"cell growth, induced; transcription, induced",15572662; 25514083,Prog_receptor,,,,
+PGR,Pgr,K7-sm,2890600,_MTELKAkGPRAPHV,sumoylation; protein stabilization; intracellular localization; protein conformation,"transcription, inhibited",17020914,Prog_receptor,induces sumoylation at other sites,,,
+PGR,Pgr,S162-p,450156,PATQRVLsPLMSRSG,,"transcription, induced",8662865,Prog_receptor,,,,
+PGR,Pgr,K388-sm,486289,QPPALKIkEEEEGAE,"sumoylation; protein stabilization; intracellular localization; protein conformation; activity, inhibited","cell differentiation, inhibited; transcription, induced; transcription, inhibited; cell growth, altered",12114521; 12529333; 17020914; 17053081; 17717077; 19211567; 19706513; 22439847,Prog_receptor,represses basal proliferation of breast cancer cells; SENP1 and SENP2 strongly enhanced the transcription of WT liganded PR.,,,
+PGR,Pgr,S345-p,450157,AFAPPRSsPCASSTP,"molecular association, regulation","transcription, induced",18202149; 8662865,Prog_receptor,,SP1,Sp1,INDUCES
+PGR,Pgr,K464-m1,31839903,TLECILYkAEGAPPQ,"molecular association, regulation","cell adhesion, induced; transcription, induced",24415758,Prog_receptor,regulates ligand-sensitivity and PR activity,SMRT,Ncor2,INDUCES
+PGR,Pgr,K464-m1,31839903,TLECILYkAEGAPPQ,"molecular association, regulation","cell adhesion, induced; transcription, induced",24415758,Prog_receptor,regulates ligand-sensitivity and PR activity,N-CoR1,Ncor1,INDUCES
+PGR,Pgr,K388-ub,486290,QPPALKIkEEEEGAE,protein degradation,"transcription, inhibited",17347654,Prog_receptor,,,,
+PGR,Pgr,S390-p,11273301,PDSEASQsPQYSFES,protein degradation; ubiquitination,"carcinogenesis, altered; cell growth, inhibited; apoptosis, induced",23880761,Prog_receptor,,,,
+PGR,Pgr,R637-me,1876957800,AGMVLGGrKFKKFNK,"protein degradation; receptor recycling, induced","cell motility, induced; cell growth, induced; transcription, induced",32563156,,,,,
+PGR,Pgr,S102-p,450158,GAGGSSSsPPEKDSG,,"transcription, induced",8662865,Prog_receptor,,,,
+PGR,Pgr,S294-p,447987,APMAPGRsPLATTVM,sumoylation; protein degradation; ubiquitination; intracellular localization,"carcinogenesis, altered; transcription, induced; cell adhesion, altered; cell growth, altered",10655479; 12554776; 17173941; 17717077; 19706513; 26577046; 27852068; 28412963,Prog_receptor,,,,
+PGR,Pgr,S81-p,450160,TQDQQSLsDVEGAYS,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, induced",21518957; 23921636; 8662865,Prog_receptor,,,,
+PGR,Pgr,K531-sm,2890601,GYQAAVLkEGLPQVY,sumoylation; protein stabilization; intracellular localization; protein conformation,"transcription, inhibited",17020914,Prog_receptor,induces sumoylation at other sites,,,
+PGR,Pgr,S190-p,447986,KVLPRGLsPARQLLL,,"transcription, induced",8662865,Prog_receptor,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EXOSC9,Exosc9,S392-p,3194465,QDAPIILsDSEEEEM,"molecular association, regulation",,19217413,,,SUMO2,Sumo2,INDUCES
+EXOSC9,Exosc9,S392-p,3194465,QDAPIILsDSEEEEM,"molecular association, regulation",,19217413,,,SUMO1,Sumo1,INDUCES
+EXOSC9,Exosc9,S394-p,3194468,APIILSDsEEEEMII,"molecular association, regulation",,19217413,,,SUMO2,Sumo2,INDUCES
+EXOSC9,Exosc9,S394-p,3194468,APIILSDsEEEEMII,"molecular association, regulation",,19217413,,,SUMO1,Sumo1,INDUCES

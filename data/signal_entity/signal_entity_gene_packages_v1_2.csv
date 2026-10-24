@@ -1,0 +1,25 @@
+﻿signal_symbol,display_name,activation_mode,status,positive_source_or_release_genes,negative_controller_genes,direct_receiver_genes,upstream_signal_entity,downstream_signal_entity,directness,notes
+SE_CA2,Ca2+,mobilized,active_v1,Itpr1;Itpr2;Itpr3,,Calm1;Calm2;Calm3;Ppp3r1,SE_IP3,,hard/near-direct,"Ca2+ is mobilized/released rather than synthesized. Orai1/2/3 are absent from the current gene list, so the v1 graph keeps the IP3R-mediated release branch."
+SE_CAMP,cAMP,produced,active_v1,Adcy1;Adcy3;Adcy4;Adcy5;Adcy7;Adcy8;Adcy9;Adcy10,Pde4a;Pde4c;Pde4d,Prkar1a;Prkar1b;Prkar2a;Prkar2b;Rapgef3;Rapgef4,,,hard biochemical,PKA regulatory subunits and EPAC1/2 are direct cAMP sensors.
+SE_CGMP,cGMP,produced,active_v1,Gucy1a1;Gucy1a2;Gucy1b1,Pde5a,Prkg1,SE_NO,,hard biochemical,Added so NO signaling does not terminate artificially at soluble guanylate cyclase.
+SE_IP3,IP3,produced,active_v1,Plcb1;Plcb2;Plcb3;Plcb4;Plcg1;Plcg2,,Itpr1;Itpr2;Itpr3,SE_PIP2,SE_CA2,hard biochemical,PLC beta/gamma branches only.
+SE_DAG,DAG,produced,active_v1,Plcb1;Plcb2;Plcb3;Plcb4;Plcg1;Plcg2,,Prkca;Prkcb;Prkcg;Prkcd;Prkce;Prkch;Prkcq;Rasgrp1;Rasgrp2;Rasgrp3;Rasgrp4,SE_PIP2,,hard biochemical,Only DAG-responsive conventional/novel PKCs; atypical PKCs excluded.
+SE_PIP2,"PI(4,5)P2 / PIP2",produced,active_v1,Pip5k1a;Pip5k1b;Pip5k1c;Pip4k2a;Pip4k2b,,Plcb1;Plcb2;Plcb3;Plcb4;Plcg1;Plcg2;Pik3ca;Pik3cb;Pik3cd;Pik3cg,SE_PI4P;SE_PI5P,SE_IP3;SE_DAG;SE_PIP3,hard biochemical,Receivers restricted to direct enzymatic consumers.
+SE_PIP3,"PI(3,4,5)P3 / PIP3",produced,active_v1,Pik3ca;Pik3cb;Pik3cd;Pik3cg,Pten;Inpp5d;Inppl1,Akt1;Akt2;Akt3;Pdpk1;Btk;Itk,SE_PIP2,SE_PI34P2,hard biochemical,Major direct PH-domain signaling effectors only.
+SE_PI3P,PI3P,produced,active_v1,Pik3c3;Pik3c2a;Pik3c2b;Pik3c2g,,Eea1;Wipi1;Wipi2;Pikfyve,,SE_PI35P2,hard biochemical,Direct PI3P-binding/endosomal-autophagy handlers only.
+SE_PI4P,PI4P,produced,active_v1,Pi4ka;Pi4kb;Pi4k2a;Pi4k2b,Sacm1l,Pip5k1a;Pip5k1b;Pip5k1c,,SE_PIP2,hard biochemical,Main PI4P→PIP2 branch.
+SE_PI5P,PI5P,produced,active_v1,Pikfyve,,Pip4k2a;Pip4k2b;Ing2,,SE_PIP2,hard/curated,PIKfyve/PIP4K2/ING2 core handlers.
+SE_PI34P2,"PI(3,4)P2",produced,active_v1,Inpp5d;Inppl1;Pik3c2a,Inpp4a;Inpp4b,Plekha1;Plekha2;Akt1;Akt2;Akt3,SE_PIP3,,hard biochemical,SHIP1/2 generation from PIP3; TAPP1/2 direct binders.
+SE_PI35P2,"PI(3,5)P2",produced,active_v1,Pikfyve,Fig4,Mcoln1,SE_PI3P,SE_PI5P,hard biochemical,MCOLN1/TRPML1 kept as core direct receiver.
+SE_ROS,ROS,produced,active_v1,Nox1;Cybb;Nox3;Nox4;Duox1;Duox2,,Keap1;Map3k5,,,mixed,KEAP1 direct redox sensor; MAP3K5/ASK1 is curated-soft.
+SE_NO,Nitric oxide,produced,active_v1,Nos1;Nos2;Nos3,,Gucy1a1;Gucy1a2;Gucy1b1,,SE_CGMP,hard biochemical,sGC is the direct NO receptor.
+SE_CGAMP,cGAMP,produced,active_v1,Cgas,,Sting1,,,hard biochemical,Mouse graph symbol Cgas is confirmed present in the current gene list; Mb21d1 is retained only as an alias. Core Cgas→cGAMP→Sting1 branch is active.
+SE_CDIGMP,c-di-GMP,input_only,active_input_only,,,Sting1,,,hard receiver-only,No mammalian source gene.
+SE_CDIAMP,c-di-AMP,input_only,active_input_only,,,Sting1,,,hard receiver-only,No mammalian source gene.
+SE_2_5A,2-5A,produced,active_v1,Oas1a;Oas2;Oas3,,Rnasel,SE_DSRNA,,hard biochemical,"Oas1a, Oas2 and Oas3 are confirmed in the current gene list and produce 2-5A; Rnasel is the direct receiver."
+SE_DSDNA,dsDNA,input_only,active_input_only,,,Cgas;Ddx41;Ifi204;Aim2,,,mixed receiver-only,"Cgas is preferred for cGAMP/STING; Ddx41 is an alternative STING-dependent cytosolic-DNA sensor; Ifi204 is a secondary mouse ALR/IFI16-like DNA sensor; Aim2 routes mainly to inflammasome, not STING."
+SE_DSRNA,dsRNA,input_only,active_input_only,,,Rigi;Ifih1;Tlr3;Oas1a;Oas2;Oas3,,SE_2_5A,hard receiver-only,"Direct innate dsRNA sensors/effectors only. Rigi is the graph symbol used for Ddx58/RIG-I. Oas1a, Oas2 and Oas3 are confirmed in the current gene list."
+SE_SSRNA,ssRNA,input_only,active_input_only,,,Tlr7;Tlr8,,,hard receiver-only,Input-only innate ligand.
+SE_5PPPRNA,5'-triphosphate RNA,input_only,active_input_only,,,Rigi,,,hard receiver-only,Specific direct RIG-I ligand. Graph symbol is Rigi (Ddx58/RIG-I alias mapping).
+SE_CPG_DNA,CpG DNA,input_only,active_input_only,,,Tlr9,,,hard receiver-only,Specific TLR9 ligand.
+SE_CYTO_MTDNA,cytosolic mtDNA,released_signal,active_v1,Bax;Bak1;Vdac1,Bcl2;Bcl2l1;Mcl1,Cgas;Ddx41;Ifi204;Aim2,,,mixed,"MOMP node removed. BAX/BAK and VDAC1 are release mediators. Preferred STING route: Cgas→cGAMP→Sting1. If Cgas is absent, Ddx41 can support an alternative mtDNA/cytosolic-DNA→STING branch; Ifi204 is secondary/soft. Aim2 is an inflammasome branch, not a STING substitute."

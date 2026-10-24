@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFS2,Ndufs2,S364-p,33402201,KVDDAKVsPPKRAEM,"activity, induced",cell cycle regulation,24746669,Complex1_49kDa,increases mitochondrial respiration for G/2M transition,,,
+NDUFS2,Ndufs2,R118-m2,12205326,PHIGLLHrGTEKLIE,"molecular association, regulation",,24089531,,,MT-ND1,mt-Nd1,INDUCES
+NDUFS2,Ndufs2,R118-m2,12205326,PHIGLLHrGTEKLIE,"molecular association, regulation",,24089531,,,NDUFS7,Ndufs7,INDUCES

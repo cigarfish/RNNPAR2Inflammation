@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP1,Dusp1,S296-p,457717,KQRRSIIsPNFSFMG,"protein degradation; molecular association, regulation",,16286470,DSPc,MKP-1 is a substrate for Skp2 ligase,SKP2,Skp2,INDUCES
+DUSP1,Dusp1,S364-p,448661,LQSPITTsPSC____,protein stabilization,,10617468; 25204653,,,,,
+DUSP1,Dusp1,S334-p,53736000,AVLDRGTsTTTVFNF,protein degradation; ubiquitination; phosphorylation,signaling pathway regulation,25799226,,"induces phosphorylation of IRS-1 subsequently inhibiting phosphorylation of AKT, regulates P38-Jnk pathway",,,
+DUSP1,Dusp1,S359-p,448660,SALSYLQsPITTSPS,protein stabilization,,10617468; 25204653,,,,,
+DUSP1,Dusp1,S323-p,457718,HCSAEAGsPAMAVLD,"protein degradation; molecular association, regulation",,16286470,,MKP-1 is a substrate for Skp2 ligase,SKP2,Skp2,INDUCES

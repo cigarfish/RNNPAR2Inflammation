@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNA5,Kcna5,S592-p,1269647506,KCNVKAKsNVDLRRS,"activity, inhibited",,30279167,,mediates HPV,,,
+KCNA5,Kcna5,S559-p,1269647505,VQRKVSGsRGSFCKA,"activity, inhibited",,30279167,,mediates HPV,,,
+KCNA5,Kcna5,T15-p,465994,LENGGAMtVRGGDEA,"activity, induced; protein degradation; ubiquitination","endocytosis, induced",16466689; 33676894,,,,,
+KCNA5,Kcna5,K536-sm,3144801,HEEPAVLkEEQGTQS,"activity, induced",,17261810,,,,,
+KCNA5,Kcna5,K221-sm,3144800,REDEGFIkEEEKPLP,"activity, induced",,17261810,,,,,

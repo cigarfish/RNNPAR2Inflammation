@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CKMT2,Ckmt2,Y368-p,478453,TAAVADVyDISNIDR,"enzymatic activity, induced","transcription, induced; signaling pathway regulation",34095014,ATP-gua_Ptrans,induces PGC-1a/estrogen-related receptor-a pathway,,,
+CKMT2,Ckmt2,Y159-p,1914421,QGQFDEHyVLSSRVR,"enzymatic activity, induced","transcription, induced; signaling pathway regulation",34095014,,induces PGC-1a/estrogen-related receptor-a pathway,,,
+CKMT2,Ckmt2,Y255-p,1914505,ARGIWHNyDKTFLIW,"enzymatic activity, induced","transcription, induced; signaling pathway regulation",34095014,ATP-gua_Ptrans,induces PGC-1a/estrogen-related receptor-a pathway,,,

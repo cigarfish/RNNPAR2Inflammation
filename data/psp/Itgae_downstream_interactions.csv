@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGAE,Itgae,S1163-p,334535807,YQQLNLEsIRKAQLK,intracellular localization,"cell adhesion, induced",29021139,," recruit Pxn at the contact area, outside-in signaling  ; clustering and lysosome relocalization",,,

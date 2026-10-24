@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNRPB,Snrpb,R112-m2,476754,GIGRAAGrGIPAGVP,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+SNRPB,Snrpb,R172-m2,476757,PTQYPPGrGGPPPPM,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+SNRPB,Snrpb,R209-m2,476758,PMGIPPGrGTPMGMP,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+SNRPB,Snrpb,R147-m2,476756,QVMTPQGrGTVAAAA,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+SNRPB,Snrpb,R108-m2,476753,AGGPGIGrAAGRGIP,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES
+SNRPB,Snrpb,R181-m2,1308900,GPPPPMGrGAPPPGM,"molecular association, regulation",,11720283,,,SMN,Smn1,INDUCES

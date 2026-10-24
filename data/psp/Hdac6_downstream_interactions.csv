@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC6,Hdac6,S22-p,453006,RSRQNPQsPPQDSSV,"molecular association, regulation; acetylation; enzymatic activity, induced",,31363957; 32655357,,,Tau,Mapt,INDUCES
+HDAC6,Hdac6,S22-p,453006,RSRQNPQsPPQDSSV,"molecular association, regulation; acetylation; enzymatic activity, induced",,31363957; 32655357,,,SNCA,Snca,INDUCES
+HDAC6,Hdac6,Y570-p,12127406,SSNFDSIyICPSTFA,"enzymatic activity, inhibited",,20029029,Hist_deacetyl,,,,
+HDAC6,Hdac6,S412-p,56668621,DPCPMLEsPGAPCRS,"molecular association, regulation","cell motility, induced",30443180,,nteraction of HDAC6 with Pin1 mediates cell motility ,PIN1,Pin1,INDUCES
+HDAC6,Hdac6,S1035-p,29604201,DHQTPPTsPVQGTTP,"enzymatic activity, induced","cell motility, induced",24089523,,,,,
+HDAC6,Hdac6,S43-p,4759159,KKGAVPRsIPNLAEV,"molecular association, regulation","cell motility, induced",30443180,,nteraction of HDAC6 with Pin1 mediates cell motility ,PIN1,Pin1,INDUCES
+HDAC6,Hdac6,S458-p,18944908,EEDNVEEsEEEGPWE,"molecular association, regulation; intracellular localization","autophagy, induced; chromatin organization, altered; apoptosis, inhibited; cytoskeletal reorganization",21486957,,"chromatin condensation, induces tubulin deacetylation and increase aggresomes",DNAH1,Dnah1,INDUCES
+HDAC6,Hdac6,K116-ub,21175974,PERLHAIkEQLIQEG,protein degradation; ubiquitination,"carcinogenesis, induced; DNA repair, induced; cell growth, induced",37503842,Hist_deacetyl,cancer cell resistance to DNA-damage,,,

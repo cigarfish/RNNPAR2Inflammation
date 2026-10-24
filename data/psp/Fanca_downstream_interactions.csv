@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FANCA,Fanca,S1449-p,460787,AAPDADLsQEPHLF_,"molecular association, regulation; ubiquitination","chromatin organization, altered",19109555,,level of monoubiquitinated FANCD2 was decreased in FANCA S1449A mutant,,,
+FANCA,Fanca,S347-p,56793101,VQMQREWsFARTHPL,ubiquitination,,27449087,Fanconi_A_N,,,,
+FANCA,Fanca,S1149-p,9802800,CLRSRDPsLMVDFIL,"molecular association, regulation",,11855836,,Complementation assays showed similar results for WT-FANCA and S1149A mutant. ,,,
+FANCA,Fanca,S165-p,56757905,HSMFSRLsFCQELWK,ubiquitination; intracellular localization,"DNA repair, induced",27398318,,nuclear foci formation,,,
+FANCA,Fanca,K921-sm,40439802,RTFREVLkEEDVHLT,protein degradation,,25751062,,,,,
+FANCA,Fanca,T351-p,11076033,REWSFARtHPLLTSL,,cell cycle regulation; cytoskeletal reorganization,23806870,Fanconi_A_N,maintenance of centrosomal integrity,,,

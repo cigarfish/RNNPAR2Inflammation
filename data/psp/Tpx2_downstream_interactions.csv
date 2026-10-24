@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TPX2,Tpx2,T369-p,455432,KICRDPQtPVLQTKH,"activity, induced; intracellular localization",cell cycle regulation,27551054,TPX2_importin,recruitment to the anaphase spindle,,,
+TPX2,Tpx2,S121-p,459996,PAQPQRRsLRLSAQK,"molecular association, regulation",cell cycle regulation,26240182,,required for normal spindle length,CLASP1,Clasp1,INDUCES
+TPX2,Tpx2,S486-p,455699,LPITVPKsPAFALKN,protein stabilization,"carcinogenesis, induced; cell motility, induced; cell growth, induced",31272499,TPX2_importin,,,,
+TPX2,Tpx2,S125-p,459997,QRRSLRLsAQKDLEQ,"molecular association, regulation",cell cycle regulation,26240182,,required for normal spindle length,CLASP1,Clasp1,INDUCES
+TPX2,Tpx2,T72-p,460008,NLQQAIVtPLKPVDN,intracellular localization,cell cycle regulation,25688093,,important for formation of a bipolar spindle,,,
+TPX2,Tpx2,S322-p,31890658,RTFDETVsTYVPLAQ,intracellular localization,,29276125,,accumulation of TPX2 at the prophase centrosome,KPNB1,Kpnb1,INDUCES
+TPX2,Tpx2,S310-p,460756,IVKPFNLsQGKKRTF,intracellular localization,,29276125,,accumulation of TPX2 at the prophase centrosome,KPNB1,Kpnb1,INDUCES
+TPX2,Tpx2,S738-p,453052,QPLTVPVsPKFSTRF,,cell cycle regulation,29052541,,mitotic delay ,,,
+TPX2,Tpx2,T320-p,626439300,KKRTFDEtVSTYVPL,intracellular localization,,29276125,,accumulation of TPX2 at the prophase centrosome,KPNB1,Kpnb1,INDUCES

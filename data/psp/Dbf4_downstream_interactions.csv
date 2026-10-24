@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DBF4,Dbf4,T449-p,23010416,DDIRQNFtQLPLHKN,,cell cycle regulation,22123827,,DBF4 phosphorylaion is important for supressing DNA replication.,,,
+DBF4,Dbf4,S539-p,482262,GLITINSsQEHLTVQ,,cell cycle regulation,22123827,,DBF4 phosphorylaion is important for supressing DNA replication.,,,
+DBF4,Dbf4,S502-p,23010417,FSTDNSGsQPKQKSD,,cell cycle regulation,22123827,,DBF4 phosphorylaion is important for supressing DNA replication.,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PFKFB4,Pfkfb4,T140-p,1879811800,TTRERRAtIFNFGEQ,protein stabilization,"cell motility, induced; cell growth, induced",36109523,,,,,

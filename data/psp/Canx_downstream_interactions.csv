@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CANX,Canx,S564-p,456360,EEDGGTVsQEEEDRK,"molecular association, regulation",,22314232,,,SEC62,Sec62,INDUCES
+CANX,Canx,S564-p,456360,EEDGGTVsQEEEDRK,"molecular association, regulation",,22314232,,,TRAP,NA,INDUCES
+CANX,Canx,S564-p,456360,EEDGGTVsQEEEDRK,"molecular association, regulation",,22314232,,,MRPL12,Mrpl12,INDUCES
+CANX,Canx,S564-p,456360,EEDGGTVsQEEEDRK,"molecular association, regulation",,22314232,,,SEC61A1,Sec61a1,INDUCES
+CANX,Canx,S564-p,456360,EEDGGTVsQEEEDRK,"molecular association, regulation",,22314232,,,SEC61B,Sec61b,INDUCES

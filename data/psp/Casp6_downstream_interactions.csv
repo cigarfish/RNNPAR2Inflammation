@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP6,Casp6,C277-pa,60885601,IGKKQVPcFASMLTK,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,27911442,Peptidase_C14,Palmitoylation inhibits CASP6 activity by blocking substrate binding site and dimerization.,,,
+CASP6,Casp6,C264-pa,60885600,SQRRVDFcKDPSAIG,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,27911442,Peptidase_C14,Palmitoylation inhibits CASP6 activity by blocking substrate binding site and dimerization.,,,
+CASP6,Casp6,S257-p,452136,TLVNRKVsQRRVDFC,"molecular association, regulation; enzymatic activity, inhibited; protein conformation","apoptosis, inhibited",22433863; 22483120,Peptidase_C14,prevents binding to VEID-CHO and z-VAD-FMK; S257E mutation inhibits CASP6 self-activation in vitro,,,

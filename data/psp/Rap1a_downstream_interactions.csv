@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAP1A,Rap1a,S11-p,13310084,YKLVVLGsGGVGKSA,"molecular association, regulation; protein conformation",signaling pathway regulation,30154518,Ras,affects MAPK pathway,RAF1,Raf1,INDUCES

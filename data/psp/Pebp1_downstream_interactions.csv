@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PEBP1,Pebp1,S153-p,448755,RGKFKVAsFRKKYEL,"molecular association, regulation; receptor desensitization, altered; intracellular localization; receptor internalization, altered; phosphorylation",,14654844; 17170028; 36805338,PBP,,RAF1,Raf1,DISRUPTS
+PEBP1,Pebp1,S153-p,448755,RGKFKVAsFRKKYEL,"molecular association, regulation; receptor desensitization, altered; intracellular localization; receptor internalization, altered; phosphorylation",,14654844; 17170028; 36805338,PBP,,GRK2,Grk2,INDUCES
+PEBP1,Pebp1,S109-p,59070500,VLSDYVGsGPPKGTG,"molecular association, regulation",,27753621,PBP,,TBK1,Tbk1,INDUCES
+PEBP1,Pebp1,T42-p,3189667,DELGKVLtPTQVKNR,"protein degradation; molecular association, regulation","cell cycle regulation; autophagy, induced; apoptosis, induced; signaling pathway regulation",25104559,PBP,activation of the ERK pathway ,RAF1,Raf1,DISRUPTS

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UVRAG,Uvrag,S550-p,4761506,KITSLSSsLDTSLDF,"enzymatic activity, induced",,26139536,,alters lysosomal morphology and lysosomal tubulation ,,,
+UVRAG,Uvrag,K517-ub,1871613604,ENERLQYkTPPPSYN,,"autophagy, induced",30686098,,,,,
+UVRAG,Uvrag,S571-p,7447346,KGEDLVGsLNGGHAN,"enzymatic activity, induced",,26139536,,alters lysosomal morphology and lysosomal tubulation ,,,
+UVRAG,Uvrag,S522-p,471489,QYKTPPPsYNSALAQ,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; autophagy, inhibited; signaling pathway regulation",30686098,,inhibits Smurf1-mediated ubiquitination at K517 and K559,SMURF1,Smurf1,DISRUPTS
+UVRAG,Uvrag,S522-p,471489,QYKTPPPsYNSALAQ,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; autophagy, inhibited; signaling pathway regulation",30686098,,inhibits Smurf1-mediated ubiquitination at K517 and K559,RUBCNL,Rubcnl,INDUCES
+UVRAG,Uvrag,Y523-p,4761501,YKTPPPSyNSALAQP,"molecular association, regulation",,30686098,,,SMURF1,Smurf1,INDUCES
+UVRAG,Uvrag,S498-p,1222327,GFSGGIPsPDKGHRK,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell growth, induced; autophagy, inhibited",25533187,,"interaction with RUBICON supressed Vsp34 kinase activity, endosome-lysosomal degradation of EGFR induced",rubicon,Rubcn,INDUCES
+UVRAG,Uvrag,K559-ub,3937122,DTSLDFSkENKKKGE,,"autophagy, induced",30686098,,,,,

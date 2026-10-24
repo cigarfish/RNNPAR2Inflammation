@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KLC2,Klc2,S582-p,452949,PRMKRASsLNFLNKS,"molecular association, regulation",,21725060,,mutation of this site prevents 14-3-3 binding (pan-14-3-3 antibody),14-3-3 beta,Ywhab,INDUCES
+KLC2,Klc2,S545-p,3892542,GSLRRSGsFGKLRDA,"molecular association, regulation",,21725060,,mutation of this site prevents 14-3-3 binding (pan-14-3-3 antibody),14-3-3 beta,Ywhab,INDUCES

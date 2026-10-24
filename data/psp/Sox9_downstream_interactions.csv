@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOX9,Sox9,S64-p,451039,EPDLKKEsEEDKFPV,"molecular association, regulation; intracellular localization",,15889150,Sox_N,,KPNB1,Kpnb1,INDUCES
+SOX9,Sox9,K68-me,1885694100,KKESEEDkFPVCIRE,protein degradation; ubiquitination,,37386801,,regulates ubiquitination and degradation of SOX9,,,
+SOX9,Sox9,S181-p,456981,YQPRRRKsVKNGQAE,"activity, induced; molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced; cell differentiation, induced; transcription, induced; cytoskeletal reorganization; signaling pathway regulation",10805756; 15889150; 19470758; 20039424; 21818404; 32277958,, ADCK5-SOX9-PTTG1 pathway; increased migration of cancer cells,KPNB1,Kpnb1,INDUCES
+SOX9,Sox9,S211-p,450957,FKALQADsPHSSSGM,protein stabilization,"transcription, induced",27929080,, PAPSS2 mRNA expression,,,
+SOX9,Sox9,T236-p,40722389,GQSQGPPtPPTTPKT,"protein degradation; molecular association, regulation; ubiquitination","apoptosis, induced; transcription, altered",27566146; 27625374,,,FBXW7,Fbxw7,INDUCES

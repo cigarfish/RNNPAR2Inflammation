@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FADD,Fadd,K149-ub,964513912,RESLRIWkNTEKENA,,"apoptosis, inhibited",29795330,Death,,,,
+FADD,Fadd,S200-p,40510683,MSPMSWNsDASTSEA,intracellular localization,,26253696,,S200 is important for nuclear retention of FADD,,,
+FADD,Fadd,K153-ub,964513914,RIWKNTEkENATVAH,,"apoptosis, inhibited",29795330,Death,,,,
+FADD,Fadd,K149-sm,62489902,RESLRIWkNTEKENA,"molecular association, regulation; intracellular localization",,27799292,Death,,CASP10,Casp10,INDUCES
+FADD,Fadd,K149-sm,62489902,RESLRIWkNTEKENA,"molecular association, regulation; intracellular localization",,27799292,Death,,DRP1,Dnm1l,INDUCES
+FADD,Fadd,K120-sm,62489903,RRLARQLkVSDTKID,"molecular association, regulation; intracellular localization",,27799292,Death,,CASP10,Casp10,INDUCES
+FADD,Fadd,K120-sm,62489903,RRLARQLkVSDTKID,"molecular association, regulation; intracellular localization",,27799292,Death,,DRP1,Dnm1l,INDUCES
+FADD,Fadd,K125-sm,62489901,QLKVSDTkIDSIEDR,"molecular association, regulation; intracellular localization",,27799292,Death,,CASP10,Casp10,INDUCES
+FADD,Fadd,K125-sm,62489901,QLKVSDTkIDSIEDR,"molecular association, regulation; intracellular localization",,27799292,Death,,DRP1,Dnm1l,INDUCES
+FADD,Fadd,S194-p,447653,QNRSGAMsPMSWNSD,intracellular localization; protein conformation,"cell cycle regulation; apoptosis, altered; carcinogenesis, altered; cell growth, induced; apoptosis, induced; apoptosis, inhibited",12702765; 12954630; 15001534; 15906275; 16061179; 18657552; 20890306; 21978935; 37146968,,,,,
+FADD,Fadd,S203-p,22496704,MSWNSDAsTSEAS__,phosphorylation,"apoptosis, induced",21978935,,enhances S194 phosphorylation; apoptosis and necrosis,,,

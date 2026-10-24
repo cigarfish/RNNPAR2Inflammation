@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKAB1,Prkab1,S108-p,448522,SKLPLTRsHNNFVAI,"activity, induced; molecular association, regulation; phosphorylation",,17728241; 22517326,AMPK1_CBM,"activates AMPK1 and phosphorylation of T174; S108 mutation abolishes protective effect of salicylate and A-769662 binding, on T172 dephosphorylation.",,,
+PRKAB1,Prkab1,T148-p,7447514,IVTSQLGtVNNIIQV,"molecular association, regulation",,25792737,AMPK1_CBM,"loss of carbohydrate binding ability, 148D mutant prevents binding to cellular glycogen",,,

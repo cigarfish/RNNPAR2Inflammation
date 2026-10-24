@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMN1,Smn1,S18-p,12668173,GVPEQEDsVLFRRGT,"molecular association, regulation; intracellular localization",,24602413,,,coilin,Coil,INDUCES
+SMN1,Smn1,Y130-p,1025402,CVVVYTGyGNREEQN,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,T68-p,23299103,ETSGKPKtTPKRKPA,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S28-p,454315,FRRGTGQsDDSDIWD,"activity, induced; molecular association, regulation; intracellular localization",,15592453; 20878088; 24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S28-p,454315,FRRGTGQsDDSDIWD,"activity, induced; molecular association, regulation; intracellular localization",,15592453; 20878088; 24602413,SMN,,SMN,Smn1,INDUCES
+SMN1,Smn1,T85-p,20503415,NKSQKKNtAASLQQW,"molecular association, regulation; intracellular localization",,21609790; 24602413,SMN,,SIP1,Zfhx1a,DISRUPTS
+SMN1,Smn1,T85-p,20503415,NKSQKKNtAASLQQW,"molecular association, regulation; intracellular localization",,21609790; 24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,T85-p,20503415,NKSQKKNtAASLQQW,"molecular association, regulation; intracellular localization",,21609790; 24602413,SMN,,GEMIN8,Gemin8,DISRUPTS
+SMN1,Smn1,S49-p,1873529903,AYDKAVAsFKHALKN,"molecular association, regulation; protein conformation","cell growth, induced",34161763,SMN,,SMN,Smn1,INDUCES
+SMN1,Smn1,Y127-p,1022804,RETCVVVyTGYGNRE,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S88-p,5498504,QKKNTAAsLQQWKVG,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S187-p,9316349,SDNIKPKsAPWNSFL,"molecular association, regulation",,21609790,SMN,,SIP1,Zfhx1a,DISRUPTS
+SMN1,Smn1,S187-p,9316349,SDNIKPKsAPWNSFL,"molecular association, regulation",,21609790,SMN,,GEMIN8,Gemin8,DISRUPTS
+SMN1,Smn1,S31-p,454889,GTGQSDDsDIWDDTA,"activity, induced; molecular association, regulation; intracellular localization",,15592453; 20878088; 24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S31-p,454889,GTGQSDDsDIWDDTA,"activity, induced; molecular association, regulation; intracellular localization",,15592453; 20878088; 24602413,SMN,,SMN,Smn1,INDUCES
+SMN1,Smn1,S4-p,7446258,____MAMsSGGSGGG,"molecular association, regulation; intracellular localization",,24602413,,,coilin,Coil,INDUCES
+SMN1,Smn1,Y109-p,1016077,WSEDGCIyPATIASI,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES
+SMN1,Smn1,S63-p,33586274,NGDICETsGKPKTTP,"molecular association, regulation; protein conformation","cell growth, induced",34161763,SMN,,SMN,Smn1,INDUCES
+SMN1,Smn1,T25-p,484165,SVLFRRGtGQSDDSD,"molecular association, regulation; intracellular localization",,24602413,,,coilin,Coil,INDUCES
+SMN1,Smn1,S180-p,27459811,SRSPGNKsDNIKPKS,"molecular association, regulation; intracellular localization",,24602413,SMN,,coilin,Coil,INDUCES

@@ -1,0 +1,43 @@
+﻿intervention_id,contrast_id,intervention_role,target_type,target_raw,graph_target_id,agent,intervention_type,perturbation_direction,mechanistic_scope,dose,duration,route,delivery_system,target_specificity,notes
+PAR2_11_I1,PAR2_11_C1,primary_target,gene,PAR2/F2RL1,F2rl1,I-191,antagonist,loss_of_function,full_target,,,,small molecule,PAR2-selective,Negative allosteric modulator.
+PAR2_12_I1,PAR2_12_C1,primary_target,gene,PAR-2,F2rl1,SLIGRL-NH2,agonist,gain_of_function,full_target,100 μg/mouse,single administration,intracolonic,,PAR2 agonist,
+PAR2_12_I2,PAR2_12_C2,primary_target,gene,PAR-2,F2rl1,FSLLRY-NH2,antagonist,loss_of_function,full_target,3 mg/kg,daily for 5 days,intraperitoneal,,PAR2 antagonist,
+PAR2_13_I1,PAR2_13_C1,primary_target,gene,PAR2,F2rl1,AZ3451,antagonist,loss_of_function,full_target,,,,small molecule,PAR2 antagonist,
+PAR2_15_I1,PAR2_15_C1,primary_target,gene,PAR2,F2rl1,PAR2 antagonist,antagonist,loss_of_function,full_target,,,,small molecule,reported PAR2 antagonist,
+PAR2_17_I1,PAR2_17_C1,primary_target,gene,PAR2,F2rl1,I-287,inhibitor,loss_of_function,Gq_G12_13_selective,,15-30 min pretreatment,,small molecule,PAR2-biased/selective NAM,Spares Gi/o and β-arrestin2 recruitment relative to Gq/G12/13.
+PAR2_18_I1,PAR2_18_C1,primary_target,gene,PAR2/F2RL1,F2rl1,si-PAR2,siRNA,loss_of_function,full_target,10 nM,,transfection,,gene-specific,
+PAR2_18_I2,PAR2_18_C2,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,germline/genetic,,
+PAR2_19_I1,PAR2_19_C1,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,whole-body or liver-specific genetic model,,Refine exact KO scope when importing individual experiments.
+PAR2_23_I1,PAR2_23_C1,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,genetic,,
+PAR2_24_I1,PAR2_24_C1,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,genetic,,
+PAR2_25_I1,PAR2_25_C1,primary_target,gene,PAR2/F2rl1,F2rl1,TAP/pCas9-PAR2,CRISPR_KO,loss_of_function,full_target,,,nanoparticle delivery,anionic human-serum-albumin nanoparticle,gene-targeted CRISPR,
+PAR2_25_I2,PAR2_25_C2,primary_target,gene,PAR2/F2rl1,F2rl1,TAP/pCas9-PAR2,CRISPR_KO,loss_of_function,full_target,,,systemic/in vivo,anionic human-serum-albumin nanoparticle,gene-targeted CRISPR,
+PAR2_28_I1,PAR2_28_C1,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,genetic,,
+PAR2_28_I2,PAR2_28_C2,primary_target,gene,Par2/F2rl1,F2rl1,Par2 knockout,knockout,loss_of_function,full_target,,,,genetic,,
+PAR2_31_I1,PAR2_31_C1,primary_target,gene,PAR2/F2RL1,F2rl1,si-PAR2,siRNA,loss_of_function,full_target,,,transfection,,gene-specific,Knockdown efficiency ~87.2% in A549.
+PAR2_31_I2,PAR2_31_C2,primary_target,gene,PAR2/F2RL1,F2rl1,si-PAR2,siRNA,loss_of_function,full_target,,,transfection,,gene-specific,Knockdown efficiency ~83.8% in NCI-H1299.
+PAR2_33_I1,PAR2_33_C1,primary_target,gene,PAR2/F2rl1,F2rl1,NanoPt@Cas9-PAR2,CRISPR_KO,loss_of_function,full_target,,,nanoparticle delivery,polymeric platinum nanoparticle,gene-targeted CRISPR,Carrier/formulation itself has biological effects; retain comparator.
+PAR2_26_I1,PAR2_26_C1,primary_target,gene,PAR2/F2rl1,F2rl1,tBSA/Cas9-PAR2,CRISPR_KO,loss_of_function,full_target,,,nanoparticle delivery,tuftsin-modified BSA nanoparticle,gene-targeted CRISPR,HOLDOUT.
+PAR2_29_I1,PAR2_29_C1,primary_target,gene,PAR2/F2rl1,F2rl1,hAlbumin/cgPAR2,CRISPR_KO,loss_of_function,full_target,,,nanoparticle delivery,albumin nanoparticle,gene-targeted CRISPR,HOLDOUT; albumin/TLR4 effects are a confound.
+PAR2_30_I1,PAR2_30_C1,primary_target,gene,PAR2/F2RL1,F2rl1,shPAR2,knockdown,loss_of_function,full_target,,,,shRNA knockdown,F2RL1-directed shRNA,HOLDOUT; shPAR2 versus shCtrl; no GB88 conflation
+ARRB_01_I1,ARRB_01_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_02_I1,ARRB_02_C1,primary_target,gene,Arrb1,Arrb1,Arrb1 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_03_I1,ARRB_03_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_03_I2,ARRB_03_C2,primary_target,gene,Arrb2,Arrb2,Arrb2 siRNA,siRNA,loss_of_function,full_target,,,transfection,,gene-specific,
+ARRB_04_I1,ARRB_04_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_04_I2,ARRB_04_C2,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_05_I1,ARRB_05_C1,primary_target,gene,Arrb2,Arrb2,Cpa3Cre+;Arrb2fl/fl,knockout,loss_of_function,full_target,,,conditional genetic,,mast-cell-specific,
+ARRB_06_I1,ARRB_06_C1,primary_target,gene,Arrb1,Arrb1,Col1a2-Cre;Arrb1fl/fl,knockout,loss_of_function,full_target,,,conditional genetic,,fibroblast-specific,
+ERK_01_I1,ERK_01_C1,primary_target,gene,MAPK3/ERK1,Mapk3,MAPK3 siRNA,siRNA,loss_of_function,full_target,,,transfection,,gene-specific,
+ERK_02_I1,ERK_02_C1,primary_target,gene,Erk1/Mapk3,Mapk3,Erk1 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ERK_02_I2,ERK_02_C2,primary_target,gene,ERK1/MAPK3,Mapk3,ERK1 knockdown,knockdown,loss_of_function,full_target,,,RNA interference,,gene-specific,
+ERK_03_I1,ERK_03_C1,primary_target,gene,Erk1/Mapk3,Mapk3,Erk1 knockout,knockout,loss_of_function,full_target,,,genetic donor mice / ex vivo BMDM,,gene-specific,
+ERK_04_I1,ERK_04_C1,primary_target,gene,ERK2/MAPK1,Mapk1,CRISPR-Cas9 ERK2 knockout,CRISPR_KO,loss_of_function,full_target,,,genome editing,Cas9/guide RNA,gene-specific,
+ERK_05_I1,ERK_05_C1,primary_target,gene,Erk1/Mapk3,Mapk3,Erk1 knockout ASCs,knockout,loss_of_function,full_target,,,genetic,,gene-specific in ASCs,
+ERK_06_I1,ERK_06_C1,primary_target,gene,Erk1/Mapk3,Mapk3,Erk1 deficiency,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_07_I1,ARRB_07_C1,primary_target,gene,Arrb1,Arrb1,Arrb1 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_08_I1,ARRB_08_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,
+ARRB_09_I1,ARRB_09_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockdown,knockdown,loss_of_function,full_target,,,genetic/RNA interference model,,gene-specific,
+ARRB_10_I1,ARRB_10_C1,primary_target,gene,Arrb2,Arrb2,Arrb2 knockout,knockout,loss_of_function,full_target,,,genetic,,gene-specific,Disabled by contrast use_for_training=0; context-distant BDL.
+ERK_07_I1,ERK_07_C1,primary_target,gene,Erk1/Erk2,Mapk3;Mapk1,global Erk1 KO + inducible hepatocyte Erk2 KO,knockout,loss_of_function,full_target,,,combined genetic,,multi-target,Disabled by contrast use_for_training=0; current Stage-2 ModelIntervention has a single source gene.
+ARRB_11_I1,ARRB_11_C1,primary_target,gene,ARRB1/ARRB2,Arrb1;Arrb2,combined ARRB1+ARRB2 siRNA,siRNA,loss_of_function,full_target,,72 h siRNA before DEP,transfection,,multi-target,Disabled by contrast use_for_training=0; pERK phenotype requires combined knockdown.

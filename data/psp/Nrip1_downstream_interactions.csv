@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NRIP1,Nrip1,K756-sm,2798318,QILMVKIkSEPCDDL,intracellular localization,"transcription, inhibited",18211901,NRIP1_repr_3,,,,
+NRIP1,Nrip1,R649-m1,2363401,SMSVEEQrPSKQLLT,"molecular association, regulation; intracellular localization","transcription, induced",17053781,NRIP1_repr_2,,Exportin-1,Xpo1,INDUCES
+NRIP1,Nrip1,K1154-sm,2798319,LGSVLTIkKESE___,intracellular localization,"transcription, inhibited",18211901,NRIP1_repr_4,,,,
+NRIP1,Nrip1,R239-m1,2363402,EPLSCAArLQAVASM,"molecular association, regulation; intracellular localization","transcription, induced",17053781,NRIP1_repr_1,,Exportin-1,Xpo1,INDUCES
+NRIP1,Nrip1,R239-m1,2363402,EPLSCAArLQAVASM,"molecular association, regulation; intracellular localization","transcription, induced",17053781,NRIP1_repr_1,,HDAC3,Hdac3,DISRUPTS
+NRIP1,Nrip1,R947-m1,2363400,LLSENCVrDLSPHRS,"molecular association, regulation; intracellular localization","transcription, induced",17053781,NRIP1_repr_4,,Exportin-1,Xpo1,INDUCES

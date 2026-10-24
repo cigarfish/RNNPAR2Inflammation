@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GTF2A1,Gtf2a1,S316-p,448629,VEEEPLNsEDDVSDE,,"transcription, induced",11278496,TFIIA,,,,
+GTF2A1,Gtf2a1,S281-p,449823,DGTGDTSsEEDEDEE,,"transcription, induced",11278496,TFIIA,,,,
+GTF2A1,Gtf2a1,S321-p,448630,LNSEDDVsDEEGQEL,,"transcription, induced",11278496,TFIIA,,,,
+GTF2A1,Gtf2a1,S280-p,449822,VDGTGDTsSEEDEDE,,"transcription, induced",11278496,TFIIA,,,,

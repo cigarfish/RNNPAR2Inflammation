@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNA1,Kcna1,S446-p,451079,SDLSRRSsSTMSKSE,intracellular localization,"carcinogenesis, induced; transcription, inhibited; signaling pathway regulation",23774215,,PKA-Kv1.1 pathway,,,

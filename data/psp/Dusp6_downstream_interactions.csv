@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP6,Dusp6,S159-p,455265,DGSCSSSsPPLPVLG,protein degradation,,15632084,,,,,
+DUSP6,Dusp6,S197-p,455266,SATDSDGsPLSNSQP,protein degradation,,15632084,,,,,
+DUSP6,Dusp6,S174-p,5938001,LGGLRISsDSSSDIE,protein degradation,,19106095,,,,,

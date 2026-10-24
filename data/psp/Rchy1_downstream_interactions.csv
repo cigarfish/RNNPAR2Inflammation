@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RCHY1,Rchy1,T154-p,483981,ICLEDIHtSRVVAHV,"ubiquitination; intracellular localization; enzymatic activity, inhibited","cell growth, altered",17568776,zf-RING_2,cytoplasmic localization,p53,Trp53,DISRUPTS
+RCHY1,Rchy1,T217-p,27971903,PSEYQNMtVDILCND,"ubiquitination; activity, inhibited","transcription, inhibited",23603988,zinc_ribbon_6,"self-ubiquitination, may contribute to p53-inhibition of transcriptional elongation of HIV-LTR ",,,
+RCHY1,Rchy1,S155-p,483982,CLEDIHTsRVVAHVL,"ubiquitination; intracellular localization; enzymatic activity, inhibited","cell growth, altered",17568776,zf-RING_2,cytoplasmic localization,p53,Trp53,DISRUPTS
+RCHY1,Rchy1,S211-p,27971904,VAQTPMPsEYQNMTV,"ubiquitination; activity, inhibited","transcription, inhibited",23603988,zinc_ribbon_6,"self-ubiquitination, may contribute to p53-inhibition of transcriptional elongation of HIV-LTR ",,,

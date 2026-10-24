@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HGS,Hgs,Y334-p,450192,ARYLNRNyWEKKQEE,"intracellular localization; receptor recycling, altered; phosphorylation",,12953068; 17101784,,"Hrs phosphorylation mutant Y329,334F is unable to degrade ubiquinated EGFR.   ; Cbl expression alters Hrs phosphorylation and fractionation in membrane and cyosokic fractions. ",,,
+HGS,Hgs,Y329-p,450191,IDPELARyLNRNYWE,"intracellular localization; receptor recycling, altered; phosphorylation",,12953068; 17101784,,"Hrs phosphorylation mutant Y329,334F is unable to degrade ubiquinated EGFR.   ; Cbl expression alters Hrs phosphorylation and fractionation in membrane and cyosokic fractions. ",,,

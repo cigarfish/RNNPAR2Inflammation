@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ESPL1,Espl1,T1363-p,1211205,AGPHVPFtVFEEVCP,"enzymatic activity, inhibited",,17974570,,phosphorylation of S1399 is a key residue in CDK1-dependent inhibition of separase ,CDK1,Cdk1,INDUCES
+ESPL1,Espl1,S1660-p,1269647504,ADQLQGLsLQEMPGD,"molecular association, regulation; phosphorylation","cell cycle regulation; DNA repair, induced",30305303,,NES phosphorylation,H2AX,H2ax,INDUCES
+ESPL1,Espl1,S1153-p,40666500,CDCSLCAsPVLTAVC,"molecular association, regulation",,25921067,,,PIN1,Pin1,INDUCES
+ESPL1,Espl1,S1126-p,447673,IAPSTNSsPVLKTKP,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",cell cycle regulation,11747808; 16868023; 17974570; 21743463; 25921067,,separation of sister chromatids and centriole engagement,CCNB1,Ccnb1,INDUCES
+ESPL1,Espl1,S1126-p,447673,IAPSTNSsPVLKTKP,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",cell cycle regulation,11747808; 16868023; 17974570; 21743463; 25921067,,separation of sister chromatids and centriole engagement,PIN1,Pin1,INDUCES
+ESPL1,Espl1,S1399-p,1211206,KVNFSDDsDLEDPVS,"enzymatic activity, inhibited",,17974570,,phosphorylation of S1399 is a key residue in CDK1-dependent inhibition of separase ,CDK1,Cdk1,INDUCES

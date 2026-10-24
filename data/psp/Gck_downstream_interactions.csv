@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GCK,Gck,K458-sm,27581517,LVSAVACkKACMLGQ,"protein stabilization; enzymatic activity, induced",,23297408,,,,,
+GCK,Gck,K346-sm,27581515,ESDTGDRkQIYNILS,"protein stabilization; enzymatic activity, induced",,23297408,Hexokinase_2,,,,
+GCK,Gck,K414-sm,27581520,GVDGSVYkLHPSFKE,"protein stabilization; enzymatic activity, induced",,23297408,Hexokinase_2,,,,
+GCK,Gck,S411-p,15426313,ITVGVDGsVYKLHPS,"enzymatic activity, inhibited; protein conformation",,21420961,Hexokinase_2,,,,
+GCK,Gck,K459-sm,27581518,VSAVACKkACMLGQ_,"protein stabilization; enzymatic activity, induced",,23297408,,,,,
+GCK,Gck,K161-sm,27581519,VRHEDIDkGILLNWT,"protein stabilization; enzymatic activity, induced",,23297408,Hexokinase_1,,,,
+GCK,Gck,K169-sm,27581516,GILLNWTkGFKASGA,"protein stabilization; enzymatic activity, induced",,23297408,Hexokinase_1,,,,

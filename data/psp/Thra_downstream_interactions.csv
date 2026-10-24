@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+THRA,Thra,K288-sm,38557703,AVKREQLkNGGLGVV,,"cell growth, induced; cell differentiation, induced; transcription, induced; signaling pathway regulation",25572392,Hormone_recep,induces Wnt/?-catenin signaling pathway,,,
+THRA,Thra,K283-sm,27490404,LSGEMAVkREQLKNG,,"cell growth, induced; cell differentiation, induced; transcription, induced; signaling pathway regulation",25572392,Hormone_recep,induces Wnt/?-catenin signaling pathway,,,

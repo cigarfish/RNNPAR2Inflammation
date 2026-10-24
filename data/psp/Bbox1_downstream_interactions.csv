@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BBOX1,Bbox1,K240-ub,27179485,DGFNVCQkLKKNNPQ,protein degradation,"carcinogenesis, induced",35775648,TauD,promotes CRIP1-induced cancer stem-like properties in HCC,,,

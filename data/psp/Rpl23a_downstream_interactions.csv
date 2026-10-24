@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPL23A,Rpl23a,K78-ub,22251150,LDHYAIIkFPLTTES,protein degradation; ubiquitination,"transcription, altered",35637966,Ribosomal_L23,HERC3 could control protein expression and ubiquitination of c-Myc/p21 via RPL23A,,,
+RPL23A,Rpl23a,K89-ub,1884021301,TTESAMKkIEDNNTL,protein degradation; ubiquitination,"transcription, altered",35637966,,HERC3 could control protein expression and ubiquitination of c-Myc/p21 via RPL23A,,,
+RPL23A,Rpl23a,K123-ub,22251147,LYDIDVAkVNTLIRP,protein degradation; ubiquitination,"transcription, altered",35637966,Ribosomal_L23,HERC3 could control protein expression and ubiquitination of c-Myc/p21 via RPL23A,,,

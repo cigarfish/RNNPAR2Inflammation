@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AMPH,Amph,T350-p,469996,PEVKKEEtLLDLDFD,"molecular association, regulation",,16945112,,,CLTC,Cltc,DISRUPTS
+AMPH,Amph,S654-p,1877626500,DVVLVVPsDSEADQD,,"neural plasticity; apoptosis, inhibited",35858575,SH3_9,,,,
+AMPH,Amph,T387-p,469997,LPWDLWTtSTDLVQP,"molecular association, regulation",,16945112,,,CLTC,Cltc,DISRUPTS
+AMPH,Amph,T445-p,10793310,EEPLAAVtPAVGLDL,,"neural plasticity; apoptosis, inhibited",35858575,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MASTL,Mastl,S875-p,3209091,TAQHLTVsGFSL___,"protein conformation; phosphorylation; enzymatic activity, induced",cell cycle regulation,21444715; 27563826,,"phosphorylation induces intramolecular interaction, which inhibits dephosphorylation at the same phospho site.",RSK2,Rps6ka3,INDUCES
+MASTL,Mastl,T299-p,1269647500,QSRKRLAtSSASSQS,"protein degradation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced",32123010,,,,,
+MASTL,Mastl,T194-p,3209097,NMMDILTtPSMAKPR,"activity, induced; intracellular localization",cell cycle regulation,24391510,Pkinase,,,,
+MASTL,Mastl,T860-p,58984001,QPDDETDtSYFEARN,protein conformation,,21444715,,,,,

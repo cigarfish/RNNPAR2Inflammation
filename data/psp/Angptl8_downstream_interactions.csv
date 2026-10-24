@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ANGPTL8,Angptl8,S94-p,1869062301,AAQELRAsLLETQME,phosphorylation,,32344005,,"enhances Akt phosphorylation, regulates signaling pathway AKT-GSK3 ?/-FoxO1 through Akt phosphorylation",,,
+ANGPTL8,Angptl8,T98-p,1869062302,LRASLLEtQMEEDIL,phosphorylation,,32344005,,"enhances Akt phosphorylation, regulates signaling pathway AKT-GSK3 ?/-FoxO1 through Akt phosphorylation",,,

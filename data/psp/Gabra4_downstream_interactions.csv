@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABRA4,Gabra4,S474-p,17390700,KASVGSAsTRHVFGS,protein stabilization; intracellular localization,"endocytosis, induced",20940303; 24778259,Neur_chan_memb,membrane insertion of receptor complex; increases receptor cell surface expression,,,

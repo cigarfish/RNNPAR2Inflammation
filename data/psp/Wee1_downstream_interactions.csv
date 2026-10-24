@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WEE1,Wee1,S53-p,451131,GHSTGEDsAFQEPDS,"protein degradation; molecular association, regulation",cell cycle regulation,15070733; 15350223; 16085715,,,BTRC,Btrc,INDUCES
+WEE1,Wee1,S53-p,451131,GHSTGEDsAFQEPDS,"protein degradation; molecular association, regulation",cell cycle regulation,15070733; 15350223; 16085715,,,FBW1B,Btrc,INDUCES
+WEE1,Wee1,S123-p,451132,EEGFGSSsPVKSPAA,"protein degradation; molecular association, regulation; phosphorylation",cell cycle regulation,15070733; 16085715; 23051732,,primes PLK1 phosphorylation,BTRC,Btrc,INDUCES
+WEE1,Wee1,S123-p,451132,EEGFGSSsPVKSPAA,"protein degradation; molecular association, regulation; phosphorylation",cell cycle regulation,15070733; 16085715; 23051732,,primes PLK1 phosphorylation,PLK1,Plk1,INDUCES
+WEE1,Wee1,S123-p,451132,EEGFGSSsPVKSPAA,"protein degradation; molecular association, regulation; phosphorylation",cell cycle regulation,15070733; 16085715; 23051732,,primes PLK1 phosphorylation,FBW1B,Btrc,INDUCES
+WEE1,Wee1,S642-p,455381,KKMNRSVsLTIY___,"intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","cell cycle regulation; cell growth, induced",15964826; 33796458; 34168048; 34570813,,,14-3-3 theta,Ywhaq,INDUCES
+WEE1,Wee1,S211-p,25316773,SSVKLRGsSLFMDTE,"protein degradation; molecular association, regulation",,24817118,,,BTRC,Btrc,INDUCES
+WEE1,Wee1,S212-p,25316778,SVKLRGSsLFMDTEK,"protein degradation; molecular association, regulation",,24817118,,,BTRC,Btrc,INDUCES
+WEE1,Wee1,S139-p,449250,YFLGSSFsPVRCGGP,"protein degradation; molecular association, regulation; phosphorylation",cell cycle regulation,23051732,,primes PLK1 phosphorylation,PLK1,Plk1,INDUCES
+WEE1,Wee1,S121-p,456468,WEEEGFGsSSPVKSP,"protein degradation; molecular association, regulation",,16085715,,,BTRC,Btrc,INDUCES
+WEE1,Wee1,T239-p,11311200,QVNINPFtPDSLLLH,"enzymatic activity, inhibited; phosphorylation",cell cycle regulation,19858290; 25744022,,Inhibits CDK1 phosphorylation and prevents SAC slippage,,,

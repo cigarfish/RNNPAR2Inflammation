@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF4A3,Eif4a3,T163-p,3190132,GQHVVAGtPGRVFDM,"molecular association, regulation; intracellular localization","cell cycle regulation; RNA splicing, inhibited; RNA stability, induced; cytoskeletal reorganization; translation, induced",30784594,DEAD,  inhibits mRNA decay (NMD); T163 phosphorylation triggers/induces exon junction complex( EJC) remodeling,NCM,NA,INDUCES

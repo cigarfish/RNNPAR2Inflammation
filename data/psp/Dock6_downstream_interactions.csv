@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOCK6,Dock6,S1194-p,27806316,GQRSRLAsMLDSDTE,"enzymatic activity, inhibited","cell growth, inhibited",23462102,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CERS6,Cers6,S347-p,22350312,RSDIESSsDEEDSEP,"enzymatic activity, induced",,26887952,,,,,
+CERS6,Cers6,S345-p,22350306,DDRSDIEsSSDEEDS,"enzymatic activity, induced",,26887952,,,,,
+CERS6,Cers6,S346-p,22350309,DRSDIESsSDEEDSE,"enzymatic activity, induced",,26887952,,,,,
+CERS6,Cers6,S341-p,40511820,KVSKDDRsDIESSSD,"enzymatic activity, induced",,26887952,,,,,

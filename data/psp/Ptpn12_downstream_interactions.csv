@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN12,Ptpn12,S571-p,1983755,KTVSLTPsPTTQVET,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell motility, induced; cell adhesion, inhibited",21876001,,induces dephosphorylation of FAK,FAK,Ptk2,INDUCES
+PTPN12,Ptpn12,S571-p,1983755,KTVSLTPsPTTQVET,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell motility, induced; cell adhesion, inhibited",21876001,,induces dephosphorylation of FAK,PIN1,Pin1,INDUCES
+PTPN12,Ptpn12,S19-p,18014400,QRVQAMKsPDHNGED,"enzymatic activity, inhibited","cell motility, induced",28842430,,selectively decreased its activity toward the human epidermal growth factor receptor (HER)-2 pY(1196) site,,,
+PTPN12,Ptpn12,S39-p,451311,FMRLRRLsTKYRTEK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited",,28842430; 7520867,,,HER2,Erbb2,DISRUPTS

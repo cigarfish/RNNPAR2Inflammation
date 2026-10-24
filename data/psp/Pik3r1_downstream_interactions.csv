@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3R1,Pik3r1,S154-p,7445250,STLYRTQsSSNLAEL,"activity, induced; molecular association, regulation; intracellular localization","cell motility, inhibited",23129748,RhoGAP,neutrophil migration regulation,PTEN,Pten,INDUCES
+PIK3R1,Pik3r1,Y556-p,459303,LKKQAAEyREIDKRM,"molecular association, regulation; enzymatic activity, induced","cell motility, altered",16306077,PI3K_P85_iSH2,,SHP-2,Ptpn11,INDUCES
+PIK3R1,Pik3r1,Y556-p,459303,LKKQAAEyREIDKRM,"molecular association, regulation; enzymatic activity, induced","cell motility, altered",16306077,PI3K_P85_iSH2,,IRS1,Irs1,INDUCES
+PIK3R1,Pik3r1,S608-p,448133,ENTEDQYsLVEDDED,"activity, induced",,14729945,,,,,
+PIK3R1,Pik3r1,Y607-p,448136,NENTEDQySLVEDDE,,"cell motility, induced; cell growth, induced",30867782,,,,,
+PIK3R1,Pik3r1,K245-ub,1885834900,LTLQYLLkHFFKLSQ,"protein degradation; molecular association, regulation; ubiquitination","autophagy, induced; cell growth, induced",37770465,,,NLRP6,Nlrp6,INDUCES
+PIK3R1,Pik3r1,K459-sm,56709102,YNTQFQEkSREYDRL,,"carcinogenesis, induced; cell motility, induced",26411363,PI3K_P85_iSH2,mutant induces phosphorylation and increases cell motility,,,
+PIK3R1,Pik3r1,S83-p,471075,YIGRKKIsPPTPKPR,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",21743495,,"induces phosphorylation of Akt and degradation of p53, regulates PI3k/Akt pathway",14-3-3 zeta,Ywhaz,INDUCES
+PIK3R1,Pik3r1,Y528-p,457097,IQRIMHNyDKLKSRI,"molecular association, regulation; enzymatic activity, induced","cell motility, altered",16306077,PI3K_P85_iSH2,,SHP-2,Ptpn11,INDUCES
+PIK3R1,Pik3r1,Y528-p,457097,IQRIMHNyDKLKSRI,"molecular association, regulation; enzymatic activity, induced","cell motility, altered",16306077,PI3K_P85_iSH2,,IRS1,Irs1,INDUCES
+PIK3R1,Pik3r1,K256-ub,1885611902,KLSQTSSkNLLNARV,protein degradation; ubiquitination,"autophagy, induced",37770465,,,,,

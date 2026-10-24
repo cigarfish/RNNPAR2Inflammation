@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC3A2,Slc3a2,S527-p,6003505,LSLFRRLsDQRSKER,,"cell adhesion, altered",19065266,,enhances cell- cell interactions,,,
+SLC3A2,Slc3a2,S531-p,6003501,RRLSDQRsKERSLLH,,"cell adhesion, altered",19065266,,enhances cell- cell interactions,,,
+SLC3A2,Slc3a2,S408-p,6003503,TSSYLSDsGSTGEHT,,"cell adhesion, altered",19065266,,enhances cell- cell interactions,,,
+SLC3A2,Slc3a2,S410-p,6003502,SYLSDSGsTGEHTKS,,"cell adhesion, altered",19065266,,enhances cell- cell interactions,,,
+SLC3A2,Slc3a2,S406-p,6003504,LLTSSYLsDSGSTGE,,"cell adhesion, altered",19065266,,enhances cell- cell interactions,,,

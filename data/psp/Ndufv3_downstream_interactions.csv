@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFV3,Ndufv3,S105-p,4751741,QPSSGREsPRH____,"activity, induced",cell cycle regulation,24746669,,increases mitochondrial respiration for G/2M transition,,,

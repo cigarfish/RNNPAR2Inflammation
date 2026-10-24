@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FAS,Fas,Y232-p,455221,SDVDLSKyITTIAGV,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y232 or Y291 is required for Fas oligomerization,FAS,Fas,INDUCES
+FAS,Fas,Y232-p,455221,SDVDLSKyITTIAGV,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y232 or Y291 is required for Fas oligomerization,FADD,Fadd,INDUCES
+FAS,Fas,Y232-p,455221,SDVDLSKyITTIAGV,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y232 or Y291 is required for Fas oligomerization,CASP8,Casp8,INDUCES
+FAS,Fas,Y91-p,473547,PCQEGKEyTDKAHFS,intracellular localization,"apoptosis, altered",17195092,TNFR_c6,,,,
+FAS,Fas,Y291-p,455222,LHGKKEAyDTLIKDL,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y291 or Y232 is required for Fas oligomerization,FAS,Fas,INDUCES
+FAS,Fas,Y291-p,455222,LHGKKEAyDTLIKDL,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y291 or Y232 is required for Fas oligomerization,FADD,Fadd,INDUCES
+FAS,Fas,Y291-p,455222,LHGKKEAyDTLIKDL,"molecular association, regulation; intracellular localization","apoptosis, altered",15660394; 17195092,Death,Y291 or Y232 is required for Fas oligomerization,CASP8,Casp8,INDUCES

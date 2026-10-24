@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DNM2,Dnm2,S764-p,3191449,LQSASSHsPTPQRRP,"molecular association, regulation; intracellular localization",cell cycle regulation,20889493; 21195118,,important for cytokinesis; reduces microtubule-binding activity of DYN2 ,,,
+DNM2,Dnm2,T766-p,452323,SASSHSPtPQRRPVS,"molecular association, regulation",,20889493,,reduces microtubule-binding activity of DYN2 ,,,
+DNM2,Dnm2,Y597-p,451200,NTEQRNVyKDLRQIE,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","cell differentiation, inhibited; cytoskeletal reorganization; endocytosis, inhibited",33113375,PH,,DYN2,Dnm2,INDUCES
+DNM2,Dnm2,S848-p,3059607,GIPPGVPsRRPPAAP,"molecular association, regulation; intracellular localization",,12205083,,,PIK3C2A,Pik3c2a,DISRUPTS

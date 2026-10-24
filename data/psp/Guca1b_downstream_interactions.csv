@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GUCA1B,Guca1b,S197-p,455322,LAQQRRKsAMF____,intracellular localization,,29440717,,phosphomimetic S201 is suffcient to retain GCAP2 at inner rod segments,,,

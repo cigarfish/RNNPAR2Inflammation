@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL9R,Il9r,Y407-p,10306403,WRVQTLAyLPQEDWA,,"apoptosis, inhibited; cell growth, altered",8756628,,"required for IL9-induced binding to GRR oligonucleotide complex containing activated STAT1-alpha, STAT3 and STAT5.",,,
+IL9R,Il9r,S518-p,450656,SVLSKARsWTF____,"molecular association, regulation",,10642536,,,14-3-3 zeta,Ywhaz,INDUCES
+IL9R,Il9r,T520-p,450657,LSKARSWtF______,"molecular association, regulation",,10642536,,,14-3-3 zeta,Ywhaz,INDUCES

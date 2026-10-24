@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPRY1,Spry1,Y53-p,454589,AIRGSNEyTEGPSVV,"molecular association, regulation; phosphorylation","carcinogenesis, inhibited; signaling pathway regulation",32188694,,inhibits Ras-mediated ERK1/2 and AKT phosphorylation and pathways,GRB2,Grb2,INDUCES

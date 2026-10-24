@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YES1,Yes1,Y426-p,447619,RLIEDNEyTARQGAK,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",33941853,PK_Tyr_Ser-Thr,induces phosphorylation of ANXA2,,,
+YES1,Yes1,Y537-p,447620,FTATEPQyQPGENL_,"enzymatic activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",12640114; 35041461,,,,,

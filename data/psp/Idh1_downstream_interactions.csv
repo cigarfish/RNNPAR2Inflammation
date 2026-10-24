@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IDH1,Idh1,K224-ac,461114,KKYDGRFkDIFQEIY,,"carcinogenesis, induced; cell motility, induced; cell growth, induced",37456829,Iso_dh," regulates expression of miRNA in CRC cells; regulation of the acidic microenvironment of CRC cells;  expression of Ago2 and NHE1 protein in CRC cells and tissues;  K224R cells had a significantly higher pH value than that of the WT cells;  correlated with NHE1 expression, enhancing hydroxylation",,,
+IDH1,Idh1,K115-ac,1880881706,FREAIICkNIPRLVS,protein degradation; ubiquitination; intracellular localization,"carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",36352097,,,,,
+IDH1,Idh1,Y391-p,462261,PNVQRSDyLNTFEFM,"molecular association, regulation",,30862724,Iso_dh,cofactor NADP+ binding to IDH1,,,
+IDH1,Idh1,Y42-p,3563660,VELDLHSyDLGIENR,"molecular association, regulation",,30862724,Iso_dh,,IDH1,Idh1,INDUCES

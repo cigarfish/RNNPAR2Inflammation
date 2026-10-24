@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNA3,Kcna3,S511-p,4703603,SCQHLSSsAEELRKA,,"cell growth, induced",26655221,,,,,
+KCNA3,Kcna3,Y529-p,52427503,STLSKSEyMVIEEGG,,"cell growth, induced",26655221,,,,,
+KCNA3,Kcna3,Y187-p,451293,FSEEIRFyQLGEEAM,"activity, induced",,11812778,BTB_2,,,,
+KCNA3,Kcna3,Y161-p,3820926,PSFDAILyYYQSGGR,"activity, inhibited",,19166614,BTB_2,,,,
+KCNA3,Kcna3,Y162-p,3820931,SFDAILYyYQSGGRI,"activity, inhibited",,19166614,BTB_2,,,,
+KCNA3,Kcna3,Y163-p,3820936,FDAILYYyQSGGRIR,"activity, inhibited",,19166614,BTB_2,,,,
+KCNA3,Kcna3,Y499-p,451294,EGEEQSQyMHVGSCQ,"activity, induced; activity, inhibited","cell growth, induced",11812778; 19166614; 26655221,,,,,

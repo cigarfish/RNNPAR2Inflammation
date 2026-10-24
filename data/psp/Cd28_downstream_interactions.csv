@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD28,Cd28,Y206-p,450283,PGPTRKHyQPYAPPR,phosphorylation,"carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation",20368329; 30131370,,,,,
+CD28,Cd28,Y191-p,450282,SRLLHSDyMNMTPRR,"molecular association, regulation","transcription, inhibited",10820259; 20368329; 31292214,,,CSK,Csk,INDUCES
+CD28,Cd28,Y191-p,450282,SRLLHSDyMNMTPRR,"molecular association, regulation","transcription, inhibited",10820259; 20368329; 31292214,,,GADS,Grb2l,INDUCES
+CD28,Cd28,Y209-p,450284,TRKHYQPyAPPRDFA,"activity, induced; molecular association, regulation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; signaling pathway regulation",20368329; 21964608; 30131370; 31292214,,,CSK,Csk,INDUCES
+CD28,Cd28,Y209-p,450284,TRKHYQPyAPPRDFA,"activity, induced; molecular association, regulation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; signaling pathway regulation",20368329; 21964608; 30131370; 31292214,,,Lck,Lck,INDUCES
+CD28,Cd28,Y218-p,450285,PPRDFAAyRS_____,"activity, induced; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; signaling pathway regulation; transcription, altered",12842899; 20368329; 30131370,,,NFkB-p65,Rela,INDUCES

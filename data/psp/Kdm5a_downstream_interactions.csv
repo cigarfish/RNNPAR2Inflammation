@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KDM5A,Kdm5a,S287-p,56630503,RQRKGTLsVNFVDLY,intracellular localization,,27292631,,JARID1A recruitment to the promoters of AKT-regulated genes,,,
+KDM5A,Kdm5a,T1225-p,56630500,SRRPRLEtILSLLVS,intracellular localization,,27292631,,JARID1A recruitment to the promoters of AKT-regulated genes,,,
+KDM5A,Kdm5a,T285-p,56630501,QMRQRKGtLSVNFVD,intracellular localization,,27292631,,JARID1A recruitment to the promoters of AKT-regulated genes,,,
+KDM5A,Kdm5a,S225-p,36123496,TRRVKTQsESGDVSR,intracellular localization,,27292631,,JARID1A recruitment to the promoters of AKT-regulated genes,,,
+KDM5A,Kdm5a,S1255-p,56630502,CLTERAMsWQDRARQ,intracellular localization,,27292631,,JARID1A recruitment to the promoters of AKT-regulated genes,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP10,Dusp10,S230-p,38520205,DSFKRIFsKEIIVYD,,"cell growth, inhibited; apoptosis, induced",25568665,Rhodanese,,,,
+DUSP10,Dusp10,S224-p,38520204,SCREGKDsFKRIFSK,,"cell growth, inhibited; apoptosis, induced",25568665,Rhodanese,,,,

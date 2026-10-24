@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RRN3,Rrn3,S172-p,470002,GDVDVSDsDDEDDNL,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered; transcription, induced",18559419; 24297901; 27257073,RRN3,rDNA transcription; rRNA synthesis induced,POLM,Polm,DISRUPTS
+RRN3,Rrn3,S172-p,470002,GDVDVSDsDDEDDNL,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered; transcription, induced",18559419; 24297901; 27257073,RRN3,rDNA transcription; rRNA synthesis induced,POLR1F,Polr1f,DISRUPTS
+RRN3,Rrn3,S44-p,470000,LENDFFNsPPRKTVR,"activity, induced","transcription, altered",15004009,,,,,
+RRN3,Rrn3,T200-p,455599,IARYVPStPWFLMPI,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",15805466,RRN3,,TAF1B,Taf1b,DISRUPTS
+RRN3,Rrn3,T200-p,455599,IARYVPStPWFLMPI,"molecular association, regulation; intracellular localization; activity, inhibited","transcription, inhibited",15805466,RRN3,,POLR1B,Polr1b,DISRUPTS
+RRN3,Rrn3,S649-p,448839,PVLYMQPsPL_____,"activity, induced; molecular association, regulation","cell cycle regulation; cell growth, induced; transcription, induced",12620228; 15558034; 18498750; 21098478,,,POLR2F,Polr2f,INDUCES
+RRN3,Rrn3,S649-p,448839,PVLYMQPsPL_____,"activity, induced; molecular association, regulation","cell cycle regulation; cell growth, induced; transcription, induced",12620228; 15558034; 18498750; 21098478,,,POLR1B,Polr1b,INDUCES
+RRN3,Rrn3,S633-p,448838,SFDTHFRsPSSSVGS,,"cell growth, induced; transcription, induced",21098478,,,,,
+RRN3,Rrn3,S170-p,470001,KEGDVDVsDSDDEDD,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered; transcription, induced",18559419; 24297901; 27257073,RRN3,rDNA transcription; rRNA synthesis induced,POLM,Polm,DISRUPTS
+RRN3,Rrn3,S170-p,470001,KEGDVDVsDSDDEDD,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered; transcription, induced",18559419; 24297901; 27257073,RRN3,rDNA transcription; rRNA synthesis induced,POLR1F,Polr1f,DISRUPTS
+RRN3,Rrn3,S199-p,470003,IIARYVPsTPWFLMP,"molecular association, regulation; activity, inhibited","transcription, altered",15004009,RRN3,,eIF3S6IP,NA,DISRUPTS
+RRN3,Rrn3,S199-p,470003,IIARYVPsTPWFLMP,"molecular association, regulation; activity, inhibited","transcription, altered",15004009,RRN3,,TAF4,Taf4,DISRUPTS
+RRN3,Rrn3,S635-p,11315000,DTHFRSPsSSVGSPP,"activity, inhibited","transcription, inhibited; transcription, altered",19815529; 28835357,,"inhibits transcription complex formation; suppresses pre-rRNA synthesis, protects against ER stress and cell death  ",TAF1C,Taf1c,DISRUPTS
+RRN3,Rrn3,S636-p,50680600,THFRSPSsSVGSPPV,intracellular localization,,26506235,,nuclear localization,,,

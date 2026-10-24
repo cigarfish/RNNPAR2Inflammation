@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YAF2,Yaf2,S167-p,3205731,RGMSRSSsPRGEASS,protein stabilization,"carcinogenesis, induced; apoptosis, inhibited",33784512,,induces FANK1 stabilization,,,

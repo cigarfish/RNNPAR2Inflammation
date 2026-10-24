@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPHK2,Sphk2,S421-p,486447,SPLHRSVsDLPLPLP,intracellular localization,,17635916,,regulation of nuclear shuttling,,,
+SPHK2,Sphk2,T614-p,477182,AFRLEPLtPRGVLTV,,"cell motility, altered",17311928,YegS_C,,,,
+SPHK2,Sphk2,S419-p,486446,AHSPLHRsVSDLPLP,intracellular localization,,17635916,,regulation of nuclear shuttling,,,
+SPHK2,Sphk2,S387-p,477181,PATVEPAsPTPAHSL,,"cell motility, altered",17311928,,,,,

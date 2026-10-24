@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MARCKS,Marcks,S163-p,447787,KRFSFKKsFKLSGFS,,"exocytosis, inhibited",21762971,MARCKS,induce MUC5AC secretion by cold,,,
+MARCKS,Marcks,S167-p,466360,FKKSFKLsGFSFKKN,,"exocytosis, inhibited",21762971,MARCKS,induce MUC5AC secretion by cold,,,
+MARCKS,Marcks,S159-p,447786,KKKKKRFsFKKSFKL,,"exocytosis, inhibited",21762971,MARCKS,induce MUC5AC secretion by cold,,,
+MARCKS,Marcks,S170-p,451837,SFKLSGFsFKKNKKE,,"exocytosis, inhibited",21762971,MARCKS,induce MUC5AC secretion by cold,,,

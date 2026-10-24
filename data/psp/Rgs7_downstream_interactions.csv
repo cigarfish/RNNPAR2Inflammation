@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS7,Rgs7,S434-p,455540,YKLMKSDsYPRFIRS,"molecular association, regulation",,12077120,RGS,,14-3-3 beta,Ywhab,DISRUPTS

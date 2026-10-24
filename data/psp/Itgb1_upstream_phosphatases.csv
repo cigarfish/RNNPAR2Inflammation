@@ -1,0 +1,8 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Itgb1,Ppp2cb,PPP2CB,PPP2CB,ITGB1,T788,"Phosphatases, in vitro"
+Itgb1,Ppp2cb,PPP2CB,PPP2CB,ITGB1,T789,"Phosphatases, in vitro"
+Itgb1,Ptp4a3,PTP4A3,PTP4A3,ITGB1,Y783,"Phosphatases, in vitro"
+Itgb1,Ppm1f,PPM1F,PPM1F,ITGB1,T788,Putative upstream phosphatases
+Itgb1,Ppm1f,PPM1F,PPM1F,ITGB1,T789,Putative upstream phosphatases
+Itgb1,Ppp2ca,PPP2CA,PPP2CA,ITGB1,T788,Putative upstream phosphatases
+Itgb1,Ppp2ca,PPP2CA,PPP2CA,ITGB1,T789,Putative upstream phosphatases

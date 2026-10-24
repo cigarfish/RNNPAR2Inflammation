@@ -1,0 +1,34 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC25A,Cdc25a,Y59-p,57761916,LQGLGSDyEQPLEVK,"molecular association, regulation",,27485204,,,PKM,Pkm,INDUCES
+CDC25A,Cdc25a,S293-p,449128,GSTKRRKsMSGASPK,protein degradation,,12676583,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S82-p,450248,GSSESTDsGFCLDSP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",cell cycle regulation,14603323; 14681206; 14752276; 15798217; 19734889; 20348946,,,BTRC,Btrc,INDUCES
+CDC25A,Cdc25a,S82-p,450248,GSSESTDsGFCLDSP,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",cell cycle regulation,14603323; 14681206; 14752276; 15798217; 19734889; 20348946,,,FBW1B,Btrc,INDUCES
+CDC25A,Cdc25a,S279-p,449129,VLKRPERsQEESPPG,protein degradation,,12676583,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S124-p,449127,PALKRSHsDSLDHDI,protein degradation,,11298456; 12676583,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S40-p,63080405,ASAAGGLsPVTNLTV,protein degradation,cell cycle regulation,28192398,,,,,
+CDC25A,Cdc25a,S283-p,58934700,PERSQEEsPPGSTKR,"protein degradation; ubiquitination; enzymatic activity, induced","cell cycle regulation; apoptosis, inhibited",27580187; 34363019,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S107-p,31086927,NPMRRIHsLPQKLLG,protein degradation; ubiquitination,"cell cycle regulation; apoptosis, inhibited",34363019,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S320-p,1874397804,HQSLSLAsSPKGTIE,protein degradation; ubiquitination,"cell cycle regulation; apoptosis, inhibited",34363019,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S519-p,26342101,KSKREMYsRLKKL__,protein degradation,cell cycle regulation,21376736,,proteasome mediated degradation,,,
+CDC25A,Cdc25a,T80-p,4209300,RMGSSEStDSGFCLD,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",,18167338,,,GSK3B,Gsk3b,INDUCES
+CDC25A,Cdc25a,S76-p,449340,SNLQRMGsSESTDSG,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",cell cycle regulation,12110582; 12759351; 14681206; 14752276; 15798217; 18167338; 19734889; 20348946; 22179839,,,BTRC,Btrc,INDUCES
+CDC25A,Cdc25a,S156-p,1874397800,KKPVRPVsRGCLHSH,protein degradation; ubiquitination,"cell cycle regulation; apoptosis, inhibited",34363019,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S321-p,472278,QSLSLASsPKGTIEN,protein degradation; ubiquitination,"cell cycle regulation; apoptosis, inhibited",34363019,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S18-p,449976,RRLLFACsPPPASQP,protein degradation; protein stabilization; ubiquitination,"cell cycle regulation; apoptosis, inhibited",12411508; 34363019,,,CDK1,Cdk1,INDUCES
+CDC25A,Cdc25a,K169-ub,41483908,SHGLQEGkDLFTQRQ,intracellular localization,,36539837,M-inducer_phosp,,,,
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,14-3-3 beta,Ywhab,INDUCES
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,CCNA1,Ccna1,DISRUPTS
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,14-3-3 epsilon,Ywhae,INDUCES
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,CDK2,Cdk2,DISRUPTS
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,CDK1,Cdk1,DISRUPTS
+CDC25A,Cdc25a,T507-p,450483,KFRTKSRtWAGEKSK,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, altered; apoptosis, inhibited",14559997; 20368335; 32934772,,,CCNB1,Ccnb1,DISRUPTS
+CDC25A,Cdc25a,K150-ub,964504350,NEAFEFKkPVRPVSR,intracellular localization,,36539837,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S513-p,26342100,RTWAGEKsKREMYSR,protein degradation,cell cycle regulation,21376736,,proteasome mediated degradation,,,
+CDC25A,Cdc25a,S79-p,450247,QRMGSSEsTDSGFCL,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation",,14681206; 19734889; 20348946,,"S76, S79, and S82 phosphorylation affect binding to BTRC; S79 phosphorylation by CK1-A primes for S82 phosphorylation by CK1-A;  S79 phosphorylation is dependent on S76.",BTRC,Btrc,INDUCES
+CDC25A,Cdc25a,S116-p,449977,PQKLLGCsPALKRSH,protein stabilization,cell cycle regulation,12411508,M-inducer_phosp,,CDK1,Cdk1,INDUCES
+CDC25A,Cdc25a,S88-p,458298,DSGFCLDsPGPLDSK,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell cycle regulation; apoptosis, inhibited",14603323; 15798217; 19734889; 28192398; 34156324; 34363019,M-inducer_phosp,,BTRC,Btrc,INDUCES
+CDC25A,Cdc25a,S88-p,458298,DSGFCLDsPGPLDSK,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","cell cycle regulation; apoptosis, inhibited",14603323; 15798217; 19734889; 28192398; 34156324; 34363019,M-inducer_phosp,,FBW1B,Btrc,INDUCES
+CDC25A,Cdc25a,K150-ac,56843600,NEAFEFKkPVRPVSR,protein stabilization,cell cycle regulation,27462461,M-inducer_phosp,,,,
+CDC25A,Cdc25a,S178-p,449126,LFTQRQNsAPARMLS,"activity, induced; protein degradation; molecular association, regulation; intracellular localization","apoptosis, inhibited",12676583; 14559997; 32934772; 36539837,M-inducer_phosp,,14-3-3 beta,Ywhab,INDUCES
+CDC25A,Cdc25a,S178-p,449126,LFTQRQNsAPARMLS,"activity, induced; protein degradation; molecular association, regulation; intracellular localization","apoptosis, inhibited",12676583; 14559997; 32934772; 36539837,M-inducer_phosp,,14-3-3 epsilon,Ywhae,INDUCES
+CDC25A,Cdc25a,S185-p,1874397802,SAPARMLsSNERDSS,protein degradation; ubiquitination,"cell cycle regulation; apoptosis, inhibited",34363019,M-inducer_phosp,,,,

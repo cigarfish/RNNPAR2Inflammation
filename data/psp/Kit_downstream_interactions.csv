@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIT,Kit,Y568-p,448014,EEINGNNyVYIDPTQ,"activity, induced; protein degradation; molecular association, regulation; receptor internalization, altered; enzymatic activity, induced; phosphorylation","cell growth, altered",12444928; 12878163; 16780420; 20147452; 21887372; 9038210; 9528781,,,CTK,NA,INDUCES
+KIT,Kit,Y568-p,448014,EEINGNNyVYIDPTQ,"activity, induced; protein degradation; molecular association, regulation; receptor internalization, altered; enzymatic activity, induced; phosphorylation","cell growth, altered",12444928; 12878163; 16780420; 20147452; 21887372; 9038210; 9528781,,,Src,Src,INDUCES
+KIT,Kit,Y568-p,448014,EEINGNNyVYIDPTQ,"activity, induced; protein degradation; molecular association, regulation; receptor internalization, altered; enzymatic activity, induced; phosphorylation","cell growth, altered",12444928; 12878163; 16780420; 20147452; 21887372; 9038210; 9528781,,,APS,Sh2b2,INDUCES
+KIT,Kit,Y568-p,448014,EEINGNNyVYIDPTQ,"activity, induced; protein degradation; molecular association, regulation; receptor internalization, altered; enzymatic activity, induced; phosphorylation","cell growth, altered",12444928; 12878163; 16780420; 20147452; 21887372; 9038210; 9528781,,,SHP-2,Ptpn11,INDUCES
+KIT,Kit,Y568-p,448014,EEINGNNyVYIDPTQ,"activity, induced; protein degradation; molecular association, regulation; receptor internalization, altered; enzymatic activity, induced; phosphorylation","cell growth, altered",12444928; 12878163; 16780420; 20147452; 21887372; 9038210; 9528781,,,CBL,Cbl,INDUCES
+KIT,Kit,Y553-p,13876401,KYLQKPMyEVQWKVV,"enzymatic activity, induced",,20147452,,,,,
+KIT,Kit,Y823-p,448018,DIKNDSNyVVKGNAR,"protein stabilization; receptor internalization, inhibited; phosphorylation","cell growth, induced; apoptosis, inhibited; signaling pathway regulation",23803604,PK_Tyr_Ser-Thr,increased posphorylation of an adaptor protein Cbl,,,
+KIT,Kit,Y570-p,448015,INGNNYVyIDPTQLP,"activity, induced; molecular association, regulation; enzymatic activity, induced","cell growth, altered",20147452; 21887372; 9038210; 9528781,,,CTK,NA,INDUCES
+KIT,Kit,Y570-p,448015,INGNNYVyIDPTQLP,"activity, induced; molecular association, regulation; enzymatic activity, induced","cell growth, altered",20147452; 21887372; 9038210; 9528781,,,SHP-1,Ptpn6,INDUCES
+KIT,Kit,Y703-p,448016,DHAEAALyKNLLHSK,"protein degradation; intracellular localization; phosphorylation; enzymatic activity, induced","endocytosis, induced",37616163,PK_Tyr_Ser-Thr,induces STAT5 phosphorylation,,,
+KIT,Kit,S746-p,450036,RRSVRIGsYIERDVT,"enzymatic activity, inhibited; phosphorylation",,7539802,PK_Tyr_Ser-Thr,,,,
+KIT,Kit,Y547-p,13876400,VMILTYKyLQKPMYE,"enzymatic activity, induced",,20147452,,,,,
+KIT,Kit,Y936-p,448019,SESTNHIySNLANCS,"protein degradation; molecular association, regulation; receptor internalization, altered",,12444928; 16780420,,,GRB2,Grb2,INDUCES
+KIT,Kit,Y936-p,448019,SESTNHIySNLANCS,"protein degradation; molecular association, regulation; receptor internalization, altered",,12444928; 16780420,,,APS,Sh2b2,INDUCES
+KIT,Kit,Y936-p,448019,SESTNHIySNLANCS,"protein degradation; molecular association, regulation; receptor internalization, altered",,12444928; 16780420,,,GRB7,Grb7,INDUCES
+KIT,Kit,Y936-p,448019,SESTNHIySNLANCS,"protein degradation; molecular association, regulation; receptor internalization, altered",,12444928; 16780420,,,CBL,Cbl,INDUCES
+KIT,Kit,Y900-p,450042,EHAPAEMyDIMKTCW,"protein stabilization; molecular association, regulation",,12878163,PK_Tyr_Ser-Thr,,PIK3C2A,Pik3c2a,INDUCES
+KIT,Kit,Y900-p,450042,EHAPAEMyDIMKTCW,"protein stabilization; molecular association, regulation",,12878163,PK_Tyr_Ser-Thr,,CRK,Crk,INDUCES
+KIT,Kit,Y721-p,448017,CSDSTNEyMDMKPGV,"activity, induced","cell growth, induced; cell adhesion, altered",15459012; 15654360; 21887372,PK_Tyr_Ser-Thr,,,,
+KIT,Kit,S741-p,450035,TKADKRRsVRIGSYI,"enzymatic activity, inhibited; phosphorylation",,7539802,PK_Tyr_Ser-Thr,,,,

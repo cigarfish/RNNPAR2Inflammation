@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DLGAP1,Dlgap1,S406-p,456941,KLQIRSHsYLRAVSE,"molecular association, regulation",,22117215,,Fluorescence Polarization,PSD-95,Dlg4,INDUCES
+DLGAP1,Dlgap1,S375-p,481510,KVAARREsYLKATQP,"molecular association, regulation",,22117215,,Fluorescence Polarization,PSD-95,Dlg4,INDUCES
+DLGAP1,Dlgap1,S191-p,480585,CFRMRSHsYVRAIEK,"molecular association, regulation",,23143515,,,PSD-95,Dlg4,DISRUPTS
+DLGAP1,Dlgap1,S44-p,456939,CRRMRSGsYIKAMGD,"protein degradation; molecular association, regulation; ubiquitination",neural plasticity,23143515,,,PSD-95,Dlg4,DISRUPTS
+DLGAP1,Dlgap1,S393-p,4775408,RRFTRSNsVTTAVQA,"molecular association, regulation; intracellular localization",neural plasticity,23143515,GKAP,,DLC1,Dlc1,DISRUPTS
+DLGAP1,Dlgap1,S349-p,2049913,FKKNRCLsIGIQVDD,"molecular association, regulation; intracellular localization",neural plasticity,23143515,GKAP,,DLC1,Dlc1,DISRUPTS

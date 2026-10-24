@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP16,Usp16,S552-p,449274,DLEVLTSsPTRNLNG,"protein degradation; molecular association, regulation; intracellular localization",cell cycle regulation,24013421; 26323689; 28380042,UCH,,PLK1,Plk1,INDUCES
+USP16,Usp16,S552-p,449274,DLEVLTSsPTRNLNG,"protein degradation; molecular association, regulation; intracellular localization",cell cycle regulation,24013421; 26323689; 28380042,UCH,,Exportin-1,Xpo1,DISRUPTS
+USP16,Usp16,T554-p,3217539,EVLTSSPtRNLNGAY,protein degradation,,28380042,UCH,,,,
+USP16,Usp16,S486-p,50592105,SEYEAEMsLQGEVNI,"enzymatic activity, induced",,26323689,UCH,,,,
+USP16,Usp16,S330-p,29614602,ILKAFGNsTEKLDEE,"enzymatic activity, induced",,26323689,UCH,,,,
+USP16,Usp16,S386-p,50592104,HESFLDLsLPVLDDQ,"enzymatic activity, induced",,26323689,UCH,,,,
+USP16,Usp16,S415-p,3217536,VEDEDQDsEEEKDND,protein degradation,,28380042,UCH,,,,

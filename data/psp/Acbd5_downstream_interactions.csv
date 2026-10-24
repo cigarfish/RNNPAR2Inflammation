@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACBD5,Acbd5,S261-p,1876128610,IQHLTSDsDSEVYCD,"molecular association, regulation; phosphorylation",,35019937,,induces phosphorylation at S269,VAPB,Vapb,INDUCES
+ACBD5,Acbd5,S263-p,1876128612,HLTSDSDsEVYCDSM,"molecular association, regulation; phosphorylation",,35019937,,induces phosphorylation at S269,VAPB,Vapb,INDUCES
+ACBD5,Acbd5,S269-p,34501844,DSEVYCDsMEQFGQE,"molecular association, regulation",,35019937,,,VAPB,Vapb,DISRUPTS
+ACBD5,Acbd5,T258-p,1876128606,VTGIQHLtSDSDSEV,"molecular association, regulation",,35019937,,,VAPB,Vapb,INDUCES
+ACBD5,Acbd5,S259-p,1876128608,TGIQHLTsDSDSEVY,"molecular association, regulation; phosphorylation",,35019937,,induces phosphorylation at S269,VAPB,Vapb,INDUCES

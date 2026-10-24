@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCLAF,Pclaf,K15-ub,12327204,SVPGTYRkVVAARAP,,"DNA repair, altered",23000965,PAF,,,,
+PCLAF,Pclaf,K24-ub,9187086,VAARAPRkVLGSSTS,,"DNA repair, altered",23000965,PAF,,,,

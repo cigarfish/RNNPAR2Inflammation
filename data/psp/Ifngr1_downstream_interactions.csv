@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IFNGR1,Ifngr1,Y457-p,451253,KAPTSFGyDKPHVLV,"molecular association, regulation","cell cycle regulation; transcription, altered",11390994; 8156998,,Induced with serum and IFN-gamma ,STAT1,Stat1,INDUCES

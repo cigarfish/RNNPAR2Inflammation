@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPRL1,Oprl1,S346-p,1868135700,LRRDVQVsDRVRSIA,"receptor internalization, induced; receptor desensitization, induced",signaling pathway regulation,30914485,,,,,
+OPRL1,Oprl1,S351-p,1868135701,QVSDRVRsIAKDVAL,"receptor internalization, induced; receptor desensitization, induced",signaling pathway regulation,30914485,,,,,
+OPRL1,Oprl1,T362-p,1868135702,DVALACKtSETVPRP,"receptor internalization, induced; receptor desensitization, induced",signaling pathway regulation,30914485,,,,,
+OPRL1,Oprl1,S363-p,27150200,VALACKTsETVPRPA,"receptor internalization, induced; receptor desensitization, induced; phosphorylation",signaling pathway regulation,23086955; 30914485,,,,,

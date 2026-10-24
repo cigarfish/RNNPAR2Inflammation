@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NPR1,Npr1,S534-p,447514,AGSRLTLsGRGSNYG,"activity, induced; enzymatic activity, induced",,28416574; 9528788,,,,,
+NPR1,Npr1,S542-p,448229,GRGSNYGsLLTTEGQ,"activity, induced; enzymatic activity, induced",,28416574; 9528788,,,,,
+NPR1,Npr1,S529-p,447512,RHLRSAGsRLTLSGR,"activity, induced; enzymatic activity, induced",,28416574; 9528788,,,,,
+NPR1,Npr1,S538-p,447515,LTLSGRGsNYGSLLT,"activity, induced; enzymatic activity, induced",,28416574; 9528788,,,,,
+NPR1,Npr1,T532-p,447513,RSAGSRLtLSGRGSN,"activity, induced; enzymatic activity, induced",,28416574; 9528788,,,,,
+NPR1,Npr1,S519-p,14364503,WEDVEPSsLERHLRS,"enzymatic activity, induced",,28416574,,,,,
+NPR1,Npr1,T545-p,447516,SNYGSLLtTEGQFQV,"activity, induced; enzymatic activity, induced",,28416574; 9528788,PK_Tyr_Ser-Thr,,,,

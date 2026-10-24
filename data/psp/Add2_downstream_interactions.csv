@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADD2,Add2,S697-p,467408,GPMSPEGsPSKSPSK,,"cell growth, induced; cytoskeletal reorganization",21606488,,,,,
+ADD2,Add2,S613-p,3147399,AKEAETKsPLVSPSK,phosphorylation,"cell growth, induced; cytoskeletal reorganization",21606488,,,,,
+ADD2,Add2,S726-p,449803,KKKEKVEs_______,protein degradation; intracellular localization,cytoskeletal reorganization,16116087; 9679146,,,,,
+ADD2,Add2,Y489-p,449419,PNQFVPLyTDPQEVL,intracellular localization,,16765915,,,,,
+ADD2,Add2,S693-p,454590,SVTSGPMsPEGSPSK,phosphorylation,,21606488,,CDK5 primes sites for phosphorylation by GSK3B,,,
+ADD2,Add2,S713-p,449802,KKKFRTPsFLKKSKK,protein degradation; intracellular localization; phosphorylation,cytoskeletal reorganization,16116087; 26639316; 9679146,,,,,
+ADD2,Add2,S600-p,481589,PAKSAPAsPVQSPAK,,"cell growth, induced; cytoskeletal reorganization",21606488,,,,,

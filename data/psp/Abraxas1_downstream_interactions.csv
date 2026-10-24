@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABRAXAS1,Abraxas1,S406-p,3203163,GFGEYSRsPTF____,"molecular association, regulation","DNA repair, induced",17525340,,Abraxas and RAP80 form a complex that interacts with BRCA1.,BRCA1,Brca1,INDUCES
+ABRAXAS1,Abraxas1,S404-p,25173562,MKGFGEYsRSPTF__,"molecular association, regulation",,26778126,,,BRCA1,Brca1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP2K3,Map2k3,S218-p,448276,ISGYLVDsVAKTMDA,"enzymatic activity, induced","transcription, induced; signaling pathway regulation",21878628; 8622669; 9162092,Pkinase,,,,
+MAP2K3,Map2k3,T222-p,448277,LVDSVAKtMDAGCKP,"activity, induced; enzymatic activity, induced","cell cycle regulation; transcription, induced",17438131; 8622669; 9162092,Pkinase,,,,

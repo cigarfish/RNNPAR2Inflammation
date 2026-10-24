@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOD1,Sod1,K123-ac,11317132,RTLVVHEkADDLGKG,intracellular localization,,28739857,Sod_Cu,"mitochondrial localization, inihibits SOD1-mediated suppression of mitochondrial respiration",,,
+SOD1,Sod1,T40-p,1100571300,WGSIKGLtEGLHGFH,"enzymatic activity, inhibited","cell growth, inhibited",29727620; 35452786,Sod_Cu, modulate cellular ROS and maintain cancer survival in an ischemic environment; ischemia-induced cell death,,,
+SOD1,Sod1,K76-sm,9184300,SRKHGGPkDEERHVG,protein stabilization,,16828461,Sod_Cu,induces SOD1 aggregation,,,
+SOD1,Sod1,K71-ac,466539,HFNPLSRkHGGPKDE,"molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited",26008972,Sod_Cu,,CCS,Ccs,DISRUPTS
+SOD1,Sod1,K71-ac,466539,HFNPLSRkHGGPKDE,"molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited",26008972,Sod_Cu,,SOD1,Sod1,DISRUPTS

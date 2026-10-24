@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBM7,Rbm7,S136-p,453069,QIIQRSFsSPENFQR,"molecular association, regulation",,25189701,,14-3-3 protein binding,14-3-3 beta,Ywhab,INDUCES
+RBM7,Rbm7,S136-p,453069,QIIQRSFsSPENFQR,"molecular association, regulation",,25189701,,14-3-3 protein binding,GADD45A,Gadd45a,DISRUPTS
+RBM7,Rbm7,S204-p,4033285,QRKVRMNsYPYLADR,"molecular association, regulation",,25189701,,14-3-3 protein binding,14-3-3 beta,Ywhab,INDUCES
+RBM7,Rbm7,S204-p,4033285,QRKVRMNsYPYLADR,"molecular association, regulation",,25189701,,14-3-3 protein binding,GADD45A,Gadd45a,DISRUPTS

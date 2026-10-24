@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOXO1,Noxo1,T341-p,28758706,AIQSRCCtVTRRALE,"molecular association, regulation",,23957209,,,NOXA1,Noxa1,INDUCES
+NOXO1,Noxo1,S154-p,27454492,SRAAGRLsIHSLEAQ,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced",,23322165; 26781991,,EGF-dependent membrane translocation of NoxO1; required for optimal ROS production by NOX1,GRB2,Grb2,INDUCES
+NOXO1,Noxo1,S154-p,27454492,SRAAGRLsIHSLEAQ,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced",,23322165; 26781991,,EGF-dependent membrane translocation of NoxO1; required for optimal ROS production by NOX1,CYBA,Cyba,INDUCES
+NOXO1,Noxo1,S154-p,27454492,SRAAGRLsIHSLEAQ,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced",,23322165; 26781991,,EGF-dependent membrane translocation of NoxO1; required for optimal ROS production by NOX1,NOXA1,Noxa1,INDUCES

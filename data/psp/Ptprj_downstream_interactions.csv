@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPRJ,Ptprj,T1318-p,32674001,YQNTTAMtIYENLAP,"molecular association, regulation; phosphorylation; enzymatic activity, induced",,24583284,,"primes phosphorylation at Y1320, induces Src activity",Src,Src,INDUCES
+PTPRJ,Ptprj,Y1320-p,15228667,NTTAMTIyENLAPVT,"molecular association, regulation; enzymatic activity, induced","cell motility, induced",22898603,,,Src,Src,INDUCES
+PTPRJ,Ptprj,Y1311-p,473909,DSKVDLIyQNTTAMT,"molecular association, regulation; enzymatic activity, induced","cell motility, induced",22898603,,,Src,Src,INDUCES

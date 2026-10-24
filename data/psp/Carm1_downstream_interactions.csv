@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CARM1,Carm1,S447-p,25268707,LIANKRQsYDISIVA,"molecular association, regulation","transcription, induced; signaling pathway regulation",20360387,,,ER-alpha,Esr1,INDUCES

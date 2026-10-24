@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPS2,Gps2,R323-m1,11263012,IQHSQNPrFYHK___,"molecular association, regulation",,19917673,,"there were no differences in binding of unmethylated, mono-methylated, or di-methylated peptides",HLAA,H2-Aa,INDUCES

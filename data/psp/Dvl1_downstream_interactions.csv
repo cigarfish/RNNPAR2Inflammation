@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DVL1,Dvl1,K69-ac,1880010900,EIFDDNAkLPCFNGR,intracellular localization,"transcription, inhibited",31700102,,nuclear localization,,,
+DVL1,Dvl1,K285-ac,1880010901,IYIGSIMkGGAVAAD,intracellular localization,"transcription, inhibited",31700102,,nuclear localization,,,

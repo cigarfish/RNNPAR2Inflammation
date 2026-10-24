@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WDR5,Wdr5,K207-m1,1880728300,TASGQCLkTLIDDDN,,"carcinogenesis, induced; cell motility, induced; cell growth, induced",30226578,,,,,
+WDR5,Wdr5,K325-m1,1880727904,SAALENDkTIKLWKS,,"carcinogenesis, induced; cell motility, induced; cell growth, induced",30226578,,,,,
+WDR5,Wdr5,S49-p,25758598,AGHTKAVsSVKFSPN,,"cell differentiation, induced; transcription, induced",31072927,WD40,myogenesis indeced,,,

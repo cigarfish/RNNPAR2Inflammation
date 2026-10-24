@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNH2,Kcnh2,Y611-p,3496803,GPSIKDKyVTALYFT,"activity, induced",,18617000,Ion_trans,,,,
+KCNH2,Kcnh2,S284-p,4696786,ASVRRASsADDIEAM,"activity, inhibited",,29949809,,reduces Kv11.1 mediated currents,,,
+KCNH2,Kcnh2,S1137-p,4696829,EGPTRRLsLPGQLGA,"activity, induced; molecular association, regulation; activity, inhibited",signaling pathway regulation,10488078; 10837251; 11953308,,,14-3-3 eta,Ywhah,INDUCES
+KCNH2,Kcnh2,Y475-p,3496802,LINFRTTyVNANEEV,"activity, induced",,18617000,Ion_trans,,,,
+KCNH2,Kcnh2,T897-p,4839200,SFRRRTDtDTEQPGE,"activity, inhibited",,18791070,,reduces basal channel current  amplitude,,,
+KCNH2,Kcnh2,T895-p,4974500,KLSFRRRtDKDTEQP,"activity, inhibited",signaling pathway regulation,10488078; 10837251; 18791070,,,,,
+KCNH2,Kcnh2,S890-p,3893409,RQRKRKLsFRRRTDK,"activity, induced; protein stabilization; intracellular localization; activity, inhibited",signaling pathway regulation,10488078; 10837251; 22653970,,,,,
+KCNH2,Kcnh2,S283-p,4696779,CASVRRAsSADDIEA,"activity, induced; molecular association, regulation; activity, inhibited",signaling pathway regulation,10488078; 10837251; 11953308,,,14-3-3 eta,Ywhah,INDUCES

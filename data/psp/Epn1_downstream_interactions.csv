@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPN1,Epn1,S382-p,3178200,FSDPWGGsPAKPSTN,"molecular association, regulation",,10764745,,Phosphorylation inhibits binding  during mitosis. S357D mutation lost effect of insulin-dependent endocytosis.; Phosphorylation inhibits  during mitosis,AP2A1,Ap2a1,DISRUPTS
+EPN1,Epn1,S382-p,3178200,FSDPWGGsPAKPSTN,"molecular association, regulation",,10764745,,Phosphorylation inhibits binding  during mitosis. S357D mutation lost effect of insulin-dependent endocytosis.; Phosphorylation inhibits  during mitosis,REPS2,Reps2,DISRUPTS

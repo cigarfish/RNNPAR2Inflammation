@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SP3,Sp3,K120-sm,3681500,SATPTTIkDEAGNLV,"intracellular localization; activity, inhibited","transcription, inhibited",12419227,,,,,
+SP3,Sp3,S73-p,1199100,CSKIGPPsPGDDEEE,"activity, induced; protein stabilization","transcription, induced",17685427,,,,,
+SP3,Sp3,K551-ac,459093,SPADIRIkEEEPDPE,,"transcription, induced",15554904,,,,,
+SP3,Sp3,K551-sm,2407419,SPADIRIkEEEPDPE,"intracellular localization; activity, inhibited","transcription, inhibited",12419227; 15247228; 15494207,,,,,

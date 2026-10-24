@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNJ11,Kcnj11,T224-p,453090,MQVVRKTtSPEGEVV,"receptor internalization, induced; activity, inhibited",,23223335; 24101510,IRK_C,channel current is inhibited,,,
+KCNJ11,Kcnj11,T180-p,450652,QAHRRAEtLIFSKHA,"receptor internalization, induced",,23223335,,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RUFY1,Rufy1,Y389-p,451277,TKVELETyKQTRQGL,intracellular localization,,11877430,,,,,
+RUFY1,Rufy1,Y400-p,451278,RQGLDEMySDVWKQL,intracellular localization,,11877430,,,,,

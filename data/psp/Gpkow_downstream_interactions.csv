@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPKOW,Gpkow,T316-p,21127301,GTASSRKtLWNQELY,"molecular association, regulation",,21880142,,regulates pre-mRNA processing,,,
+GPKOW,Gpkow,S27-p,10405008,SFGFTRTsARRRLAD,"molecular association, regulation",,21880142,,regulates pre-mRNA processing,,,

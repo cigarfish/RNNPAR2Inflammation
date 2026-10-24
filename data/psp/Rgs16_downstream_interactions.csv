@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS16,Rgs16,Y168-p,448652,TLMEKDSyPRFLKSP,"activity, induced; protein stabilization",,11602604; 12588871,RGS,,,,

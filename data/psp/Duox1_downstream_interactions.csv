@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUOX1,Duox1,S1217-p,6370300,SHHFRRRsFRGFWLT,"enzymatic activity, inhibited",,19144650,Ferric_reduct,,,,
+DUOX1,Duox1,S955-p,6370301,KDLCRRAsYISQDMI,"enzymatic activity, induced",,19144650,,,,,

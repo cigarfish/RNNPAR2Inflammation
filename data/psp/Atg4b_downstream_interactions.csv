@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG4B,Atg4b,S34-p,4750282,WILGRKYsIFTEKDE,"protein degradation; intracellular localization; enzymatic activity, induced","autophagy, induced",29165041; 33607258,, increased localization and import to mitochondria;  inhibits the F1Fo-ATP synthase activity; promotes p62 degradation; promotes Warburg effect,ATP5C,Atp5f1c,INDUCES
+ATG4B,Atg4b,S316-p,2527072,SIAELDPsIAVGFFC,"molecular association, regulation",,28821708,Peptidase_C54,,LC3B,Map1lc3b,DISRUPTS
+ATG4B,Atg4b,S383-p,470896,RLERFFDsEDEDFEI,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; autophagy, induced; cell growth, induced",26378241; 29232556,ATG4_LIR,,LC3A,Map1lc3a,INDUCES
+ATG4B,Atg4b,S392-p,470322,DEDFEILsL______,"molecular association, regulation; enzymatic activity, induced","autophagy, induced",26378241,,,LC3A,Map1lc3a,INDUCES

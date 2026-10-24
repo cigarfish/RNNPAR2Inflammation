@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+G6PD,G6pdx,Y428-p,7705803,DLTYGNRyKNVKLPD,,"cell motility, altered",19359662,G6PD_C,modulates Akt activity,,,
+G6PD,G6pdx,Y507-p,451668,GFQYEGTyKWVNPHK,,"cell motility, altered",19359662,G6PD_C,modulates Akt activity,,,
+G6PD,G6pdx,Y112-p,455132,NSYVAGQyDDAASYQ,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",33686238,G6PD_N,,,,
+G6PD,G6pdx,S210-p,15207801,FGRDLQSsDRLSNHI,"enzymatic activity, induced",,20649491,G6PD_N,,,,
+G6PD,G6pdx,K171-ac,3648857,WNRIIVEkPFGRDLQ,"enzymatic activity, inhibited; enzymatic activity, altered","carcinogenesis, inhibited; cell growth, inhibited",33630390; 37798264,G6PD_N,K171Q mutant reduces tumor growth when expressed in nude mice. ,,,
+G6PD,G6pdx,Y322-p,4114824,EGEATKGyLDDPTVP,"enzymatic activity, induced","carcinogenesis, inhibited; cell growth, inhibited",37491277,G6PD_C,,,,
+G6PD,G6pdx,K386-ac,11320999,DIFHQQCkRNELVIR,"enzymatic activity, altered",,37798264,G6PD_C,,,,
+G6PD,G6pdx,K403-ac,11320991,PNEAVYTkMMTKKPG,"protein degradation; molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",24769394; 27586085; 35065072; 37798264,G6PD_C, induction of apoptotic signaling; negatively regulates dimerization;  reshaped the dimer interface and propagated to the substrate binding,p53,Trp53,INDUCES
+G6PD,G6pdx,K403-ac,11320991,PNEAVYTkMMTKKPG,"protein degradation; molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",24769394; 27586085; 35065072; 37798264,G6PD_C, induction of apoptotic signaling; negatively regulates dimerization;  reshaped the dimer interface and propagated to the substrate binding,G6PD,G6pdx,DISRUPTS
+G6PD,G6pdx,S40-p,1871700806,IFIIMGAsGDLAKKK,"protein stabilization; enzymatic activity, induced","carcinogenesis, inhibited; apoptosis, induced",33398181,G6PD_N,stabilizes HK2,,,
+G6PD,G6pdx,K432-ac,11320995,GNRYKNVkLPDAYER,"enzymatic activity, altered",,37798264,G6PD_C,,,,
+G6PD,G6pdx,K408-ac,33364576,YTKMMTKkPGMFFNP,"enzymatic activity, altered",,37798264,G6PD_C,,,,
+G6PD,G6pdx,T266-p,15207800,NIACVILtFKEPFGT,"enzymatic activity, induced",,20649491,G6PD_C,,,,
+G6PD,G6pdx,K89-ac,11320983,KQSEPFFkATPEEKL,"protein conformation; enzymatic activity, induced; enzymatic activity, altered",,37798264,G6PD_N, ubiquitylation of adjacent K95/K97; lowers the thermodynamic stability of G6PD,,,
+G6PD,G6pdx,Y401-p,450521,VQPNEAVyTKMMTKK,"protein conformation; enzymatic activity, induced",,32863204,G6PD_C,,,,
+G6PD,G6pdx,Y249-p,462295,GTEGRGGyFDEFGII,"enzymatic activity, induced","carcinogenesis, inhibited; cell growth, inhibited",37491277,G6PD_C,,,,
+G6PD,G6pdx,T145-p,1883583400,FYLALPPtVYEAVTK,"molecular association, regulation; enzymatic activity, induced","cell growth, induced",37478541,,induces binding to NADP,,,
+G6PD,G6pdx,Y503-p,454849,MKRVGFQyEGTYKWV,"protein degradation; molecular association, regulation; enzymatic activity, inhibited; protein conformation","apoptosis, induced",37798264,G6PD_C, induction of apoptotic signaling; negatively regulates dimerization;  reshaped the dimer interface and propagated to the substrate binding,p53,Trp53,INDUCES
+G6PD,G6pdx,Y503-p,454849,MKRVGFQyEGTYKWV,"protein degradation; molecular association, regulation; enzymatic activity, inhibited; protein conformation","apoptosis, induced",37798264,G6PD_C, induction of apoptotic signaling; negatively regulates dimerization;  reshaped the dimer interface and propagated to the substrate binding,G6PD,G6pdx,DISRUPTS

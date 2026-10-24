@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAZ1B,Baz1b,S158-p,3215310,KSDGACDsPSSDKEN,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",19776015; 32518374,,promotes phosphorylation of WSTF at S158,H2AX,H2ax,INDUCES
+BAZ1B,Baz1b,K426-ac,9905197,GNSKSPKkGLKTPKT,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",32518374,,promotes phosphorylation of WSTF at S158,H2AX,H2ax,INDUCES

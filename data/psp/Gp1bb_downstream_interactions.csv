@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GP1BB,Gp1bb,S191-p,456005,ARAAARLsLTDPLVA,"molecular association, regulation; receptor desensitization, altered","cell adhesion, altered",12361948; 9454760,,,14-3-3 zeta,Ywhaz,INDUCES

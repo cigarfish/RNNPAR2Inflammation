@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP7,Casp7,S239-p,20473607,WRSPGRGsWFVQALC,"enzymatic activity, inhibited; activity, inhibited","cell growth, induced; apoptosis, inhibited",21555521; 27889207,Peptidase_C14,,,,
+CASP7,Casp7,S30-p,12069580,DAKPDRSsFVPSLFS,"activity, inhibited","cell growth, induced; apoptosis, inhibited",21555521; 27889207,,,CASP9,Casp9,DISRUPTS
+CASP7,Casp7,T173-p,20473606,FRGDRCKtLLEKPKL,"activity, inhibited","apoptosis, inhibited",21555521,Peptidase_C14,caspase7 cleavage supressed,,,

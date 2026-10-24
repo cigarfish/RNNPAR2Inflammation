@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRDM16,Prdm16,K568-sm,25087003,LAHNLLVkAEPKSPR,"molecular association, regulation","cell differentiation, inhibited; carcinogenesis, induced; cell growth, induced; cell differentiation, induced; transcription, altered; transcription, inhibited",21516122; 26559765,,,HDAC2,Hdac2,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLL,Poll,K27-p,1876957802,ASSKVLAkIPRREEG,intracellular localization,"DNA repair, induced",32224012,,SUMOylation of PolL in response to DNA damage,,,
+POLL,Poll,T553-p,5312301,GPGRVLPtPTEKDVF,protein stabilization; ubiquitination,,18688254,DNA_pol_B_thumb,prevents POLL ubiquitination,,,
+POLL,Poll,T204-p,62925702,EASDGEEtQVSAADL,"molecular association, regulation","DNA repair, induced",28109743,,,Ku80,Xrcc5,INDUCES

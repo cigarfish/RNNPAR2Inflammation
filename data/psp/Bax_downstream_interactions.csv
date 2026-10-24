@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAX,Bax,S184-p,451017,VAGVLTAsLTIWKKM,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; activity, inhibited","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",15642728; 17911107; 34587475; 35250564; 37324940,TM,,FBXL20,Fbxl20,INDUCES
+BAX,Bax,T174-p,28847907,TPTWQTVtIFVAGVL,intracellular localization,"apoptosis, induced",23907458,TM,,,,
+BAX,Bax,T186-p,28847909,GVLTASLtIWKKMG_,intracellular localization,"apoptosis, induced",23907458,TM,,,,
+BAX,Bax,S163-p,469571,GGWDGLLsYFGTPTW,"activity, induced; intracellular localization","apoptosis, induced",15525785; 17911107,,,,,
+BAX,Bax,T167-p,465510,GLLSYFGtPTWQTVT,"activity, induced; intracellular localization; phosphorylation","apoptosis, induced",15525785; 16709574,,,,,
+BAX,Bax,S60-p,983100,DASTKKLsECLKRIG,intracellular localization,,17911107,,,,,
+BAX,Bax,T172-p,28847908,FGTPTWQtVTIFVAG,intracellular localization,"apoptosis, induced",23907458,TM,,,,

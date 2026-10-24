@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAM2,Stam2,Y371-p,449670,LVNEAPVySVYSKLH,"molecular association, regulation",,18626516,,,UBE2D2,Ube2d2,DISRUPTS
+STAM2,Stam2,Y374-p,449671,EAPVYSVySKLHPPA,"molecular association, regulation",,18626516,,,UBE2D2,Ube2d2,DISRUPTS

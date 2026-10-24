@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TLR7,Tlr7,Y1024-p,1875831802,TNPQAHPyFWQCLKN,ubiquitination; intracellular localization; phosphorylation,"transcription, inhibited; signaling pathway regulation",34936223,TIR,"inhibits ubiquitination of itself, regulates NF-kB phosphorylation and TLR7/NF-kB signaling",,,

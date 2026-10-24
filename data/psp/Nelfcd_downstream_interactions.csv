@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NELFCD,Nelfcd,Y6-p,23003806,__MDEDYyGSAAEWG,"protein degradation; molecular association, regulation; phosphorylation","cell motility, induced; signaling pathway regulation",22238675,TH1,"MAPK/ERK signaling, enhanced ERK phosphorylation",PAK1,Pak1,DISRUPTS
+NELFCD,Nelfcd,Y6-p,23003806,__MDEDYyGSAAEWG,"protein degradation; molecular association, regulation; phosphorylation","cell motility, induced; signaling pathway regulation",22238675,TH1,"MAPK/ERK signaling, enhanced ERK phosphorylation",ARAF,Araf,DISRUPTS

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CBX5,Cbx5,S92-p,455944,SESNKRKsNFSNSAD,,"cell cycle regulation; chromatin organization, altered",31130069,,protect the cells against mitotic and chromosomal aberrations (regulates chromosomal stability),,,

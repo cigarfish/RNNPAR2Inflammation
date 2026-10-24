@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EYA1,Eya1,S299-p,41156500,SDRLRRGsDGKSRGR,sumoylation,"cell motility, induced; transcription, induced",24954506,,reduces sumoylation,,,
+EYA1,Eya1,K43-sm,41156502,TPNGTEVkTEPMSSS,,"transcription, inhibited",24954506,,,,,
+EYA1,Eya1,K147-sm,41156501,GALWAGIkTEGGLSQ,,"transcription, inhibited",24954506,,,,,

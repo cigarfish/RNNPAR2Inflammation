@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPKAPK5,Mapkapk5,S386-p,1876193502,HENGAEDsNVALEKL,"enzymatic activity, induced",,35064619,,,,,
+MAPKAPK5,Mapkapk5,S160-p,1876193500,NLLFKDNsLDAPVKL,"enzymatic activity, induced",,35064619,Pkinase,,,,
+MAPKAPK5,Mapkapk5,S354-p,27452609,VSLKPLHsVNNPILR,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",35064619,,,,,
+MAPKAPK5,Mapkapk5,T182-p,450093,IDQGDLMtPQFTPYY,"enzymatic activity, induced","cell growth, altered",17254968; 20734105,Pkinase,,,,
+MAPKAPK5,Mapkapk5,S115-p,18704700,GELFHRIsQHRHFTE,intracellular localization,cytoskeletal reorganization,20734105,Pkinase,  S115D mutant causes F-actin rearrangments; S115A mutant reduced the ability of MAPKAPK5 to activate p53-mediated transcription,,,

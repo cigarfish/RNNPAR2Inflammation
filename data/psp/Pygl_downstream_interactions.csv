@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PYGL,Pygl,S15-p,470343,QEKRRQIsIRGIVGV,"enzymatic activity, induced",,37714306,,,,,
+PYGL,Pygl,S430-gl,1876695600,VDRLRRMsLIEEEGS,"phosphorylation; enzymatic activity, induced",,34939084,Phosphorylase,Ser-430 O-GlcNAcylation promotes S15 phosphorylation,,,

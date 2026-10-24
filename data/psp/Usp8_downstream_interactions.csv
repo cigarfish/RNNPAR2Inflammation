@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP8,Usp8,Y810-p,23071951,DYFNRNCyQDDINRS,,cell cycle regulation,29472535,UCH,trichoplein-mediated inhibition of ciliogenesis,,,
+USP8,Usp8,S718-p,454338,SKLKRSYsSPDITQA,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,17720156; 26214742; 29880877,,USP8 is activated in M phase and has less 14-3-3s associated; stabilization of RTKs,14-3-3 beta,Ywhab,INDUCES
+USP8,Usp8,S718-p,454338,SKLKRSYsSPDITQA,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,17720156; 26214742; 29880877,,USP8 is activated in M phase and has less 14-3-3s associated; stabilization of RTKs,14-3-3 sigma,Sfn,INDUCES
+USP8,Usp8,S718-p,454338,SKLKRSYsSPDITQA,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,17720156; 26214742; 29880877,,USP8 is activated in M phase and has less 14-3-3s associated; stabilization of RTKs,14-3-3 epsilon,Ywhae,INDUCES
+USP8,Usp8,Y717-p,484371,PSKLKRSySSPDITQ,,cell cycle regulation,29472535,,trichoplein-mediated inhibition of ciliogenesis,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC7A5,Slc7a5,K25-ub,21185156,EKEEAREkMLAAKSA,protein degradation,"endocytosis, induced",31728037,,PMA-induced endocytosis,,,
+SLC7A5,Slc7a5,K19-ub,6778621,AAPAAEEkEEAREKM,protein degradation,"endocytosis, induced",31728037,,PMA-induced endocytosis,,,
+SLC7A5,Slc7a5,K30-ub,6778622,REKMLAAkSADGSAP,protein degradation,"endocytosis, induced",31728037,,PMA-induced endocytosis,,,

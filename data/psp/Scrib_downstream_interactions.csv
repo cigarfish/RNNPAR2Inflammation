@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SCRIB,Scrib,S1508-p,480131,WRAARMKsLEQDALR,intracellular localization,"cell motility, induced; cell adhesion, induced",33583073,,,,,
+SCRIB,Scrib,S1378-p,470678,EGPPKRVsLVGADDL,intracellular localization,"cell motility, induced; cell adhesion, induced",33583073,,,,,

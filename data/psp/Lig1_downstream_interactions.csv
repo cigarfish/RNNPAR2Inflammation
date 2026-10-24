@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LIG1,Lig1,S76-p,449246,EEEDEALsPAKGQKP,"molecular association, regulation; intracellular localization","cell growth, altered",12851383; 19223468,,regulates DNA replication and repair,RFC1,Rfc1,INDUCES
+LIG1,Lig1,S76-p,449246,EEEDEALsPAKGQKP,"molecular association, regulation; intracellular localization","cell growth, altered",12851383; 19223468,,regulates DNA replication and repair,RAD17,Rad17,DISRUPTS
+LIG1,Lig1,K192-ub,59175204,PKPLKTSkAETPTES,protein degradation,,27573245,,,,,
+LIG1,Lig1,K226-ub,22246884,KPPRRAPkTLSSFFT,protein degradation,,27573245,,,,,
+LIG1,Lig1,K79-ub,59175203,DEALSPAkGQKPALD,protein degradation,,27573245,,,,,
+LIG1,Lig1,S66-p,448498,KAARVLGsEGEEEDE,"molecular association, regulation; intracellular localization","cell growth, altered",12851383; 19223468,,regulates DNA replication and repair,RFC1,Rfc1,INDUCES
+LIG1,Lig1,S66-p,448498,KAARVLGsEGEEEDE,"molecular association, regulation; intracellular localization","cell growth, altered",12851383; 19223468,,regulates DNA replication and repair,RAD17,Rad17,DISRUPTS
+LIG1,Lig1,K795-m1,58123203,EELQAICkLGTGFSD,"molecular association, regulation",,23583077,DNA_ligase_A_C,,L3MBTL iso4,L3mbtl2,INDUCES
+LIG1,Lig1,K376-ub,21178024,VRAEAAEkGDVGLVA,protein degradation,,27573245,DNA_ligase_A_N,,,,
+LIG1,Lig1,S51-p,468123,GVVSESDsPVKRPGR,"molecular association, regulation; intracellular localization","cell cycle regulation; cytoskeletal reorganization; DNA repair, inhibited; cell growth, altered",12851383; 19223468; 22952233,,S51D mutant induces cellular senescence ; regulates DNA replication and repair,RFC1,Rfc1,INDUCES
+LIG1,Lig1,S51-p,468123,GVVSESDsPVKRPGR,"molecular association, regulation; intracellular localization","cell cycle regulation; cytoskeletal reorganization; DNA repair, inhibited; cell growth, altered",12851383; 19223468; 22952233,,S51D mutant induces cellular senescence ; regulates DNA replication and repair,RAD17,Rad17,DISRUPTS
+LIG1,Lig1,S51-p,468123,GVVSESDsPVKRPGR,"molecular association, regulation; intracellular localization","cell cycle regulation; cytoskeletal reorganization; DNA repair, inhibited; cell growth, altered",12851383; 19223468; 22952233,,S51D mutant induces cellular senescence ; regulates DNA replication and repair,RFC1,Rfc1,DISRUPTS
+LIG1,Lig1,S91-p,2999200,ALDCSQVsPPRPATS,"molecular association, regulation; intracellular localization; phosphorylation","cell growth, altered",12851383; 19223468,,primes other LIG1 phosphorylations; regulates DNA replication and repair,RFC1,Rfc1,INDUCES
+LIG1,Lig1,S91-p,2999200,ALDCSQVsPPRPATS,"molecular association, regulation; intracellular localization; phosphorylation","cell growth, altered",12851383; 19223468,,primes other LIG1 phosphorylations; regulates DNA replication and repair,RAD17,Rad17,DISRUPTS

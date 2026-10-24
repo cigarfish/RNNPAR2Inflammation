@@ -1,0 +1,9 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Pten,Inpp4b,INPP4B,INPP4B,PTEN,S380,"Phosphatases, in vitro"
+Pten,Inpp4b,INPP4B,INPP4B,PTEN,S385,"Phosphatases, in vitro"
+Pten,Inpp4b,INPP4B,INPP4B,PTEN,T382,"Phosphatases, in vitro"
+Pten,Inpp4b,INPP4B,INPP4B,PTEN,T383,"Phosphatases, in vitro"
+Pten,Pten,PTEN,PTEN,PTEN,S380,"Phosphatases, in vitro"
+Pten,Pten,PTEN,PTEN,PTEN,S385,"Phosphatases, in vitro"
+Pten,Pten,PTEN,PTEN,PTEN,T382,"Phosphatases, in vitro"
+Pten,Pten,PTEN,PTEN,PTEN,T383,"Phosphatases, in vitro"

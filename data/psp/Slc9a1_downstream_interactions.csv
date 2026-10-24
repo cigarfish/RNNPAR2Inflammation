@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC9A1,Slc9a1,S703-p,448347,MSRARIGsDPLAYEP,"activity, induced","cell growth, induced; cell motility, induced; cytoskeletal reorganization; transcription, altered; cell growth, altered",10400637; 25578862; 27049728,,"stress fiber formation, in S703A and T653A mutants proliferation was substantially higher; migration, invasion, spheroid growth, anchorage-dependent and soft agar colony formation",,,
+SLC9A1,Slc9a1,S796-p,460570,QRIQRCLsDPGPHPE,"molecular association, regulation",,16475831,,,CA2(NOT_REPORTED,Car2,UNKNOWN
+SLC9A1,Slc9a1,S726-p,2509107,IDPASPQsPESVDLV,"activity, induced","apoptosis, induced",18701649,,regulates the apoptotic alkalinizing activity of NHE1,,,
+SLC9A1,Slc9a1,T779-p,3914103,PGTDDVFtPAPSDSP,"activity, induced",,23678047,,,,,
+SLC9A1,Slc9a1,S693-p,468293,VPAHKLDsPTMSRAR,protein stabilization; protein conformation,,28554535,NEXCaM_BD,,,,
+SLC9A1,Slc9a1,S785-p,1983418,FTPAPSDsPSSQRIQ,"activity, induced; protein stabilization; protein conformation",,23678047; 28554535,,,,,
+SLC9A1,Slc9a1,S729-p,3181649,ASPQSPEsVDLVNEE,"activity, induced","apoptosis, induced",18701649,,regulates the apoptotic alkalinizing activity of NHE1,,,
+SLC9A1,Slc9a1,S771-p,475074,MRSKETSsPGTDDVF,"activity, induced; protein stabilization; protein conformation",,17209041; 23602949; 23678047; 25162926,,"mutant expression decreased, defect in activation by sustained acidosis",,,
+SLC9A1,Slc9a1,S766-p,18262072,DGGIMMRsKETSSPG,"activity, induced",,23678047,,,,,
+SLC9A1,Slc9a1,T653-p,4729330,LRSYNRHtLVADPYE,"activity, induced","cell motility, induced; cytoskeletal reorganization; cell growth, altered",25578862; 27555478,NEXCaM_BD,"stress fiber formation, in S703A and T653A mutants proliferation was substantially higher",,,
+SLC9A1,Slc9a1,S648-p,3880766,KTRQRLRsYNRHTLV,"molecular association, regulation; activity, inhibited",,18757828; 33655882,NEXCaM_BD,,Calmodulin,Calm1,DISRUPTS
+SLC9A1,Slc9a1,S770-p,475073,MMRSKETsSPGTDDV,"activity, induced; protein stabilization; protein conformation",,17209041; 23602949,,phosphomimetic mutant was strongly stabilized and resulted in a more compact region which affects NHE1 activity.,,,

@@ -1,0 +1,18 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IRAK1,Irak1,T387-p,447721,RTQTVRGtLAYLPEE,"molecular association, regulation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,14625308; 31511642; 38113335,Pkinase,induces MAPK and NF-kB signaling pathways by inducing phosphorylation of JNK and ERK,PIDD,Pidd1,INDUCES
+IRAK1,Irak1,T387-p,447721,RTQTVRGtLAYLPEE,"molecular association, regulation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,14625308; 31511642; 38113335,Pkinase,induces MAPK and NF-kB signaling pathways by inducing phosphorylation of JNK and ERK,TRAF6,Traf6,INDUCES
+IRAK1,Irak1,S144-p,21041600,SSASTFLsPAFPGSQ,"molecular association, regulation; enzymatic activity, induced","transcription, induced",21743479; 27790836,,,PIN1,Pin1,INDUCES
+IRAK1,Irak1,T66-p,447722,CERSGQRtASVLWPW,"molecular association, regulation; protein conformation; phosphorylation","transcription, altered; signaling pathway regulation",12138165; 18524972,Death,dimerization,TRAF6,Traf6,DISRUPTS
+IRAK1,Irak1,T66-p,447722,CERSGQRtASVLWPW,"molecular association, regulation; protein conformation; phosphorylation","transcription, altered; signaling pathway regulation",12138165; 18524972,Death,dimerization,IRAK1,Irak1,INDUCES
+IRAK1,Irak1,T66-p,447722,CERSGQRtASVLWPW,"molecular association, regulation; protein conformation; phosphorylation","transcription, altered; signaling pathway regulation",12138165; 18524972,Death,dimerization,ACP1,Acp1,DISRUPTS
+IRAK1,Irak1,S131-p,4273531,PAEAEAWsPRKLPSS,"molecular association, regulation; enzymatic activity, induced","transcription, induced",21743479; 27790836,,,PIN1,Pin1,INDUCES
+IRAK1,Irak1,K134-ub,2134713,AEAWSPRkLPSSAST,protein degradation,"transcription, induced; signaling pathway regulation",18326498; 29038250,,activation of TLR9 ligand-induced inflammatory signaling,,,
+IRAK1,Irak1,S376-p,449756,GSSPSQSsMVARTQT,"enzymatic activity, induced",,29208712,Pkinase,,,,
+IRAK1,Irak1,S163-p,60189902,PELGLVPsPASLWPP,"molecular association, regulation",,27790836,,bivalent advantage for Pin1 binding,PIN1,Pin1,INDUCES
+IRAK1,Irak1,S375-p,31085747,AGSSPSQsSMVARTQ,"enzymatic activity, induced",,29208712,Pkinase,,,,
+IRAK1,Irak1,T100-p,447720,LRARDIItAWHPPAP,,"transcription, inhibited",11976320,Death,,,,
+IRAK1,Irak1,T209-p,450949,LCEISRGtHNFSEEL,"molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,14625308; 31511642; 38113335,,induces MAPK and NF-kB signaling pathways by inducing phosphorylation of JNK and ERK; induces phosphorylation at T387,PIDD,Pidd1,INDUCES
+IRAK1,Irak1,T209-p,450949,LCEISRGtHNFSEEL,"molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,14625308; 31511642; 38113335,,induces MAPK and NF-kB signaling pathways by inducing phosphorylation of JNK and ERK; induces phosphorylation at T387,TRAF6,Traf6,INDUCES
+IRAK1,Irak1,T381-p,394791400,QSSMVARtQTVRGTL,"enzymatic activity, induced",,29208712,Pkinase,,,,
+IRAK1,Irak1,S173-p,21041601,SLWPPPPsPAPSSTK,"molecular association, regulation; enzymatic activity, induced","transcription, induced",21743479; 27790836,,,PIN1,Pin1,INDUCES
+IRAK1,Irak1,S373-p,23116180,RFAGSSPsQSSMVAR,"enzymatic activity, induced",,29208712,Pkinase,,,,

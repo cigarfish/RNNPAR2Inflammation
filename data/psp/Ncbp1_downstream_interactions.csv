@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCBP1,Ncbp1,S22-p,1219020,PHKRRKTsDANETED,,"RNA splicing, altered",10973943,,,,,
+NCBP1,Ncbp1,T21-p,480103,QPHKRRKtSDANETE,,"RNA splicing, altered",10973943,,,,,
+NCBP1,Ncbp1,S7-p,9764056,_MSRRRHsDENDGGQ,,"RNA splicing, altered",10973943,,,,,

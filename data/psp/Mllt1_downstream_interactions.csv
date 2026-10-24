@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MLLT1,Mllt1,S398-p,40666502,FEPSQNHsQGPLRSM,"molecular association, regulation","transcription, inhibited",25921070,,,BMI1,Bmi1,INDUCES
+MLLT1,Mllt1,K469-ac,1881852003,KPPPPNSkVSGRRSP,,"cell growth, induced",35108652,,Sirt2 deletion AML cells showed significantly increased proliferation ,,,
+MLLT1,Mllt1,S394-p,40666501,SDSDFEPsQNHSQGP,"molecular association, regulation","transcription, inhibited",25921070,,,BMI1,Bmi1,INDUCES

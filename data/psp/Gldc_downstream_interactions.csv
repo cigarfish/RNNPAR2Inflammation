@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLDC,Gldc,K514-ac,1186987,GIPGSVFkRTSPFLT,"protein degradation; enzymatic activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited",34244482,,"inhibits glycine catabolism and pyrimidine synthesis, suppresses tumorigenesis",,,

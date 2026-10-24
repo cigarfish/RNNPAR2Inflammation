@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BEST1,Best1,S358-p,9720901,SAQFRRAsFMGSTFN,"activity, induced; molecular association, regulation; intracellular localization",,19635817; 29121962,,glutamate release from hippocampal astrocyte; S358E mutation prevents channel rundown ;  whole-cell current and surface expression of Best1 channel in astrocytes,14-3-3 gamma,Ywhag,INDUCES
+BEST1,Best1,Y227-p,28706303,QCGHLYAyDWISIPL,intracellular localization,,23880862,Bestrophin,Basolateral localization and delivery,,,

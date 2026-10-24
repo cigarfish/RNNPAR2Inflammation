@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STK11,Stk11,S399-p,27933602,DLSGEEAsRPAPQ__,"intracellular localization; enzymatic activity, induced",,23612973,,S399 is required for metformin activation of AMPK.; translocation from nucleus to cytosol,,,
+STK11,Stk11,T402-p,11454702,TEAAQLStKSRAEGR,"enzymatic activity, induced",,12805220,,STRAD increases LKB1 activation ,,,
+STK11,Stk11,T363-p,448151,IEDDIIYtQDFTVPG,"enzymatic activity, induced",,12805220,,STRAD increases LKB1 activation ,,,
+STK11,Stk11,K64-ac,56714902,EGSYGKVkEVLDSET,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; apoptosis, induced; transcription, induced; cell growth, altered",27259994,Pkinase,,SIRT1,Sirt1,INDUCES
+STK11,Stk11,K64-ac,56714902,EGSYGKVkEVLDSET,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; apoptosis, induced; transcription, induced; cell growth, altered",27259994,Pkinase,,STRAD,Strada,DISRUPTS
+STK11,Stk11,K64-ac,56714902,EGSYGKVkEVLDSET,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; apoptosis, induced; transcription, induced; cell growth, altered",27259994,Pkinase,,HERC2,Herc2,INDUCES
+STK11,Stk11,T336-p,448150,KDRWRSMtVVPYLED,"enzymatic activity, induced",,12805220,,STRAD increases LKB1 activation ,,,
+STK11,Stk11,S334-p,448146,DTKDRWRsMTVVPYL,,"carcinogenesis, induced; cell growth, inhibited",34193159,,,,,
+STK11,Stk11,T185-p,11454701,KPGNLLLtTGGTLKI,"enzymatic activity, induced",,12805220,Pkinase,STRAD increases LKB1 activation ,,,
+STK11,Stk11,S428-p,448147,SSKIRRLsACKQQ__,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; carcinogenesis, inhibited; cell motility, induced; signaling pathway regulation; autophagy, induced; cell growth, induced; cell growth, altered",16407220; 18321849; 19414597; 33219302; 34921839; 35835853,,,Exportin-1,Xpo1,INDUCES
+STK11,Stk11,S428-p,448147,SSKIRRLsACKQQ__,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; carcinogenesis, inhibited; cell motility, induced; signaling pathway regulation; autophagy, induced; cell growth, induced; cell growth, altered",16407220; 18321849; 19414597; 33219302; 34921839; 35835853,,,STRAD,Strada,INDUCES
+STK11,Stk11,T189-p,448149,LLLTTGGtLKISDLG,,"apoptosis, inhibited",11430832,Pkinase,,,,
+STK11,Stk11,M1-ac,1886304302,_______mEVVDPQQ,phosphorylation,,33219302,,inhibits phosphorylation at S428,,,
+STK11,Stk11,K48-ac,3173806,KRAKLIGkYLMGDLL,"sumoylation; molecular association, regulation; intracellular localization; enzymatic activity, inhibited; protein conformation; phosphorylation",,18687677; 30594553,,induces sumoylation at K178,STRAD,Strada,DISRUPTS
+STK11,Stk11,K97-ac,3173802,NGEANVKkEIQLLRR,"enzymatic activity, inhibited",,23086944,Pkinase,,,,
+STK11,Stk11,S307-p,7710000,IRQIRQHsWFRKKHP,"molecular association, regulation; intracellular localization","apoptosis, altered; cell growth, altered",19414597,Pkinase,in the presence of ONOO(-);  supresses angiogenesis,Exportin-1,Xpo1,INDUCES
+STK11,Stk11,S307-p,7710000,IRQIRQHsWFRKKHP,"molecular association, regulation; intracellular localization","apoptosis, altered; cell growth, altered",19414597,Pkinase,in the presence of ONOO(-);  supresses angiogenesis,AMPKA1,Prkaa1,INDUCES
+STK11,Stk11,S307-p,7710000,IRQIRQHsWFRKKHP,"molecular association, regulation; intracellular localization","apoptosis, altered; cell growth, altered",19414597,Pkinase,in the presence of ONOO(-);  supresses angiogenesis,STRAD,Strada,INDUCES
+STK11,Stk11,K178-sm,41692104,GIVHKDIkPGNLLLT,"molecular association, regulation; intracellular localization; protein conformation","cell growth, altered",30594553,Pkinase,,STRAD,Strada,DISRUPTS

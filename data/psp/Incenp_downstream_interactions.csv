@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+INCENP,Incenp,S893-p,450467,PRYHKRTsSAVWNSP,"activity, induced; protein stabilization; molecular association, regulation; enzymatic activity, induced",,12925766; 27332895; 32028528,,induces AurB activity,INCENP,Incenp,INDUCES
+INCENP,Incenp,R887-m1,50613405,SKPRYHKrTSSAVWN,,"cell cycle regulation; cell growth, induced",26460953,,growth of cancer cells,,,
+INCENP,Incenp,T59-p,458332,EPELMPKtPSQKNRR,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered",19303298; 20619651; 22814604; 29084198; 32356865; 33067654,,,KIF20A,Kif20a,DISRUPTS
+INCENP,Incenp,S894-p,450468,RYHKRTSsAVWNSPP,"activity, induced; protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, induced",cell cycle regulation,12925766; 27332895; 27512725; 32028528,,"abscission during cytokinesis, colocalizes with and required for  activation of Aurora B; induces AurB activity",INCENP,Incenp,INDUCES
+INCENP,Incenp,S91-p,4273495,RRLSRRKsRSSQLSS,"molecular association, regulation; intracellular localization","cell cycle regulation; cell growth, induced",33355621,,alters CPC localization,KIF20A,Kif20a,INDUCES
+INCENP,Incenp,T892-p,450466,KPRYHKRtSSAVWNS,"activity, induced; protein stabilization; molecular association, regulation; enzymatic activity, induced",,12925766; 27332895,,,INCENP,Incenp,INDUCES

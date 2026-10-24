@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYL9,Myl9,T19-p,1863501,KKRPQRAtSNVFAMF,"activity, induced; molecular association, regulation; intracellular localization","cell adhesion, induced; cytoskeletal reorganization; signaling pathway regulation",22136066; 26169356; 31834925; 37064875,,,,,
+MYL9,Myl9,T10-p,4964102,SKRAKAKtTKKRPQR,intracellular localization,cytoskeletal reorganization,22136066,,,,,
+MYL9,Myl9,S20-p,1863500,KRPQRATsNVFAMFD,"activity, induced; molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced; cell adhesion, induced; signaling pathway regulation; cell growth, induced; cell motility, altered; cell adhesion, altered; cytoskeletal reorganization",10092231; 12081505; 18854160; 21336303; 22136066; 23396364; 26169356; 31834925; 34532864; 35594862; 37064875,,,,,
+MYL9,Myl9,S3-p,4964100,_____MSsKRAKAKT,intracellular localization,cytoskeletal reorganization,22136066,,,,,
+MYL9,Myl9,S2-p,4964101,______MsSKRAKAK,intracellular localization,cytoskeletal reorganization,22136066,,,,,

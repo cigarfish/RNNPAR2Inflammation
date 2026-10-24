@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PGAM1,Pgam1,S23-p,455496,WNLENRFsGWYDADL,"enzymatic activity, inhibited",,12189148,His_Phos_1,,,,
+PGAM1,Pgam1,Y92-p,454756,WRLNERHyGGLTGLN,"enzymatic activity, induced",,27991922,His_Phos_1,,,,
+PGAM1,Pgam1,H11-p,27939200,YKLVLIRhGESAWNL,"enzymatic activity, induced","cell growth, inhibited",15181008; 8477721,His_Phos_1,"PGMtide  (LIRHGE) promoted growth arrest of several tumor cell lines, but not in non-tumor cells or in the presence of pyruvate.",,,
+PGAM1,Pgam1,S118-p,455497,QVKIWRRsYDVPPPP,"enzymatic activity, inhibited",,12189148,His_Phos_1,,,,

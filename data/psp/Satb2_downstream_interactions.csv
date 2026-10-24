@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SATB2,Satb2,K233-sm,2894437,YKKYKKIkVERVERE,"molecular association, regulation; intracellular localization","transcription, inhibited",14701874,CUTL,,,,
+SATB2,Satb2,K350-sm,2894438,PPIPRAVkPEPTNSS,"molecular association, regulation; intracellular localization","transcription, inhibited",14701874,,,,,

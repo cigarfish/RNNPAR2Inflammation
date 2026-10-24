@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SENP1,Senp1,Y270-p,1876335002,EQLSHSVySLSSYTP,"sumoylation; molecular association, regulation; enzymatic activity, inhibited",,35186948,,alters substrate desumoylation ,SUMO1,Sumo1,INDUCES
+SENP1,Senp1,Y270-p,1876335002,EQLSHSVySLSSYTP,"sumoylation; molecular association, regulation; enzymatic activity, inhibited",,35186948,,alters substrate desumoylation ,SUMO3,Sumo3,INDUCES

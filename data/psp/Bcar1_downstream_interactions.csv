@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCAR1,Bcar1,Y165-p,448722,PSPATDLyQVPPGPG,"activity, induced","carcinogenesis, induced; cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",22084245; 34169835,,,,,
+BCAR1,Bcar1,S437-p,8069100,SSTGSTRsSQSASSL,intracellular localization,"cell motility, altered",19454314,,,,,
+BCAR1,Bcar1,Y12-p,4251353,NVLAKALyDNVAESP,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell adhesion, inhibited",21937722,SH3_1,"inhibits tyrosine phosphorylation, induces gelatinase activity",PTP-PEST,Ptpn12,DISRUPTS
+BCAR1,Bcar1,Y12-p,4251353,NVLAKALyDNVAESP,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell adhesion, inhibited",21937722,SH3_1,"inhibits tyrosine phosphorylation, induces gelatinase activity",FAK,Ptk2,DISRUPTS
+BCAR1,Bcar1,Y267-p,451537,SQYGQEVyDTPPMAV,,"cell growth, induced",26867768,,metastases,,,
+BCAR1,Bcar1,Y410-p,448720,GVVDSGVyAVPPPAE,,"carcinogenesis, induced; cell motility, inhibited",35081345,,,,,
+BCAR1,Bcar1,Y306-p,448779,PSNHHAVyDVPPSVS,,"cell growth, induced",26867768,,metastases,,,
+BCAR1,Bcar1,Y234-p,449639,AQPEQDEyDIPRHLL,,"cell growth, induced",26867768,,metastases,,,
+BCAR1,Bcar1,Y287-p,451538,RDPLLEVyDVPPSVE,,"cell growth, induced",26867768,,metastases,,,
+BCAR1,Bcar1,Y249-p,448721,APGPQDIyDVPPVRG,,"carcinogenesis, induced; cell growth, induced; transcription, induced",26867768; 34192548,,,,,
+BCAR1,Bcar1,Y664-p,448399,EGGWMEDyDYVHLQG,,"carcinogenesis, induced; cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",22084245,CAS_C,"P130Cas phosphorylation is important in development of peripheral adhesion complexes, oncogenic signaling, and cell migration. ",,,
+BCAR1,Bcar1,S639-p,470438,IQSRPLPsPPKFTSQ,intracellular localization,"cell motility, altered",19454314,,,,,
+BCAR1,Bcar1,Y327-p,448780,PLLREETyDVPPAFA,"molecular association, regulation; acetylation","DNA repair, induced; transcription, induced",37182100,,induces H4K16 acetylation,RBBP4,Rbbp4,INDUCES
+BCAR1,Bcar1,Y128-p,448778,SKAQQGLyQVPGPSP,phosphorylation,"carcinogenesis, induced; cell motility, induced; cell growth, induced; cell adhesion, altered",22710723; 27447856,,pY88 paxillin activates p130cas-PI3K-AKT signaling axis.,,,
+BCAR1,Bcar1,S139-p,483627,GPSPQFQsPPAKQTS,intracellular localization,"cell motility, altered",19454314,,,,,

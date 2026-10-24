@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AP2B1,Ap2b1,Y277-p,462925,LPKDSDYyNMLLKKL,"molecular association, regulation; intracellular localization",,31492751,Adaptin_N,,,,
+AP2B1,Ap2b1,S258-p,178605774,ANSAVVLsAVKVLMK,intracellular localization,,31492751,Adaptin_N,suppresses its nuclear accumulation,,,
+AP2B1,Ap2b1,Y737-p,450538,THRQGHIyMEMNFTN,"molecular association, regulation",,17456551,Alpha_adaptinC2,,ARRB1,Arrb1,DISRUPTS
+AP2B1,Ap2b1,Y737-p,450538,THRQGHIyMEMNFTN,"molecular association, regulation",,17456551,Alpha_adaptinC2,,AGTRAP,Agtrap,DISRUPTS

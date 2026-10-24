@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERN1,Ern1,Y628-p,41192601,EHPNVIRyFCTEKDR,protein conformation,,25968568,Pkinase,"The apo-hIRE1 dimer is twisted compared to the phos-yIRE1 dimer, and the RNase domains are further apart.",,,
+ERN1,Ern1,S724-p,7161100,KLAVGRHsFSRRSGV,"molecular association, regulation; phosphorylation; enzymatic activity, induced","endocytosis, induced; autophagy, induced; RNA splicing, induced; apoptosis, induced; apoptosis, inhibited; transcription, altered",16950141; 30045994; 36170818; 36739529; 36768338; 38084427,Pkinase,"oligomerization, NO-induced apoptosis",IRE1,Ern1,INDUCES

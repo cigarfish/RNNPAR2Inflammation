@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POU4F1,Pou4f1,S122-p,6311910,DLLDHISsPSLALMA,"activity, induced","cell differentiation, altered; cell differentiation, induced; transcription, induced",16126301; 19135033,,activation of galanin promoter induced by retinoic acid ,,,
+POU4F1,Pou4f1,S121-p,6322100,GDLLDHIsSPSLALM,"activity, induced","cell differentiation, induced; transcription, induced",16126301,,,,,
+POU4F1,Pou4f1,T39-p,6311909,IRRACLPtPPLQSNL,"activity, induced","cell differentiation, altered; transcription, induced",19135033,,activation of galanin promoter induced by retinoic acid ,,,

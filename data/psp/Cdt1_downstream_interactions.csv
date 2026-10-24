@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDT1,Cdt1,T406-p,21440503,LPATPPAtPPAASPS,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,RAMP,Ramp1,DISRUPTS
+CDT1,Cdt1,T406-p,21440503,LPATPPAtPPAASPS,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,MCM2,Mcm2,DISRUPTS
+CDT1,Cdt1,S491-p,21440505,GSCCTIMsPGEMEKH,"protein stabilization; molecular association, regulation; activity, inhibited",,21930785,CDT1_C,,RAMP,Ramp1,DISRUPTS
+CDT1,Cdt1,S411-p,21440504,PATPPAAsPSALKGV,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,RAMP,Ramp1,DISRUPTS
+CDT1,Cdt1,S411-p,21440504,PATPPAAsPSALKGV,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,MCM2,Mcm2,DISRUPTS
+CDT1,Cdt1,T29-p,455584,PPKLACRtPSPARPA,"molecular association, regulation","cell cycle regulation; transcription, inhibited",15855168; 21856198,,"Cdt1 protein is degraded in S phase even in T29A mutant (even though it no longer co-IPs with Skp2).  Overexpression of WT Cdt1 induced rereplication (DNA content >4N) and this was even greater in the T29A mutant.; T29 phosphorylation impairs HBO1 binding at replication origins in response to stress, inhibiting transcription.",SKP2,Skp2,INDUCES
+CDT1,Cdt1,T102-p,31889833,GQKIKKStPAAGQPP,,cell cycle regulation; cytoskeletal reorganization,30154187,, regulates kTM stability,,,
+CDT1,Cdt1,T402-p,20804634,PRPALPAtPPATPPA,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,RAMP,Ramp1,DISRUPTS
+CDT1,Cdt1,T402-p,20804634,PRPALPAtPPATPPA,"protein stabilization; molecular association, regulation; activity, inhibited; phosphorylation",,21930785; 32841231,,inhibits Chk1 phosphorylation,MCM2,Mcm2,DISRUPTS
+CDT1,Cdt1,T7-p,1239966005,_MEQRRVtDFFARRR,,cell cycle regulation; cytoskeletal reorganization,30154187,, regulates kTM stability,,,
+CDT1,Cdt1,S391-p,20804632,LRSAAPSsPGSPRPA,"protein stabilization; molecular association, regulation; activity, inhibited",,21930785,,,RAMP,Ramp1,DISRUPTS
+CDT1,Cdt1,T358-p,1239966007,PPATEKLtTAQEVLA,,cell cycle regulation; cytoskeletal reorganization,30154187,, regulates kTM stability,,,
+CDT1,Cdt1,S143-p,1239966006,RVRALKAsAQDAGES,,cell cycle regulation; cytoskeletal reorganization,30154187,, regulates kTM stability,,,

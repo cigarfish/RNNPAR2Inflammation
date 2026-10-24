@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNK3,Kcnk3,S393-p,2840504,GLMKRRSsV______,"activity, induced; intracellular localization; activity, inhibited",,21357689; 21838752,,,,,
+KCNK3,Kcnk3,S336-p,21336507,IPRDLSTsDTCVEQS,"activity, inhibited",,21838752,,,,,
+KCNK3,Kcnk3,T383-p,2840502,TGLHSLStFRGLMKR,"activity, inhibited",,23229553,,peri-operative atrial fibrillation;  TASK1 current inhibition,,,

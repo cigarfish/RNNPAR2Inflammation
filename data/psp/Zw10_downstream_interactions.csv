@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZW10,Zw10,S12-p,25172966,VTEVLAHsGRLEKED,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,38402459,,,ZWINT,Zwint,DISRUPTS
+ZW10,Zw10,S12-p,25172966,VTEVLAHsGRLEKED,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,38402459,,,Mad1,Mad1l1,DISRUPTS
+ZW10,Zw10,S12-p,25172966,VTEVLAHsGRLEKED,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,38402459,,,Mad2,Mad2l1,DISRUPTS

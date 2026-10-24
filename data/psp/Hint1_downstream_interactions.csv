@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HINT1,Hint1,K21-ac,461229,GGDTIFGkIIRKEIP,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, induced",28394346; 32636443,,,CTNNB1,Ctnnb1,DISRUPTS
+HINT1,Hint1,K21-ac,461229,GGDTIFGkIIRKEIP,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; transcription, induced",28394346; 32636443,,,MITF,Mitf,INDUCES
+HINT1,Hint1,Y109-p,457442,SDGGQSVyHVHLHVL,,"cell growth, induced; transcription, induced",28394346,HIT,,,,
+HINT1,Hint1,K30-ac,11320683,IRKEIPAkIIFEDDR,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",32636443,HIT,,CTNNB1,Ctnnb1,DISRUPTS
+HINT1,Hint1,K30-ac,11320683,IRKEIPAkIIFEDDR,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",32636443,HIT,,MITF,Mitf,INDUCES

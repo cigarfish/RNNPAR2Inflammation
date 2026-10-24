@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLDIP3,Poldip3,S383-p,454010,ELPRRVNsASSSNPP,"activity, induced",,15341740; 16984396,,phosphorylation of this site is involved in the control of cell growth,ERH(NOT_REPORTED,Erh,UNKNOWN
+POLDIP3,Poldip3,S385-p,454011,PRRVNSAsSSNPPAE,"activity, induced",,15341740; 16984396,,phosphorylation of this site is involved in the control of cell growth,ERH(NOT_REPORTED,Erh,UNKNOWN

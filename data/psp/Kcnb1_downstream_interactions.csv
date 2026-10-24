@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNB1,Kcnb1,K474-sm,25087004,KNGENMGkKDKVQDN,,"exocytosis, inhibited",31085831,Kv2channel,controlled the occurrence of membrane fusion,,,
+KCNB1,Kcnb1,Y128-p,449085,YWGIDEIyLESCCQA,"activity, induced; phosphorylation","apoptosis, altered; apoptosis, induced",19622611; 26115091,BTB_2,induces phosphorylation of Kv2.1 at S800,,,
+KCNB1,Kcnb1,S800-p,473567,EKNHFESsPLPTSPK,"activity, induced; intracellular localization; phosphorylation","apoptosis, induced",19622611; 23857585; 26115091,,induces phosphorylation at Y128 and membrane insertion of the channel; increased channel activity,,,
+KCNB1,Kcnb1,K149-sm,1877715601,EQMNEELkREAETLR,,"exocytosis, inhibited",31085831,,controlled the occurrence of membrane fusion,,,

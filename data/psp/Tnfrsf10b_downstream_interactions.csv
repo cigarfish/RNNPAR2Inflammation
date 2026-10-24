@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNFRSF10A,Tnfrsf10b,K273-ub,27581521,SGCGGDPkCMDRVCF,"receptor internalization, induced; protein degradation; molecular association, regulation","carcinogenesis, inhibited; apoptosis, induced; apoptosis, inhibited",23300075; 28671676,,proapoptotic effect of TRAIL (chemotherapy),MARCH1,Marchf1,INDUCES
+TNFRSF10A,Tnfrsf10b,K273-ub,27581521,SGCGGDPkCMDRVCF,"receptor internalization, induced; protein degradation; molecular association, regulation","carcinogenesis, inhibited; apoptosis, induced; apoptosis, inhibited",23300075; 28671676,,proapoptotic effect of TRAIL (chemotherapy),MARCH8,Marchf8,INDUCES
+TNFRSF10A,Tnfrsf10b,S424-gl,1873593500,NKTGRNAsIHTLLDA,,"apoptosis, induced",30987996,Death,"TRAIL-mediated cell death apoptosis and necrosis, TRAIL resistance",,,

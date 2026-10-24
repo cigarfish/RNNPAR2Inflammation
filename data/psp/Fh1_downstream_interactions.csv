@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FH,Fh1,S128-p,31878710,MLGGELGsKIPVHPN,"intracellular localization; enzymatic activity, inhibited",,33058874,Lyase_1,,,,
+FH,Fh1,S75-p,116533304,YGAQTVRsTMNFKIG,"molecular association, regulation","cell growth, induced; transcription, induced",28628081,Lyase_1,,ATF-2,Atf2,INDUCES
+FH,Fh1,S46-p,36132325,PNAARMAsQNSFRIE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",30683654,,,RBPJ,Rbpj,DISRUPTS
+FH,Fh1,S46-p,36132325,PNAARMAsQNSFRIE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",30683654,,,14-3-3 zeta,Ywhaz,INDUCES
+FH,Fh1,T90-p,3823351,GVTERMPtPVIKAFG,"molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; signaling pathway regulation",30683654,Lyase_1,Notch signaling;  induces transcription of p21,p53,Trp53,INDUCES
+FH,Fh1,T90-p,3823351,GVTERMPtPVIKAFG,"molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; signaling pathway regulation",30683654,Lyase_1,Notch signaling;  induces transcription of p21,RBPJ,Rbpj,INDUCES
+FH,Fh1,T236-p,49156200,IKIGRTHtQDAVPLT,"molecular association, regulation",,26237645,Lyase_1,"non-homologous end-joining, inhibits methylation",H2AZ,H2az1,INDUCES

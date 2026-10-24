@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APC,Apc,S2054-p,454101,MPKKKKPsRLKGDNE,intracellular localization,,11050185; 11689703,,,,,
+APC,Apc,S1279-p,450136,SRCSSLSsLSSAEDE,"molecular association, regulation","transcription, altered",11487578,APC_r,,CTNNB1,Ctnnb1,INDUCES
+APC,Apc,S2034-p,454100,LSSLSIDsEDDLLQE,intracellular localization,,11689703,SAMP,,,,
+APC,Apc,S1510-p,999606,SSSLSALsLDEPFIQ,phosphorylation,,17910481,,phosphorylation by CK1 primes for S1501 phosphorylation by GSK3,,,
+APC,Apc,S1505-p,452096,DGFSCSSsLSALSLD,"molecular association, regulation; phosphorylation",,12628243; 17910481,APC_r,phosphorylation by CK1 primes for S1501 phosphorylation by GSK3; based on acidic phospho-mimetic mutant,CTNNB1,Ctnnb1,INDUCES
+APC,Apc,S1360-p,3188801,EFSSGAKsPSKSGAQ,,cell cycle regulation,19703905,APC_u9,important for mitotic spindle anchoring to the cell cortex and orientation,,,
+APC,Apc,S1507-p,452097,FSCSSSLsALSLDEP,"molecular association, regulation; phosphorylation",,12628243; 17910481,APC_r,"primes for phosphorylation of S1510 and S1507,  by CK1 and GSK3B respectively; based on acidic phospho-mimetic mutant",CTNNB1,Ctnnb1,INDUCES
+APC,Apc,S1501-p,999605,ESTPDGFsCSSSLSA,phosphorylation,,17910481,APC_r,phosphorylation by GSK3 primes for S1504 and S1507 phosphorylation by CK1,,,
+APC,Apc,S2793-p,10211300,YNPSPRKsSADSTSA,"molecular association, regulation",,19632184,EB1_binding,,EB1,Mapre1,DISRUPTS
+APC,Apc,S1392-p,450135,SRCTSVSsLDSFESR,,"transcription, altered",11487578,APC_r,,,,
+APC,Apc,S2789-p,2897402,TPFNYNPsPRKSSAD,"molecular association, regulation",,15616574; 19632184,EB1_binding,,EB1,Mapre1,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC6A1,Slc6a1,Y317-p,11382800,NSFHNNVyRDSIIVC,"activity, induced; receptor internalization, altered; intracellular localization",,11555659,SNF,,,,
+SLC6A1,Slc6a1,Y107-p,11382801,LECSLGQyTSIGGLG,"activity, induced; receptor internalization, altered; intracellular localization",,11555659,SNF,,,,

@@ -1,0 +1,13 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Mapk3,Dusp6,DUSP6,DUSP6,MAPK3,T202,"Phosphatases, in vitro"
+Mapk3,Dusp6,DUSP6,DUSP6,MAPK3,Y204,"Phosphatases, in vitro"
+Mapk3,Ppp1ca,PPP1CA,PPP1CA,MAPK3,T202,"Phosphatases, in vitro"
+Mapk3,Ppp1ca,PPP1CA,PPP1CA,MAPK3,Y204,"Phosphatases, in vitro"
+Mapk3,Ppp2ca,PPP2CA,PPP2CA,MAPK3,T202,"Phosphatases, in vitro"
+Mapk3,Ptpn2,PTPN2,PTPN2,MAPK3,T202,"Phosphatases, in vitro"
+Mapk3,Ptpn2,PTPN2,PTPN2,MAPK3,Y204,"Phosphatases, in vitro"
+Mapk3,Dusp4,DUSP4,DUSP4,MAPK3,T202,Putative upstream phosphatases
+Mapk3,Dusp4,DUSP4,DUSP4,MAPK3,Y204,Putative upstream phosphatases
+Mapk3,Ptpn1,PTPN1,PTP1B,MAPK3,T202,Putative upstream phosphatases
+Mapk3,Ptpn1,PTPN1,PTP1B,MAPK3,Y204,Putative upstream phosphatases
+Mapk3,Ptprj,PTPRJ,PTPRJ,MAPK3,Y204,Putative upstream phosphatases

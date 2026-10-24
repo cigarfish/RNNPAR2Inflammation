@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KAT7,Kat7,K338-ub,22248096,TEGSNMIkTIAFGRY,protein degradation; acetylation,"cell growth, inhibited",23319590,zf-MYST,H3K14 acetylation is reduced,,,
+KAT7,Kat7,T97-p,3178404,KKYPLRQtRSSGSET,protein stabilization; acetylation; ubiquitination,"cell growth, induced",33014433; 34535630,,inhibits ubiquitination mediated degradation; induces H4 acetylation,,,
+KAT7,Kat7,K576-ub,1877197200,KGKHLVLkRQDLIDE,protein degradation,,32555450,,degraded during differentiation,,,
+KAT7,Kat7,S57-p,460899,SQSSQDSsPVRNLQS,,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited; transcription, induced",18250300; 23188630,,,,,
+KAT7,Kat7,S53-p,460901,SARLSQSsQDSSPVR,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, inhibited",26572825,,,DDB2,Ddb2,INDUCES
+KAT7,Kat7,K155-ub,1877197201,SHDESIAkDMSLKDS,protein degradation,,32555450,,degraded during differentiation,,,
+KAT7,Kat7,T88-p,468239,QQQPTPVtPKKYPLR,,"cell growth, induced",23955388,,increase in mammosphere formation,,,
+KAT7,Kat7,S50-p,460900,TRSSARLsQSSQDSS,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, inhibited",26572825,,,DDB2,Ddb2,INDUCES
+KAT7,Kat7,T331-p,18911980,LRLQGQItEGSNMIK,protein stabilization; acetylation; ubiquitination,"cell growth, induced",33014433,,inhibits ubiquitination mediated degradation,,,

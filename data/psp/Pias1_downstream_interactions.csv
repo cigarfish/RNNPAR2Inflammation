@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIAS1,Pias1,S468-p,4700794,DLTIDSSsDEEEEEP,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO2,Sumo2,INDUCES
+PIAS1,Pias1,S468-p,4700794,DLTIDSSsDEEEEEP,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO1,Sumo1,INDUCES
+PIAS1,Pias1,S468-p,4700794,DLTIDSSsDEEEEEP,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,UBC9,Ube2i,INDUCES
+PIAS1,Pias1,S17-p,53747701,MVMSLRVsELQVLLG,"protein degradation; molecular association, regulation","translation, inhibited",26157031,,,HECTD2,Hectd2,INDUCES
+PIAS1,Pias1,K137-sm,55435676,HPVHPDIkLQKLPFY,intracellular localization,,32047143,PINIT,,,,
+PIAS1,Pias1,S510-p,14160798,SPVSRTPsLPAVDTS,"sumoylation; enzymatic activity, induced",,27256105,,AMPK activation-induced ML3 SUMOylation,,,
+PIAS1,Pias1,K315-sm,55435688,SRALIKEkLTADPDS,intracellular localization,,32047143,,,,,
+PIAS1,Pias1,K238-sm,55435684,PGYLPPTkNGVEPKR,intracellular localization,,32047143,PINIT,,,,
+PIAS1,Pias1,K117-sm,580826070,PVSLLGPkHELELPH,protein degradation; ubiquitination; intracellular localization,,31620784; 31752909,,"sumoylated PIAS1/SUMO3 induced AR cytoplasmic translocation and subsequent ubiquitination-mediated degradation;  AR caused by sumoylated PIAS1 to its proteasome-dependent degradation;  MDM2 is recruited to induce AR degradation; cytoplasmic localization (K388),  AR-PIAS1- or SUMO3-modified PIAS1 interactions, AR and sumoylated PIAS1 complex",MDM2,Mdm2,INDUCES
+PIAS1,Pias1,R303-m2,6742810,RLRAKGIrNPDHSRA,,"cell growth, inhibited; transcription, inhibited; signaling pathway regulation",19136629,,negative regulation of STAT1 signaling/activation,,,
+PIAS1,Pias1,S522-p,3177709,DTSYINTsLIQDYRH,"sumoylation; enzymatic activity, induced","transcription, inhibited",23202365,, ; PIAS1 S522A expression inhibits TNF-induced sumoylation of p53;  inhibits inflammatory genes expression,,,
+PIAS1,Pias1,K30-ub,53747700,LGYAGRNkHGRKHEL,protein degradation,"translation, inhibited",26157031,,,,,
+PIAS1,Pias1,S13-p,53747702,ELKQMVMsLRVSELQ,protein degradation,"translation, inhibited",26157031,,,,,
+PIAS1,Pias1,S467-p,4700788,IDLTIDSsSDEEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO2,Sumo2,INDUCES
+PIAS1,Pias1,S467-p,4700788,IDLTIDSsSDEEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO1,Sumo1,INDUCES
+PIAS1,Pias1,S467-p,4700788,IDLTIDSsSDEEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,UBC9,Ube2i,INDUCES
+PIAS1,Pias1,S466-p,4700782,VIDLTIDsSSDEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO2,Sumo2,INDUCES
+PIAS1,Pias1,S466-p,4700782,VIDLTIDsSSDEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,SUMO1,Sumo1,INDUCES
+PIAS1,Pias1,S466-p,4700782,VIDLTIDsSSDEEEE,"molecular association, regulation","transcription, inhibited",19217413; 24174529,,,UBC9,Ube2i,INDUCES

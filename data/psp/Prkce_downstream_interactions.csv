@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCE,Prkce,S346-p,2807904,SEEDRSKsAPTSPCD,"molecular association, regulation","cell cycle regulation; transcription, altered",18458086; 18604201; 34143863,,,14-3-3 beta,Ywhab,INDUCES
+PRKCE,Prkce,S346-p,2807904,SEEDRSKsAPTSPCD,"molecular association, regulation","cell cycle regulation; transcription, altered",18458086; 18604201; 34143863,,,14-3-3 zeta,Ywhaz,INDUCES
+PRKCE,Prkce,T566-p,448787,LNGVTTTtFCGTPDY,"molecular association, regulation; intracellular localization; enzymatic activity, induced","cell growth, induced",10945988; 11964154; 21806543,Pkinase,,AKAP9,Akap9,DISRUPTS
+PRKCE,Prkce,Y573-p,764200,TFCGTPDyIAPEILQ,"molecular association, regulation",,17561374,Pkinase,,PLCG1,Plcg1,INDUCES
+PRKCE,Prkce,S729-p,448789,QEEFKGFsYFGEDLM,"sumoylation; molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","cell growth, induced",10945988; 11964154; 21806543; 33027667; 37159499,Pkinase_C,,AKAP9,Akap9,DISRUPTS
+PRKCE,Prkce,S368-p,2085101,NNIRKALsFDNRGEE,"molecular association, regulation","cell cycle regulation; transcription, altered",18458086; 18604201,,,14-3-3 beta,Ywhab,INDUCES
+PRKCE,Prkce,K321-ub,27852601,TNSGQRRkKLIAGAE,"molecular association, regulation","carcinogenesis, induced; transcription, induced; signaling pathway regulation",23123196,,regulation of NF-kB and EGFR pathways in PKM2 upregulation and tumorigenesis,IKKG,Ikbkg,INDUCES
+PRKCE,Prkce,T710-p,450184,TREEPVLtLVDEAIV,"enzymatic activity, induced","cell growth, induced",21806543,Pkinase_C,,,,
+PRKCE,Prkce,T349-p,486054,DRSKSAPtSPCDQEI,"molecular association, regulation",,34143863,,,14-3-3 zeta,Ywhaz,DISRUPTS
+PRKCE,Prkce,K534-sm,1870790710,GVIYRDLkLDNILLD,"sumoylation; enzymatic activity, induced",,33027667,Pkinase,PKCE phosphorylation is required for it's sumoylation; K534 sumoylation plays a critical role in the development of in?ammatory thermal hyperalgesia,,,
+PRKCE,Prkce,S350-p,486055,RSKSAPTsPCDQEIK,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation,18604201; 34143863,,"C1A and C1B domains are necessary for localization, and inter-C1 domain (IC1D) domains for retention at the midbody, S350 dephosphorylation is necessary for 14-3-3 complex assembly, and for Aurora B S227 phosphorylation at the midbody",14-3-3 zeta,Ywhaz,DISRUPTS

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RANGAP1,Rangap1,K524-sm,2251700,LVHMGLLkSEDKVKA,sumoylation; intracellular localization; protein conformation,,15355965; 34110283,RanGAP1_C,"change in resonances from residues 519 to 534 ; WT RANGAP1 rescues nuclear import of NF-ATc1, NF-kB, AP-1 in RanGAP1 (KD), required in various nuclear transport pathways",,,
+RANGAP1,Rangap1,S358-p,458865,AKVLASLsDDEDEEE,"molecular association, regulation",,16428860,,,RAN,Ran,INDUCES
+RANGAP1,Rangap1,S358-p,458865,AKVLASLsDDEDEEE,"molecular association, regulation",,16428860,,,RANBP1,Ranbp1,INDUCES
+RANGAP1,Rangap1,S506-p,1873645606,QKAFNSSsFNSNTFL,sumoylation; intracellular localization,,34110283,RanGAP1_C,"WT RANGAP1 rescues nuclear import of NF-ATc1, NF-kB, AP-1 in RanGAP1 (KD), required in various nuclear transport pathways",,,
+RANGAP1,Rangap1,S504-p,1873645604,LMQKAFNsSSFNSNT,sumoylation; intracellular localization,,34110283,RanGAP1_C,"WT RANGAP1 rescues nuclear import of NF-ATc1, NF-kB, AP-1 in RanGAP1 (KD), required in various nuclear transport pathways",,,

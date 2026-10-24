@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KARS1,Kars1,S207-p,9392600,PYEITLLsPCLHMLP,"intracellular localization; enzymatic activity, induced","transcription, induced",19524539; 29029422; 30188867,,,,,
+KARS1,Kars1,T52-p,25692907,EKQLSQAtAAATNHT,"molecular association, regulation; intracellular localization","cell motility, induced",22751010; 30188867,,increase the membrane level of 67LR,EPRS,Eprs,DISRUPTS

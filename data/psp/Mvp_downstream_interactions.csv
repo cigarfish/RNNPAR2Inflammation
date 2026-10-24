@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MVP,Mvp,T52-p,28102700,FAPMRMVtVPPRHYC,"molecular association, regulation; activity, inhibited","DNA repair, induced",23590642,Vault_2,14-3-3e negatively regulating the BLM resistance activity of MVP and induce DDR,14-3-3 epsilon,Ywhae,INDUCES
+MVP,Mvp,S864-p,480371,PLGRRVAsGPSPGEG,"molecular association, regulation; activity, inhibited","DNA repair, induced",23590642,,14-3-3e negatively regulating the BLM resistance activity of MVP and induce DDR,14-3-3 epsilon,Ywhae,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GTF2F1,Gtf2f1,S385-p,483594,GGSSRGNsRPGTPSA,"activity, inhibited","transcription, inhibited",10428810,TFIIF_alpha,slows down RNA pol II elongation,,,
+GTF2F1,Gtf2f1,T389-p,483595,RGNSRPGtPSAEGGS,"activity, inhibited","transcription, inhibited",10428810,TFIIF_alpha,slows down RNA pol II elongation,,,

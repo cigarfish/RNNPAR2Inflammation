@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XIAP,Xiap,T180-p,3801500,WPDYAHLtPRELASA,"ubiquitination; enzymatic activity, induced",,29678905,BIR,"required for the full activity of XIAP in the Wnt pathway, but not in the apoptotic pathway",TLE3,Tle3,INDUCES
+XIAP,Xiap,S430-p,22547400,QDESSQTsLQKEIST,"molecular association, regulation","apoptosis, induced",22072751,,,IRF3,Irf3,INDUCES
+XIAP,Xiap,K322-ub,22547401,DPWEQHAkWYPGCKY,protein degradation,,22072751,BIR,,,,
+XIAP,Xiap,S40-p,31884865,FANFPSGsPVSASTL,"molecular association, regulation","apoptosis, induced",27927753,BIR,,CASP3,Casp3,DISRUPTS
+XIAP,Xiap,S40-p,31884865,FANFPSGsPVSASTL,"molecular association, regulation","apoptosis, induced",27927753,BIR,,CASP7,Casp7,DISRUPTS
+XIAP,Xiap,S87-p,450336,VGRHRKVsPNCRFIN,"activity, induced; molecular association, regulation; protein stabilization; enzymatic activity, induced","carcinogenesis, induced; apoptosis, altered; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; signaling pathway regulation",14645242; 17537996; 23749209; 26314849; 30867140; 31493422; 31842909; 32050753; 32788347,BIR,,XIAP,Xiap,INDUCES
+XIAP,Xiap,S87-p,450336,VGRHRKVsPNCRFIN,"activity, induced; molecular association, regulation; protein stabilization; enzymatic activity, induced","carcinogenesis, induced; apoptosis, altered; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; signaling pathway regulation",14645242; 17537996; 23749209; 26314849; 30867140; 31493422; 31842909; 32050753; 32788347,BIR,,MDM2,Mdm2,INDUCES
+XIAP,Xiap,K328-ub,22254948,AKWYPGCkYLLEQKG,protein degradation,,22072751,BIR,,,,

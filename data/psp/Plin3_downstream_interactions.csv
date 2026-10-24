@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLIN3,Plin3,Y251-p,1873650102,ERLRQHAyEHSLGKL,"protein degradation; molecular association, regulation","autophagy, induced; cell growth, induced; apoptosis, inhibited",34077757,Perilipin,,HSC70,Hspa8,INDUCES

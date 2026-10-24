@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AIMP2,Aimp2,S156-p,55571504,LSTVHTHsSVKSVPE,"molecular association, regulation; intracellular localization","cell growth, inhibited",27197155,Thioredoxin_16,nuclear localization; reduced association with MSC,EPRS,Eprs,DISRUPTS

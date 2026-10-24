@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOCS3,Socs3,Y221-p,450447,IREFLDQyDAPL___,"protein degradation; molecular association, regulation","transcription, altered",12783885; 15173187; 16352613,,,NCK1,Nck1,INDUCES
+SOCS3,Socs3,Y221-p,450447,IREFLDQyDAPL___,"protein degradation; molecular association, regulation","transcription, altered",12783885; 15173187; 16352613,,,CRK,Crk,INDUCES
+SOCS3,Socs3,Y221-p,450447,IREFLDQyDAPL___,"protein degradation; molecular association, regulation","transcription, altered",12783885; 15173187; 16352613,,,TCEB1,Tceb1,DISRUPTS
+SOCS3,Socs3,Y204-p,450446,VNGHLDSyEKVTQLP,"protein degradation; molecular association, regulation","transcription, altered",12783885; 16352613,,,TCEB1,Tceb1,DISRUPTS
+SOCS3,Socs3,K6-ub,486270,__MVTHSkFPAAGMS,protein degradation,,12459551,,,,,

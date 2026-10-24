@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BSG,Bsg,S252-p,476131,GSAPLKSsGQHQNDK,"molecular association, regulation; activity, inhibited; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; cell growth, induced; cell motility, inhibited; transcription, induced; signaling pathway regulation",28684116; 31016558,, inhibits Akt phosphorylation; decrease/inhibits STAT3 and Akt signaling,SMAD4,Smad4,INDUCES
+BSG,Bsg,Y140-p,1868502601,PVTDWAWyKITDSED,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",32291412,Ig_3,induce MMP-9 expression,MGAT5,Mgat5,INDUCES
+BSG,Bsg,S246-p,471136,LDDDDAGsAPLKSSG,"activity, inhibited; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited; signaling pathway regulation",31016558,, inhibits Akt phosphorylation; decrease/inhibits STAT3 and Akt signaling,,,
+BSG,Bsg,K375-ub,12408986,SGQHQNDkGKNVRQR,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",26769849,,,,,
+BSG,Bsg,K350-ub,15385438,FIYEKRRkPEDVLDD,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",26769849,,,,,
+BSG,Bsg,Y183-p,38486780,MEADPGQyRCNGTSS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",32291412,Ig_3,induce MMP-9 expression,MGAT5,Mgat5,INDUCES
+BSG,Bsg,K366-ub,12324673,DAGSAPLkSSGQHQN,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",26769849,,,,,

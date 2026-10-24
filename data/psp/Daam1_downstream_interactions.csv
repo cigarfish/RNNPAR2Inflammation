@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAAM1,Daam1,Y652-p,7791229,LERTFSAyQRQQDFF,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",31406243,FH2,,DAAM1,Daam1,INDUCES

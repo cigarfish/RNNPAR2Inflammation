@@ -1,0 +1,23 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VAV1,Vav1,Y160-p,447865,VEEDEDLyDCVENEE,"molecular association, regulation; activity, inhibited","cell motility, induced; cytoskeletal reorganization; cell adhesion, altered",15699036; 17050525; 29058761,,regulates Cdc42 activation. ; neutrophil crawling behavior,ITGB3,Itgb3,INDUCES
+VAV1,Vav1,Y160-p,447865,VEEDEDLyDCVENEE,"molecular association, regulation; activity, inhibited","cell motility, induced; cytoskeletal reorganization; cell adhesion, altered",15699036; 17050525; 29058761,,regulates Cdc42 activation. ; neutrophil crawling behavior,PLCG1,Plcg1,INDUCES
+VAV1,Vav1,Y160-p,447865,VEEDEDLyDCVENEE,"molecular association, regulation; activity, inhibited","cell motility, induced; cytoskeletal reorganization; cell adhesion, altered",15699036; 17050525; 29058761,,regulates Cdc42 activation. ; neutrophil crawling behavior,Lck,Lck,INDUCES
+VAV1,Vav1,Y160-p,447865,VEEDEDLyDCVENEE,"molecular association, regulation; activity, inhibited","cell motility, induced; cytoskeletal reorganization; cell adhesion, altered",15699036; 17050525; 29058761,,regulates Cdc42 activation. ; neutrophil crawling behavior,PIK3R1,Pik3r1,INDUCES
+VAV1,Vav1,Y745-p,13209302,LTELVEFyQQNSLKD,,"cell differentiation, altered; cell motility, altered",20028078,SH2,,,,
+VAV1,Vav1,Y844-p,454086,VEEDYSEyC______,,"carcinogenesis, altered; cell growth, altered",20457609,,,,,
+VAV1,Vav1,S748-p,12084454,ISRPAVGsTKYFGTA,,"carcinogenesis, inhibited; signaling pathway regulation",30131370,,,,,
+VAV1,Vav1,Y826-p,450351,GWWRGEIyGRVGWFP,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,SH3_1,,CSK,Csk,INDUCES
+VAV1,Vav1,Y826-p,450351,GWWRGEIyGRVGWFP,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,SH3_1,,Abl,Abl1,INDUCES
+VAV1,Vav1,Y826-p,450351,GWWRGEIyGRVGWFP,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,SH3_1,,SHC1,Shc1,INDUCES
+VAV1,Vav1,Y826-p,450351,GWWRGEIyGRVGWFP,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,SH3_1,,SH2D1A,Sh2d1a,INDUCES
+VAV1,Vav1,Y142-p,448809,SVGDEDIySGLSDQI,"molecular association, regulation","cell motility, induced",17050525; 29058761,,neutrophil crawling behavior,PLCG1,Plcg1,INDUCES
+VAV1,Vav1,Y142-p,448809,SVGDEDIySGLSDQI,"molecular association, regulation","cell motility, induced",17050525; 29058761,,neutrophil crawling behavior,Lck,Lck,INDUCES
+VAV1,Vav1,Y142-p,448809,SVGDEDIySGLSDQI,"molecular association, regulation","cell motility, induced",17050525; 29058761,,neutrophil crawling behavior,PIK3R1,Pik3r1,INDUCES
+VAV1,Vav1,Y174-p,447866,EAEGDEIyEDLMRSE,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited","cell differentiation, altered; cytoskeletal reorganization; transcription, inhibited; cell growth, altered",10636924; 17050525; 24332539,,"extracellular matrix degradation, invadopodia formation through Cdc42",PLCG1,Plcg1,INDUCES
+VAV1,Vav1,Y174-p,447866,EAEGDEIyEDLMRSE,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited","cell differentiation, altered; cytoskeletal reorganization; transcription, inhibited; cell growth, altered",10636924; 17050525; 24332539,,"extracellular matrix degradation, invadopodia formation through Cdc42",Lck,Lck,INDUCES
+VAV1,Vav1,Y174-p,447866,EAEGDEIyEDLMRSE,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited","cell differentiation, altered; cytoskeletal reorganization; transcription, inhibited; cell growth, altered",10636924; 17050525; 24332539,,"extracellular matrix degradation, invadopodia formation through Cdc42",PIK3R1,Pik3r1,INDUCES
+VAV1,Vav1,Y836-p,14652800,VGWFPANyVEEDYSE,,"carcinogenesis, altered; cell growth, altered",20457609,,,,,
+VAV1,Vav1,Y841-p,464357,ANYVEEDySEYC___,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,,,Src,Src,INDUCES
+VAV1,Vav1,Y841-p,464357,ANYVEEDySEYC___,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,,,PLCG1,Plcg1,INDUCES
+VAV1,Vav1,Y841-p,464357,ANYVEEDySEYC___,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,,,SH2-B-beta,Sh2b1,INDUCES
+VAV1,Vav1,Y841-p,464357,ANYVEEDySEYC___,"activity, induced; molecular association, regulation","carcinogenesis, altered; cell growth, altered",20457609,,,Brk,PtK6,INDUCES

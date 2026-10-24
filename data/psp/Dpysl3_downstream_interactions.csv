@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DPYSL3,Dpysl3,S522-p,458800,PAGSARGsPTRPNPP,,"cell motility, altered",16611631,,increases axon length,,,
+DPYSL3,Dpysl3,S518-p,458799,KGGTPAGsARGSPTR,,"carcinogenesis, induced",30154149,,,,,
+DPYSL3,Dpysl3,K374-sm,1881371306,DKAVATGkMDENQFV,"molecular association, regulation","cell growth, induced",34645092,,"deSUMOylation of CRMP4 further promotes the neurite growth of cortical neurons, deSUMOylation of CRMP4 promotes thermal pain sensitivity in rats.",CACNA1C,Cacna1c,DISRUPTS
+DPYSL3,Dpysl3,T514-p,458798,TTTPKGGtPAGSARG,,"carcinogenesis, induced",30154149,,,,,
+DPYSL3,Dpysl3,T509-p,454328,PVFDLTTtPKGGTPA,,"carcinogenesis, induced",30154149,,,,,

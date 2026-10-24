@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFV2,Ndufv2,Y193-p,25682900,VQINDNYyEDLTAKD,"enzymatic activity, induced","apoptosis, inhibited",22823520,2Fe-2S_thioredx,,,,

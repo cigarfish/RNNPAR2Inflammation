@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCSTN,Ncstn,S437-p,25533000,FLRARNIsGVVLADH,"protein degradation; molecular association, regulation",,22590650,Nicastrin,inhibits gamma-secretase complex formation,,,

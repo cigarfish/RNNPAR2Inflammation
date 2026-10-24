@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPRD1,Oprd1,S363-p,448550,RVTACTPsDGPGGGA,"receptor inactivation, induced; receptor internalization, induced; receptor desensitization, altered; receptor internalization, altered",,10893226; 17322005; 32444688,,,,,
+OPRD1,Oprd1,T361-p,448551,RERVTACtPSDGPGG,"receptor inactivation, induced; receptor internalization, induced",,32444688,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHMP4C,Chmp4c,S215-p,1221009,RRSRAASsQRAEEED,,cell cycle regulation,22724069,,mutations of site increase cytokinesis failure,,,
+CHMP4C,Chmp4c,S214-p,1247825,ARRSRAAsSQRAEEE,,cell cycle regulation,22724069,,mutations of site increase cytokinesis failure,,,
+CHMP4C,Chmp4c,S210-p,25123900,MSSTARRsRAASSQR,"molecular association, regulation; intracellular localization",cell cycle regulation,22422861; 22724069; 29362225; 30905608,,high cytokinetic cells; mutations of site increase cytokinesis failure,VPS4B,Vps4b,INDUCES
+CHMP4C,Chmp4c,S210-p,25123900,MSSTARRsRAASSQR,"molecular association, regulation; intracellular localization",cell cycle regulation,22422861; 22724069; 29362225; 30905608,,high cytokinetic cells; mutations of site increase cytokinesis failure,VPS4A,Vps4a,INDUCES

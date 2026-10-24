@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TREML1,Treml1,Y281-p,454865,VCSKPVTyATVIFPG,"molecular association, regulation",signaling pathway regulation,15128762,,enhanced calcium signaling,SHIP-2,Inppl1,INDUCES

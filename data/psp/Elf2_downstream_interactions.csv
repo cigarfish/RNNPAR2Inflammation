@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ELF2,Elf2,S107-p,4779292,EALLHMEsPTCLRDS,protein stabilization,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",37406957,Elf-1_N,ELF2 phosphorylation regulates STK24P1 vasculogenic mimicry/ promotes the expression of VM formation-related proteins VEGFR2 and VE-cadherin at the transcriptional level,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPC3,Trpc3,T646-p,20612407,LQISLGRtVKDIFKF,"molecular association, regulation","transcription, induced; signaling pathway regulation",21653882,Ion_trans,phosphorylation of TPRC3 converts it into a transcriptionally active mode and dephosphorylation converts it into trancriptionally silent mode.,PPP3CA,Ppp3ca,INDUCES
+TRPC3,Trpc3,S785-p,454431,PPFSLVPsPKSFVYF,"activity, inhibited",,15533987; 16331690,,,,,
+TRPC3,Trpc3,S336-p,458336,KNDYRKLsMQCKDFV,"activity, inhibited",,14983059; 16331690,,,,,
+TRPC3,Trpc3,T11-p,458335,SPSLRRMtVMREKGR,"activity, inhibited",,14983059; 16331690,,,,,
+TRPC3,Trpc3,Y299-p,458805,KGLASPAyLSLSSED,"activity, induced",,16407161,,,,,

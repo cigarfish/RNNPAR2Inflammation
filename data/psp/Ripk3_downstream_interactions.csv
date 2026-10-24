@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIPK3,Ripk3,K501-ub,1881250302,VGSQEGPkDPEAWSR,protein degradation,,33953350,,TNF-induced necrosis,,,
+RIPK3,Ripk3,T224-p,50788489,GREVELPtEPSLVYE,"molecular association, regulation",,35739084,Pkinase,,MLKL,Mlkl,INDUCES
+RIPK3,Ripk3,S227-p,23003800,VELPTEPsLVYEAVC,"molecular association, regulation; phosphorylation",signaling pathway regulation,22265413; 29883609; 35256774; 35739084,Pkinase,induces necrosis through the necrosis pathway,MLKL,Mlkl,INDUCES
+RIPK3,Ripk3,T182-p,1174709701,GSGEPGGtLGYLAPE,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",29883609,Pkinase,pT182 leads to induced necroptosis. interaction of pT182 with PELI1 leads to RIPK3 ubiquitination and degradation. ,PELI1,Peli1,INDUCES
+RIPK3,Ripk3,T182-p,1174709701,GSGEPGGtLGYLAPE,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",29883609,Pkinase,pT182 leads to induced necroptosis. interaction of pT182 with PELI1 leads to RIPK3 ubiquitination and degradation. ,MLKL,Mlkl,INDUCES
+RIPK3,Ripk3,R486-m2,9480534,LAPSGKGrGLQHPPP,,signaling pathway regulation,36658119,,necroptotic signaling by MLKL phosphorylation and ERK1/2 activation,,,
+RIPK3,Ripk3,K518-ub,1877365902,GWYNHSGk_______,phosphorylation,,33369872,," TBZ-induced necroptosis, necroptotic cell death,  necroptosis-induced RIPK3 phosphorylation",,,
+RIPK3,Ripk3,T165-p,1877504600,LADFGLStFQGGSQS,"enzymatic activity, inhibited; phosphorylation",,35739084,Pkinase,inhibits MLKL phosphorylation and necroptosis,,,
+RIPK3,Ripk3,S164-p,27928503,KLADFGLsTFQGGSQ,"enzymatic activity, inhibited; phosphorylation",,35739084,Pkinase,inhibits MLKL phosphorylation and necroptosis,,,
+RIPK3,Ripk3,R486-me,1885556104,LAPSGKGrGLQHPPP,"molecular association, regulation; phosphorylation",,37005412,,"inhibits interaction and the necrosome formation, Inhibits PIPK3 phosphorylation and necroptosis activation",RIPK1,Ripk1,DISRUPTS

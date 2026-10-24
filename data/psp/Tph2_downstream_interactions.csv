@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TPH2,Tph2,S104-p,1033700,RKSRRRSsEVEIFVD,"molecular association, regulation",,17973628,,,14-3-3 epsilon,Ywhae,INDUCES
+TPH2,Tph2,S104-p,1033700,RKSRRRSsEVEIFVD,"molecular association, regulation",,17973628,,,14-3-3 gamma,Ywhag,INDUCES
+TPH2,Tph2,S19-p,470085,YWARRGFsLDSAVPE,"protein stabilization; molecular association, regulation; enzymatic activity, induced",,15663479; 17973628; 18339632,,modulates serotonin production,14-3-3 beta,Ywhab,INDUCES
+TPH2,Tph2,S19-p,470085,YWARRGFsLDSAVPE,"protein stabilization; molecular association, regulation; enzymatic activity, induced",,15663479; 17973628; 18339632,,modulates serotonin production,14-3-3 epsilon,Ywhae,INDUCES
+TPH2,Tph2,S19-p,470085,YWARRGFsLDSAVPE,"protein stabilization; molecular association, regulation; enzymatic activity, induced",,15663479; 17973628; 18339632,,modulates serotonin production,14-3-3 gamma,Ywhag,INDUCES

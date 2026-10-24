@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNAPIN,Snapin,T117-p,28761202,NHSVAKEtARRRAML,"molecular association, regulation","exocytosis, inhibited",23949442,,,SNAP-25,Snap25,DISRUPTS
+SNAPIN,Snapin,S50-p,448453,HVHAVREsQVELREQ,"molecular association, regulation","neural plasticity; exocytosis, induced",15269257; 21356520,Snapin_Pallidin,,RAPGEF4,Rapgef4,INDUCES
+SNAPIN,Snapin,S50-p,448453,HVHAVREsQVELREQ,"molecular association, regulation","neural plasticity; exocytosis, induced",15269257; 21356520,Snapin_Pallidin,,VAMP2,Vamp2,INDUCES
+SNAPIN,Snapin,S50-p,448453,HVHAVREsQVELREQ,"molecular association, regulation","neural plasticity; exocytosis, induced",15269257; 21356520,Snapin_Pallidin,,TMEM27,Tmem27,INDUCES
+SNAPIN,Snapin,S50-p,448453,HVHAVREsQVELREQ,"molecular association, regulation","neural plasticity; exocytosis, induced",15269257; 21356520,Snapin_Pallidin,,SNAP-25,Snap25,INDUCES

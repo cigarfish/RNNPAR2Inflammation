@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HMGB1,Hmgb1,S39-p,7320388,PDASVNFsEFSKKCS,intracellular localization,"cell motility, altered",19506549; 22750245; 23782844,HMG_box_2,increases tumor cell invasiveness,,,
+HMGB1,Hmgb1,S42-p,9484300,SVNFSEFsKKCSERW,intracellular localization,"cell motility, altered",19506549; 23782844,HMG_box_2,increases tumor cell invasiveness,,,
+HMGB1,Hmgb1,K82-ac,460592,MKTYIPPkGETKKKF,,"chromatin organization, altered",15005629,,,,,
+HMGB1,Hmgb1,S35-p,476055,KKKHPDAsVNFSEFS,intracellular localization,"cell motility, altered",19506549; 23782844,HMG_box_2,increases tumor cell invasiveness,,,
+HMGB1,Hmgb1,K112-me,31094520,FCSEYRPkIKGEHPG,intracellular localization,,24289579,HMG_box,localized to the cytoplasm,,,
+HMGB1,Hmgb1,K12-ac,459197,DPKKPRGkMSSYAFF,"molecular association, regulation",,18241198,HMG_box_2,,,,
+HMGB1,Hmgb1,K29-ac,1887091002,TCREEHKkKHPDASV,intracellular localization,"exocytosis, induced",38347600,,"promote K29-HMGB1 acetylation, translocation and extracellular release",,,
+HMGB1,Hmgb1,T51-p,36840087,KCSERWKtMSAKEKG,"molecular association, regulation",,35632744,HMG_box_2,inducees HMGB1 secretion,RPS3,Rps3,INDUCES
+HMGB1,Hmgb1,K30-ac,466388,CREEHKKkHPDASVN,intracellular localization,"exocytosis, induced",38347600,HMG_box_2,"promote K29-HMGB1 acetylation, translocation and extracellular release",,,
+HMGB1,Hmgb1,S46-p,33673900,SEFSKKCsERWKTMS,intracellular localization,,24863048,HMG_box_2,localization into the cytosol,,,
+HMGB1,Hmgb1,S53-p,25604400,SERWKTMsAKEKGKF,intracellular localization,,22750245,HMG_box_2,,,,
+HMGB1,Hmgb1,K3-ac,459196,_____MGkGDPKKPR,"molecular association, regulation","chromatin organization, altered",15005629; 18241198,,,,,
+HMGB1,Hmgb1,S181-p,20506700,GVVKAEKsKKKKEEE,intracellular localization,,22750245,,,,,

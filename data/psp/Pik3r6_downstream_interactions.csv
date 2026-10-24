@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3R6,Pik3r6,T607-p,10799542,SHRPREVtVSLRATG,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; protein conformation","carcinogenesis, inhibited; cell motility, inhibited",25753393,PI3K_1B_p101,,PIK3CG,Pik3cg,INDUCES

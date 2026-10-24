@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAD17,Rad17,S678-p,1184590201,IIIEDYEsDGT____,"molecular association, regulation; phosphorylation",,29902452; 31353086,,induces phosphorylation of other sites,RAD1,Rad1,INDUCES
+RAD17,Rad17,T633-p,31894301,EESLGEPtQATVPET,"molecular association, regulation; phosphorylation","carcinogenesis, induced; DNA repair, induced; signaling pathway regulation",24534091,,"Phosphorylated RAD17 at T633 but not the T633A mutant, restores phosphorylation of ATM, CHK2 and NBS1.",NBS1,Nbn,INDUCES
+RAD17,Rad17,S656-p,447756,SASELPAsQPQPFSA,"protein stabilization; molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",11418864; 11687627; 16885023; 24876101; 26960975,,,RAD1,Rad1,INDUCES
+RAD17,Rad17,S656-p,447756,SASELPAsQPQPFSA,"protein stabilization; molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",11418864; 11687627; 16885023; 24876101; 26960975,,,claspin,Clspn,INDUCES
+RAD17,Rad17,Y676-p,1868913301,ENIIIEDyESDGT__,"molecular association, regulation; phosphorylation",,31353086,,induces phosphorylation of other sites,RAD1,Rad1,INDUCES
+RAD17,Rad17,T681-p,1868913302,EDYESDGt_______,"molecular association, regulation; phosphorylation",,31353086,,induces phosphorylation of other sites,RAD1,Rad1,INDUCES
+RAD17,Rad17,S359-p,23136916,RPRKKGMsLKSDAVL,"molecular association, regulation",,29902452,,,RAD1,Rad1,INDUCES
+RAD17,Rad17,S367-p,23136922,LKSDAVLsKSKRRKK,"molecular association, regulation",,29902452,,,RAD1,Rad1,INDUCES
+RAD17,Rad17,S362-p,23136919,KKGMSLKsDAVLSKS,"molecular association, regulation",,29902452,,,RAD1,Rad1,INDUCES
+RAD17,Rad17,S646-p,447755,ETWSLPLsQNSASEL,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",11418864; 11687627; 16885023; 33820915,,,RAD1,Rad1,INDUCES
+RAD17,Rad17,S646-p,447755,ETWSLPLsQNSASEL,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",11418864; 11687627; 16885023; 33820915,,,SMG7,Smg7,INDUCES
+RAD17,Rad17,S646-p,447755,ETWSLPLsQNSASEL,"molecular association, regulation; phosphorylation","cell cycle regulation; cell growth, altered",11418864; 11687627; 16885023; 33820915,,,claspin,Clspn,INDUCES

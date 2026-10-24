@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ETV4,Etv4,K96-sm,3144816,HSPTTRIkKEPQSPR,,"transcription, inhibited",17585876,ETS_PEA3_N,,,,
+ETV4,Etv4,S73-p,68524600,AEAQVPDsDEQFVPD,"protein stabilization; molecular association, regulation",,28373072,ETS_PEA3_N,,COP1,Cop1,DISRUPTS
+ETV4,Etv4,K226-sm,3144819,PYPQQSFkQEYHDPL,,"transcription, inhibited",17585876,ETS_PEA3_N,,,,
+ETV4,Etv4,Y392-p,5231710,KNRPAMNyDKLSRSL,intracellular localization,"cell motility, induced; transcription, induced",36670069,Ets,promotes lymph node metastasis of BCa cells,,,
+ETV4,Etv4,K260-sm,3144815,PGAGVVIkQEQTDFA,,"transcription, inhibited",17585876,ETS_PEA3_N,,,,
+ETV4,Etv4,K322-sm,3278908,EKFEGDIkQEGVGAF,,"transcription, inhibited",17585876,ETS_PEA3_N,,,,

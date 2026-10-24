@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP15,Usp15,T149-p,1868913300,GNMNNVVtRRFSKAD,"molecular association, regulation; ubiquitination; intracellular localization",,31330151,Ubiquitin_3,inhibits deubiquitination of PRP31,SART3,Sart3,DISRUPTS
+USP15,Usp15,S229-p,467037,RGPSTPKsPGASNFS,,cell cycle regulation,29429988,,did not reduce the number of CENP-A-positive micronuclei;   promotes genome instability,,,
+USP15,Usp15,T219-p,25757905,EQKNEDGtWPRGPST,"molecular association, regulation; ubiquitination; intracellular localization",,31330151,Ubiquitin_3,inhibits deubiquitination of PRP31,SART3,Sart3,DISRUPTS

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+P4HB,P4hb,S357-p,56652490,KIKPHLMsQELPEDW,"molecular association, regulation; protein conformation; enzymatic activity, altered","apoptosis, inhibited",32149426,,,IRE1,Ern1,INDUCES

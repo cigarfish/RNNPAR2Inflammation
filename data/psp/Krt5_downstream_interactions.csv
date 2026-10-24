@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KRT5,Krt5,T151-p,288031706,TVNQSLLtPLNLQID,"molecular association, regulation",cytoskeletal reorganization,29080682,Keratin_2_head," phosphomimetic T150 K5 mutation prevents keratin network formation in the absence of wildtype keratins;  impairs keratin filament network assembly and, conversely, favors disassembly of keratin  filaments    ; keratin filament (KF) network",HSP70,Hspa1a,INDUCES

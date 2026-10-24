@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NSD2,Nsd2,S102-p,481737,DAKLRFEsQEMKGIG,"molecular association, regulation; methylation; intracellular localization",,21293379; 26822153,,,MDC1,Mdc1,INDUCES
+NSD2,Nsd2,S102-p,481737,DAKLRFEsQEMKGIG,"molecular association, regulation; methylation; intracellular localization",,21293379; 26822153,,,AGO2,Ago2,INDUCES
+NSD2,Nsd2,K292-ub,12246197,EGEGQFEkLCQESAK,protein degradation; ubiquitination,"cell differentiation, induced",32826945,PWWP,BRCA1 increased polyubiquitination of WHSC1 during K562 cell cell differentiation ,,,
+NSD2,Nsd2,S172-p,478693,ARRNRKRsIKYDSLL,protein stabilization,"cell motility, inhibited",28319045,,prostate cancer metastasis,CUL4B,Cul4b,DISRUPTS
+NSD2,Nsd2,S56-p,12667955,SKAQLSSsLQEGVMQ,protein stabilization; ubiquitination; methylation,"carcinogenesis, induced; transcription, altered",35389552,,inhibits ubiquitination of itself and induces methylation of histone,,,

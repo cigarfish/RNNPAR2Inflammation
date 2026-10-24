@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHF5A,Phf5a,K29-ac,1879864500,LCEKCDGkCVICDSY,"molecular association, regulation","carcinogenesis, induced; RNA splicing, induced; cell growth, induced; transcription, induced; signaling pathway regulation",31054974,,"fraction of 11 genes were commonly changed in differentially expressed genes, upregulation of KDM3A expression and activates the Wnt signaling pathway  in colorectal cancer",SF3B1,Sf3b1,INDUCES
+PHF5A,Phf5a,Y36-p,463988,KCVICDSyVRPCTLV,,"cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced; cytoskeletal reorganization",36759599,PHF5,,,,

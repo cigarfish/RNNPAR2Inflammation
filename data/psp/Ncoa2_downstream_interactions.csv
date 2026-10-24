@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCOA2,Ncoa2,S493-p,468245,LSPRHRMsPGVAGSP,,"transcription, induced",22158970,NCOA_u2,,,,
+NCOA2,Ncoa2,K731-sm,2793922,PGSEVTIkQEPVSPK,"molecular association, regulation; intracellular localization","transcription, induced",12060666,DUF4927,AR-dependent transcription ,AR,Ar,INDUCES
+NCOA2,Ncoa2,S469-p,4728825,NYALKMNsPSQSSPG,,"transcription, induced",22158970,NCOA_u2,,,,
+NCOA2,Ncoa2,K780-ac,466316,TDPASNTkLIAMKTE,"activity, inhibited","transcription, inhibited; signaling pathway regulation",31851938,DUF4927,PPAR-gamma inhibition,,,
+NCOA2,Ncoa2,S499-p,4728850,MSPGVAGsPRIPPSQ,,"transcription, induced",22158970,NCOA_u2,,,,
+NCOA2,Ncoa2,S736-p,465446,TIKQEPVsPKKKENA,,"transcription, induced",11301320,DUF4927,important for EGF-induced transcriptional activation,,,
+NCOA2,Ncoa2,K788-sm,2793921,LIAMKTEkEEMSFEP,"molecular association, regulation; intracellular localization","transcription, induced",12060666,DUF4927,AR-dependent transcription ,AR,Ar,INDUCES
+NCOA2,Ncoa2,S487-p,4728845,GQPTSMLsPRHRMSP,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; signaling pathway regulation",22158970; 33593309,NCOA_u2,induces SRC-2/CARM1 signaling,,,

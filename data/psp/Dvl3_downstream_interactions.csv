@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DVL3,Dvl3,S639-p,34668134,HSHRSHHsLASSLRS,intracellular localization,,24993822,Dsh_C,,,,
+DVL3,Dvl3,S311-p,25736748,EINFENMsNDDAVRV,"intracellular localization; activity, inhibited","transcription, induced",24993822,PDZ,,,,
+DVL3,Dvl3,T15-p,34668103,YHLDGQEtPYLVKLP,intracellular localization,,27486244,DIX,"centrosomal signal  for pS697 accumulated throughout the cell cycle, pS280 only in mitotic spindle and not in the interphase centrosome",,,
+DVL3,Dvl3,S633-p,34668137,GPAASEHsHRSHHSL,intracellular localization,,24993822,Dsh_C,,,,
+DVL3,Dvl3,S697-p,4729017,VPPELTAsRQSFRMA,intracellular localization,,27486244,Dsh_C,"centrosomal signal  for pS697 accumulated throughout the cell cycle, pS280 only in mitotic spindle and not in the interphase centrosome",,,
+DVL3,Dvl3,S642-p,34668133,RSHHSLAsSLRSHHT,intracellular localization,,24993822,Dsh_C,,,,
+DVL3,Dvl3,S612-p,3830508,SDHTTRSsLRGPRER,intracellular localization,,24993822,Dsh_C,,,,
+DVL3,Dvl3,S643-p,34668102,SHHSLASsLRSHHTH,intracellular localization,,24993822; 27486244,Dsh_C,"centrosomal signal  for pS697 accumulated throughout the cell cycle, pS280 only in mitotic spindle and not in the interphase centrosome",,,
+DVL3,Dvl3,S611-p,34668129,ESDHTTRsSLRGPRE,intracellular localization,,24993822,Dsh_C,,,,
+DVL3,Dvl3,S280-p,34668101,DGGIYIGsIMKGGAV,"activity, induced; intracellular localization","transcription, induced",24993822; 27486244,PDZ,,,,
+DVL3,Dvl3,S636-p,34668132,ASEHSHRsHHSLASS,intracellular localization,,24993822,Dsh_C,,,,

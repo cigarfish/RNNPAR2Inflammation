@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NKAP,Nkap,Y352-p,34731681,ASFECSGyVMSGSRH,"molecular association, regulation","apoptosis, inhibited",30804042,Nkap_C,regulates hematopoietic stem cell maintenance and survival,HDAC3,Hdac3,INDUCES
+NKAP,Nkap,S9-p,14576893,APVSGSRsPDREASG,intracellular localization,"transcription, induced; signaling pathway regulation",31461649,,"enhances NF-KB nuclear localization, regulates PTEN/NKAP/NF-KB/PDHK1 signaling",,,
+NKAP,Nkap,S149-p,449164,APEVWGLsPKNPEPD,intracellular localization,"transcription, induced; signaling pathway regulation",31461649,NKAP,"enhances NF-KB nuclear localization, regulates PTEN/NKAP/NF-KB/PDHK1 signaling",,,

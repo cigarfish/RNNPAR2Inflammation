@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXO31,Fbxo31,S33-p,485583,AETAAADsEPDTDPE,protein degradation; ubiquitination,,29343641,,,,,
+FBXO31,Fbxo31,K330-ub,573772184,GRRARGTkITGDPNI,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, induced",,29279382,Cyclin_D1_bind,promotes cyclinD1 degradation not affected by ERK2-mediated phosphorylation ,CCND1,Ccnd1,INDUCES
+FBXO31,Fbxo31,K330-ub,573772184,GRRARGTkITGDPNI,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, induced",,29279382,Cyclin_D1_bind,promotes cyclinD1 degradation not affected by ERK2-mediated phosphorylation ,CCND3,Ccnd3,INDUCES
+FBXO31,Fbxo31,K330-ub,573772184,GRRARGTkITGDPNI,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, induced",,29279382,Cyclin_D1_bind,promotes cyclinD1 degradation not affected by ERK2-mediated phosphorylation ,CCND2,Ccnd2,INDUCES
+FBXO31,Fbxo31,S278-p,13216200,LMKFIYTsQYDNCLT,"molecular association, regulation; protein stabilization",,19412162; 29343641,,,CDH1,Cdh1,DISRUPTS
+FBXO31,Fbxo31,S278-p,13216200,LMKFIYTsQYDNCLT,"molecular association, regulation; protein stabilization",,19412162; 29343641,,,CDC20,Cdc20,DISRUPTS

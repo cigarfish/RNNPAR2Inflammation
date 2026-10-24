@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CNOT7,Cnot7,K206-ac,59117700,MKSCKNLkGGLQEVA,"molecular association, regulation","cell differentiation, inhibited; RNA stability, inhibited",27635759,CAF1,,,,
+CNOT7,Cnot7,K200-ac,59117701,YDVKYLMkSCKNLKG,"molecular association, regulation","cell differentiation, inhibited; RNA stability, inhibited",27635759,CAF1,,,,

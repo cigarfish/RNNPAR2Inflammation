@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARRB1,Arrb1,S412-p,447493,EEEDGTGsPQLNNR_,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited",,10347142; 15456867; 19014372; 19153083,,,ADRB2,Adrb2,DISRUPTS
+ARRB1,Arrb1,S412-p,447493,EEEDGTGsPQLNNR_,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited",,10347142; 15456867; 19014372; 19153083,,,MEKK1,Map3k1,INDUCES
+ARRB1,Arrb1,S163-p,31894300,EKIHKRNsVRLVIRK,"activity, induced; molecular association, regulation",,24502978,Arrestin_N,,CD3Z,Cd247,INDUCES

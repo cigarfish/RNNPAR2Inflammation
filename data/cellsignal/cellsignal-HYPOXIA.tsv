@@ -1,0 +1,13 @@
+PATHWAY_NAME	ENTITYA_MOUSE	ENTITYA_Loc	ENTITYA_phospho	ENTITYB_MOUSE	ENTITYB_Loc	ENTITYB_phospho	EFFECT	SCAFFOLD	SCAFFOLD_loc	COMPETE	COMPETE_loc	COMPETE_col	BINDING	SCORE
+HYPOXIA	Mapk1	membrane	1	Eif4ebp1	cytoplasm	1	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Mapk3	membrane	1	Eif4ebp1	cytoplasm	1	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Pik3ca	membrane	0	Akt1	cytoplasm	0	activate	na	na	na	na	na	stable	0.999
+HYPOXIA	Rps6kb1	cytoplasm	0	Hif1a	cytoplasm	1	activate	na	na	na	na	na	stable	0.999
+HYPOXIA	Ddit4	cytoplasm	0	Mtor	cytoplasm	0	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Akt1	cytoplasm	1	Nos3	cytoplasm	0	phosphorylate	na	na	na	na	na	transient	0.999
+HYPOXIA	Ctnnb1	nuclear	0	Hif1a	nuclear	1	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Gsk3b	nuclear	0	Hif1a	nuclear	0	inactivate	na	na	na	na	na	transient	0.999
+HYPOXIA	Gsk3b	nuclear	1	Hif1a	nuclear	0	inactivate	na	na	na	na	na	transient	0.999
+HYPOXIA	Trp53	nuclear	1	Hif1a	nuclear	1	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Sirt1	nuclear	0	Hif1a	nuclear	1	inhibit	na	na	na	na	na	stable	0.999
+HYPOXIA	Sirt6	nuclear	0	Hif1a	nuclear	1	inhibit	na	na	na	na	na	stable	0.999

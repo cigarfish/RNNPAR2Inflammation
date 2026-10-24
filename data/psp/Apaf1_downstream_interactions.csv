@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APAF1,Apaf1,S357-p,23003807,FKRIRKSsSYDYEAL,"molecular association, regulation",,22246185,NB-ARC,,CYC1,Cyc1,INDUCES
+APAF1,Apaf1,S268-p,23003805,LLTTRDKsVTDSVMG,"molecular association, regulation","apoptosis, inhibited",22246185,NB-ARC,decreased cellular response to cytochrome c,14-3-3 epsilon,Ywhae,INDUCES
+APAF1,Apaf1,S268-p,23003805,LLTTRDKsVTDSVMG,"molecular association, regulation","apoptosis, inhibited",22246185,NB-ARC,decreased cellular response to cytochrome c,CYC1,Cyc1,DISRUPTS
+APAF1,Apaf1,K224-ub,21129052,PLNIEEAkDRLRILM,"molecular association, regulation; ubiquitination",,31329620,NB-ARC," binds and forms aggregates in the cytosol, activates caspase-9 in cells that stably express bcl-xl",SQSTM1,Sqstm1,INDUCES

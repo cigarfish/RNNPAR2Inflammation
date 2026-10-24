@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRAP1,Trap1,S511-p,55374803,NRHLAEHsPYYEAMK,,"carcinogenesis, induced; cell growth, induced",28099845,HSP90,,,,
+TRAP1,Trap1,S568-p,27450720,EEKFEDRsPAAECLS,,"carcinogenesis, induced; cell growth, induced",28099845,HSP90,,,,

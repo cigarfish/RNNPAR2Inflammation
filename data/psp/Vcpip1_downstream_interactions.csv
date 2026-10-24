@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VCPIP1,Vcpip1,S768-p,3149749,TPTKAPYsPTTSKEK,"molecular association, regulation",cell cycle regulation,23500464,,"Golgi disassembly at mitosis, inhibits membrane fusion",VCP,Vcp,DISRUPTS
+VCPIP1,Vcpip1,T761-p,472123,GPSSAPAtPTKAPYS,"molecular association, regulation",cell cycle regulation,23500464,,"Golgi disassembly at mitosis, inhibits membrane fusion",VCP,Vcp,DISRUPTS

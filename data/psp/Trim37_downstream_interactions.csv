@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM37,Trim37,T195-p,1245034,MMIARLDtQLKNKLI,intracellular localization,,30254148,,,,,
+TRIM37,Trim37,S800-p,1887864300,LSEGSPGsSQSGSRH,intracellular localization,,30254148,,,,,

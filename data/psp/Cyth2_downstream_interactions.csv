@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYTH2,Cyth2,S392-p,450661,AARKKRIsVKKKQEQ,"protein stabilization; molecular association, regulation; intracellular localization; protein conformation",,10531036; 20153292; 24083777,,"increases both the helicity and stability of the C-terminus, formation of salt bridges between p-S392 and Arg390,Lys395, and Lys396",ATP6V0A2,Atp6v0a2,DISRUPTS
+CYTH2,Cyth2,T276-p,30306600,LGGGRVKtWKRRWFI,"molecular association, regulation; protein conformation",signaling pathway regulation,24303080,PH,"association with membranes, activation of Arf6",,,

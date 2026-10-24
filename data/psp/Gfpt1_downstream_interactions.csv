@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GFPT1,Gfpt1,S261-p,467935,CNLSRVDsTTCLFPV,"enzymatic activity, induced",,17941647,,,,,
+GFPT1,Gfpt1,S243-p,467935,CNLSRVDsTTCLFPV,"O-GlcNAc glycosylation; enzymatic activity, inhibited","cell differentiation, induced",19170765; 28008135,,promotes angiogenesis,,,

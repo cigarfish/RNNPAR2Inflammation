@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF13B,Kif13b,S1381-p,4691956,KLSRRSIsSPNVNRL,"molecular association, regulation; intracellular localization; protein conformation","cell growth, inhibited; cytoskeletal reorganization",20194617,,regulates intramolecular interaction,14-3-3 beta,Ywhab,INDUCES

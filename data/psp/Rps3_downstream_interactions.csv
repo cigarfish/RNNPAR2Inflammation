@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS3,Rps3,T42-p,455909,SGVEVRVtPTRTEII,intracellular localization,,17560175,KH_2,translocation to nucleus,,,
+RPS3,Rps3,K230-sm,25218901,ISEQKGGkPEPPAMP,protein stabilization,,21968017,,,,,
+RPS3,Rps3,R65-m2,9184302,VLGEKGRrIRELTAV,intracellular localization,,19460357,KH_2,regulates ribosome assembly,,,
+RPS3,Rps3,K214-sm,25218900,HVSIVEPkDEILPTT,protein stabilization,,21968017,,,,,
+RPS3,Rps3,K18-sm,25218902,FVADGIFkAELNEFL,protein stabilization,,21968017,,,,,
+RPS3,Rps3,S6-p,8046503,__MAVQIsKKRKFVA,"activity, induced; intracellular localization","translation, altered",19059439,,important for a cell survival in the stress condition,,,
+RPS3,Rps3,K214-ub,486643,HVSIVEPkDEILPTT,protein degradation; ubiquitination; intracellular localization,"cell growth, inhibited; signaling pathway regulation",35951361; 36567344,,"inhibits NF-kB translocation into the nucleus, and disrupts NF-kB signaling pathway, inhibits proliferation and metastasis",,,
+RPS3,Rps3,T70-p,15113600,GRRIRELtAVVQKRF,"activity, induced; molecular association, regulation; intracellular localization","apoptosis, altered",20605787,KH_2,upregulates the endonuclease activity of RPS3,E2F1,E2f1,DISRUPTS
+RPS3,Rps3,T70-p,15113600,GRRIRELtAVVQKRF,"activity, induced; molecular association, regulation; intracellular localization","apoptosis, altered",20605787,KH_2,upregulates the endonuclease activity of RPS3,Akt1,Akt1,INDUCES
+RPS3,Rps3,R64-m2,9184301,NVLGEKGrRIRELTA,intracellular localization,,19460357,KH_2,regulates ribosome assembly,,,
+RPS3,Rps3,S209-p,9765788,KPLPDHVsIVEPKDE,intracellular localization,,21399639,,,,,
+RPS3,Rps3,R67-m2,9184303,GEKGRRIrELTAVVQ,intracellular localization,,19460357,KH_2,regulates ribosome assembly,,,
+RPS3,Rps3,T221-p,452652,KDEILPTtPISEQKG,"activity, induced; intracellular localization","translation, altered",19059439; 21871177,,nuclear accumulation; important for a cell survival in the stress condition,,,

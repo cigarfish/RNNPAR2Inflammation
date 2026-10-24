@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FOXG1,Foxg1,T279-p,482881,KLRRRSTtSRAKLAF,intracellular localization,,17435750,,,,,
+FOXG1,Foxg1,S19-p,482880,MIPKSSFsINSLVPE,intracellular localization,"cell differentiation, altered",17435750,,,,,

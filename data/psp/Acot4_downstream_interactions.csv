@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACOT4,Acot4,S392-p,1871177703,GGEPRAHsKAQEDAW,"protein stabilization; molecular association, regulation","carcinogenesis, induced",33148467,BAAT_C,,HSP70,Hspa1a,DISRUPTS

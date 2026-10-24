@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC42BPA,Cdc42bpa,T403-p,12612503,HLPFVGFtYTSSCVL,"enzymatic activity, induced",cytoskeletal reorganization,11283256,Pkinase_C,,,,
+CDC42BPA,Cdc42bpa,S234-p,12612500,MEDGTVQsSVAVGTP,"enzymatic activity, induced",cytoskeletal reorganization,11283256,Pkinase,,,,
+CDC42BPA,Cdc42bpa,T240-p,12612501,QSSVAVGtPDYISPE,"enzymatic activity, induced",cytoskeletal reorganization,11283256,Pkinase,,,,

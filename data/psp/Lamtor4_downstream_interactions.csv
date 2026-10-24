@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LAMTOR4,Lamtor4,S67-p,1868827201,NVPFKRLsVVFGEHT,"molecular association, regulation",,31314152,,when in complex with HBXIP - dimer HBXIP-LAMTOR4 ,LAMTOR1,Lamtor1,DISRUPTS

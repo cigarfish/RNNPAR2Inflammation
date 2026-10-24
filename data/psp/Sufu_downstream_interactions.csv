@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUFU,Sufu,S342-p,4786843,LAHDRAPsRKDSLES,"molecular association, regulation; protein stabilization; intracellular localization",,21317289; 27234298,SUFU_C,,FBXL17,Fbxl17,DISRUPTS
+SUFU,Sufu,S352-p,20652725,DSLESDSsTAIIPHE,"molecular association, regulation",,27234298,SUFU_C,,FBXL17,Fbxl17,DISRUPTS
+SUFU,Sufu,S346-p,4786848,RAPSRKDsLESDSST,"molecular association, regulation; protein stabilization; intracellular localization; phosphorylation",,21317289; 27234298,SUFU_C,,FBXL17,Fbxl17,DISRUPTS
+SUFU,Sufu,K257-ub,5009206,HLQERVDkGIETDGS,protein degradation,"cell growth, induced; transcription, induced",18997815,SUFU_C,,,,

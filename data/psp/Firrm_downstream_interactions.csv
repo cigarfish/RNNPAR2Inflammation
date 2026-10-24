@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FIRRM,Firrm,S744-p,50774549,ETKNKVVsFLEKTGF,"molecular association, regulation",,34260926,,,PPP1CC,Ppp1cc,DISRUPTS

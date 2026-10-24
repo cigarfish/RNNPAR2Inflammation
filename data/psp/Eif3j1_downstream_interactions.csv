@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF3J,Eif3j1,S127-p,3177700,LKKLQEEsDLELAKE,"molecular association, regulation","translation, induced",25887626,eIF3_subunit,,eIF3-eta,Eif3h,INDUCES
+EIF3J,Eif3j1,S127-p,3177700,LKKLQEEsDLELAKE,"molecular association, regulation","translation, induced",25887626,eIF3_subunit,,eIF3-zeta,Eif3c,INDUCES
+EIF3J,Eif3j1,S127-p,3177700,LKKLQEEsDLELAKE,"molecular association, regulation","translation, induced",25887626,eIF3_subunit,,EIF3C,Eif3c,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPKAP1,Mapkap1,S128-p,3830292,KSLFEKKsLKEKPPI,intracellular localization,signaling pathway regulation,30837283,SIN1,,,,
+MAPKAP1,Mapkap1,S367-p,56676494,DGVFEEDsQIDIATV,"molecular association, regulation; phosphorylation","apoptosis, inhibited",34982576,,induces AKT phosphorylation,ECT2,Ect2,INDUCES
+MAPKAP1,Mapkap1,S260-p,28758701,PIHKFGFsTLALVEK,protein stabilization,"cell growth, induced",23928304,CRIM,high abundance of mTORC2 ,,,
+MAPKAP1,Mapkap1,T86-p,3253548,GIRRRSNtAQRLERL,"activity, induced",,26235620,SIN1,,,,
+MAPKAP1,Mapkap1,S343-p,1876127002,DLDSTLEsQSAWEFC,"molecular association, regulation; phosphorylation","apoptosis, inhibited",34982576,,induces AKT phosphorylation,ECT2,Ect2,INDUCES
+MAPKAP1,Mapkap1,S186-p,27458520,VYLPLHSsQDRLLPM,"molecular association, regulation; phosphorylation","apoptosis, inhibited",34982576,CRIM,induces AKT phosphorylation,ECT2,Ect2,INDUCES

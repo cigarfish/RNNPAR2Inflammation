@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CPSF3,Cpsf3,K465-sm,2586338,FRGEKLAkVMGFLAD,,"RNA splicing, altered; cell growth, induced",17923699,,regulation of mRNA 3'-end processing- cleavage and polyadenylation,,,
+CPSF3,Cpsf3,K545-sm,2586337,EELEIQEkPALKVFK,,"RNA splicing, altered; cell growth, induced",17923699,CPSF73-100_C,regulation of mRNA 3'-end processing- cleavage and polyadenylation,,,
+CPSF3,Cpsf3,K462-sm,2586339,TLNFRGEkLAKVMGF,,"RNA splicing, altered; cell growth, induced",17923699,,regulation of mRNA 3'-end processing- cleavage and polyadenylation,,,

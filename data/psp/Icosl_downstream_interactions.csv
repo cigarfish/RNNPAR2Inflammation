@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ICOSLG,Icosl,S285-p,33625706,RDRCLQHsYAGAWAV,phosphorylation,signaling pathway regulation,24837102,,"S285 is required for PKC substrate (serine) phosphorylation of ICOSL phosphorylation of proteins recruited to ICOSL,  upstream arginine residues in the poximal ICOSL cytoplasmic tail are required to promote cytokine secretion",,,

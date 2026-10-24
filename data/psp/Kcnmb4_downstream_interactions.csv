@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNMB4,Kcnmb4,T11-p,451271,LRVAYEYtEAEDKSI,"activity, inhibited",,11790768,CaKB,regulates slowpoke K(+) channel kinetics,,,
+KCNMB4,Kcnmb4,S210-p,451270,AMKKRKFs_______,"activity, inhibited",,11790768,,regulates slowpoke K(+) channel kinetics,,,
+KCNMB4,Kcnmb4,S17-p,451269,YTEAEDKsIRLGLFL,"activity, inhibited",,11790768,CaKB,regulates slowpoke K(+) channel kinetics,,,

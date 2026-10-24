@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DIABLO,Diablo,S67-p,29431803,AQKSEPHsLSSEALM,"molecular association, regulation","apoptosis, induced",24038446,Smac_DIABLO,,XIAP,Xiap,INDUCES
+DIABLO,Diablo,S6-p,31857552,__MAALKsWLSRSVT,intracellular localization,"apoptosis, induced",25310587,,mitochondrial release of DIABLO during TNF induced apoptosis,,,

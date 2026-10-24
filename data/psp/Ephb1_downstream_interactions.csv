@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPHB1,Ephb1,Y600-p,450470,IYIDPFTyEDPNEAV,"molecular association, regulation",,12925710,EphA2_TM,,SHC1(NOT_REPORTED,Shc1,UNKNOWN
+EPHB1,Ephb1,Y600-p,450470,IYIDPFTyEDPNEAV,"molecular association, regulation",,12925710,EphA2_TM,,Src(NOT_REPORTED,Src,UNKNOWN
+EPHB1,Ephb1,Y778-p,450471,DDTSDPTyTSSLGGK,"molecular association, regulation",,12925710,PK_Tyr_Ser-Thr,,SHC1(NOT_REPORTED,Shc1,UNKNOWN
+EPHB1,Ephb1,Y778-p,450471,DDTSDPTyTSSLGGK,"molecular association, regulation",,12925710,PK_Tyr_Ser-Thr,,Src(NOT_REPORTED,Src,UNKNOWN
+EPHB1,Ephb1,Y594-p,449995,GSPGMKIyIDPFTYE,"molecular association, regulation; phosphorylation","cell motility, altered; cell adhesion, altered",10669731; 12223469; 9430661,EphA2_TM,"JNK1 activation; phosphorylation of Grb7; Stimulation of EphB1 and EphB2 induced a complex between Nik/Nck1, Dok1, RasGAP, and an unidentified 145-kDa tyrosine-phosphorylated protein.",NCK1,Nck1,INDUCES
+EPHB1,Ephb1,Y928-p,3053617,SAIKMVQyRDSFLTA,"molecular association, regulation; phosphorylation","cell motility, altered",12223469,SAM_1,phosphorylation of Grb7,GRB7,Grb7,INDUCES

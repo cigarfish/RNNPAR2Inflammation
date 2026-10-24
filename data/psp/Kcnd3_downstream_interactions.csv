@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCND3,Kcnd3,T504-p,11139168,LLSVRTStIKNHEFI,"activity, inhibited",,28919864,DUF3399,,,,
+KCND3,Kcnd3,Y108-p,23045802,GKLHYPRyECISAYD,"activity, induced",,22198508,BTB_2,positive regulation of Kv4.3 channel and cellular electrical activity,,,
+KCND3,Kcnd3,Y136-p,23045803,GDCCYEEyKDRKREN,"activity, induced",,22198508,,positive regulation of Kv4.3 channel and cellular electrical activity,,,

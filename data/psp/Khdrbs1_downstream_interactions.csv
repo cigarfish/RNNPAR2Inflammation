@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KHDRBS1,Khdrbs1,R310-m1,476771,GRGVGPPrGALVRGT,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,R45-m2,476768,PPLPHRSrGGGGGSR,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,T328-p,1884166700,GAITRGAtVTRGVPP,,"neural plasticity; RNA splicing, induced",37595869,,,,,
+KHDRBS1,Khdrbs1,R304-m2,476770,PPPVPRGrGVGPPRG,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,R320-m1,476773,LVRGTPVrGAITRGA,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,T61-p,3194543,GARASPAtQPPPLLP,"molecular association, regulation","DNA repair, induced; RNA splicing, induced",36010841,,,PARP1,Parp1,INDUCES
+KHDRBS1,Khdrbs1,T317-p,18504947,RGALVRGtPVRGAIT,"molecular association, regulation; intracellular localization","cell cycle regulation; RNA splicing, inhibited; cell growth, induced; apoptosis, inhibited",36537190,,,,,
+KHDRBS1,Khdrbs1,R315-m1,476772,PPRGALVrGTPVRGA,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,K96-sm,3755607,PSATASVkMEPENKY,,"apoptosis, inhibited; transcription, inhibited",16568089,,,,,
+KHDRBS1,Khdrbs1,S20-p,457016,RSSGRSGsMDPSGAH,,"neural plasticity; RNA splicing, induced",37595869,,,,,
+KHDRBS1,Khdrbs1,T33-p,7990374,AHPSVRQtPSRQPPL,"molecular association, regulation; intracellular localization; protein conformation","cell cycle regulation; RNA splicing, inhibited; cell growth, induced; apoptosis, inhibited",36537190,,,,,
+KHDRBS1,Khdrbs1,R52-m2,476769,RGGGGGSrGGARASP,intracellular localization,,12529443,,,,,
+KHDRBS1,Khdrbs1,R325-m1,476704,PVRGAITrGATVTRG,intracellular localization,,12529443,,,,,

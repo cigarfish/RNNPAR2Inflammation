@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGFBR1,Tgfbr1,Y182-p,7791190,TTLKDLIyDMTTSGS,"molecular association, regulation",,36378749,TGF_beta_GS,src autophosphorylation induced,Src,Src,INDUCES
+TGFBR1,Tgfbr1,T176-p,4331007,PFISEGTtLKDLIYD,,"cell growth, altered",8576253,TGF_beta_GS,,,,
+TGFBR1,Tgfbr1,T204-p,4325703,VQRTIARtIVLQESI,"activity, induced; phosphorylation; enzymatic activity, induced","cell growth, induced; transcription, induced",18625725; 29467918; 33051597; 7774578,, Induce transcription of SBE4; Induce phosphorylation of SMAD2/3; constitutively active mutant T204D,,,
+TGFBR1,Tgfbr1,S165-p,448244,VPNEEDPsLDRPFIS,"activity, induced",signaling pathway regulation,38360757,, TGFBR1 receptor activation induced; TGFbeta signaling,,,
+TGFBR1,Tgfbr1,S172-p,4331006,SLDRPFIsEGTTLKD,,"cell growth, altered",8576253,,,,,
+TGFBR1,Tgfbr1,T200-p,4325704,LPLLVQRtIARTIVL,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell differentiation, induced; signaling pathway regulation",23290522; 7774578,TGF_beta_GS,TGFBR I-SMAD pathway ; T200V mutation prevented ligand-induced phosphorylation at other residues,FKBP12,Fkbp1a,DISRUPTS
+TGFBR1,Tgfbr1,K178-ub,38557705,ISEGTTLkDLIYDMT,intracellular localization,"cell cycle regulation; carcinogenesis, induced; transcription, induced",25622187,TGF_beta_GS,"tumor cell invasion by inducing genes T?RI, Snail1, and matrix metallopeptidase 2 (MMP2) ",,,

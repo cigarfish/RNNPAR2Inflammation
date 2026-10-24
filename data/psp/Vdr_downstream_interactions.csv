@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VDR,Vdr,S51-p,451285,CKGFFRRsMKRKALF,,"transcription, induced",1656468,zf-C4,"Mutation of S51 inhibited transcriptional activation by the vitamin D hormone, suggesting that phosphorylation of S51 could play a role in vitamin D dependent transcriptional activation.",,,
+VDR,Vdr,S182-p,454433,TPSFSGDsSSSCSDH,"molecular association, regulation","transcription, inhibited",15474498,,,RXRA,Rxra,DISRUPTS
+VDR,Vdr,S208-p,456982,SFSNLDLsEEDSDDP,"molecular association, regulation","transcription, induced; transcription, altered",17368182; 8622969,,,MED1,Med1,INDUCES
+VDR,Vdr,K91-ac,1880814000,CVDIGMMkEFILTDE,"molecular association, regulation","transcription, altered",29754817,,,BRD9,Brd9,INDUCES

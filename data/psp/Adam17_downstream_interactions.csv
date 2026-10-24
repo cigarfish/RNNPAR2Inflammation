@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADAM17,Adam17,S819-p,449039,QRQNRVDsKETEC__,"enzymatic activity, induced",,20188673,,,,,
+ADAM17,Adam17,T735-p,449804,KPFPAPQtPGRLQPA,"activity, induced; intracellular localization; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; apoptosis, induced; cell growth, induced; apoptosis, inhibited",12058067; 20188673; 21586567; 23955714; 34743207; 37046278,,,,,

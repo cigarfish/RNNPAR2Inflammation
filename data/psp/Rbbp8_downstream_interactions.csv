@@ -1,0 +1,21 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBBP8,Rbbp8,T731-p,1868101002,LEDMFDRtTHEEYES,,"cell cycle regulation; DNA repair, inhibited",30202980,,supress DSB end resection,,,
+RBBP8,Rbbp8,T126-p,1275585105,ELMNERNtLQEENKK,"activity, induced","DNA repair, induced",30297868,CtIP_N,,,,
+RBBP8,Rbbp8,K513-ac,33625702,SQGSETSkNKFRQVT,"enzymatic activity, induced",,24837676,,,,,
+RBBP8,Rbbp8,T315-p,4766297,FSDSTSKtPPQEELP,"protein degradation; molecular association, regulation; ubiquitination; enzymatic activity, induced; phosphorylation","DNA repair, altered",23623683; 24837676,,inhibits phosphorylation of RPA2,PIN1,Pin1,INDUCES
+RBBP8,Rbbp8,T859-p,27427901,WEVGFPStQTCMERG,"molecular association, regulation","DNA repair, induced; cell growth, induced",23273981; 31097467,SAE2,,,,
+RBBP8,Rbbp8,T847-p,7113805,FRYIPPNtPENFWEV,,"cell cycle regulation; DNA repair, induced; cell growth, induced; chromatin organization, altered",19202191; 31097467; 32251466,SAE2,,,,
+RBBP8,Rbbp8,S327-p,452473,ELPTRVSsPVFGATS,"molecular association, regulation; phosphorylation","cell cycle regulation; DNA repair, induced",15485915; 16101277; 30202980; 32251466; 39261728,,,BRCA1,Brca1,DISRUPTS
+RBBP8,Rbbp8,S327-p,452473,ELPTRVSsPVFGATS,"molecular association, regulation; phosphorylation","cell cycle regulation; DNA repair, induced",15485915; 16101277; 30202980; 32251466; 39261728,,,PLK1,Plk1,INDUCES
+RBBP8,Rbbp8,S327-p,452473,ELPTRVSsPVFGATS,"molecular association, regulation; phosphorylation","cell cycle regulation; DNA repair, induced",15485915; 16101277; 30202980; 32251466; 39261728,,,BRCA1,Brca1,INDUCES
+RBBP8,Rbbp8,S723-p,4766312,EERKMNDsLEDMFDR,,"cell cycle regulation; DNA repair, inhibited",30202980,,supress DSB end resection,,,
+RBBP8,Rbbp8,S231-p,33625700,VADTYDQsQSPMAKA,"enzymatic activity, induced",,24837676,,,,,
+RBBP8,Rbbp8,K896-sm,1873173300,SPKGKEQkT______,"molecular association, regulation","DNA repair, induced",28740167,,,,,
+RBBP8,Rbbp8,K426-ub,1883319600,QNRTEYGkDSNTDKH,phosphorylation,"DNA repair, inhibited",36092721,,"suppresses HR and DNA resection, ubiquitylation is inhibited by phosphorylation by PLK1",,,
+RBBP8,Rbbp8,T693-p,1868101003,ETVDMDCtLVSETVL,,"cell cycle regulation; DNA repair, inhibited",30202980,,supress DSB end resection,,,
+RBBP8,Rbbp8,K578-sm,55429361,NKPSLQIkEENAVFK,"molecular association, regulation; ubiquitination","DNA repair, induced",33406258; 33723063,,"  protects stalled replication forks from over-resection; colocalizes with RFA2; promotes DNA end resection, and substituting K578 with arginine results in impaired end resection and HR activity",RNF4,Rnf4,INDUCES
+RBBP8,Rbbp8,K515-ac,33625701,GSETSKNkFRQVTLY,"enzymatic activity, induced",,24837676,,,,,
+RBBP8,Rbbp8,S276-p,28058803,SETQGPMsPLGDELY,"protein degradation; molecular association, regulation; ubiquitination; protein conformation; enzymatic activity, induced; phosphorylation","DNA repair, altered",23623683; 24837676,,inhibits phosphorylation of RPA2,PIN1,Pin1,INDUCES
+RBBP8,Rbbp8,S745-p,448392,SCLADSFsQAADEEE,"molecular association, regulation; enzymatic activity, induced",,10910365; 24837676,,,BRCA1,Brca1,DISRUPTS
+RBBP8,Rbbp8,S664-p,448391,IDPGADLsQYKMDVT,"molecular association, regulation; enzymatic activity, induced",,10910365; 24837676,,,BRCA1,Brca1,DISRUPTS
+RBBP8,Rbbp8,S347-p,30992801,LDLNTSLsPSLLQPG,"enzymatic activity, induced",,24837676,,,,,

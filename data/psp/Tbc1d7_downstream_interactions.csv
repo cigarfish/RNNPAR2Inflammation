@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TBC1D7,Tbc1d7,S124-p,15415675,GKLPRSPsFPLEPDD,"protein stabilization; molecular association, regulation",signaling pathway regulation,30143532,,Binding of 14-3-3 to S124 phosphorylated TBC1D7 prevents binding of Beta-TrCP2 consequently ubiquitination of TBC1D7.,14-3-3 zeta,Ywhaz,INDUCES

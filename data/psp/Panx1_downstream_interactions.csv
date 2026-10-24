@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PANX1,Panx1,Y10-p,23129120,IAQLATEyVFSDFLL,"activity, induced","carcinogenesis, induced; cell growth, induced",37056395,,,,,
+PANX1,Panx1,Y150-p,4113671,MEELDKVyNRAIKAA,intracellular localization,,33405952,Innexin,,,,
+PANX1,Panx1,Y199-p,462886,KYPIVEQyLKTKKNS,"activity, induced; intracellular localization",,30814251,Innexin,induces vasoconstriction,,,

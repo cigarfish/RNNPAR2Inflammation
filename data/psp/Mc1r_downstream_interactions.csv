@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MC1R,Mc1r,T308-p,471419,HSQELRRtLKEVLTC,"receptor internalization, altered",,17130136,,T308 and S316 phosphorylation regulate MC1R internalization and desensitization. ,,,
+MC1R,Mc1r,S316-p,471420,LKEVLTCsW______,"receptor internalization, altered",,17130136,,T308 and S316 phosphorylation regulate MC1R internalization and desensitization. ,,,
+MC1R,Mc1r,T157-p,8051400,LRYHSIVtLPRARRA,,"exocytosis, altered",19452503,7tm_1,rescues the retention phenotype of R160W and R162P,,,

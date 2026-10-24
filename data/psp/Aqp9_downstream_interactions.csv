@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AQP9,Aqp9,S11-p,477183,EGAEKGKsFKQRLVL,intracellular localization,"cell motility, induced; cytoskeletal reorganization",17346701; 21873454,,,,,
+AQP9,Aqp9,S222-p,477184,MNPARDLsPRLFTAL,,cytoskeletal reorganization,17346701; 28419510,MIP,mutation decreases sensitivity to hypo-osmolar conditions and formation of filopodia; ?lopodia formation,,,

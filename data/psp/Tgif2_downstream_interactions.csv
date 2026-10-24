@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGIF2,Tgif2,T186-p,25174055,LFNTPPPtPPEQDKE,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; transcription, altered",36647029,,,HDAC1,Hdac1,INDUCES
+TGIF2,Tgif2,T182-p,25174052,PTGGLFNtPPPTPPE,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; transcription, altered",36647029,,,HDAC1,Hdac1,INDUCES

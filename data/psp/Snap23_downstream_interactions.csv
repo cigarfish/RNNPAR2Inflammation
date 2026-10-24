@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNAP23,Snap23,C79-pa,1891394606,TLTELNKcCGLCVCP,"molecular association, regulation",,38198890,,,STX11,Stx11,INDUCES
+SNAP23,Snap23,S95-p,455262,NRTKNFEsGKAYKTT,"molecular association, regulation; intracellular localization; protein conformation","autophagy, induced; exocytosis, induced; endocytosis, inhibited",28067230; 29771640; 32949647; 33213278,SNAP-25,,STX17,Stx17,INDUCES
+SNAP23,Snap23,C85-pa,1891394607,KCCGLCVcPCNRTKN,"molecular association, regulation",,38198890,,,STX11,Stx11,INDUCES
+SNAP23,Snap23,T24-p,11486600,TDESLEStRRILGLA,"molecular association, regulation",,12930825,,,STX4,Stx4a,INDUCES
+SNAP23,Snap23,S23-p,9766096,ITDESLEsTRRILGL,"molecular association, regulation",,12930825,,,STX4,Stx4a,INDUCES
+SNAP23,Snap23,C83-pa,1891394608,LNKCCGLcVCPCNRT,"molecular association, regulation",,38198890,,,STX11,Stx11,INDUCES
+SNAP23,Snap23,S110-p,455977,WGDGGENsPCNVVSK,,"exocytosis, induced",29339438,SNAP-25,promoting MVB?PM fusion and the release of CD63-enriched exosomes,,,
+SNAP23,Snap23,C87-pa,1891394609,CGLCVCPcNRTKNFE,"molecular association, regulation",,38198890,,,STX11,Stx11,INDUCES
+SNAP23,Snap23,C80-pa,1891394610,LTELNKCcGLCVCPC,"molecular association, regulation",,38198890,,,STX11,Stx11,INDUCES

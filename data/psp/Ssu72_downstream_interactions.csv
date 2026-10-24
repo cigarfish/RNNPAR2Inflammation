@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SSU72,Ssu72,S19-p,29614601,CSSNQNRsMEAHNIL,"protein degradation; ubiquitination; enzymatic activity, inhibited; protein conformation","cell cycle regulation; chromatin organization, altered",24149858,Ssu72,Regulation of sister chromatid arm cohesion during early mitosis,,,

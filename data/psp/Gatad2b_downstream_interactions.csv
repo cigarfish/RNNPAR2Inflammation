@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATAD2B,Gatad2b,K33-sm,3755613,DVLAKRLkMEGHEAM,"molecular association, regulation","transcription, inhibited",16738318,,,RBBP7,Rbbp7,INDUCES

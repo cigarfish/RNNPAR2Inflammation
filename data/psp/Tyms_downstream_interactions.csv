@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TYMS,Tyms,T170-p,1875342300,RVIDTIKtNPDDRRI,phosphorylation,,34845374,Thymidylat_synt,reciprocal phosphorylation/O-GlcNAcylation with T306 O-GlcAc site,,,
+TYMS,Tyms,T306-gl,1875343300,EGYNPHPtIKMEMAV,protein stabilization; phosphorylation,,34845374,Thymidylat_synt,dimer stabilization by intra- and inter-monomer interactions; reciprocal phosphorylation/O-GlcNAcylation with T306 O-GlcAc site,TYMS,Tyms,INDUCES
+TYMS,Tyms,S124-p,13209303,FLDSLGFsTREEGDL,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,20430630,Thymidylat_synt, incorrect binding alignment of substrate dUMP and THF to phosphorylated TYMS,,,
+TYMS,Tyms,T251-gl,1875343302,KPGDFIHtLGDAHIY,protein stabilization,,34845374,Thymidylat_synt,dimer stabilization by intra- and inter-monomer interactions,TYMS,Tyms,INDUCES
+TYMS,Tyms,S114-p,4701881,KIWDANGsRDFLDSL,phosphorylation,,34845374,Thymidylat_synt,reciprocal phosphorylation/O-GlcNAcylation with T306 O-GlcAc site,,,

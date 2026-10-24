@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKN1,Pkn1,S533-p,483281,ATGTGTFsPGASPGS,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced",31981797,,induces anchorage-independent cell growth,,,
+PKN1,Pkn1,S537-p,483282,GTFSPGAsPGSEART,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced",31981797,,induces anchorage-independent cell growth,,,
+PKN1,Pkn1,S562-p,483683,LGTDSDSsPQKSSRD,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced",31981797,,induces anchorage-independent cell growth,,,
+PKN1,Pkn1,T774-p,447835,GYGDRTStFCGTPEF,"molecular association, regulation; enzymatic activity, induced",cytoskeletal reorganization,10753910; 10792047; 26296974,Pkinase,,HADHB,Hadhb,INDUCES
+PKN1,Pkn1,T774-p,447835,GYGDRTStFCGTPEF,"molecular association, regulation; enzymatic activity, induced",cytoskeletal reorganization,10753910; 10792047; 26296974,Pkinase,,HADHA,Hadha,INDUCES
+PKN1,Pkn1,T774-p,447835,GYGDRTStFCGTPEF,"molecular association, regulation; enzymatic activity, induced",cytoskeletal reorganization,10753910; 10792047; 26296974,Pkinase,,PDK1,Pdk1,INDUCES
+PKN1,Pkn1,S916-p,452442,TGEAPTLsPPRDARP,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced",31981797,Pkinase_C,induces anchorage-independent cell growth,,,

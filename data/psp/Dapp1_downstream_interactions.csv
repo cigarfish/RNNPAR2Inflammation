@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAPP1,Dapp1,S141-p,14510068,EEPSIYEsVRVHTAM,"molecular association, regulation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,22981863,,,PLCG1,Plcg1,INDUCES
+DAPP1,Dapp1,Y139-p,448325,KVEEPSIyESVRVHT,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, inhibited; cytoskeletal reorganization; signaling pathway regulation",10770799; 11102801; 15247305; 22981863; 23322602; 30131370,,,SH2D1B(NOT_REPORTED,Sh2d1b1,UNKNOWN
+DAPP1,Dapp1,Y139-p,448325,KVEEPSIyESVRVHT,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, inhibited; cytoskeletal reorganization; signaling pathway regulation",10770799; 11102801; 15247305; 22981863; 23322602; 30131370,,,PLCG2,Plcg2,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIOK1,Riok1,K411-m1,877067500,EIASQRTkEERSSQD,protein degradation; ubiquitination,"cell growth, inhibited",29384474,,RIOK1 methylation reduces the tumor growth and metastasis in mice model,,,
+RIOK1,Riok1,T410-p,797986500,MEIASQRtKEERSSQ,protein stabilization,,29384474,,RIOK1 phosphorylation at T410 by CK2 blocks methylation at K411 by SETD7 and stabilizes RIOK1,,,

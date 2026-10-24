@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DBI,Dbi,S21-p,1880114700,RHLKTKPsDEEMLFI,"molecular association, regulation","autophagy, induced",36280213,,inhibits binding to phosphatidylethanolamine,,,

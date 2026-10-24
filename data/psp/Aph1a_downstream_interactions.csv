@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APH1A,Aph1a,S257-p,15229310,DSRVMVYsALRIPPE,"molecular association, regulation; enzymatic activity, altered",,35858570,,,ARRB2,Arrb2,INDUCES
+APH1A,Aph1a,S103-p,1877641902,KADEGLAsLSEDGRS,"molecular association, regulation; enzymatic activity, altered",,35858570,Aph-1,,ARRB2,Arrb2,INDUCES
+APH1A,Aph1a,S110-p,1877641904,SLSEDGRsPISIRQM,"molecular association, regulation; enzymatic activity, altered",,35858570,Aph-1,,ARRB2,Arrb2,INDUCES
+APH1A,Aph1a,S251-p,1877641906,LCRRQEDsRVMVYSA,"molecular association, regulation; enzymatic activity, altered",,35858570,,,ARRB2,Arrb2,INDUCES

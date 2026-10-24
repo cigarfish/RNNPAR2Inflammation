@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPL13A,Rpl13a,S77-p,5594501,PYHFRAPsRIFWRTV,"activity, induced; protein degradation; molecular association, regulation; ubiquitination","translation, altered; translation, inhibited",18995835; 22771119,Ribosomal_L13,essential for GAIT-mediated translational silencing of inflammatory genes; Phosphorylation is required for RPLl3A release from ribosome. GAPDH binds to phosphorylated S77 and prevents degradation. ,GAPDH,Gapdh,INDUCES

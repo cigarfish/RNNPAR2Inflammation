@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FRS2,Frs2,Y392-p,449785,NLDPMHNyVNTENVT,"molecular association, regulation","cell differentiation, induced",11278583,,,SOS1,Sos1,INDUCES
+FRS2,Frs2,Y392-p,449785,NLDPMHNyVNTENVT,"molecular association, regulation","cell differentiation, induced",11278583,,,GRB2,Grb2,INDUCES
+FRS2,Frs2,Y349-p,449784,RRTALLNyENLPSLP,"molecular association, regulation","cell differentiation, induced",11278583,,,SOS1,Sos1,INDUCES
+FRS2,Frs2,Y349-p,449784,RRTALLNyENLPSLP,"molecular association, regulation","cell differentiation, induced",11278583,,,GRB2,Grb2,INDUCES
+FRS2,Frs2,Y436-p,448154,LEHRQLNyIQVDLEG,"molecular association, regulation","cell differentiation, induced; signaling pathway regulation",11278583; 36410439,,activates FGFR1 signaling,SHP-2,Ptpn11,INDUCES
+FRS2,Frs2,Y196-p,448153,AEEQVHTyVNTTGVQ,"protein degradation; molecular association, regulation","cell differentiation, induced; signaling pathway regulation; endocytosis, inhibited",11278583; 21625213; 36410439,,affects KGFR endocytic trafficking and degradation; activates FGFR1 signaling,SOS1,Sos1,INDUCES
+FRS2,Frs2,Y196-p,448153,AEEQVHTyVNTTGVQ,"protein degradation; molecular association, regulation","cell differentiation, induced; signaling pathway regulation; endocytosis, inhibited",11278583; 21625213; 36410439,,affects KGFR endocytic trafficking and degradation; activates FGFR1 signaling,GRB2,Grb2,INDUCES
+FRS2,Frs2,Y471-p,473102,PTRRTELyAVIDIER,"molecular association, regulation","cell differentiation, induced",11278583,,,SHP-2,Ptpn11,INDUCES
+FRS2,Frs2,Y306-p,449783,PSVNKLVyENINGLS,"molecular association, regulation","cell differentiation, induced",11278583,,,SOS1,Sos1,INDUCES
+FRS2,Frs2,Y306-p,449783,PSVNKLVyENINGLS,"molecular association, regulation","cell differentiation, induced",11278583,,,GRB2,Grb2,INDUCES

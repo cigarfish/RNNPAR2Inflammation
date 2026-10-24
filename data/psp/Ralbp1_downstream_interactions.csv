@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RALBP1,Ralbp1,T297-p,3136101,ACGRTTEtEKVQEFQ,"activity, induced; protein conformation",,16087181,RhoGAP,,,,
+RALBP1,Ralbp1,S509-p,3136100,FLRRQIAsEKEEIER,"activity, induced",,16087181,,,,,

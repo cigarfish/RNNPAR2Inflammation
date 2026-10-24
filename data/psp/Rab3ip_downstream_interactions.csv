@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB3IP,Rab3ip,S163-p,3209721,DSLSRLRsPSVLEVR,"enzymatic activity, inhibited",,31204173,,,,,
+RAB3IP,Rab3ip,S165-p,472425,LSRLRSPsVLEVREK,"activity, induced; enzymatic activity, inhibited","carcinogenesis, induced; exocytosis, induced",31204173; 36797475,,,,,
+RAB3IP,Rab3ip,S288-p,4734219,KGHTRNKsTSSAMSG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,23435566,, inhibits binding to phosphatidylserine; ciliogenesis,EXOC6,Exoc6,INDUCES

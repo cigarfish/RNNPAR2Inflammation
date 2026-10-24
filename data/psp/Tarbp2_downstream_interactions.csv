@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TARBP2,Tarbp2,K52-sm,52477001,TPVYDLLkAEGQAHQ,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell motility, inhibited; RNA stability, inhibited",26582366,dsrm,inhibits ubiquitination,AGO2,Ago2,INDUCES
+TARBP2,Tarbp2,S283-p,27457469,ILSLRSCsLGSLGAL,"protein stabilization; molecular association, regulation","transcription, induced",27407113,,optimal TRBP expression in human primary cells; miRNA expression,P70S6KB,Rps6kb1,DISRUPTS
+TARBP2,Tarbp2,S286-p,56757901,LRSCSLGsLGALGPA,"molecular association, regulation","transcription, induced",27407113,,miRNA expression,P70S6KB,Rps6kb1,DISRUPTS

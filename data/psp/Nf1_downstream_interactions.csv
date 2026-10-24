@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NF1,Nf1,S2576-p,456014,HPHLRKVsVSESNVL,"molecular association, regulation; activity, inhibited",,14741381,,,14-3-3 beta,Ywhab,INDUCES
+NF1,Nf1,S2578-p,456016,HLRKVSVsESNVLLD,"molecular association, regulation; activity, inhibited",,14741381,,,14-3-3 beta,Ywhab,INDUCES
+NF1,Nf1,S2813-p,456018,AGSFKRNsIKKIV__,"molecular association, regulation; activity, inhibited",,14741381,,,14-3-3 beta,Ywhab,INDUCES
+NF1,Nf1,T2554-p,456019,KMRRVAEtDYEMETQ,"molecular association, regulation; activity, inhibited",,14741381,,,14-3-3 beta,Ywhab,INDUCES
+NF1,Nf1,S2580-p,456017,RKVSVSEsNVLLDEE,"molecular association, regulation; activity, inhibited",,14741381,,,14-3-3 beta,Ywhab,INDUCES
+NF1,Nf1,S2808-p,456895,QKQRSAGsFKRNSIK,intracellular localization,,26490262,,Ran-dependent,,,

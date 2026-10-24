@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HAS2,Has2,T110-p,18122801,LQSVKRLtYPGIKVV,"enzymatic activity, inhibited","cell motility, altered; cell adhesion, altered",21228273,,,,,
+HAS2,Has2,T328-p,1870773104,VLSLGYAtKYTARSK,"intracellular localization; enzymatic activity, induced",,32993960,Chitin_synth_2,Regulates localization and membrane transport,,,
+HAS2,Has2,K190-ub,14991106,IMQKWGGkREVMYTA,"enzymatic activity, induced",,20507985,,,,,

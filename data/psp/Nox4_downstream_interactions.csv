@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOX4,Nox4,Y566-p,57848101,LSNQNNSyGTRFEYN,"molecular association, regulation; enzymatic activity, inhibited",,27525436,,,CYBA,Cyba,DISRUPTS
+NOX4,Nox4,Y491-p,27930805,WQENRPDyVNIQLYL,"molecular association, regulation","cell growth, induced",23612968,NAD_binding_6,mediated by Grb2; Grb2 recruitment to SHPS1,GRB2,Grb2,INDUCES
+NOX4,Nox4,Y491-p,27930805,WQENRPDyVNIQLYL,"molecular association, regulation","cell growth, induced",23612968,NAD_binding_6,mediated by Grb2; Grb2 recruitment to SHPS1,SHPS1,Sirpa,INDUCES

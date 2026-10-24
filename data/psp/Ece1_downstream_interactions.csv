@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ECE1,Ece1,S20-p,3053606,EDLVDSLsEGDAYPN,protein stabilization; intracellular localization; phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; cell motility, induced; apoptosis, inhibited; transcription, induced",26543229; 32850305; 36766848,,,,,
+ECE1,Ece1,K6-ub,1877956802,__MMSTYkRATLDEE,protein degradation,"cell growth, inhibited; cell motility, inhibited",31788944; 36766848,," in ECE1cK6R CD44, CD133 transcription is induced; ECE1cK6R mutant is stable;  ECE1cK6R mutant enhancement of cell migration and invasion; K6R mutant enhances stability, tumor growth and EMT invasiveness",,,
+ECE1,Ece1,S18-p,3053605,DEEDLVDsLSEGDAY,protein stabilization; intracellular localization; phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced; cell motility, induced; apoptosis, inhibited; transcription, induced",26543229; 32850305; 36766848,,,,,
+ECE1,Ece1,T9-p,14159846,MSTYKRAtLDEEDLV,protein stabilization,"cell motility, induced",26543229,,colon cancer cell invasion.,,,

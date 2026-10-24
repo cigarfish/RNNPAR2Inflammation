@@ -1,0 +1,43 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERBB4,Erbb4,Y1284-p,457470,IVAENPEyLSEFSLK,"molecular association, regulation; enzymatic activity, induced","cell growth, induced; apoptosis, inhibited",16729043; 19718025,,,SHC1,Shc1,INDUCES
+ERBB4,Erbb4,Y1242-p,451502,KAFDNPDyWNHSLPP,"molecular association, regulation",,16729043; 18721752; 8617750,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y1242-p,451502,KAFDNPDyWNHSLPP,"molecular association, regulation",,16729043; 18721752; 8617750,,,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1242-p,451502,KAFDNPDyWNHSLPP,"molecular association, regulation",,16729043; 18721752; 8617750,,,SHC1,Shc1,INDUCES
+ERBB4,Erbb4,Y1081-p,4825103,EQGVSVPyRAPTSTI,"molecular association, regulation",,18721752,,,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1081-p,4825103,EQGVSVPyRAPTSTI,"molecular association, regulation",,18721752,,,CRK,Crk,INDUCES
+ERBB4,Erbb4,Y733-p,457838,SGAFGTVyKGIWVPE,"molecular association, regulation",,16729043,PK_Tyr_Ser-Thr,,SHC1,Shc1,INDUCES
+ERBB4,Erbb4,Y1202-p,4825105,PPKAEDEyVNEPLYL,"molecular association, regulation",,16729043; 18721752,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y1202-p,4825105,PPKAEDEyVNEPLYL,"molecular association, regulation",,16729043; 18721752,,,Syk,Syk,INDUCES
+ERBB4,Erbb4,Y1128-p,461025,EDSSTQRySADPTVF,"molecular association, regulation",,18721752,,,Src,Src,INDUCES
+ERBB4,Erbb4,Y1128-p,461025,EDSSTQRySADPTVF,"molecular association, regulation",,18721752,,,STAT1,Stat1,INDUCES
+ERBB4,Erbb4,K714-sm,1873286906,QAQLRILkETELKRV,"molecular association, regulation; intracellular localization; phosphorylation","cell differentiation, induced; signaling pathway regulation",28974580,,"nuclear accumulation regulated by Exportin-1-dependent nuclear export, increases autophosphorylation, required for the RIP-mediated nuclear signaling of ErbB4 ICD in mammary epithelial cells",Exportin-1,Xpo1,INDUCES
+ERBB4,Erbb4,Y1022-p,36100601,DMMDAEEyLVPQAFN,"molecular association, regulation","cell motility, induced",16729043; 32561640,,,CSK,Csk,INDUCES
+ERBB4,Erbb4,Y1022-p,36100601,DMMDAEEyLVPQAFN,"molecular association, regulation","cell motility, induced",16729043; 32561640,,,VAV3,Vav3,INDUCES
+ERBB4,Erbb4,Y1022-p,36100601,DMMDAEEyLVPQAFN,"molecular association, regulation","cell motility, induced",16729043; 32561640,,,CRK,Crk,INDUCES
+ERBB4,Erbb4,Y1150-p,458100,GELDEEGyMTPMRDK,"molecular association, regulation",,18721752,,,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1150-p,458100,GELDEEGyMTPMRDK,"molecular association, regulation",,18721752,,,Syk,Syk,INDUCES
+ERBB4,Erbb4,Y1150-p,458100,GELDEEGyMTPMRDK,"molecular association, regulation",,18721752,,,CRK,Crk,INDUCES
+ERBB4,Erbb4,Y1188-p,451501,QALDNPEyHNASNGP,"molecular association, regulation",,16729043; 18721752; 8617750,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y1188-p,451501,QALDNPEyHNASNGP,"molecular association, regulation",,16729043; 18721752; 8617750,,,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1188-p,451501,QALDNPEyHNASNGP,"molecular association, regulation",,16729043; 18721752; 8617750,,,SHC1,Shc1,INDUCES
+ERBB4,Erbb4,Y1162-p,2045347,RDKPKQEyLNPVEEN,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced; apoptosis, inhibited",16729043; 18721752; 19718025; 32561640,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y1162-p,2045347,RDKPKQEyLNPVEEN,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced; apoptosis, inhibited",16729043; 18721752; 19718025; 32561640,,,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1162-p,2045347,RDKPKQEyLNPVEEN,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced; apoptosis, inhibited",16729043; 18721752; 19718025; 32561640,,,VAV2,Vav2,INDUCES
+ERBB4,Erbb4,Y1162-p,2045347,RDKPKQEyLNPVEEN,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell growth, induced; apoptosis, inhibited",16729043; 18721752; 19718025; 32561640,,,VAV3,Vav3,INDUCES
+ERBB4,Erbb4,Y1208-p,4825109,EYVNEPLyLNTFANT,"molecular association, regulation",,16729043,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,T699-p,9430151,TELVEPLtPSGTAPN,"enzymatic activity, inhibited; phosphorylation",signaling pathway regulation,31053301,,downregulates phosphorylation of Y1284; MEK-ERK pathway-dependent feedback inhibition of HER4 activation,,,
+ERBB4,Erbb4,Y875-p,2045333,LEGDEKEyNADGGKM,"molecular association, regulation",,18721752,PK_Tyr_Ser-Thr,,PLCG2,Plcg2,INDUCES
+ERBB4,Erbb4,S1051-p,1869951802,NRSEIGHsPPPAYTP,"enzymatic activity, inhibited",signaling pathway regulation,31053301,,MEK-ERK pathway-dependent feedback inhibition of HER4 activation,,,
+ERBB4,Erbb4,Y1268-p,4825104,EYSTKYFyKQNGRIR,"molecular association, regulation",,16729043,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y1268-p,4825104,EYSTKYFyKQNGRIR,"molecular association, regulation",,16729043,,,NCK2,Nck2,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,PIK3C2A,Pik3c2a,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,Arg,Abl2,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,PIK3R3,Pik3r3,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,PIK3R2,Pik3r2,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,CBL,Cbl,INDUCES
+ERBB4,Erbb4,Y1056-p,451500,GHSPPPAyTPMSGNQ,"activity, induced; molecular association, regulation","cell growth, altered",16729043; 16934755; 18721752; 8617750,,critical for HER4 activity to inhibit colony formation,PIK3R1,Pik3r1,INDUCES
+ERBB4,Erbb4,Y1258-p,451685,STLQHPDyLQEYSTK,"molecular association, regulation",,18721752,,,SHC1,Shc1,INDUCES
+ERBB4,Erbb4,Y1221-p,4825108,NTLGKAEyLKNNILS,"molecular association, regulation",,16729043,,,GRB2,Grb2,INDUCES
+ERBB4,Erbb4,Y984-p,34494908,MARDPQRyLVIQGDD,"molecular association, regulation",,16729043,,,STAT5A,Stat5a,INDUCES
+ERBB4,Erbb4,Y984-p,34494908,MARDPQRyLVIQGDD,"molecular association, regulation",,16729043,,,SHP-2,Ptpn11,INDUCES
+ERBB4,Erbb4,Y1035-p,4825102,FNIPPPIyTSRARID,"molecular association, regulation",,18721752,,,STAT1,Stat1,INDUCES

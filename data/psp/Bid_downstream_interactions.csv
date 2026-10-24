@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BID,Bid,S67-p,14570494,DGNRSSHsRLGRIEA,,"cell cycle regulation; cell differentiation, induced; apoptosis, induced; apoptosis, inhibited",24767991; 36202990,BID,,,,
+BID,Bid,S64-p,1880042000,LQTDGNRsSHSRLGR,,"cell differentiation, induced; apoptosis, inhibited",36202990,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LEF1,Lef1,S166-p,11499000,TYSDEHFsPGSHPSH,"activity, induced; molecular association, regulation","transcription, induced; signaling pathway regulation; transcription, inhibited",12556497; 22373574,CTNNB1_binding,Wnt/beta-catenin signalling pathway,HDAC1,Hdac1,DISRUPTS
+LEF1,Lef1,S42-p,471384,EKIFAEIsHPEEEGD,"molecular association, regulation","transcription, induced",17113388,CTNNB1_binding,,CTNNB1,Ctnnb1,INDUCES
+LEF1,Lef1,S61-p,471385,KSSLVNEsEIIPASN,"molecular association, regulation","transcription, induced",17113388,CTNNB1_binding,,CTNNB1,Ctnnb1,INDUCES
+LEF1,Lef1,T155-p,11499001,SHAVHPLtPLITYSD,"activity, induced; molecular association, regulation","transcription, induced; signaling pathway regulation; transcription, inhibited",12556497; 22373574,CTNNB1_binding,Wnt/beta-catenin signalling pathway,HDAC1,Hdac1,DISRUPTS

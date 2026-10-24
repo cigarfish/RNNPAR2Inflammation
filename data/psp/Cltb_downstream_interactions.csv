@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLTB,Cltb,S205-p,25592003,LCDFNPKsSKQCKDV,,"endocytosis, induced",22704991,Clathrin_lg_ch,discriminator for endocytosis of a subset of cargoes,CHCHD1,Chchd1,INDUCES

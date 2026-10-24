@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ASAP1,Asap1,Y767-p,450438,RDKQRLSyGAFTNQI,,"cell motility, induced",25682866,,,,,
+ASAP1,Asap1,Y312-p,480743,SQSRQGGySMHQLQG,"molecular association, regulation; intracellular localization",,29654145,,relocalization of ER chaperones,GBF1,Gbf1,INDUCES

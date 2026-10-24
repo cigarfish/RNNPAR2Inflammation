@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FUNDC1,Fundc1,Y18-p,11086746,YESDDDSyEVLDLTE,"molecular association, regulation; protein conformation","autophagy, induced; autophagy, inhibited",24746696; 27653272; 27757847,,"mitophagy inhibited, weakens the binding affinity due to electrostatic repulsion; Y18A mutation abolishes mitophagic activity",LC3B,Map1lc3b,DISRUPTS
+FUNDC1,Fundc1,K119-ub,15388938,QIKKRANkAAPEINN,protein degradation,"autophagy, inhibited",28104734,FUN14,,,,
+FUNDC1,Fundc1,S13-p,2025373,PPPQDYEsDDDSYEV,"protein stabilization; molecular association, regulation","autophagy, inhibited",24746696; 25126723; 27757847; 30591555,,,LC3A,Map1lc3a,DISRUPTS
+FUNDC1,Fundc1,S13-p,2025373,PPPQDYEsDDDSYEV,"protein stabilization; molecular association, regulation","autophagy, inhibited",24746696; 25126723; 27757847; 30591555,,,LC3B,Map1lc3b,DISRUPTS
+FUNDC1,Fundc1,S13-p,2025373,PPPQDYEsDDDSYEV,"protein stabilization; molecular association, regulation","autophagy, inhibited",24746696; 25126723; 27757847; 30591555,,,HSC70,Hspa8,DISRUPTS
+FUNDC1,Fundc1,S17-p,2025377,DYESDDDsYEVLDLT,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced; autophagy, induced",24671035; 27757847; 36425056; 36927870,,selective mitophagy; induces mitophagy; Mitophagy induced,LC3B,Map1lc3b,INDUCES
+FUNDC1,Fundc1,S17-p,2025377,DYESDDDsYEVLDLT,"activity, induced; molecular association, regulation; protein conformation","carcinogenesis, induced; autophagy, induced",24671035; 27757847; 36425056; 36927870,,selective mitophagy; induces mitophagy; Mitophagy induced,LC3A,Map1lc3a,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP4A,Atp4a,Y7-p,484289,_MGKAENyELYSVEL,protein conformation,,12480547,H-K_ATPase_N,Structure indicates tyrosine sequential phosphorylation at Y10 and subsequent Y7 which may induce activation of ATP4A.  ,,,
+ATP4A,Atp4a,Y10-p,484290,KAENYELySVELGPG,protein conformation,,12480547,H-K_ATPase_N,Structure indicates tyrosine sequential phosphorylation at Y10 and subsequent Y7 which may induce activation of ATP4A.  ,,,

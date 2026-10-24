@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PMAIP1,Pmaip1,K48-ub,15394921,KLLNLISkLFCSGT_,protein degradation,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",27591266,PMAIP1,,,,
+PMAIP1,Pmaip1,K35-ub,21180174,QLRRFGDkLNFRQKL,protein degradation,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",27591266,PMAIP1,,,,
+PMAIP1,Pmaip1,K41-ub,12294299,DKLNFRQkLLNLISK,protein degradation,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",27591266,PMAIP1,,,,
+PMAIP1,Pmaip1,S13-p,17790900,ARKNAQPsPARAPAE,"molecular association, regulation","apoptosis, altered; carcinogenesis, altered; apoptosis, inhibited; cell growth, altered",21145489; 26411306,PMAIP1,,MCL1,Mcl1,DISRUPTS

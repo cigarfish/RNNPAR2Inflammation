@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKRA,Prkra,S287-p,470038,PITVCHGsGISCGNA,"molecular association, regulation; enzymatic activity, induced","apoptosis, altered; apoptosis, induced",16982605; 21526770; 22473766; 26231208,,PKR enzymatic activity induced; activates PKR,PACT,Prkra,INDUCES
+PRKRA,Prkra,S287-p,470038,PITVCHGsGISCGNA,"molecular association, regulation; enzymatic activity, induced","apoptosis, altered; apoptosis, induced",16982605; 21526770; 22473766; 26231208,,PKR enzymatic activity induced; activates PKR,TRBP,Tarbp2,DISRUPTS
+PRKRA,Prkra,S246-p,470037,TDYIQLLsEIAKEQG,"molecular association, regulation; enzymatic activity, induced","apoptosis, altered; apoptosis, induced",16982605; 21526770; 22473766,,PKR enzymatic activity induced; activates PKR,PACT,Prkra,INDUCES

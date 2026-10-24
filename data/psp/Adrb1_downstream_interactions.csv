@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADRB1,Adrb1,S312-p,469625,RAGKRRPsRLVALRE,"receptor internalization, induced; molecular association, regulation; receptor desensitization, altered; receptor recycling, induced; intracellular localization; receptor recycling, altered",,14990580; 16940053; 17170109; 24121510; 24324269; 27816670,7tm_1,ADRB1 sorting from endosomes to the plasma membrane,DLG1,Dlg1,INDUCES
+ADRB1,Adrb1,S462-p,89117904,AAADSDSsLDEPCRP,"receptor internalization, induced; molecular association, regulation; intracellular localization",,28472170,, beta-arrestin recruitment to the ADRB1,ARRB1,Arrb1,INDUCES
+ADRB1,Adrb1,S461-p,89117901,GAAADSDsSLDEPCR,"receptor internalization, induced; molecular association, regulation; intracellular localization",,28472170,, beta-arrestin recruitment to the ADRB1,ARRB1,Arrb1,INDUCES
+ADRB1,Adrb1,S475-p,31010700,RPGFASEsKV_____,"receptor recycling, inhibited",,24324269,,,,,

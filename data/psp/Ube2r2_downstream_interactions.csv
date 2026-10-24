@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBE2R2,Ube2r2,S233-p,449751,DCYDDDDsGNEES__,"molecular association, regulation","transcription, altered",12037680,,CK2-dependent phosphorylation of UCB3C leads to beta-catenin degredation and  inhibition of beta-catenin transcription.,BRD8 iso2,Brd8,INDUCES

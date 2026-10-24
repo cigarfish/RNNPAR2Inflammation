@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXW7,Fbxw7,T205-p,25585000,GLVPCSAtPTTFGDL,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",22608923; 25753158; 31152129; 33271455,,,PIN1,Pin1,INDUCES
+FBXW7,Fbxw7,K404-ub,1881459300,GSDDNTLkVWSAVTG,"protein degradation; molecular association, regulation",,33824312,,,TRIP12,Trip12,INDUCES
+FBXW7,Fbxw7,K412-ub,573780018,VWSAVTGkCLRTLVG,"protein degradation; molecular association, regulation",,31186535; 33824312,WD40,,TRIP12,Trip12,INDUCES
+FBXW7,Fbxw7,S349-p,25126711,IKPGFIHsPWKSAYI,protein degradation,cytoskeletal reorganization,22399798,,Phosphorylation prevents ubiquitin-dependent degradation of cyclin E and subsequent centriole duplication.,,,
+FBXW7,Fbxw7,S227-p,17792400,QQRRRITsVQPPTGL,protein degradation; protein stabilization; ubiquitination,"apoptosis, induced; transcription, altered",21620836,,,,,
+FBXW7,Fbxw7,S18-p,17337001,KRRRTGGsLRGNPSS,"molecular association, regulation; ubiquitination; protein conformation",,28850619,,"it is inactive towards its substrate cyclin E, negatively regulates cyclin E binding by interfering with Fbw7a dimerization",CCNE1,Ccne1,DISRUPTS
+FBXW7,Fbxw7,S10-p,17337000,QELLSVGsKRRRTGG,intracellular localization,,20815813,,,,,
+FBXW7,Fbxw7,S176-p,25126709,KRKLDHGsEVRSFSL,"protein degradation; molecular association, regulation",cytoskeletal reorganization,22399798; 34992218,,Phosphorylation prevents ubiquitin-dependent degradation of cyclin E and subsequent centriole duplication.,Myc,Myc,INDUCES
+FBXW7,Fbxw7,S25-p,25126710,SLRGNPSsSQVDEEQ,protein degradation,cytoskeletal reorganization,22399798,,Phosphorylation prevents ubiquitin-dependent degradation of cyclin E and subsequent centriole duplication.,,,
+FBXW7,Fbxw7,S26-p,482101,LRGNPSSsQVDEEQM,intracellular localization,,26774286,,recruitment to DNA damage sites,,,

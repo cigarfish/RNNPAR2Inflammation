@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR1H3,Nr1h3,S198-p,469114,SLPPRASsPPQILPQ,protein conformation,"cell motility, inhibited; transcription, inhibited; transcription, altered",18250151; 25825525,," CCR7, MARCKS, repression of pro-inflammatory genes; inhibits CCL24 expression ",,,
+NR1H3,Nr1h3,K328-sm,12004412,YNREDFAkAGLQVEF,"molecular association, regulation","transcription, inhibited",17218271,Hormone_recep,,,,
+NR1H3,Nr1h3,K434-sm,12004411,ALRLQDKkLPPLLSE,"molecular association, regulation","transcription, inhibited",17218271,,,,,

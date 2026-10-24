@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBL,Fbl,K121-ac,461186,GESVYGEkRVSISEG,"molecular association, regulation; methylation","transcription, inhibited",30540930,Fibrillarin,inhibits H4 methylation,H2A.1,Hist1h2aa,DISRUPTS
+FBL,Fbl,K206-ac,15291397,DLINLAKkRTNIIPV,"molecular association, regulation; methylation","transcription, inhibited",30540930,Fibrillarin,inhibits H4 methylation,H2A.1,Hist1h2aa,DISRUPTS
+FBL,Fbl,K205-ac,11324464,RDLINLAkKRTNIIP,"molecular association, regulation; methylation","transcription, inhibited",30540930,Fibrillarin,inhibits H4 methylation,H2A.1,Hist1h2aa,DISRUPTS
+FBL,Fbl,K102-ac,5960497,GVFICRGkEDALVTK,"molecular association, regulation; methylation","transcription, inhibited",30540930,Fibrillarin,inhibits H4 methylation,H2A.1,Hist1h2aa,DISRUPTS

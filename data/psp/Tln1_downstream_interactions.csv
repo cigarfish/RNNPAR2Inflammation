@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TLN1,Tln1,K2454-me,1873284342,DQDSEAMkRLQAAGN,,"carcinogenesis, induced; cell growth, induced; cytoskeletal reorganization; cell adhesion, altered",28967906,I_LWEQ,induces STAT3 activation and phosphorylation,VAV1,Vav1,INDUCES
+TLN1,Tln1,S446-p,4704923,VGKVEHGsVALPAIM,,"cell motility, altered; cell adhesion, inhibited",27698901,,,,,
+TLN1,Tln1,T150-p,9764162,GTLRKDKtLLRDEKK,,"cell motility, altered; cell adhesion, induced",27698901,,,,,
+TLN1,Tln1,S425-p,1984203,TMLEDSVsPKKSTVL,"protein stabilization; molecular association, regulation; ubiquitination","cell motility, induced; cell adhesion, induced; cell motility, altered; cell adhesion, altered",19363486; 24793790,,?1 integrin activation in metastatic PCa cells,SMURF1,Smurf1,DISRUPTS
+TLN1,Tln1,T144-p,3801749,KKEEITGtLRKDKTL,,"cell motility, altered; cell adhesion, induced",27698901,,,,,

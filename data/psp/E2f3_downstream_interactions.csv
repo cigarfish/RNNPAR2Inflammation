@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+E2F3,E2f3,S124-p,11929101,PALGRGGsGGGGGPP,protein stabilization,"DNA repair, induced; transcription, induced",26921499,,,,,

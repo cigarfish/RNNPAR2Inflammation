@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHF20,Phf20,S291-p,23303200,ELRRRKIsKGCEVPL,"protein degradation; molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, inhibited",22334668; 22975685,,induces degradation of p53,,,

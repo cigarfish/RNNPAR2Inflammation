@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERCC4,Ercc4,K911-ac,1877232000,SFAEVVSkGKGKK__,"molecular association, regulation","DNA repair, induced",32034146,,,ERCC1,Ercc1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPH1,Hnrnph1,T282-p,1891324501,RYGDGGStFQSTTGH,intracellular localization,mitochondrial fission,38898233,,,,,
+HNRNPH1,Hnrnph1,S281-p,1891324500,HRYGDGGsTFQSTTG,intracellular localization,mitochondrial fission,38898233,,,,,

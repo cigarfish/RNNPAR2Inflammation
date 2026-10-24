@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DTNBP1,Dtnbp1,S297-p,9320776,ELRAKPPsSSSTCTD,protein degradation; ubiquitination,"cell growth, inhibited; transcription, inhibited",30062698,Dysbindin,phosphorylation inhibits cofilin transcription and does not reduce surface NR2A levels,,,
+DTNBP1,Dtnbp1,S299-p,40721501,RAKPPSSsSTCTDSA,protein degradation; ubiquitination,"cell growth, inhibited; transcription, inhibited",30062698,Dysbindin,phosphorylation inhibits cofilin transcription and does not reduce surface NR2A levels,,,

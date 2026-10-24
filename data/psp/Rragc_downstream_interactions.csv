@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RRAGC,Rragc,T394-p,6732849,KALTHNGtPRNAI__,"molecular association, regulation; phosphorylation","cell growth, induced; autophagy, inhibited",30552228,,"induces Ulk1 and p70S6K phosphorylation, regulates mTORC1 raptor complex stability",Raptor,Rptor,INDUCES
+RRAGC,Rragc,T394-p,6732849,KALTHNGtPRNAI__,"molecular association, regulation; phosphorylation","cell growth, induced; autophagy, inhibited",30552228,,"induces Ulk1 and p70S6K phosphorylation, regulates mTORC1 raptor complex stability",mTOR,Mtor,DISRUPTS
+RRAGC,Rragc,S21-p,14579528,GSYGAADsFPKDFGY,"molecular association, regulation; phosphorylation","cell growth, induced; autophagy, inhibited",30552228,,"induces Ulk1 and p70S6K phosphorylation, regulates mTORC1 raptor complex stability",Raptor,Rptor,INDUCES
+RRAGC,Rragc,S21-p,14579528,GSYGAADsFPKDFGY,"molecular association, regulation; phosphorylation","cell growth, induced; autophagy, inhibited",30552228,,"induces Ulk1 and p70S6K phosphorylation, regulates mTORC1 raptor complex stability",mTOR,Mtor,DISRUPTS

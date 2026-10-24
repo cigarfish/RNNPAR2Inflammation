@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NHEJ1,Nhej1,T181-p,35499302,LIRDRLKtEPFEENS,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,25661488,,"interaction with 14-3-3-beta, for cytoplasmic retention of XLF, phosphorylation impairs NHEJ and V(D)J recombination",14-3-3 beta,Ywhab,INDUCES
+NHEJ1,Nhej1,T181-p,35499302,LIRDRLKtEPFEENS,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,25661488,,"interaction with 14-3-3-beta, for cytoplasmic retention of XLF, phosphorylation impairs NHEJ and V(D)J recombination",XRCC4,Xrcc4,DISRUPTS

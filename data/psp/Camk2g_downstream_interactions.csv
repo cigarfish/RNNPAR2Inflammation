@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMK2G,Camk2g,S26-p,455247,ELGKGAFsVVRRCVK,"enzymatic activity, inhibited; phosphorylation",,23289753,Pkinase," phosphorylation works as an internal break, switching off the constitutively active oligomeric CaMKII.; decreases T287 autophosphorylation",,,
+CAMK2G,Camk2g,S334-p,4770259,GGVKKRKsSSSVHLM,intracellular localization,,25303525,,dephosphorylation of S334 of CaMKIIG  necessary for its nuclear translocation,,,
+CAMK2G,Camk2g,T287-p,467596,SMMHRQEtVECLRKF,"protein stabilization; intracellular localization; enzymatic activity, induced",,19884317; 25303525,,induces translocation of HDAC4 and 5;  cotransport of Ca2+/CaM to the nucleus along with CaMK2G,,,

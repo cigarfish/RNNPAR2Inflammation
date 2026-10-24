@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLOT2,Flot2,Y163-p,475941,DVYDKVDyLSSLGKT,,"endocytosis, altered",19258392,Band_7,regulates FLOT2 internalization,,,

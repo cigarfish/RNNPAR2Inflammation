@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPSM2,Gpsm2,S408-p,4766076,PKLGRRHsMENMELM,"molecular association, regulation; intracellular localization",cell cycle regulation,20933426,,stimulates binding to 14-3-3,G-alpha i2,Gnai2,DISRUPTS
+GPSM2,Gpsm2,T457-p,18412000,LKGKKYKtNSSTKVL,,"cell cycle regulation; cell growth, altered",20589935,,plays a critical role in cytokinesis,,,

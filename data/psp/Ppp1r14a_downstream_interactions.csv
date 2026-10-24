@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP1R14A,Ppp1r14a,T38-p,449098,QKRHARVtVKYDRRE,"receptor desensitization, altered; activity, inhibited","cell motility, altered",12144526; 12495628,PP1_inhibitor,"inhibition of MLCP activity, activates contractile response in arterial smooth muscle; Phosphorylation at T38-CPI-17 was required for induction of cerebellar long-term synaptic depression",,,
+PPP1R14A,Ppp1r14a,S12-p,10294800,RLGKRVLsKLQSPSR,intracellular localization,,23541585,PP1_inhibitor,,,,

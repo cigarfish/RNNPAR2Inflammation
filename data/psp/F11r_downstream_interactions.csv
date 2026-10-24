@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+F11R,F11r,Y280-p,458767,TSSKKVIySQPSARS,"molecular association, regulation","cell motility, induced",24300854; 35293964,,,CSK,Csk,INDUCES
+F11R,F11r,T273-p,1783000,FDRTKKGtSSKKVIY,,cytoskeletal reorganization,18096610,,important for development of hepatic polarity,,,
+F11R,F11r,S284-p,467829,KVIYSQPsARSEGEF,intracellular localization,,11027562,,,,,

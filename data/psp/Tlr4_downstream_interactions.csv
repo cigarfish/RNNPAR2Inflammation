@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TLR4,Tlr4,Y674-p,478360,YGRGENIyDAFVIYS,"molecular association, regulation; phosphorylation","transcription, induced",17392283,TIR,IRAK1 short form,IRAK1,Irak1,DISRUPTS
+TLR4,Tlr4,Y674-p,478360,YGRGENIyDAFVIYS,"molecular association, regulation; phosphorylation","transcription, induced",17392283,TIR,IRAK1 short form,MYD88,Myd88,DISRUPTS
+TLR4,Tlr4,R812-m2,1881518206,HIFWRRLrKALLDGK,,"transcription, induced",34583098,,IFN-?  production in TLR4-/-BMDM cells,,,
+TLR4,Tlr4,Y680-p,478361,IYDAFVIySSQDEDW,"molecular association, regulation; phosphorylation","transcription, induced",17392283,TIR,IRAK1 short form,IRAK1,Irak1,DISRUPTS
+TLR4,Tlr4,Y680-p,478361,IYDAFVIySSQDEDW,"molecular association, regulation; phosphorylation","transcription, induced",17392283,TIR,IRAK1 short form,MYD88,Myd88,DISRUPTS

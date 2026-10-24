@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGF23,Fgf23,S180-p,33365504,IPRRHTRsAEDDSER,protein degradation; O-GalNAc glycosylation,,24706917,,"S180 phosphorylation inhibits T178 O-GalNAc glycosylation, promotes FGF23 cleavage ",,,

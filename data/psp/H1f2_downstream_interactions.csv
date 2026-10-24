@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+H1-2,H1f2,T165-p,18910728,AKKPAAAtVTKKVAK,,"cell growth, altered",24873882,,,,,
+H1-2,H1f2,K46-ub,486641,PVSELITkAVAASKE,,"carcinogenesis, induced",30517763,Linker_histone,,,,
+H1-2,H1f2,T146-p,9765189,KKAAGGAtPKKSAKK,"molecular association, regulation","cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; cell motility, inhibited; transcription, induced; transcription, altered",22249259; 24601643; 28392790; 31032946,,,p53,Trp53,DISRUPTS
+H1-2,H1f2,K34-m1,50094511,KAGGTPRkASGPPVS,"molecular association, regulation",,28392790,,increased interaction with NS2,,,

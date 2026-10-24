@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDKN1C,Cdkn1c,T310-p,450869,GVGSVEQtPRKRLR_,"protein degradation; molecular association, regulation",,12925736; 23421998,,DN-Akt stabilized p57,SKP2,Skp2,INDUCES
+CDKN1C,Cdkn1c,S282-p,9318134,FFAKRKRsAPEKSSG,protein degradation,,23421998,,DN-Akt stabilized p57,,,

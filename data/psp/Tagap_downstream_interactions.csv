@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAGAP,Tagap,Y310-p,6154570,TLQNDSAyDSNDPDV,"molecular association, regulation; intracellular localization; phosphorylation",signaling pathway regulation,32312989,,"induces phosphorylation of ERK and p38, regulates anti-fungal signaling pathway",CARD9,Card9,INDUCES

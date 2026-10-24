@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SIRT4,Sirt4,K78-ub,573792246,IPDYRSEkVGLYART,protein degradation; ubiquitination,,37803520,SIR2,"CoCl2-induced degradation, polyubiquitination;   K78R and K299R mutants display an increased basal protein stability",,,
+SIRT4,Sirt4,K299-ub,573792248,SDDLACLkLNSRCGE,protein degradation; ubiquitination,,37803520,,"CoCl2-induced degradation, polyubiquitination;   K78R and K299R mutants display an increased basal protein stability",,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CENPC,Cenpc1,T734-p,14571365,KLVLPSNtPNVRRTK,"molecular association, regulation; intracellular localization",cell cycle regulation,31676716,,,CENPT,Cenpt,INDUCES
+CENPC,Cenpc1,T734-p,14571365,KLVLPSNtPNVRRTK,"molecular association, regulation; intracellular localization",cell cycle regulation,31676716,,,CENPA,Cenpa,INDUCES

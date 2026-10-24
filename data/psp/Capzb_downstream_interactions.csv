@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAPZB,Capzb,S192-p,23090287,GTMNLGGsLTRQMEK,,"cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",32771000,F_actin_cap_B,,,,
+CAPZB,Capzb,T186-p,14571038,TNKSGSGtMNLGGSL,,"cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",32771000,F_actin_cap_B,,,,
+CAPZB,Capzb,S226-p,27445587,DMENKIRsTLNEIYF,,"cell motility, induced; cell adhesion, induced; cytoskeletal reorganization",32771000,F_actin_cap_B,,,,
+CAPZB,Capzb,T267-p,34732611,RELSQVLtQRQIYIQ,protein conformation,cytoskeletal reorganization; signaling pathway regulation,30808692,," stiffness increased CapZ FRAP dynamics; phosphorylation of this site is modified by binding to phosphatidylinositol 4,5-bisphosphate (PIP2)",,,

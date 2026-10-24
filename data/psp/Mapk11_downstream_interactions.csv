@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAPK11,Mapk11,S261-p,54390601,HARTYIQsLPPMPQK,"enzymatic activity, inhibited",,26976637,Pkinase,,,,
+MAPK11,Mapk11,T241-p,54390600,RIMEVVGtPSPEVLA,,"cell differentiation, induced",26976637,Pkinase,,,,
+MAPK11,Mapk11,T180-p,15405068,RQADEEMtGYVATRW,"enzymatic activity, induced",,26976637,Pkinase,,,,

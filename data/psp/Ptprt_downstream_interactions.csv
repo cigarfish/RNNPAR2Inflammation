@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPRT,Ptprt,Y915-p,11315001,GYGFKEEyEALPEGQ,"molecular association, regulation; enzymatic activity, inhibited","cell growth, altered",19816407,,attenuates synapse formation,PTPRT iso1,Ptprt,INDUCES
+PTPRT,Ptprt,Y915-p,11315001,GYGFKEEyEALPEGQ,"molecular association, regulation; enzymatic activity, inhibited","cell growth, altered",19816407,,attenuates synapse formation,NLGN1,Nlgn1,DISRUPTS

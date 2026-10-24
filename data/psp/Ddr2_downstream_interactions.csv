@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDR2,Ddr2,Y736-p,456861,FGMSRNLySGDYYRI,phosphorylation,,16186108,PK_Tyr_Ser-Thr,Stimulates autophosphorylation.  Autophosphorylation induces Shc binding (site not determined).,,,
+DDR2,Ddr2,Y741-p,456863,NLYSGDYyRIQGRAV,phosphorylation,,16186108,PK_Tyr_Ser-Thr,Stimulates autophosphorylation.  Autophosphorylation induces Shc binding (site not determined).,,,
+DDR2,Ddr2,Y740-p,456862,RNLYSGDyYRIQGRA,phosphorylation,,16186108,PK_Tyr_Ser-Thr,Stimulates autophosphorylation.  Autophosphorylation induces Shc binding (site not determined).,,,
+DDR2,Ddr2,Y471-p,451276,EQGSNSTyDRIFPLR,"molecular association, regulation",,11884411,,,SHC1,Shc1,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABL2,Abl2,Y310-p,456544,YVGVWKKySLTVAVK,"enzymatic activity, induced",,34144039,PK_Tyr_Ser-Thr,,,,
+ABL2,Abl2,Y161-p,449482,QGWVPSNyITPVNSL,"enzymatic activity, induced",,34144039,,,,,
+ABL2,Abl2,Y272-p,456540,KCNKPTVyGVSPIHD,"enzymatic activity, induced",,34144039,,,,,
+ABL2,Abl2,Y261-p,455657,GLVTTLHyPAPKCNK,protein stabilization; ubiquitination,,15735735,,,,,
+ABL2,Abl2,Y116-p,2226537,PNLFVALyDFVASGD,"enzymatic activity, induced",,34144039,SH3_1,,,,
+ABL2,Abl2,Y439-p,447923,RLMTGDTyTAHAGAK,protein degradation,,15735735,PK_Tyr_Ser-Thr,,,,

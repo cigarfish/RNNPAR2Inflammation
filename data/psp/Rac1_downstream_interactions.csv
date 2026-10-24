@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAC1,Rac1,K166-ub,12108617,ALTQRGLkTVFDEAI,protein degradation,"cell motility, inhibited",23512198,Ras,,,,
+RAC1,Rac1,T108-p,27458396,VRHHCPNtPIILVGT,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","RNA splicing, induced",24043306; 33417283,Ras,,SFRS2,Srsf2,INDUCES
+RAC1,Rac1,T108-p,27458396,VRHHCPNtPIILVGT,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","RNA splicing, induced",24043306; 33417283,Ras,,hnRNP A1,Hnrnpa1,INDUCES
+RAC1,Rac1,T108-p,27458396,VRHHCPNtPIILVGT,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","RNA splicing, induced",24043306; 33417283,Ras,,PLCG1,Plcg1,DISRUPTS
+RAC1,Rac1,T108-p,27458396,VRHHCPNtPIILVGT,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","RNA splicing, induced",24043306; 33417283,Ras,,snRNP A',Snpra,INDUCES
+RAC1,Rac1,K147-ub,2142500,PQGLAMAkEIGAVKY,"protein degradation; enzymatic activity, inhibited","cell motility, inhibited",18093184; 22614015,Ras,,,,
+RAC1,Rac1,S71-p,447994,YDRLRPLsYPQTDVF,"protein degradation; activity, inhibited",,10617634; 23512198,Ras,Akt induces Rac1 degradation via S71 phosphorylation; Phosphorylation of this site inhibits  GTP binding activity of Rac1 without affecting its GTPase activity.,,,
+RAC1,Rac1,K5-ub,573766214,___MQAIkCVVVGDG,,"carcinogenesis, inhibited; signaling pathway regulation",35858925,Ras,"RAC1-MAPK signaling axis, Trim72 signi?cantly inhibited the tumorigenesis of HCC i",,,
+RAC1,Rac1,Y64-p,475227,DTAGQEDyDRLRPLS,"molecular association, regulation","cell adhesion, inhibited",22163037; 34252134,Ras,inhibits cell spreading ,PAK1,Pak1,DISRUPTS
+RAC1,Rac1,Y64-p,475227,DTAGQEDyDRLRPLS,"molecular association, regulation","cell adhesion, inhibited",22163037; 34252134,Ras,inhibits cell spreading ,ARHGEF7,Arhgef7,DISRUPTS
+RAC1,Rac1,Y64-p,475227,DTAGQEDyDRLRPLS,"molecular association, regulation","cell adhesion, inhibited",22163037; 34252134,Ras,inhibits cell spreading ,RhoGDI alpha,Arhgdia,INDUCES

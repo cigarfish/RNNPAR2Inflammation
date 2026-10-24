@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF4G3,Eif4g3,S1156-p,2915400,NTFMRGGsSKDLLDN,"molecular association, regulation","translation, induced",22514323,,,EIF4E,Eif4e,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP11,Usp11,S948-p,466974,GSSGAPAsPACSSPP,ubiquitination; intracellular localization,"carcinogenesis, induced; cell growth, induced",35414784,,induces deubiquitination of p21,,,

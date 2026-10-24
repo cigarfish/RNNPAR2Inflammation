@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGD1,Fgd1,S205-p,3193805,LAPRAEAsPSSAAVS,,"cell motility, altered",21212517,,,,,
+FGD1,Fgd1,S207-p,1876820500,PRAEASPsSAAVSSL,,cytoskeletal reorganization,35290799,,,,,

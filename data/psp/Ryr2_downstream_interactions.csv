@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RYR2,Ryr2,S2808-p,448848,YNRTRRIsQTSQVSV,"activity, induced",,30571258; 35885069,,,,,
+RYR2,Ryr2,S2031-p,455603,TIRGRLLsLVEKVTY,"activity, induced",,36583384,,"regulation of Ca2+ release termination, rapid pacing-induced Ca2+ alternans, Ca2+ transient recovery.",,,
+RYR2,Ryr2,S2814-p,458801,ISQTSQVsVDAAHGY,"activity, induced",signaling pathway regulation,22304913; 29760186; 30571258,,"induces CAMKKB-AMPK pathway; release of Ca2+ in KI cardiomycetes; increased leak load relationship, enhanced Ca buffering and regulates Ca handling",,,

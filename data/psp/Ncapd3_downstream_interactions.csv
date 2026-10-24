@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCAPD3,Ncapd3,T1415-p,10790749,VTKRAIStPEKSISD,"molecular association, regulation; phosphorylation","cell cycle regulation; chromatin organization, altered",21498573; 30626720,,,PLK1,Plk1,INDUCES
+NCAPD3,Ncapd3,S1419-p,19009802,AISTPEKsISDVTFG,,cell cycle regulation,21498573,,,,,

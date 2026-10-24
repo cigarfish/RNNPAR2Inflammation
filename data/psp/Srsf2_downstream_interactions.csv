@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRSF2,Srsf2,K52-ac,20842100,IPRDRYTkESRGFAF,protein degradation; ubiquitination,"cell cycle regulation; RNA splicing, inhibited; apoptosis, inhibited",21157427,RRM_1,"inhibits ubiquitination, regulates SRPK1/SRPK32 localization inhibiting its phosphorylation and apoptosis",,,

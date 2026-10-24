@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIP4K2C,Pip4k2c,S324-p,34431501,GPPALVGsYGTSPEG,intracellular localization; phosphorylation,"cell growth, inhibited; signaling pathway regulation",25372051,PIP5K,"inhibits expression of phosphorylated p70S6K and S6, inhibits mTORC1 signaling, regulates cell size",,,
+PIP4K2C,Pip4k2c,S328-p,34431500,LVGSYGTsPEGIGGY,intracellular localization; phosphorylation,"cell growth, inhibited; signaling pathway regulation",25372051,PIP5K,"inhibits expression of phosphorylated p70S6K and S6, inhibits mTORC1 signaling, regulates cell size",,,

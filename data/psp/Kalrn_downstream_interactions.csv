@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KALRN,Kalrn,T95-p,1315601,DVCKRGFtVIIDMRG,"activity, induced",,26858404,CRAL_TRIO_2,"enhancement of AMPAR-mediated synaptic transmission, LTP induction",,,

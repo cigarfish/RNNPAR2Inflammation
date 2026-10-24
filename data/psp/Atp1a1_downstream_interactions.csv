@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP1A1,Atp1a1,Y260-p,454981,TARGIVVyTGDRTVM,"molecular association, regulation; phosphorylation","carcinogenesis, inhibited; transcription, inhibited; signaling pathway regulation",30120256,E1-E2_ATPase,"regulates phosphorylation of ERK, Src, Akt, EGFR, controls aerobic glycolysis",Src,Src,INDUCES

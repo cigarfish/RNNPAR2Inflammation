@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LAMTOR5,Lamtor5,S26-p,482652,VGVLCTDsQGLNLGC,"molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced; transcription, induced",23667255,LAMTOR5,phosphorylation of c-Fos,Fos,Fos,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RORC,Rorc,S205-p,4708350,ASCHLEYsPERGKAE,,"transcription, altered",35294872,,,,,
+RORC,Rorc,K192-ac,1887107702,SYSNNLAkAGLNGAS,"molecular association, regulation; acetylation; intracellular localization","transcription, induced",38135684,,"SIRT6 promotes RORC recruitment to the IL-17A  promoter inducing transcription of IL-17A, causing airway remodeling and severe asthma",,,

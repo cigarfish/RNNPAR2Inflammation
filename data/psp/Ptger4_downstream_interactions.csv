@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTGER4,Ptger4,S382-p,450698,GHSRSFIsRELKEIS,"molecular association, regulation",,14709160,,,ARRB1,Arrb1,INDUCES
+PTGER4,Ptger4,S377-p,450696,SSAMSGHsRSFISRE,"molecular association, regulation",,14709160,,,ARRB1,Arrb1,INDUCES
+PTGER4,Ptger4,S379-p,450697,AMSGHSRsFISRELK,"molecular association, regulation",,14709160,,,ARRB1,Arrb1,INDUCES
+PTGER4,Ptger4,S374-p,450695,QRTSSAMsGHSRSFI,"molecular association, regulation",,14709160,,,ARRB1,Arrb1,INDUCES

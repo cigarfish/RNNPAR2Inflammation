@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNS3,Tns3,Y1173-p,9824600,QDTSKFWyKADISRE,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,P130Cas,Bcar1,INDUCES
+TNS3,Tns3,Y1173-p,9824600,QDTSKFWyKADISRE,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,KHDRBS1,Khdrbs1,INDUCES
+TNS3,Tns3,Y1173-p,9824600,QDTSKFWyKADISRE,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,FAK,Ptk2,INDUCES
+TNS3,Tns3,Y1206-p,9824601,SHSFRGAyGLAMKVA,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,P130Cas,Bcar1,INDUCES
+TNS3,Tns3,Y1206-p,9824601,SHSFRGAyGLAMKVA,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,KHDRBS1,Khdrbs1,INDUCES
+TNS3,Tns3,Y1206-p,9824601,SHSFRGAyGLAMKVA,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,FAK,Ptk2,INDUCES
+TNS3,Tns3,Y1256-p,462739,KGCSNEPyFGSLTAL,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,P130Cas,Bcar1,INDUCES
+TNS3,Tns3,Y1256-p,462739,KGCSNEPyFGSLTAL,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,KHDRBS1,Khdrbs1,INDUCES
+TNS3,Tns3,Y1256-p,462739,KGCSNEPyFGSLTAL,"molecular association, regulation","cell motility, altered; cell growth, altered",19732724,SH2,contributes to tumorigenesis and metastasis,FAK,Ptk2,INDUCES

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OSMR,Osmr,Y861-p,458403,ICFENLTyNQAASDS,"molecular association, regulation; phosphorylation","transcription, altered; cell growth, altered",11016927; 15935618,,"required for ERK1/2, p38 and JNK activation; ERK activation",SHC1,Shc1,INDUCES
+OSMR,Osmr,Y917-p,1930200,AGETSLNyVSQLASP,phosphorylation,,18430728,,important for STAT3 activation,,,
+OSMR,Osmr,Y945-p,1930202,EAPHCSEyKMQMAVS,phosphorylation,,18430728,,important for STAT3 activation,,,
+OSMR,Osmr,Y839-p,475364,LTKPNYLyLLPTEKN,phosphorylation,,18430728,,important for  STAT5B activation,,,
+OSMR,Osmr,Y837-p,462479,TELTKPNyLYLLPTE,phosphorylation,,18430728,,important for  STAT5B activation,,,

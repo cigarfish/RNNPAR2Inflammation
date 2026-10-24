@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCAT2,Bcat2,K229-ub,21129876,VGGVGNYkLGGNYGP,"protein degradation; enzymatic activity, induced","cell growth, induced",35663242,Aminotran_4,,,,
+BCAT2,Bcat2,K44-ac,11322721,LQLEMTQkPHKKPGP,protein degradation,,32467562,,,,,

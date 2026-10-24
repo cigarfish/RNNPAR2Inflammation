@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC39A4,Slc39a4,K463-ub,1877047302,PSELRQPkPPHEGSR,protein degradation,,32348750,Zip,"zinc-induced degradation, but not zinc-dependent endocytosis ",,,

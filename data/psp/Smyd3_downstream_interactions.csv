@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMYD3,Smyd3,Y239-p,4145500,GEELTICyLDMLMTS,"methylation; enzymatic activity, induced",,16805913,SET,induces histone methylation,,,

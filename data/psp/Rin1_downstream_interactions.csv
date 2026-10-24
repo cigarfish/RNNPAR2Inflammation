@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIN1,Rin1,S291-p,1244499,CQLLRREsSVGYRVP,"molecular association, regulation","cell motility, inhibited",27137893,,,HRas,Hras,INDUCES
+RIN1,Rin1,S351-p,451364,RPLLRSMsAAFCSLL,"molecular association, regulation; intracellular localization",,11784866,,,14-3-3 beta,Ywhab,INDUCES
+RIN1,Rin1,S292-p,4949757,QLLRRESsVGYRVPA,"molecular association, regulation","cell motility, altered; cell motility, inhibited",21209314; 27137893,,,HRas,Hras,INDUCES

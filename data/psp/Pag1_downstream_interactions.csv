@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAG1,Pag1,Y317-p,450659,EEEISAMySSVNKPG,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",10790433; 17389760; 18070987; 25897081,PAG,,LYN,Lyn,INDUCES
+PAG1,Pag1,Y317-p,450659,EEEISAMySSVNKPG,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",10790433; 17389760; 18070987; 25897081,PAG,,CSK,Csk,INDUCES
+PAG1,Pag1,Y299-p,1806902,KRFSSLSyKSREEDP,"molecular association, regulation",,18070987,PAG,,LYN,Lyn,INDUCES
+PAG1,Pag1,Y181-p,454746,NMVEDCLyETVKEIK,"molecular association, regulation",,17389760,PAG,,RASA1,Rasa1,INDUCES

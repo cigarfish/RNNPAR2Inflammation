@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRSF1,Srsf1,S119-p,27106000,YGPPSRRsENRVVVS,"molecular association, regulation; activity, inhibited","RNA splicing, inhibited",22393468,,,,,
+SRSF1,Srsf1,S207-p,2303910,PSYGRSRsRSRSRSR,protein conformation,,24449914,,RS domain adopts an extended conformation,,,
+SRSF1,Srsf1,S209-p,2303911,YGRSRSRsRSRSRSR,protein conformation,,24449914,,RS domain adopts an extended conformation,,,
+SRSF1,Srsf1,S133-p,15178110,SGLPPSGsWQDLKDH,"molecular association, regulation","carcinogenesis, inhibited; RNA splicing, inhibited",32453427; 36417875,RRM_1,,,,
+SRSF1,Srsf1,R97-m1,1308911,RSGRGTGrGGGGGGG,intracellular localization,"RNA splicing, induced; RNA stability, inhibited; translation, induced",20308322,,"prevents SF2 nuclear import and splicing of target genes, and translation is increased in the cytoplasm  ",,,
+SRSF1,Srsf1,R93-m1,476743,VEFPRSGrGTGRGGG,intracellular localization,"RNA splicing, induced; RNA stability, inhibited; translation, induced",20308322,,"prevents SF2 nuclear import and splicing of target genes, and translation is increased in the cytoplasm  ",,,
+SRSF1,Srsf1,R109-m1,9291750,GGGGGAPrGRYGPPS,intracellular localization,"RNA splicing, induced; RNA stability, inhibited; translation, induced",20308322,,"prevents SF2 nuclear import and splicing of target genes, and translation is increased in the cytoplasm  ",,,
+SRSF1,Srsf1,Y19-p,474154,GNNDCRIyVGNLPPD,intracellular localization,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",30320932,RRM_1,"promotes cell proliferation, enhance cell cycle progression",,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCAM,Mcam,Y641-p,458525,PGDQGEKyIDLRH__,"molecular association, regulation; phosphorylation","cell growth, induced; apoptosis, inhibited; signaling pathway regulation",31665642,,"complex formation inhibits ubiquitination, induces AKT phosphorylation, induces mTORC2 signaling",RICTOR,Rictor,INDUCES

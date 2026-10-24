@@ -1,0 +1,19 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GAB1,Gab1,Y589-p,449792,SHDSEENyVPMNPNL,"molecular association, regulation",,10978177; 9658397,,,SHP-2,Ptpn11,INDUCES
+GAB1,Gab1,Y589-p,449792,SHDSEENyVPMNPNL,"molecular association, regulation",,10978177; 9658397,,,PIK3R1,Pik3r1,INDUCES
+GAB1,Gab1,Y317-p,449581,PPTPGNTyQIPRTFP,"molecular association, regulation",,15574420; 19881549,,promotes HGF-induced DNA synthesis,RASA1,Rasa1,INDUCES
+GAB1,Gab1,Y317-p,449581,PPTPGNTyQIPRTFP,"molecular association, regulation",,15574420; 19881549,,promotes HGF-induced DNA synthesis,CDK6,Cdk6,INDUCES
+GAB1,Gab1,Y627-p,447948,KGDKQVEyLDLDLDS,"molecular association, regulation; phosphorylation",cell cycle regulation,11323411; 15574420; 9658397; 9890893,,Binding of SHP-2 to Gab1 leads to ERK activation.,SYP,Syp,INDUCES
+GAB1,Gab1,Y627-p,447948,KGDKQVEyLDLDLDS,"molecular association, regulation; phosphorylation",cell cycle regulation,11323411; 15574420; 9658397; 9890893,,Binding of SHP-2 to Gab1 leads to ERK activation.,SHP-2,Ptpn11,INDUCES
+GAB1,Gab1,Y627-p,447948,KGDKQVEyLDLDLDS,"molecular association, regulation; phosphorylation",cell cycle regulation,11323411; 15574420; 9658397; 9890893,,Binding of SHP-2 to Gab1 leads to ERK activation.,PIK3R1,Pik3r1,INDUCES
+GAB1,Gab1,Y472-p,447947,EPIQEANyVPMTPGT,"molecular association, regulation",,10978177; 9658397,,,SHP-2,Ptpn11,INDUCES
+GAB1,Gab1,Y472-p,447947,EPIQEANyVPMTPGT,"molecular association, regulation",,10978177; 9658397,,,PIK3R1,Pik3r1,INDUCES
+GAB1,Gab1,Y373-p,447945,ASDTDSSyCIPTAGM,"molecular association, regulation",,19881549,,promotes HGF-induced DNA synthesis,CDK6,Cdk6,INDUCES
+GAB1,Gab1,S551-p,454074,ELQAPVRsPITRSFA,intracellular localization,,38448989,,,,,
+GAB1,Gab1,T387-p,4783368,MSPSRSNtISTVDLN,,cytoskeletal reorganization,22751113,,,,,
+GAB1,Gab1,Y242-p,455030,FFQQQMIyDSPPSRA,"molecular association, regulation",,19881549,,promotes HGF-induced DNA synthesis,CDK6,Cdk6,INDUCES
+GAB1,Gab1,Y659-p,447949,VADERVDyVVVDQQK,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell motility, induced",11323411; 34731623,,,SHP-2,Ptpn11,INDUCES
+GAB1,Gab1,Y447-p,449791,SEELDENyVPMNPNS,"molecular association, regulation",,10978177; 9658397,,,SHP-2,Ptpn11,INDUCES
+GAB1,Gab1,Y447-p,449791,SEELDENyVPMNPNS,"molecular association, regulation",,10978177; 9658397,,,PIK3R1,Pik3r1,INDUCES
+GAB1,Gab1,Y83-p,25655003,KKEFENSyIFDINTI,,cytoskeletal reorganization,22751113,PH,,,,
+GAB1,Gab1,Y259-p,448877,ASVDSSLyNLPRSYS,"molecular association, regulation",,19881549,,promotes HGF-induced DNA synthesis,CDK6,Cdk6,INDUCES

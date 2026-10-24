@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB4A,Rab4a,S204-p,451289,AALRQLRsPRRAQAP,"molecular association, regulation; intracellular localization","autophagy, induced",1425574; 24404161,,phosphorylation-resistant Rab4 S204Q mutation promotes autophagy ; S199 phosphorylation was required for the accumulation of rab4 in the cytosol of mitotic cells.,LC3A,Map1lc3a,INDUCES

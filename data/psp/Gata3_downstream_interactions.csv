@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATA3,Gata3,K292-ac,460636,NACGLYHkMNGQNRP,intracellular localization,"cell growth, inhibited; transcription, induced",10970860,GATA,"regulated survival after activation, regulates T-cell trafficking to secondary",,,
+GATA3,Gata3,K346-ac,460637,NACGLYYkLHNINRP,intracellular localization,"cell growth, inhibited; transcription, induced",10970860,GATA,"regulated survival after activation, regulates T-cell trafficking to secondary",,,
+GATA3,Gata3,R261-m2,56834500,KARSSTGrECVNCGA,"molecular association, regulation","transcription, inhibited",25861992,,induce Il-5 transcription,HSP60,Hspd1,INDUCES
+GATA3,Gata3,T156-p,33638003,HLFTFPPtPPKDVSP,protein degradation; ubiquitination,,24820417,,,FBXW7,Fbxw7,INDUCES
+GATA3,Gata3,S308-p,456464,IKPKRRLsAARRAGT,"activity, induced; protein degradation","cell growth, induced; transcription, induced",16109788; 25479686; 28498822,,,,,
+GATA3,Gata3,K304-ac,460635,NRPLIKPkRRLSAAR,intracellular localization,"cell growth, inhibited; transcription, induced",10970860,,"regulated survival after activation, regulates T-cell trafficking to secondary",,,

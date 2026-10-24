@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DENND3,Dennd3,S472-p,7997148,THRRMVVsMPNLQDI,"molecular association, regulation",,25925668,,enhances its GEF activity toward Rab12,14-3-3 beta,Ywhab,INDUCES
+DENND3,Dennd3,S490-p,23050193,ELAPRNSsLRLTDTA,"molecular association, regulation",,25925668,,enhances its GEF activity toward Rab12,14-3-3 beta,Ywhab,INDUCES

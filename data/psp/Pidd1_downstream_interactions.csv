@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIDD1,Pidd1,T788-p,25680403,DAETGFLtQSNLLSV,"molecular association, regulation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation",22854598; 25301067,,"Caspase-2 activation, Mdm2 cleavage, increased p53 levels and drug resistance",CRADD,Cradd,INDUCES
+PIDD1,Pidd1,T788-p,25680403,DAETGFLtQSNLLSV,"molecular association, regulation","cell cycle regulation; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation",22854598; 25301067,,"Caspase-2 activation, Mdm2 cleavage, increased p53 levels and drug resistance",RIPK1,Ripk1,DISRUPTS

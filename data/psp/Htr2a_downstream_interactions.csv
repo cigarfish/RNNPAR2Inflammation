@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HTR2A,Htr2a,S280-p,6057802,GTRAKLAsFSFLPQS,"receptor desensitization, induced",,24637012,7tm_1,,,,

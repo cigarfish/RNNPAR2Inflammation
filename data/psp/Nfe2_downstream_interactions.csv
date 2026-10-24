@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NFE2,Nfe2,K137-ub,11489903,GLPAGPPkPQEDPES,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,
+NFE2,Nfe2,K368-sm,2293701,FLVPRGTkMEATD__,"molecular association, regulation","transcription, induced",16287851,,,,,
+NFE2,Nfe2,K241-ub,11489906,KIPFPTDkIVNLPVD,protein degradation; ubiquitination,"transcription, inhibited",19966288,bZIP_Maf,,,,
+NFE2,Nfe2,K108-ub,11489908,NMAIPVSkPLSLSGL,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,
+NFE2,Nfe2,K215-ub,11489904,SSGPVRAkPTARGEA,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,
+NFE2,Nfe2,S157-p,11489902,LNYSDAEsLELEGTE,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,
+NFE2,Nfe2,K234-ub,11489905,ERRALAMkIPFPTDK,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,
+NFE2,Nfe2,K368-ub,11489907,FLVPRGTkMEATD__,protein degradation; ubiquitination,"transcription, inhibited",19966288,,,,,

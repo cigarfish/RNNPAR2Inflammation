@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATXN7,Atxn7,K257-ac,11489911,RIMTPSVkVEKIHPK,"protein stabilization; molecular association, regulation; intracellular localization",,19955365,,"regulates stability (accumulation) of ataxin-7 N-terminal cleavage fragment, colocalizes with LAMP2 a lysosomal marker, which is important in autophagy",,,
+ATXN7,Atxn7,K257-sm,10902804,RIMTPSVkVEKIHPK,,"apoptosis, inhibited",19843541,,,,,

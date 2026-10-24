@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAIAP2L1,Baiap2l1,Y274-p,456190,SNVVRKDyDTLSKCS,,"cell motility, induced",21840312,,,,,
+BAIAP2L1,Baiap2l1,Y293-p,472861,PAPSGRAyTSPLIDM,,"cell motility, induced",21840312,,,,,
+BAIAP2L1,Baiap2l1,S331-p,2509171,PSLQRSVsVATGLNM,"molecular association, regulation",,28647685,,,p53,Trp53,DISRUPTS
+BAIAP2L1,Baiap2l1,Y156-p,462515,GSRNALKyEHKEIEY,,"cell motility, induced",21840312,IMD,,,,
+BAIAP2L1,Baiap2l1,Y37-p,21336505,LINLGKNyEKAVNAM,,"cell motility, induced",21840312,IMD,,,,
+BAIAP2L1,Baiap2l1,Y439-p,462517,VVIPPPDyLECLSMG,,"cell motility, induced",21840312,,,,,
+BAIAP2L1,Baiap2l1,Y163-p,462516,YEHKEIEyVETVTSR,,"cell motility, induced",21840312,IMD,,,,

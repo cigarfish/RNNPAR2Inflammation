@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS15,Rps15,T136-p,18913279,GRPGIGAtHSSRFIP,,"translation, induced",24725412,,neuronal degeneration;  cap-dependent and cap-independent reporter translation,,,

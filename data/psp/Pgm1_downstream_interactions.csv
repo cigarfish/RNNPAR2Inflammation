@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PGM1,Pgm1,S117-p,2525691,GGIILTAsHNPGGPN,"protein conformation; enzymatic activity, induced",,25288802,PGM_PMM_I,initiation of catalysis by PGM1 is dependent on phosphoryl transfer from phosphoserine 117 ,,,
+PGM1,Pgm1,T467-p,454029,SANDKVYtVEKADNF,"enzymatic activity, induced",,15378030,,,,,

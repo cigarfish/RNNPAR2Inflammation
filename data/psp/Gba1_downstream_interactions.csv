@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GBA1,Gba1,K332-ub,1881371304,LLLPHWAkVVLTDPE,protein degradation,,34644545,,"  K332R mutant has normal GBA activity;  GBA impairment, a major cause in PD; premature degradation, and subsequent accumulation of alpha-synuclein",,,

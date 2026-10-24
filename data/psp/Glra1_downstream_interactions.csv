@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLRA1,Glra1,S408-p,1869137000,PPPAPSKsPEEMRKL,"molecular association, regulation; ubiquitination","neural plasticity; endocytosis, induced",31433808; 32579955,,,EPS15,Eps15,INDUCES

@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IKBKE,Ikbke,K231-sm,13258715,FGGPRRNkEIMYRIT,intracellular localization; phosphorylation,"apoptosis, inhibited; transcription, induced",20188669,Pkinase,induces NF-kB phosphorylation,,,
+IKBKE,Ikbke,K30-ub,40323317,VYKARNKkSGELVAV,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",23453969,Pkinase,"regulates NF-kB pathway activation- TLR signaling, enhanced CYLD phosphorylation",IKKB,Ikbkb,INDUCES
+IKBKE,Ikbke,K30-ub,40323317,VYKARNKkSGELVAV,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",23453969,Pkinase,"regulates NF-kB pathway activation- TLR signaling, enhanced CYLD phosphorylation",IKKG,Ikbkg,INDUCES
+IKBKE,Ikbke,Y179-p,23115344,SVYGTEEyLHPDMYE,"enzymatic activity, induced","cell motility, induced",27287717,Pkinase,,,,
+IKBKE,Ikbke,Y153-p,56589701,GEEGQSIyKLTDFGA,"enzymatic activity, induced","cell motility, induced",27287717,Pkinase,,,,
+IKBKE,Ikbke,K401-ub,40323318,DPALDVPkFVPKVDL,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",23453969,TBK1_CCD1,"regulates NF-kB pathway activation- TLR signaling, enhanced CYLD phosphorylation",IKKB,Ikbkb,INDUCES
+IKBKE,Ikbke,K401-ub,40323318,DPALDVPkFVPKVDL,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced",23453969,TBK1_CCD1,"regulates NF-kB pathway activation- TLR signaling, enhanced CYLD phosphorylation",IKKG,Ikbkg,INDUCES
+IKBKE,Ikbke,S172-p,447631,DDDEKFVsVYGTEEY,"enzymatic activity, induced","transcription, induced",11839743; 23478265; 27346349; 32747502,Pkinase,,,,
+IKBKE,Ikbke,T501-p,34434402,ELRSRLRtLAEVLSR,"phosphorylation; enzymatic activity, induced",signaling pathway regulation,24882218,TBK1_CCD1,IFN signaling ,,,

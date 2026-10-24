@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MERTK,Mertk,Y749-p,449988,FGLSKKIySGDYYRQ,"enzymatic activity, induced",,8702477,PK_Tyr_Ser-Thr,,,,
+MERTK,Mertk,Y754-p,449990,KIYSGDYyRQGRIAK,"enzymatic activity, induced",,8702477,PK_Tyr_Ser-Thr,,,,
+MERTK,Mertk,Y753-p,449989,KKIYSGDyYRQGRIA,"enzymatic activity, induced",,8702477,PK_Tyr_Ser-Thr,,,,

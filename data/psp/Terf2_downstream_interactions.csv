@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TERF2,Terf2,R67-me,10338214,RASRSSGrARRGRHE,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R59-me,10338216,GSGRAAGrRASRSSG,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R69-me,10338219,SRSSGRArRGRHEPG,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R63-me,10338220,AAGRRASrSSGRARR,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R60-me,10338213,SGRAAGRrASRSSGR,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,T230-p,456963,HMSKDPTtQKLRNDL,intracellular localization,,16223874,TRF,TRF2 T188 localizes to telomeres iin crisis and associates with Double stranded breaks in photo-induced cells.  ,,,
+TERF2,Terf2,K335-ac,27581522,MTLKAAFkTLSGAQD,"protein stabilization; molecular association, regulation","cell cycle regulation; cell growth, altered",23307557,TERF2_RBM, regulates cell proliferation and cell cycle; binding to telomere;  loss of K335 acetylation induces DNA damage foci at telomeres,,,
+TERF2,Terf2,R55-me,10338215,GSSDGSGrAAGRRAS,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R72-me,10338218,SGRARRGrHEPGLGG,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,R70-me,10338217,RSSGRARrGRHEPGL,,"cell cycle regulation; cell growth, altered",19596784,,,,,
+TERF2,Terf2,S365-p,452842,PTQALPAsPALKNKR,"molecular association, regulation; protein stabilization","cell cycle regulation; cell growth, induced",27366950; 31723267,,,RTEL1,Rtel1,DISRUPTS

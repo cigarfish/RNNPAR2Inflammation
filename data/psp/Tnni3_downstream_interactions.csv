@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNNI3,Tnni3,S44-p,450691,KKSKISAsRKLQLKT,"molecular association, regulation; activity, inhibited",,15134451; 24116014,,reduced maximal force generation,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,S199-p,4707844,RKNIDALsGMEGRKK,"protein stabilization; molecular association, regulation; activity, inhibited",,24116014; 25771144,,reduced maximal force generation; any alteration on S199 affect the sensitivity of TNNI3 to proteolysis,ACTA1,Acta1,DISRUPTS
+TNNI3,Tnni3,S199-p,4707844,RKNIDALsGMEGRKK,"protein stabilization; molecular association, regulation; activity, inhibited",,24116014; 25771144,,reduced maximal force generation; any alteration on S199 affect the sensitivity of TNNI3 to proteolysis,TPM1,Tpm1,DISRUPTS
+TNNI3,Tnni3,T143-p,451483,RGKFKRPtLRRVRIS,"activity, induced; molecular association, regulation; activity, inhibited; protein conformation",,12044157; 18986304; 24116014; 24585778,Troponin,reduced maximal force generation; induces Ca2+ sensitivity myofilaments without affecting LDA,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,T143-p,451483,RGKFKRPtLRRVRIS,"activity, induced; molecular association, regulation; activity, inhibited; protein conformation",,12044157; 18986304; 24116014; 24585778,Troponin,reduced maximal force generation; induces Ca2+ sensitivity myofilaments without affecting LDA,C16orf82,C16orf82,INDUCES
+TNNI3,Tnni3,T143-p,451483,RGKFKRPtLRRVRIS,"activity, induced; molecular association, regulation; activity, inhibited; protein conformation",,12044157; 18986304; 24116014; 24585778,Troponin,reduced maximal force generation; induces Ca2+ sensitivity myofilaments without affecting LDA,TNC,Tnc,INDUCES
+TNNI3,Tnni3,S39-p,3146608,EPHAKKKsKISASRK,"molecular association, regulation",,11121119,,,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,Y26-p,3545720,IRRRSSNyRAYATEP,"molecular association, regulation",,25252176,Troponin-I_N,accelerates Ca2+ dissociation from TNNI3 on the thin filament,,,
+TNNI3,Tnni3,T51-p,6796402,SRKLQLKtLLLQIAK,"molecular association, regulation; protein conformation",,18986304,Troponin,,C16orf82,C16orf82,INDUCES
+TNNI3,Tnni3,T51-p,6796402,SRKLQLKtLLLQIAK,"molecular association, regulation; protein conformation",,18986304,Troponin,,TNC,Tnc,INDUCES
+TNNI3,Tnni3,S23-p,448423,PAPIRRRsSNYRAYA,"activity, induced; molecular association, regulation; protein conformation; activity, inhibited",cytoskeletal reorganization,15134451; 24116014; 24585778; 27557662; 28018230; 37791815; 8543035,Troponin-I_N, increased myofilament length ; muscle contraction,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,T31-p,6796401,SNYRAYAtEPHAKKK,"molecular association, regulation; protein conformation",,18986304,Troponin-I_N,,C16orf82,C16orf82,INDUCES
+TNNI3,Tnni3,T31-p,6796401,SNYRAYAtEPHAKKK,"molecular association, regulation; protein conformation",,18986304,Troponin-I_N,,TNC,Tnc,INDUCES
+TNNI3,Tnni3,S42-p,450690,AKKKSKIsASRKLQL,"molecular association, regulation; activity, inhibited",,15134451; 24116014,,reduced maximal force generation,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,S24-p,448424,APIRRRSsNYRAYAT,"activity, induced; molecular association, regulation; protein conformation; activity, inhibited",cytoskeletal reorganization,15134451; 24116014; 24585778; 27557662; 28018230; 37791815; 8543035,Troponin-I_N, increased myofilament length ; muscle contraction,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,S166-p,3146609,LGARAKEsLDLRAHL,"molecular association, regulation",,11121119,Troponin,,TNNC1,Tnnc1,DISRUPTS
+TNNI3,Tnni3,T129-p,6796400,ITEIADLtQKIFDLR,"molecular association, regulation; protein conformation",,18986304,Troponin,,C16orf82,C16orf82,INDUCES
+TNNI3,Tnni3,T129-p,6796400,ITEIADLtQKIFDLR,"molecular association, regulation; protein conformation",,18986304,Troponin,,TNC,Tnc,INDUCES
+TNNI3,Tnni3,S150-p,451822,TLRRVRIsADAMMQA,"activity, induced; molecular association, regulation",cytoskeletal reorganization; signaling pathway regulation,22456184; 22493448; 28018230,Troponin,increases myofilament Ca(2+)-sensitive force development and blunts PKA-dependent desensitization,ACTB,Actb,DISRUPTS

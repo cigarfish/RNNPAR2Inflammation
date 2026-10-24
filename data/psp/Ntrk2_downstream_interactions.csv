@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NTRK2,Ntrk2,Y707-p,448812,DVYSTDYyRVGGHTM,"molecular association, regulation",signaling pathway regulation,25288805,PK_Tyr_Ser-Thr,,PTP1B,Ptpn1,INDUCES
+NTRK2,Ntrk2,Y706-p,448811,RDVYSTDyYRVGGHT,"activity, induced; molecular association, regulation; phosphorylation","carcinogenesis, induced; signaling pathway regulation",15494731; 25288805; 33820494,PK_Tyr_Ser-Thr,GKAP1-NTRK2 activity induced,PTP1B,Ptpn1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYO10,Myo10,S1062-p,1884731802,PSVQDSGsLHNSSSG,protein degradation; ubiquitination,"carcinogenesis, inhibited; chromatin organization, altered; apoptosis, induced",37200188,,,,,
+MYO10,Myo10,S1066-p,1884731804,DSGSLHNsSSGESTY,protein degradation; ubiquitination,"cell cycle regulation; carcinogenesis, inhibited; chromatin organization, altered; apoptosis, induced",37200188,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DTL,Dtl,T464-p,4717290,DLPLPSNtPTFSIKT,"protein stabilization; molecular association, regulation; ubiquitination","cell cycle regulation; cell differentiation, induced",23478441; 25154416,,prevention from polyubiquitination; inhibits ubiquitination,14-3-3 epsilon,Ywhae,INDUCES
+DTL,Dtl,T464-p,4717290,DLPLPSNtPTFSIKT,"protein stabilization; molecular association, regulation; ubiquitination","cell cycle regulation; cell differentiation, induced",23478441; 25154416,,prevention from polyubiquitination; inhibits ubiquitination,FBXO11,Fbxo11,DISRUPTS
+DTL,Dtl,T464-p,4717290,DLPLPSNtPTFSIKT,"protein stabilization; molecular association, regulation; ubiquitination","cell cycle regulation; cell differentiation, induced",23478441; 25154416,,prevention from polyubiquitination; inhibits ubiquitination,14-3-3 gamma,Ywhag,INDUCES

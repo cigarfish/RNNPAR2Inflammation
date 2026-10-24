@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDK5RAP2,Cdk5rap2,S140-p,41694200,SLAEAGGsEIQRVKE,"molecular association, regulation",cytoskeletal reorganization,26192437,,,TUBG1,Tubg1,INDUCES

@@ -1,0 +1,10 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+H2ax,Eya4,EYA4,EYA4,H2AX,Y142,"Phosphatases, in vitro"
+H2ax,Ppm1d,PPM1D,PPM1D,H2AX,S139,"Phosphatases, in vitro"
+H2ax,Ppp2ca,PPP2CA,PPP2CA,H2AX,S139,"Phosphatases, in vitro"
+H2ax,Ppp4c,PPP4C,PPP4C,H2AX,S139,"Phosphatases, in vitro"
+H2ax,Eya2,EYA2,EYA2,H2AX,Y39,Putative upstream phosphatases
+H2ax,Eya3,EYA3,EYA3,H2AX,Y142,Putative upstream phosphatases
+H2ax,Eya4,EYA4,EYA4,H2AX,Y142,Putative upstream phosphatases
+H2ax,Ppm1d,PPM1D,PPM1D,H2AX,S139,Putative upstream phosphatases
+H2ax,Ppp2ca,PPP2CA,PPP2CA,H2AX,S139,Putative upstream phosphatases

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPD,Hnrnpd,K218-m1,58123002,IELPMDNkTNKRRGF,"molecular association, regulation",,23583077,RRM_1,,L3MBTL iso4,L3mbtl2,INDUCES
+HNRNPD,Hnrnpd,S83-p,449336,DEGHSNSsPRHSEAA,phosphorylation,"transcription, inhibited; RNA stability, altered",11903055; 12819194; 36041631,,,,,
+HNRNPD,Hnrnpd,S87-p,449337,SNSSPRHsEAATAQR,phosphorylation,"transcription, induced; RNA stability, altered",11903055; 12819194; 36041631,,,,,

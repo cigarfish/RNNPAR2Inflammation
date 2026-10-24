@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GSTP1,Gstp1,S185-p,455118,SAYVGRLsARPKLKA,"activity, induced; molecular association, regulation; intracellular localization",,15604283; 29520271,GST_C_3,nuclear translocation ,HMGB1,Hmgb1,INDUCES
+GSTP1,Gstp1,Y8-p,459294,MPPYTVVyFPVRGRC,"protein conformation; enzymatic activity, induced",,19254954,GST_N,,,,
+GSTP1,Gstp1,Y199-p,463460,AFLASPEyVNLPING,"protein conformation; enzymatic activity, induced","apoptosis, inhibited",19254954; 26429914,,,JNK1,Mapk8,INDUCES
+GSTP1,Gstp1,S43-p,455117,VETWQEGsLKASCLY,"activity, induced",,15604283,GST_N,,,,
+GSTP1,Gstp1,Y4-p,462289,____MPPyTVVYFPV,"protein conformation; enzymatic activity, induced",,19254954,GST_N,,,,

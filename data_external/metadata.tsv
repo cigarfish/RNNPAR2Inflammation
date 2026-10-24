@@ -1,0 +1,6 @@
+geo_id	treatment	control	cell_type	inhibitor target	drug
+GSE219229_GDC-0994	inhibitor+LPS	DMSO+LPS	macrophage	ERK	GDC-0994
+GSE219229_Ulixertinib	inhibitor+LPS	DMSO+LPS	macrophage	ERK	Ulixertinib
+GSE219229_Pimasertib	inhibitor+LPS	DMSO+LPS	macrophage	MEK	Pimasertib
+GSE219229_Selumetinib	inhibitor+LPS	DMSO+LPS	macrophage	MEK	Selumetinib
+GSE134486	inhibitor+LPS	DMSO+LPS	macrophage	MEK	Trametinib

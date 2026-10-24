@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPRA,Ptpra,S204-p,447612,PLLARSPsTNRKYPP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,PIK3CB,Pik3cb,INDUCES
+PTPRA,Ptpra,S204-p,447612,PLLARSPsTNRKYPP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,Src,Src,INDUCES
+PTPRA,Ptpra,S204-p,447612,PLLARSPsTNRKYPP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,PKCD,Prkcd,INDUCES
+PTPRA,Ptpra,S204-p,447612,PLLARSPsTNRKYPP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,GRB2,Grb2,DISRUPTS
+PTPRA,Ptpra,S180-p,447611,QAGSHSNsFRLSNGR,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,PIK3CB,Pik3cb,INDUCES
+PTPRA,Ptpra,S180-p,447611,QAGSHSNsFRLSNGR,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,Src,Src,INDUCES
+PTPRA,Ptpra,S180-p,447611,QAGSHSNsFRLSNGR,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,PKCD,Prkcd,INDUCES
+PTPRA,Ptpra,S180-p,447611,QAGSHSNsFRLSNGR,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell growth, altered",11676480; 11923305; 23532252,,promotes PTPRA tyrosine phosphorylation,GRB2,Grb2,DISRUPTS
+PTPRA,Ptpra,Y789-p,447613,YIDAFSDyANFK___,"molecular association, regulation; enzymatic activity, induced",,10698938; 11689444; 8670803,,,GRB2,Grb2,INDUCES
+PTPRA,Ptpra,Y789-p,447613,YIDAFSDyANFK___,"molecular association, regulation; enzymatic activity, induced",,10698938; 11689444; 8670803,,,Src,Src,INDUCES
+PTPRA,Ptpra,Y798-p,447613,YIDAFSDyANFK___,"enzymatic activity, induced",cytoskeletal reorganization,9439605,,Y798F mutant showed a different morphology compared to wild-type. ,,,

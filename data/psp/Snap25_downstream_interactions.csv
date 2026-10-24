@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNAP25,Snap25,K69-ub,27210098,EGMDQINkDMKEAEK,protein degradation,,38102610,,K48-linked polyubiquitination of SNAP25 K69,,,
+SNAP25,Snap25,S187-p,448668,RIMEKADsNKTRIDE,"activity, induced; molecular association, regulation","exocytosis, altered; exocytosis, induced",17325194; 18171919; 22311984,,,SYT1,Syt1,DISRUPTS
+SNAP25,Snap25,S187-p,448668,RIMEKADsNKTRIDE,"activity, induced; molecular association, regulation","exocytosis, altered; exocytosis, induced",17325194; 18171919; 22311984,,,STX1A,Stx1a,INDUCES
+SNAP25,Snap25,S28-p,23939100,LADESLEsTRRMLQL,,"exocytosis, induced",22311984,,,,,
+SNAP25,Snap25,T29-p,23939101,ADESLEStRRMLQLV,,"exocytosis, induced",22311984,,,,,
+SNAP25,Snap25,T138-p,449875,GGFIRRVtNDARENE,"molecular association, regulation","exocytosis, induced",17325194; 22311984,SNAP-25,,STX1A,Stx1a,DISRUPTS
+SNAP25,Snap25,T138-p,449875,GGFIRRVtNDARENE,"molecular association, regulation","exocytosis, induced",17325194; 22311984,SNAP-25,,SYT1,Syt1,DISRUPTS

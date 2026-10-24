@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHKA,Chka,Y197-p,21041606,RSLGPKLyGIFPQGR,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced; translation, induced",21822308,Choline_kinase,increases CHKA protein levels,EGFR,Egfr,INDUCES
+CHKA,Chka,S279-p,1876872804,KKLHKLLsYNLPLEL,,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",35463311,Choline_kinase,,,,
+CHKA,Chka,Y333-p,21041605,LMLIDFEySSYNYRG,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; transcription, induced; translation, induced",21822308,Choline_kinase,increases CHKA protein levels,EGFR,Egfr,INDUCES

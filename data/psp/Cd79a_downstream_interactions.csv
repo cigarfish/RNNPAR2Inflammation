@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD79A,Cd79a,Y210-p,447752,SRGLQGTyQDVGSLN,"molecular association, regulation",,23913047,,Akt activation,NCK1,Nck1,INDUCES
+CD79A,Cd79a,K225-ub,12113956,IGDVQLEkP______,intracellular localization,,32127472,,in cytoplasm,,,

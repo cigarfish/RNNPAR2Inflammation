@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VCL,Vcl,Y1065-p,454003,WVRKTPWyQ______,"activity, induced; molecular association, regulation; protein conformation","cell adhesion, altered; cytoskeletal reorganization",20678470; 24338477; 25033086,Vinculin,,BSG,Bsg,INDUCES
+VCL,Vcl,Y1065-p,454003,WVRKTPWyQ______,"activity, induced; molecular association, regulation; protein conformation","cell adhesion, altered; cytoskeletal reorganization",20678470; 24338477; 25033086,Vinculin,,talin 1,Tln1,INDUCES
+VCL,Vcl,Y100-p,454004,QMLQSDPySVPARDY,"molecular association, regulation","cytoskeletal reorganization; cell adhesion, altered",25033086,Vinculin,,BSG,Bsg,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NME3,Nme3,S61-p,3137800,ALKLVQAsEELLREH,"molecular association, regulation","cell differentiation, altered",11042679,NDK,,NME1,Nme1,INDUCES

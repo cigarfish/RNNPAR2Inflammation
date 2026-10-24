@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF3A,Eif3a,S1364-p,487404,RAEKDREsLRRTKNE,"molecular association, regulation","transcription, induced; translation, induced; signaling pathway regulation",30012863,,PKC-Raf-ERK signaling,eIF4G,Eif4g1,INDUCES
+EIF3A,Eif3a,S584-p,471999,ERKERLEsLNIQREK,,"translation, induced",30001349,,,,,

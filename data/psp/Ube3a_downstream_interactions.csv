@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBE3A,Ube3a,Y636-p,50838700,GDSHPVLyQSLKDLL,"protein stabilization; enzymatic activity, inhibited; protein conformation",,23581475,HECT,"oligomerization of UBE3A, Abl protects p53 from HPV-E6?E6AP complex-mediated degradation by phosphorylating E6AP",,,
+UBE3A,Ube3a,S218-p,477927,SSRIGDSsQGDNNLQ,"molecular association, regulation",cell cycle regulation,37672026,,,MASTL,Mastl,DISRUPTS
+UBE3A,Ube3a,T485-p,48891100,MYSERRItVLYSLVQ,"protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, inhibited","cytoskeletal reorganization; transcription, altered",26255772; 28559284; 28835500,,,RAD23A,Rad23a,DISRUPTS
+UBE3A,Ube3a,T485-p,48891100,MYSERRItVLYSLVQ,"protein stabilization; molecular association, regulation; intracellular localization; enzymatic activity, inhibited","cytoskeletal reorganization; transcription, altered",26255772; 28559284; 28835500,,,14-3-3 gamma,Ywhag,INDUCES

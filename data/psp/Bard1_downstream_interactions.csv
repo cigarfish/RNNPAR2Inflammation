@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BARD1,Bard1,S148-p,455770,NSIKMWFsPRSKKVR,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,T734-p,465471,DSDQRFCtQYIIYED,,"RNA stability, altered",16651405,,inhibits mRNA processing ,,,
+BARD1,Bard1,T394-p,455773,FISLSPGtPPSTLSS,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,S184-p,455771,QDSYEFVsPSPPADV,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,S251-p,455769,SQPSVISsPQINGEI,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,T299-p,455768,KSRNEVVtPEKVCKN,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,T714-p,465470,PKPDSDVtQTINTVA,,"RNA stability, altered",16651405,,inhibits mRNA processing ,,,
+BARD1,Bard1,S391-p,455774,SDEFISLsPGTPPST,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,
+BARD1,Bard1,S186-p,455772,SYEFVSPsPPADVSE,,cell cycle regulation,15855157,,resistance to genotoxic stress (mitomycin C),,,

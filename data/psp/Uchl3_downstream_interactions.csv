@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UCHL3,Uchl3,S75-p,482705,EEEEKIKsQGQDVTS,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced",27941124; 36142702,Peptidase_C12,"RAD51 focus formation, HR, and radiosensitivity",ubiquitin,Ubc,INDUCES

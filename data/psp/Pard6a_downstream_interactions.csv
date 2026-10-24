@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARD6A,Pard6a,S345-p,15714600,RGDGSGFsL______,protein degradation,"cell motility, induced; cytoskeletal reorganization",23249950,,"phosphorylation necessary to induce Epithelial to mesenchymal transition (EMT) and RhoA degradation, TGF? induced E-cadherin loss, stress fiber formation",,,

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEDD8,Nedd8,K48-ac,461330,QRLIYSGkQMNDEKT,"molecular association, regulation",,30804002,ubiquitin,,PARP1,Parp1,INDUCES
+NEDD8,Nedd8,K22-ac,36299402,IDIEPTDkVERIKER,"molecular association, regulation",,30804002,ubiquitin,,PARP1,Parp1,INDUCES
+NEDD8,Nedd8,K33-ac,1878097300,IKERVEEkEGIPPQQ,"molecular association, regulation",,30804002,,,PARP1,Parp1,INDUCES
+NEDD8,Nedd8,S65-p,4705608,DYKILGGsVLHLVLA,"molecular association, regulation; protein conformation",,34642328,ubiquitin,"induces phosphorylation, activation and autoubiquitylation of Parkin",PARK2,Park2,INDUCES
+NEDD8,Nedd8,S65-p,4705608,DYKILGGsVLHLVLA,"molecular association, regulation; protein conformation",,34642328,ubiquitin,"induces phosphorylation, activation and autoubiquitylation of Parkin",HSP70,Hspa1a,INDUCES
+NEDD8,Nedd8,K11-ac,33364162,KVKTLTGkEIEIDIE,"molecular association, regulation",,30804002,ubiquitin,,PARP1,Parp1,INDUCES

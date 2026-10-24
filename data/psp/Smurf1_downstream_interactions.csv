@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMURF1,Smurf1,T223-p,1877492900,DVRGSLQtPQNRPHG,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",35654587,,induces RhoA polyubiquitination,RHOA,Rhoa,INDUCES
+SMURF1,Smurf1,K383-ub,1872850900,RDLVQKLkVLRHELS,protein degradation,,21572392,,,,,
+SMURF1,Smurf1,K381-ub,964546162,YERDLVQkLKVLRHE,protein degradation,,21572392,,,,,
+SMURF1,Smurf1,T332-p,18156100,VDHNNRTtQFTDPRL,protein stabilization,,28581524,WW,,,,

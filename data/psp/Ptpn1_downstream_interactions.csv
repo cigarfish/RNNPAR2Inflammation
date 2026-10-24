@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN1,Ptpn1,S286-p,27528603,KFIMGDSsVQDQWKE,"enzymatic activity, induced","apoptosis, induced",23348582,,S286 phosphorylation promotes mitotic cell death.,,,
+PTPN1,Ptpn1,Y46-p,3791168,KNKNRNRyRDVSPFD,"molecular association, regulation; enzymatic activity, altered; phosphorylation",,21487008; 31177093,Y_phosphatase,,INSR,Insr,DISRUPTS
+PTPN1,Ptpn1,Y66-p,447812,LHQEDNDyINASLIK,"molecular association, regulation; enzymatic activity, induced",,8999839; 9355745,Y_phosphatase,,INSR,Insr,INDUCES
+PTPN1,Ptpn1,Y153-p,449314,SEDIKSYyTVRQLEL,"molecular association, regulation",,8999839,Y_phosphatase,,INSR,Insr,INDUCES
+PTPN1,Ptpn1,S50-p,447811,RNRYRDVsPFDHSRI,"molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced",signaling pathway regulation,10480872; 11579209; 20615878; 23481236,Y_phosphatase,insulin signaling- glucose metabolism,INSR,Insr,DISRUPTS
+PTPN1,Ptpn1,K335-sm,12004414,FPNHQWVkEETQEDK,"enzymatic activity, inhibited",signaling pathway regulation,17159996,,insulin signaling,,,
+PTPN1,Ptpn1,Y152-p,449312,ISEDIKSyYTVRQLE,"molecular association, regulation",,8999839,Y_phosphatase,,INSR,Insr,INDUCES
+PTPN1,Ptpn1,K347-sm,12004413,EDKDCPIkEEKGSPL,"enzymatic activity, inhibited",signaling pathway regulation,17159996,,insulin signaling,,,

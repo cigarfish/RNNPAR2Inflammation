@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPV6,Trpv6,S732-p,1868023605,SRSTSRSsANWERLR,"activity, induced","carcinogenesis, induced",32186440,,,,,
+TRPV6,Trpv6,T742-p,11381600,WERLRQGtLRRDLRG,"activity, induced; molecular association, regulation; activity, inhibited","carcinogenesis, induced",11248124; 32186440,,,Calmodulin,Calm1,INDUCES
+TRPV6,Trpv6,T728-p,12173902,MPSVSRStSRSSANW,"activity, inhibited",,19805577,,involved in regulation of calcium influx by ATP ,,,
+TRPV6,Trpv6,S184-p,12173901,LARRASVsARATGTA,"activity, inhibited",,19805577,Ank_2,involved in regulation of calcium influx by ATP ,,,

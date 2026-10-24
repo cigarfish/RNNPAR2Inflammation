@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUZ12,Suz12,S541-p,3208749,KRTKASMsEFLESED,"molecular association, regulation; ubiquitination",,25855382,,,EZH2,Ezh2,DISRUPTS
+SUZ12,Suz12,S583-p,4170593,PQEMEVDsEDEKDPE,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell differentiation, altered; transcription, inhibited",36351927,VEFS-Box,induces histone methylation,H3,H3,INDUCES
+SUZ12,Suz12,S539-p,4746706,RPKRTKAsMSEFLES,"molecular association, regulation; ubiquitination",,25855382,,,EZH2,Ezh2,DISRUPTS
+SUZ12,Suz12,S546-p,449173,SMSEFLEsEDGEVEQ,"molecular association, regulation; ubiquitination",,25855382,VEFS-Box,,EZH2,Ezh2,DISRUPTS

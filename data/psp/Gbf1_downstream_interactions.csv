@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GBF1,Gbf1,Y877-p,1875829500,QDILEDMyHAIKNEE,"molecular association, regulation; intracellular localization; protein conformation",,34870592,Sec7,induces GALNT relocation,ARF1,Arf1,INDUCES
+GBF1,Gbf1,S372-p,15230610,ADHSDSAsVHDMDYV,,cell cycle regulation,37604968,,,,,
+GBF1,Gbf1,S233-p,14573929,KWKKQKRsPRPPRHM,,cell cycle regulation,37604968,,,,,
+GBF1,Gbf1,Y516-p,5516141,VENPKMPyEMKEMAL,intracellular localization,cell cycle regulation,37604968,Sec7_N,,,,
+GBF1,Gbf1,S292-p,1170755600,VVSPSTDsGLEFSSQ,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",cell cycle regulation; cytoskeletal reorganization,29898406,,,BTRC,Btrc,INDUCES
+GBF1,Gbf1,S297-p,1170755601,TDSGLEFsSQTTSKE,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",cell cycle regulation; cytoskeletal reorganization,29898406,,,BTRC,Btrc,INDUCES
+GBF1,Gbf1,T1338-p,454448,GKIHRSAtDADVVNS,intracellular localization,cell cycle regulation,23418352,, attenuates membrane association; required for mitosis,,,
+GBF1,Gbf1,Y378-p,4736339,ASVHDMDyVNPRGVR,intracellular localization,cell cycle regulation,37604968,,,,,
+GBF1,Gbf1,Y899-p,34551124,TGLVRENyVWNVLLH,"molecular association, regulation; intracellular localization; protein conformation",,34870592,,induces GALNT relocation,ARF1,Arf1,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NAMPT,Nampt,S314-p,40512819,PLIIRPDsGNPLDTV,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced; cell growth, induced",36196536,NAPRTase,induces binding to phosphoribosyl pyrophosphate,,,

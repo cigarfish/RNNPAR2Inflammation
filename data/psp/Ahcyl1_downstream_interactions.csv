@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AHCYL1,Ahcyl1,S68-p,467244,RSLSRSIsQSSTDSY,"molecular association, regulation",,27279487,,,NHERF,Slc9a3r1,INDUCES
+AHCYL1,Ahcyl1,S68-p,467244,RSLSRSIsQSSTDSY,"molecular association, regulation",,27279487,,,NHE3,Slc9a3,INDUCES

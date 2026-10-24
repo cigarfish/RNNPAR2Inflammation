@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBA2,Uba2,K623-sm,10304919,EKENLSAkRSRIEQK,intracellular localization,,23095757,UBA2_C,nuclear localization,,,
+UBA2,Uba2,K613-sm,27851104,EERSRKRkLDEKENL,intracellular localization,,23095757,UBA2_C,nuclear localization,,,
+UBA2,Uba2,K630-sm,10304921,KRSRIEQkEELDDVI,intracellular localization,,23095757,UBA2_C,nuclear localization,,,
+UBA2,Uba2,K617-sm,27851105,RKRKLDEkENLSAKR,intracellular localization,,23095757,UBA2_C,nuclear localization,,,
+UBA2,Uba2,K611-sm,27851103,SEEERSRkRKLDEKE,intracellular localization,,23095757,UBA2_C,nuclear localization,,,

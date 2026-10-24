@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VAV2,Vav2,Y142-p,452200,TENDDDVyRSLEELA,intracellular localization,"cell adhesion, induced",24858039,,localization to focal adhesions,,,
+VAV2,Vav2,Y172-p,452202,EDGGDDIyEDIIKVE,"activity, induced; molecular association, regulation","cell growth, induced; cell adhesion, induced",25386896; 26910843,,increased VAV2 Y172 phosphorylation ,MST3,Stk4,INDUCES

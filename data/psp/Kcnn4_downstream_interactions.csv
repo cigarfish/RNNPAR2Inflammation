@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNN4,Kcnn4,T329-p,452144,AWMFYKHtRRKESHA,"activity, inhibited",,12029379,CaMBD,inhibition during prolonged PMA treatment (not short-term),,,
+KCNN4,Kcnn4,H358-p,474525,FRQVRLKhRKLREQV,"activity, induced",,17157250; 18796614,CaMBD,,,,
+KCNN4,Kcnn4,S334-p,452145,KHTRRKEsHAARRHQ,"activity, inhibited",,25274816,CaMBD,"inhibits channel current, inhibits Ca++ influx",Calmodulin,Calm1,DISRUPTS

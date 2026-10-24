@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EPAS1,Epas1,K385-ac,7761201,GKGAVSEkSNFLFTK,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; transcription, inhibited",19498162; 29281714,,,CBP,Crebbp,INDUCES
+EPAS1,Epas1,S435-p,1874020200,GKAILPPsQPWATEL,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; transcription, induced",34211090,,inhibits ubiquitination,EGLN1,Egln1,DISRUPTS
+EPAS1,Epas1,T528-p,59087902,FNELDLEtLAPYIPM,intracellular localization,"transcription, induced",27686097,HIF-1,"EPO secretion, inhibits CRM1-dependent nuclear export of HIF2A",,,
+EPAS1,Epas1,S484-p,1876807202,SSCSTPNsPEDYYTS,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",35191554,,induces deubiquitination,USP33,Usp33,INDUCES
+EPAS1,Epas1,T324-p,471073,VWLETQGtVIYNPRN,"molecular association, regulation","apoptosis, induced; transcription, altered",17024177,PAS_3,,SP1,Sp1,DISRUPTS
+EPAS1,Epas1,S790-p,1883618704,PQPPSAIsPGENSKS,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell motility, induced",37473874,,,PIN1,Pin1,INDUCES
+EPAS1,Epas1,S672-p,56668652,APLGPPVsPPHVSTF,"molecular association, regulation; intracellular localization","transcription, induced",30962349,,inhibition of CRM1-dependent nuclear export,Exportin-1,Xpo1,DISRUPTS
+EPAS1,Epas1,S581-p,1874020206,LAPVAPHsPFLLDKF,,"transcription, altered",34285132,,,,,
+EPAS1,Epas1,S383-p,59087903,SSGKGAVsEKSNFLF,intracellular localization,"transcription, induced",27686097,,"EPO secretion, inhibits CRM1-dependent nuclear export of HIF2A",,,
+EPAS1,Epas1,K685-ac,7761202,TFKTRSAkGFGARGP,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; transcription, inhibited",19498162; 29281714,,,CBP,Crebbp,INDUCES
+EPAS1,Epas1,K394-sm,12723519,NFLFTKLkEEPEELA,,"transcription, inhibited",20026589,,,,,
+EPAS1,Epas1,K741-ac,7761200,HLMWKRMkNLRGGSC,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced; transcription, inhibited",19498162; 29281714,,,CBP,Crebbp,INDUCES
+EPAS1,Epas1,T406-p,1874020204,ELAQLAPtPGDAIIS,protein stabilization,,34285132,,,,,

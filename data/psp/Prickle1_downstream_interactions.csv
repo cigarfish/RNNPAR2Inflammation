@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRICKLE1,Prickle1,T370-p,55571503,LSGNADDtLSRKLDD,"molecular association, regulation","cell motility, induced; cell growth, induced",27184734,,,RICTOR,Rictor,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MEFV,Mefv,S209-p,455898,RLRRNASsAGRLQGL,"molecular association, regulation; intracellular localization",,15934090,,,14-3-3 theta,Ywhaq,INDUCES
+MEFV,Mefv,S242-p,455899,SGKMRPRsLEVTIST,"molecular association, regulation; intracellular localization; activity, inhibited",,15934090; 27030597; 27270401; 36342970; 36384121,,,14-3-3 beta,Ywhab,INDUCES
+MEFV,Mefv,S242-p,455899,SGKMRPRsLEVTIST,"molecular association, regulation; intracellular localization; activity, inhibited",,15934090; 27030597; 27270401; 36342970; 36384121,,,14-3-3 theta,Ywhaq,INDUCES
+MEFV,Mefv,S242-p,455899,SGKMRPRsLEVTIST,"molecular association, regulation; intracellular localization; activity, inhibited",,15934090; 27030597; 27270401; 36342970; 36384121,,,14-3-3 epsilon,Ywhae,INDUCES
+MEFV,Mefv,S208-p,455897,VRLRRNAsSAGRLQG,"molecular association, regulation; intracellular localization; activity, inhibited",,15934090; 27270401; 36223753,,,14-3-3 theta,Ywhaq,INDUCES
+MEFV,Mefv,S208-p,455897,VRLRRNAsSAGRLQG,"molecular association, regulation; intracellular localization; activity, inhibited",,15934090; 27270401; 36223753,,,14-3-3 epsilon,Ywhae,INDUCES

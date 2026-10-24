@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATAT1,Atat1,S237-p,1095631200,GDIKPYSsSDREFLK,"acetylation; enzymatic activity, induced","cell growth, inhibited",29703898,,,,,
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 beta,Ywhab,INDUCES
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 zeta,Ywhaz,INDUCES
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 epsilon,Ywhae,INDUCES
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 gamma,Ywhag,INDUCES
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,KPNA4,Kpna4,DISRUPTS
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,KPNA6,Kpna6,DISRUPTS
+ATAT1,Atat1,T322-p,480007,SPAQRRRtRGTPPGL,"molecular association, regulation; intracellular localization",,36222836,,,KPNA2,Kpna2,DISRUPTS
+ATAT1,Atat1,S315-p,4761832,LAADPGGsPAQRRRT,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 beta,Ywhab,INDUCES
+ATAT1,Atat1,S315-p,4761832,LAADPGGsPAQRRRT,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 zeta,Ywhaz,INDUCES
+ATAT1,Atat1,S315-p,4761832,LAADPGGsPAQRRRT,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 epsilon,Ywhae,INDUCES
+ATAT1,Atat1,S315-p,4761832,LAADPGGsPAQRRRT,"molecular association, regulation; intracellular localization",,36222836,,,14-3-3 gamma,Ywhag,INDUCES

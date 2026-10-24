@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRSF10,Srsf10,S133-p,453583,RRRSRSRsFDYNYRR,"molecular association, regulation",,27851963,,,hnRNP K,Hnrnpk,INDUCES
+SRSF10,Srsf10,S133-p,453583,RRRSRSRsFDYNYRR,"molecular association, regulation",,27851963,,,hnRNP F,Hnrnpf,INDUCES

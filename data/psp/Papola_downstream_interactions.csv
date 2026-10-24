@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAPOLA,Papola,K662-sm,2586342,PHKEESPkKTKTEED,"protein stabilization; intracellular localization; enzymatic activity, inhibited",,18281463,,,,,
+PAPOLA,Papola,K444-sm,2586344,WVIGLVFkKTENSEN,"protein stabilization; enzymatic activity, inhibited",,18281463,,,,,
+PAPOLA,Papola,K740-ac,483064,PVIKNSIkLRLNR__,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited; intracellular localization",,17172643; 18281463,,,CPSF6,Cpsf6,DISRUPTS
+PAPOLA,Papola,K740-ac,483064,PVIKNSIkLRLNR__,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited; intracellular localization",,17172643; 18281463,,,CFIM25,Nudt21,DISRUPTS
+PAPOLA,Papola,K663-sm,2586343,HKEESPKkTKTEEDE,"protein stabilization; intracellular localization; enzymatic activity, inhibited",,18281463,,,,,
+PAPOLA,Papola,K641-ac,483062,TSGNAATkIPTPIVG,"molecular association, regulation; intracellular localization",,17172643,,cytoplasmic localization,CPSF6,Cpsf6,DISRUPTS
+PAPOLA,Papola,K641-ac,483062,TSGNAATkIPTPIVG,"molecular association, regulation; intracellular localization",,17172643,,cytoplasmic localization,CFIM25,Nudt21,DISRUPTS
+PAPOLA,Papola,K445-sm,2586345,VIGLVFKkTENSENL,"protein stabilization; enzymatic activity, inhibited",,18281463,,,,,
+PAPOLA,Papola,K736-ac,483063,ANPIPVIkNSIKLRL,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited; intracellular localization",,17172643; 18281463,,,CPSF6,Cpsf6,DISRUPTS
+PAPOLA,Papola,K736-ac,483063,ANPIPVIkNSIKLRL,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited; intracellular localization",,17172643; 18281463,,,CFIM25,Nudt21,DISRUPTS
+PAPOLA,Papola,K650-ac,466633,PTPIVGVkRTSSPHK,"molecular association, regulation; intracellular localization",,17172643,,cytoplasmic localization,CPSF6,Cpsf6,DISRUPTS
+PAPOLA,Papola,K650-ac,466633,PTPIVGVkRTSSPHK,"molecular association, regulation; intracellular localization",,17172643,,cytoplasmic localization,CFIM25,Nudt21,DISRUPTS

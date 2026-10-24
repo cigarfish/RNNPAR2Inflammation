@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGEF1,Arhgef1,S240-p,4936516,TKSGDKKsGRNFFRK,"activity, induced","transcription, induced; signaling pathway regulation",32881857,,regulates RhoA activation and signaling,,,
+ARHGEF1,Arhgef1,Y738-p,13421400,WDQEAQIyELVAQTV,"activity, induced",,20098430,PH_16,,,,

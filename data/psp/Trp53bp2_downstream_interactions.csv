@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TP53BP2,Trp53bp2,S827-p,30995203,NSDMPAPsPGLDYEP,intracellular localization,"apoptosis, induced; transcription, induced",24312625,,"necessary for Ras-induced translocation to the cytosol and nucleus, p53 mediated transcription and pro-apoptotic activity",,,
+TP53BP2,Trp53bp2,S698-p,471994,ERIPRPLsPTKLLPF,,"carcinogenesis, induced; cell growth, induced",38001686,,,,,
+TP53BP2,Trp53bp2,Y869-p,36747002,YLEEYPPyPPPPYPS,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","transcription, induced",25360797,,promotes the dephosphorylation of YAP,53BP2,Tp53bp2,INDUCES
+TP53BP2,Trp53bp2,Y874-p,36747001,PPYPPPPyPSGEPEG,"protein degradation; molecular association, regulation; intracellular localization; phosphorylation","transcription, induced",25360797,,promotes the dephosphorylation of YAP,53BP2,Tp53bp2,INDUCES
+TP53BP2,Trp53bp2,S556-p,451867,QQPRVLLsPSIPSVG,,"carcinogenesis, induced; cell growth, induced",38001686,,,,,

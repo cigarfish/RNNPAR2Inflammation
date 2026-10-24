@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DLG4,Dlg4,S78-p,1875393400,GNSGLGFsIAGGTDN,"molecular association, regulation",,34761188,PDZ,inhibits binding to AVLX-144,NMDAR2B,Grin2b,DISRUPTS
+DLG4,Dlg4,S78-p,1875393400,GNSGLGFsIAGGTDN,"molecular association, regulation",,34761188,PDZ,inhibits binding to AVLX-144,Stargazin,Cacng2,DISRUPTS
+DLG4,Dlg4,Y397-p,473889,AQYKPEEySRFEAKI,"molecular association, regulation; protein conformation",,24587199; 28692247,,regulates binding affinity; phosphorylation at Y397 induced a signi?cant increase in a?nity ,Stargazin,Cacng2,INDUCES
+DLG4,Dlg4,T19-p,3609101,YRYQDEDtPPLEHSP,"protein stabilization; molecular association, regulation; protein conformation; palmitoylation",neural plasticity,29118000; 32231520; 32256312,,,Calmodulin,Calm1,INDUCES
+DLG4,Dlg4,T19-p,3609101,YRYQDEDtPPLEHSP,"protein stabilization; molecular association, regulation; protein conformation; palmitoylation",neural plasticity,29118000; 32231520; 32256312,,,PIN1,Pin1,INDUCES
+DLG4,Dlg4,S25-p,3609100,DTPPLEHsPAHLPNQ,"protein stabilization; molecular association, regulation; protein conformation; palmitoylation",neural plasticity,32231520; 32256312,,,PIN1,Pin1,INDUCES
+DLG4,Dlg4,Y523-p,4093600,REDSVLSyETVTQME,"activity, induced; molecular association, regulation; phosphorylation","neural plasticity; apoptosis, induced",22709448; 24981431,,"activation of NMDA receptor function, NR2A phosphorylation;  neural excitotoxicity increased",Pyk2,Ptk2b,INDUCES
+DLG4,Dlg4,S561-p,25680400,EFPDKFGsCVPHTTR,,neural plasticity; cytoskeletal reorganization,22807451,Guanylate_kin,dendritic spine morphogenesis,,,
+DLG4,Dlg4,S116-p,1875393402,GRLRVNDsILFVNEV,"molecular association, regulation",,34761188,PDZ,inhibits binding to AVLX-144,Stargazin,Cacng2,INDUCES
+DLG4,Dlg4,S116-p,1875393402,GRLRVNDsILFVNEV,"molecular association, regulation",,34761188,PDZ,inhibits binding to AVLX-144,NMDAR2B,Grin2b,INDUCES
+DLG4,Dlg4,S73-p,471390,ITLERGNsGLGFSIA,"molecular association, regulation",,25393018,PDZ,in mature synapses;  CaMKII was unable to trigger the complex separation in the presence of a calpain inhibitor.,NMDAR1,Grin1,DISRUPTS
+DLG4,Dlg4,S295-p,456936,PTSPRRYsPVAKDLL,,neural plasticity,34665640,PDZ_assoc,,,,

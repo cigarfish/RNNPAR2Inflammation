@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FZD3,Fzd3,T598-p,1869636102,RSRDGRYtPCSYRGM,"molecular association, regulation",signaling pathway regulation,32641508,,regulation of axonal PCP signaling and growth cone communications,VANGL2,Vangl2,DISRUPTS

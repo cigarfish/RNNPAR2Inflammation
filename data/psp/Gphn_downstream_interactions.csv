@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPHN,Gphn,S270-p,2020113,LSTTPSEsPRAQATS,intracellular localization,cytoskeletal reorganization,33796945,,,,,
+GPHN,Gphn,C212-pa,34668143,TEDKGVQcEEEEEEK,"molecular association, regulation; intracellular localization",,25025157,,clustering in neurons,,,
+GPHN,Gphn,C284-pa,34668144,SRLSTAScPTPKVQS,"molecular association, regulation; intracellular localization",,25025157,,clustering in neurons,,,

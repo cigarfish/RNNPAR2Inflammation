@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADIPOR1,Adipor1,S205-p,1877164900,EKVSRTFsKLDYSGI,"protein degradation; molecular association, regulation; phosphorylation","endocytosis, induced; apoptosis, inhibited; signaling pathway regulation",35611695,HlyIII,"inhibits APN signaling, resulting in inhibition of ERK, AMPK and ACC phosphorylation",LAMP2,Lamp2,INDUCES
+ADIPOR1,Adipor1,S205-p,1877164900,EKVSRTFsKLDYSGI,"protein degradation; molecular association, regulation; phosphorylation","endocytosis, induced; apoptosis, inhibited; signaling pathway regulation",35611695,HlyIII,"inhibits APN signaling, resulting in inhibition of ERK, AMPK and ACC phosphorylation",RAB5A,Rab5a,INDUCES

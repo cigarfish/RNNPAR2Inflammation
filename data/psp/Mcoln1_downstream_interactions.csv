@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCOLN1,Mcoln1,S559-p,1233700,KFRRGSGsACSLLCC,"activity, inhibited",,17988215,,,,,
+MCOLN1,Mcoln1,S557-p,1233701,SGKFRRGsGSACSLL,"activity, inhibited",,17988215,,,,,

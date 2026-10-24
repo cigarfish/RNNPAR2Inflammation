@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IL10RA,Il10ra,Y446-p,449607,AAVAFQGyLRQTRCA,"molecular association, regulation",,12802285,,,CSRP1,Csrp1,INDUCES
+IL10RA,Il10ra,Y496-p,449608,PPALAKGyLKQDPLE,"molecular association, regulation",,12802285; 26956044,,,Src,Src,DISRUPTS
+IL10RA,Il10ra,Y496-p,449608,PPALAKGyLKQDPLE,"molecular association, regulation",,12802285; 26956044,,,CSRP1,Csrp1,INDUCES
+IL10RA,Il10ra,Y496-p,449608,PPALAKGyLKQDPLE,"molecular association, regulation",,12802285; 26956044,,,STAT3,Stat3,DISRUPTS

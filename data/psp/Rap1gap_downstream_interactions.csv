@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAP1GAP,Rap1gap,S525-p,450258,AGQKTPDsGHVSQEP,"protein degradation; molecular association, regulation; ubiquitination","cell growth, induced",14660640; 25329897,,Rap1GAP degradation is required for cell proliferation.,BTRC,Btrc,INDUCES
+RAP1GAP,Rap1gap,S499-p,3190708,PFGSRRSsAIGIENI,"activity, induced",,19218462,,increased Rap1 activity,,,
+RAP1GAP,Rap1gap,S441-p,1210678,VIRSRSQsMDAMGLS,"activity, induced",,19218462,,increased Rap1 activity,,,

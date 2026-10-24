@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP21,Usp21,S538-p,63253102,VYNDSRVsPVSENQV,"molecular association, regulation",,28254948,UCH,,STING,Tmem173,INDUCES

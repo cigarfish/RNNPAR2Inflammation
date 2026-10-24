@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WWC1,Wwc1,T1006-p,54400801,RTWHSQLtQEISVLK,,"DNA repair, induced; cell growth, induced",26929199,,required for optimal DNA double-strand break repair in cancer cells,,,
+WWC1,Wwc1,S947-p,453630,CRLNRSDsDSSTLSK,,"cell motility, induced; cell growth, induced",24269383,,,,,
+WWC1,Wwc1,S548-p,30312500,SSPSPPCsPLMADPL,,"cell growth, induced",24269383,,,,,
+WWC1,Wwc1,S539-p,20751200,TSLSPRSsLSSPSPP,"molecular association, regulation",cell cycle regulation,21878642; 22904328,,,Merlin,Nf2,INDUCES
+WWC1,Wwc1,S542-p,25673102,SPRSSLSsPSPPCSP,,"cell cycle regulation; cell growth, induced",22784093; 24269383,,,,,
+WWC1,Wwc1,S931-p,3205620,IIRSKTFsPGPQSQY,,cell cycle regulation,22784093,,,,,
+WWC1,Wwc1,T929-p,3205626,STIIRSKtFSPGPQS,,"cell motility, induced; cell growth, induced",24269383,,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEK9,Nek9,T210-p,451116,SEYSMAEtLVGTPYY,"enzymatic activity, induced",cell cycle regulation,14660563; 16079175; 21642957,Pkinase,,,,
+NEK9,Nek9,S944-p,4272073,GQQVGMHsKGTQTAK,"molecular association, regulation; enzymatic activity, induced",signaling pathway regulation,21454704; 23482567,,,LC8,Dync1li1,DISRUPTS
+NEK9,Nek9,S944-p,4272073,GQQVGMHsKGTQTAK,"molecular association, regulation; enzymatic activity, induced",signaling pathway regulation,21454704; 23482567,,,NEK6,Nek6,INDUCES
+NEK9,Nek9,S869-p,7322159,KPQVEASsPRLNPAV,"molecular association, regulation; phosphorylation; enzymatic activity, induced",,21642957,,phosphorylation of the priming site induces phosphorylation at T210,PLK1,Plk1,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAOA,Maoa,S209-p,9726600,GGTTRIFsVTNGGQE,"protein degradation; enzymatic activity, inhibited; protein conformation",,19645722; 19650872,Amino_oxidase,,,,

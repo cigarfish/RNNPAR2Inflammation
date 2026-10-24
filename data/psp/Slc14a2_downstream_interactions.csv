@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC14A2,Slc14a2,S490-p,2813500,WSSIRRRsKVFGKGE,ubiquitination,,24133116,,mutant reduces forskolin induced  SLC14AZ ubiquitination,,,
+SLC14A2,Slc14a2,S477-p,2813501,AVLSKHRsVFHIEWS,ubiquitination,,24133116,,mutant reduces forskolin induced  SLC14AZ ubiquitination,,,

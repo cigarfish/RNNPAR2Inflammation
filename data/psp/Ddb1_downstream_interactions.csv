@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDB1,Ddb1,Y316-p,62873404,SIAECLTyLDNGVVF,"molecular association, regulation",,28087699,MMS1_N, ubiquitination of CRL4 substrates,DDA1,Dda1,INDUCES
+DDB1,Ddb1,S645-p,7321234,LRTFRSLsTTNVFAC,"molecular association, regulation",,25982117,,,G-beta 2,Gnb2,DISRUPTS

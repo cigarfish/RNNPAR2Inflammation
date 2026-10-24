@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDX21,Ddx21,K236-ac,1894193100,QARTGTGkTFSFAIP,"enzymatic activity, induced",,39394182,,,,,
+DDX21,Ddx21,K137-ac,41518316,PKKMKKEkEMNGETR,"enzymatic activity, inhibited","transcription, inhibited",28790157,,"Inhibits DDX21 helicase activity, impairs genomic stability, R-loop mediated stalling of RNA polymerase",,,
+DDX21,Ddx21,K18-ac,461852,LESDTAMkKGETLRK,"enzymatic activity, inhibited","transcription, inhibited",28790157,,"Inhibits DDX21 helicase activity, impairs genomic stability, R-loop mediated stalling of RNA polymerase",,,
+DDX21,Ddx21,K600-ac,36296739,HFKQSAEkLIEEKGA,"enzymatic activity, inhibited","transcription, inhibited",28790157,,"Inhibits DDX21 helicase activity, impairs genomic stability, R-loop mediated stalling of RNA polymerase",,,
+DDX21,Ddx21,K573-ac,1894193101,PSATEIIkASSKDAI,"enzymatic activity, induced",,39394182,,,,,
+DDX21,Ddx21,S171-p,452490,SEAASEEsNSEIEQE,intracellular localization,"RNA splicing, inhibited",18703060,,,,,

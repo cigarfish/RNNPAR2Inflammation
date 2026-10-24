@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS18,Rgs18,S216-p,4772683,PTNLRRRsRSFTCNE,"molecular association, regulation",signaling pathway regulation,22234696; 24244663,, inhibits RGS18 binding to 14-3-3 gamma via S49; Ca 2+ signaling;  constitutive binding to 14-3-3 gamma; followed by dephosphorylation of S49 and S218,14-3-3 gamma,Ywhag,DISRUPTS
+RGS18,Rgs18,S49-p,451167,KEKRNRLsLLVQKPE,"molecular association, regulation",signaling pathway regulation,22234696; 24244663,,Ca 2+ signaling,14-3-3 gamma,Ywhag,INDUCES
+RGS18,Rgs18,S218-p,4772688,NLRRRSRsFTCNEFQ,"molecular association, regulation",signaling pathway regulation,22234696; 24244663,,Ca 2+ signaling; followed by dephosphorylation of S49 and S218,14-3-3 gamma,Ywhag,INDUCES
+RGS18,Rgs18,S218-p,4772688,NLRRRSRsFTCNEFQ,"molecular association, regulation",signaling pathway regulation,22234696; 24244663,,Ca 2+ signaling; followed by dephosphorylation of S49 and S218,14-3-3 gamma,Ywhag,DISRUPTS

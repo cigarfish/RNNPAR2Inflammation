@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERCC6,Ercc6,T1031-p,1875831800,GTGSDVQtPKCHLKR,"molecular association, regulation; intracellular localization","DNA repair, altered",34871413,,,MRE11A,Mre11a,INDUCES
+ERCC6,Ercc6,S1276-p,31874464,DAIMDGAsPDYVLVE,"molecular association, regulation; intracellular localization","DNA repair, altered",31501894,,"induces cell survival, recruits BRCA1-C complex to DSBs",BRCA1,Brca1,INDUCES

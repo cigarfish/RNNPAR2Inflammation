@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARL,Parl,S70-p,471332,RRSDPGTsGEAYKRS,protein processing,,17116872,,involved in mitochondrial fragmentation,,,
+PARL,Parl,T69-p,471331,PRRSDPGtSGEAYKR,protein processing,,17116872,,involved in mitochondrial fragmentation,,,
+PARL,Parl,S65-p,471330,RKVEPRRsDPGTSGE,protein processing,,17116872,,involved in mitochondrial fragmentation,,,

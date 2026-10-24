@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITK,Itk,Y180-p,449834,ETVVIALyDYQTNDP,"phosphorylation; enzymatic activity, induced",signaling pathway regulation,31196981,SH3_1,autophosphorylation at Y180,,,
+ITK,Itk,Y512-p,447997,RFVLDDQyTSSTGTK,"activity, induced; phosphorylation; enzymatic activity, induced",signaling pathway regulation,31196981; 9312162,PK_Tyr_Ser-Thr,autophosphorylation at Y180,,,

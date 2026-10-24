@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBE2S,Ube2s,T152-p,58109405,AARARLLtEIHGGAG,"protein stabilization; molecular association, regulation","DNA repair, induced",27593939,UQ_con,,Ku80,Xrcc5,INDUCES
+UBE2S,Ube2s,T152-p,58109405,AARARLLtEIHGGAG,"protein stabilization; molecular association, regulation","DNA repair, induced",27593939,UQ_con,,Ku70,Xrcc6,INDUCES

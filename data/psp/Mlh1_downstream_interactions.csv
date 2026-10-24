@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MLH1,Mlh1,K241-ub,1878089100,EDKTLAFkMNGYISN,"molecular association, regulation",,30770470,,,MSH2,Msh2,INDUCES
+MLH1,Mlh1,K241-ub,1878089100,EDKTLAFkMNGYISN,"molecular association, regulation",,30770470,,,MSH6,Msh6,INDUCES
+MLH1,Mlh1,K377-ub,573763756,STSGSSDkVYAHQMV,"molecular association, regulation",,30770470,,,MSH2,Msh2,INDUCES
+MLH1,Mlh1,K377-ub,573763756,STSGSSDkVYAHQMV,"molecular association, regulation",,30770470,,,MSH6,Msh6,INDUCES
+MLH1,Mlh1,S406-p,12217082,PLSKPLSsQPQAIVT,protein stabilization,,21864706,,,,,
+MLH1,Mlh1,S456-p,1884926200,GDTTKGTsEMSEKRG,protein degradation,"DNA repair, inhibited",37532794,,,,,
+MLH1,Mlh1,S87-p,41453085,FTTSKLQsFEDLASI,"protein degradation; molecular association, regulation","DNA repair, inhibited",37532794,HATPase_c_3,,,,
+MLH1,Mlh1,S477-p,480003,RKRHREDsDVEMVED,protein degradation; protein stabilization; intracellular localization; protein conformation,"carcinogenesis, induced; DNA repair, inhibited",30136313; 35326704; 37532794,,,,,
+MLH1,Mlh1,K361-ub,1878089101,GPSGEMVkSTTSLTS,"molecular association, regulation",,30770470,,,MSH2,Msh2,INDUCES
+MLH1,Mlh1,K361-ub,1878089101,GPSGEMVkSTTSLTS,"molecular association, regulation",,30770470,,,MSH6,Msh6,INDUCES
+MLH1,Mlh1,K33-ub,573763746,QRPANAIkEMIENCL,"molecular association, regulation",,30770470,HATPase_c_3,,MSH2,Msh2,INDUCES
+MLH1,Mlh1,K33-ub,573763746,QRPANAIkEMIENCL,"molecular association, regulation",,30770470,HATPase_c_3,,MSH6,Msh6,INDUCES
+MLH1,Mlh1,S446-p,31890124,EVAAKNQsLEGDTTK,protein degradation,"DNA repair, inhibited",37532794,,,,,

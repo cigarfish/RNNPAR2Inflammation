@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MC2R,Mc2r,S280-p,456325,PFIYAFRsPELRDAF,"receptor desensitization, altered; activity, inhibited",,12456795,,,,,
+MC2R,Mc2r,S208-p,456021,RSHTRKIsTLPRANM,"receptor desensitization, altered",,12456795,7tm_1,,,,

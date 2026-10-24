@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPRED1,Spred1,S105-p,36131862,KFGLTFQsPADARAF,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",32697994,WH1,regulates Ras-GTP signaling,NF1,Nf1,DISRUPTS

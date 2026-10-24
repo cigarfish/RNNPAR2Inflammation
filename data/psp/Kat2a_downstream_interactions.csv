@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KAT2A,Kat2a,T272-p,33703200,LNYWKLEtPAQFRQR,"acetylation; enzymatic activity, induced",,24870244,PCAF_N,"enhanced acetyltransferase acivity, PGC-1a acetylation, suppresses gluconeogenesis ",,,
+KAT2A,Kat2a,K549-ac,27421702,LVFDPKHkTLALIKD,"acetylation; enzymatic activity, induced","transcription, altered",23142079,Acetyltransf_1, direct opposition to Sirt1; increases PGC-1a acetylation;  Regulates the gluconeogenic transcriptional response of fasted  mice,,,
+KAT2A,Kat2a,S307-p,27421701,HVPQSCDsLPRYETT,"acetylation; enzymatic activity, induced","transcription, altered",23142079,PCAF_N, direct opposition to Sirt1; increases PGC-1a acetylation;  Regulates the gluconeogenic transcriptional response of fasted  mice,,,
+KAT2A,Kat2a,S372-p,33703201,EEIYGANsPIWESGF,"acetylation; enzymatic activity, induced",,24870244,,"enhanced acetyltransferase acivity, PGC-1a acetylation, suppresses gluconeogenesis ",,,
+KAT2A,Kat2a,T735-p,27421700,KDPDQLYtTLKNLLA,"acetylation; enzymatic activity, induced","transcription, altered",23142079,, direct opposition to Sirt1; increases PGC-1a acetylation;  Regulates the gluconeogenic transcriptional response of fasted  mice,,,

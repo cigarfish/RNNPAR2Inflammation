@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC1A5,Slc1a5,S539-p,4149288,TVASEKEsVM_____,protein stabilization,"carcinogenesis, induced; cell growth, induced",37658192,,,,,
+SLC1A5,Slc1a5,S493-p,4149280,VDRTESRsTEPELIQ,protein stabilization,"carcinogenesis, induced; cell growth, induced",37658192,,,,,

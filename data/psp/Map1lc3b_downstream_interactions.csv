@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP1LC3B,Map1lc3b,T12-p,1886798300,KTFKQRRtFEQRVED,"molecular association, regulation",,32589943,,,SQSTM1,Sqstm1,DISRUPTS
+MAP1LC3B,Map1lc3b,K49-ac,1881371300,KQLPVLDkTKFLVPD,protein stabilization,"autophagy, inhibited",34590387,,"compromises LC3B lipidation in vitro and in HeLa cells, which leads to deficiency in the formation of autophagic structures and autophagic degradation",,,
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,ATG7,Atg7,DISRUPTS
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,NBR1,Nbr1,DISRUPTS
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,SQSTM1,Sqstm1,DISRUPTS
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,STX17,Stx17,DISRUPTS
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,FYCO1,Fyco1,DISRUPTS
+MAP1LC3B,Map1lc3b,T50-p,37045604,QLPVLDKtKFLVPDH,"molecular association, regulation","autophagy, induced; autophagy, inhibited",31857374; 34146484,ATG8,,ATG4B,Atg4b,DISRUPTS

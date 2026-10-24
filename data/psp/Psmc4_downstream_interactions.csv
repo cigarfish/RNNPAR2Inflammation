@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PSMC4,Psmc4,T25-p,3190483,LSVSRPQtGLSFLGP,"activity, induced; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; carcinogenesis, inhibited; cell growth, induced",26655835; 31754034,, regulates proteasome function; peptidase activity of 26S proteosome inhibited;  required for efficient proteasomal degradation,,,

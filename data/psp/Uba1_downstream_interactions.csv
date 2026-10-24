@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBA1,Uba1,K604-ub,3934846,ESGTLGTkGNVQVVI,"enzymatic activity, induced",,33355669,ThiF,inhibition of viral DNA replication and virus production ,,,

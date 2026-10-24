@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WWP2,Wwp2,Y392-p,10369541,HFSQRFLyQSSSAST,"enzymatic activity, induced",,35331737,,,,,
+WWP2,Wwp2,K473-sm,62489905,NTRTTTFkDPRPGFE,"molecular association, regulation",,27852060,WW,,PTEN,Pten,INDUCES
+WWP2,Wwp2,Y369-p,464298,TAEYVRNyEQWQSQR,"enzymatic activity, induced","autophagy, induced",35331737,,,,,

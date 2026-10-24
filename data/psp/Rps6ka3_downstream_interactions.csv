@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS6KA3,Rps6ka3,S227-p,448063,DHEKKAYsFCGTVEY,"activity, induced; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",10980595; 23012246; 23708659,Pkinase,"upregulation of c-Myc, p21WAF1/CIP1, CCND2 and MCL1",,,
+RPS6KA3,Rps6ka3,S369-p,448064,TAKTPKDsPGIPPSA,"protein conformation; enzymatic activity, induced","transcription, induced",15657420; 17446865,Pkinase_C,,,,
+RPS6KA3,Rps6ka3,S19-p,7445513,KMAVESPsDSAENGQ,"molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, inhibited",33574926,,,H2AX,H2ax,DISRUPTS
+RPS6KA3,Rps6ka3,T577-p,450152,AENGLLMtPCYTANF,"phosphorylation; enzymatic activity, induced",,10980595; 36806093,Pkinase,induces phosphorylation at S227,,,
+RPS6KA3,Rps6ka3,S386-p,448065,HQLFRGFsFVAITSD,"enzymatic activity, induced",,37059179,Pkinase_C,,,,
+RPS6KA3,Rps6ka3,Y529-p,464205,TITKTVEyLHAQGVV,"molecular association, regulation","apoptosis, altered; cell motility, induced; cell growth, induced",17785202; 18156174; 25014166,Pkinase,,ERK2,Mapk1,INDUCES
+RPS6KA3,Rps6ka3,Y529-p,464205,TITKTVEyLHAQGVV,"molecular association, regulation","apoptosis, altered; cell motility, induced; cell growth, induced",17785202; 18156174; 25014166,Pkinase,,ERK1,Mapk3,INDUCES
+RPS6KA3,Rps6ka3,Y529-p,464205,TITKTVEyLHAQGVV,"molecular association, regulation","apoptosis, altered; cell motility, induced; cell growth, induced",17785202; 18156174; 25014166,Pkinase,,FGFR3,Fgfr3,INDUCES
+RPS6KA3,Rps6ka3,T115-p,1880515604,KVRDRVRtKMERDIL,,"cell cycle regulation; cell growth, induced",36566564,,,,,

@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,LARP2,Larp2,INDUCES
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,AKAP9,Akap9,INDUCES
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,AKAP5,Akap5,DISRUPTS
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,CDK5RAP2,Cdk5rap2,INDUCES
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,PDE4DIP,Pde4dip,INDUCES
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,LARP,Larp1,INDUCES
+PRKACA,Prkaca,Y70-p,1269647501,HKETGNHyAMKILDK,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cytoskeletal reorganization,30274258,Pkinase,,ANXA1,Anxa1,INDUCES
+PRKACA,Prkaca,S339-p,449886,EEEEIRVsINEKCGK,"protein stabilization; protein processing; protein conformation; phosphorylation; enzymatic activity, induced",,15481030; 22154087; 22493239,,"optimal enzymatic activity; solublity of C-sub unit, phosphorylation of T198 site",,,
+PRKACA,Prkaca,S11-p,469998,AAAAKKGsEQESVKE,protein conformation,,21740913,,,,,
+PRKACA,Prkaca,T198-p,448459,RVKGRTWtLCGTPEY,"protein stabilization; protein conformation; phosphorylation; enzymatic activity, induced","endocytosis, inhibited",15481030; 16026785; 22154087; 22493239; 34497151,Pkinase,induces RhoA phosphorylation,,,

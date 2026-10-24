@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPA2B1,Hnrnpa2b1,K305-ub,1877221605,PSNYGPMkSGNFGGS,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",32826868,HnRNPA1,,,,
+HNRNPA2B1,Hnrnpa2b1,K174-ub,1877221604,GHNAEVRkALSRQEM,protein degradation,"carcinogenesis, inhibited; cell growth, inhibited",32826868,,,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPRM1,Oprm1,T372-p,447785,STRIRQNtRDHPSTA,"receptor internalization, altered",,18463167,,,,,
+OPRM1,Oprm1,S268-p,447782,LKSVRMLsGSKEKDR,"receptor desensitization, altered",,10908300,7tm_1,,,,
+OPRM1,Oprm1,S365-p,447783,SNIEQQNsTRIRQNT,"receptor internalization, altered",,18463167,,,,,
+OPRM1,Oprm1,T396-p,448128,LENLEAEtAPLP___,"receptor desensitization, inhibited",,24304623,,DAMGO-induced desensitization ,,,
+OPRM1,Oprm1,S377-p,447784,QNTRDHPsTANTVDR,"receptor desensitization, induced; receptor internalization, altered",signaling pathway regulation,18463167; 21292762; 22375000,,inhibitor of PKCE activation; inactivation of MOP receptor,,,

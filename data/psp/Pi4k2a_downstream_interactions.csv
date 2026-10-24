@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PI4K2A,Pi4k2a,S9-p,2022757,DETSPLVsPERAQPP,,"endocytosis, inhibited",37314927,,,,,
+PI4K2A,Pi4k2a,S47-p,468434,AAAGSGPsPPGSPGH,"molecular association, regulation","endocytosis, inhibited",37314927,,,BRSK1,Brsk1,INDUCES
+PI4K2A,Pi4k2a,S47-p,468434,AAAGSGPsPPGSPGH,"molecular association, regulation","endocytosis, inhibited",37314927,,,VACAMKL,NA,INDUCES
+PI4K2A,Pi4k2a,S47-p,468434,AAAGSGPsPPGSPGH,"molecular association, regulation","endocytosis, inhibited",37314927,,,TRIM3,Trim3,INDUCES
+PI4K2A,Pi4k2a,S47-p,468434,AAAGSGPsPPGSPGH,"molecular association, regulation","endocytosis, inhibited",37314927,,,CENTG1,Arfgef1,INDUCES
+PI4K2A,Pi4k2a,S5-p,2022753,___MDETsPLVSPER,,"endocytosis, inhibited",37314927,,,,,
+PI4K2A,Pi4k2a,S51-p,468435,SGPSPPGsPGHDRER,"molecular association, regulation","endocytosis, inhibited",37314927,,,BRSK1,Brsk1,INDUCES
+PI4K2A,Pi4k2a,S51-p,468435,SGPSPPGsPGHDRER,"molecular association, regulation","endocytosis, inhibited",37314927,,,VACAMKL,NA,INDUCES
+PI4K2A,Pi4k2a,S51-p,468435,SGPSPPGsPGHDRER,"molecular association, regulation","endocytosis, inhibited",37314927,,,TRIM3,Trim3,INDUCES
+PI4K2A,Pi4k2a,S51-p,468435,SGPSPPGsPGHDRER,"molecular association, regulation","endocytosis, inhibited",37314927,,,CENTG1,Arfgef1,INDUCES

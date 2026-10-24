@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOX6,Sox6,K417-sm,2407405,TSPVTQVkDEAAAQP,intracellular localization,"transcription, inhibited",16442531,,,,,
+SOX6,Sox6,K404-sm,2407406,TVSPTGIkNEKRGTS,intracellular localization,"transcription, inhibited",16442531,,,,,

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCKBR,Cckbr,Y438-p,471082,ASLSRLSyTTISTLG,"molecular association, regulation; phosphorylation",,16963136,,"Mutation of Y438F abrogates AKT phosphorylation on Ser473 and SHP-2 on Y584, but still promotes equivalent amounts of Erk1/2 activation (phospho-Erk epitope).",SHP-2,Ptpn11,INDUCES
+CCKBR,Cckbr,T443-p,17825904,LSYTTIStLGPG___,"molecular association, regulation",,21156802,,,ARRB1,Arrb1,INDUCES
+CCKBR,Cckbr,S442-p,17825903,RLSYTTIsTLGPG__,"molecular association, regulation",,21156802,,,ARRB1,Arrb1,INDUCES
+CCKBR,Cckbr,S434-p,6057803,TPSIASLsRLSYTTI,"molecular association, regulation",,19064631,,,RGS2,Rgs2,INDUCES
+CCKBR,Cckbr,S437-p,17825901,IASLSRLsYTTISTL,"molecular association, regulation",,21156802,,,ARRB1,Arrb1,INDUCES
+CCKBR,Cckbr,T440-p,17825902,LSRLSYTtISTLGPG,"molecular association, regulation",,21156802,,,ARRB1,Arrb1,INDUCES
+CCKBR,Cckbr,T439-p,6057804,SLSRLSYtTISTLGP,"molecular association, regulation",,19064631; 21156802,,,ARRB1,Arrb1,INDUCES
+CCKBR,Cckbr,T439-p,6057804,SLSRLSYtTISTLGP,"molecular association, regulation",,19064631; 21156802,,,RGS2,Rgs2,INDUCES

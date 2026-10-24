@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ROCK2,Rock2,K1007-sm,1885576404,QEQLSRLkDEEISAA,"activity, induced; molecular association, regulation",,37393345,,,RHOA,Rhoa,INDUCES
+ROCK2,Rock2,S1379-p,3892345,NQSIRRPsRQLAPNK,"enzymatic activity, inhibited",cytoskeletal reorganization,24610576,,PGE2-dependent blockade of actomyosin fiber formation,,,
+ROCK2,Rock2,S1366-p,23003812,ARSSPRTsMKIQQNQ,"enzymatic activity, induced",,22273145; 24168723,,,,,
+ROCK2,Rock2,Y722-p,464192,LADKNKIyESIEEAK,"molecular association, regulation; enzymatic activity, inhibited","cell motility, altered; cell adhesion, altered; signaling pathway regulation",18559669; 31722979,,,RHOA,Rhoa,DISRUPTS

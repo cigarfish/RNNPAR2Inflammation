@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BTLA,Btla,Y226-p,1869334004,LLSETGIyDNDPDLC,phosphorylation,signaling pathway regulation,32437509,,"inhibits IL2 production, phosphorylation of CD3Z and CD28, and hence T cell signaling",,,
+BTLA,Btla,Y282-p,463077,VKEAPTEyASICVRS,phosphorylation,signaling pathway regulation,32437509,,"inhibits IL2 production, phosphorylation of CD3Z and CD28, and hence T cell signaling",,,
+BTLA,Btla,Y257-p,454099,ENKPGIVyASLNHSV,phosphorylation,signaling pathway regulation,32437509,,"inhibits IL2 production, phosphorylation of CD3Z and CD28, and hence T cell signaling",,,
+BTLA,Btla,Y243-p,1869334003,MQEGSEVySNPCLEE,phosphorylation,signaling pathway regulation,32437509,,"inhibits IL2 production, phosphorylation of CD3Z and CD28, and hence T cell signaling",,,

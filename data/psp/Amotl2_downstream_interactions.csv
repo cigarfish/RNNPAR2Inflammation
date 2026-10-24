@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AMOTL2,Amotl2,Y107-p,15561222,KGEELPTyEEAKAHS,"molecular association, regulation",signaling pathway regulation,21937427,,activation of Ras/Raf/Erk pathway,Src,Src,INDUCES
+AMOTL2,Amotl2,K408-ub,21128806,ANRRLASkTQEAQAG,"molecular association, regulation; phosphorylation","cell growth, inhibited; cell motility, inhibited; transcription, inhibited",26598551,,,YAP1,Yap1,INDUCES
+AMOTL2,Amotl2,K408-ub,21128806,ANRRLASkTQEAQAG,"molecular association, regulation; phosphorylation","cell growth, inhibited; cell motility, inhibited; transcription, inhibited",26598551,,,LATS2,Lats2,INDUCES
+AMOTL2,Amotl2,S759-p,477928,SSSQRAAsLDSVATS,"molecular association, regulation","cell motility, induced; cell growth, induced; transcription, induced",25998128,,,YAP1,Yap1,DISRUPTS
+AMOTL2,Amotl2,K347-ub,52485000,EKAGRIEkLESEIQR,"molecular association, regulation; phosphorylation","cell growth, inhibited; cell motility, inhibited; transcription, inhibited",26598551,,,YAP1,Yap1,INDUCES
+AMOTL2,Amotl2,K347-ub,52485000,EKAGRIEkLESEIQR,"molecular association, regulation; phosphorylation","cell growth, inhibited; cell motility, inhibited; transcription, inhibited",26598551,,,LATS2,Lats2,INDUCES
+AMOTL2,Amotl2,S159-p,29674704,HGHVRSLsERLLQLS,phosphorylation,,24225952,,YAP phosphorylation,,,

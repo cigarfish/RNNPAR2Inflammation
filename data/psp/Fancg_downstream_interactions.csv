@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FANCG,Fancg,K347-ub,40848500,CGTQSQTkHILASRC,"molecular association, regulation","DNA repair, induced",25132264,,,RAP80,Uimc1,INDUCES
+FANCG,Fancg,K182-ub,40848501,KDLLLLLkTWSPPAE,"molecular association, regulation","DNA repair, induced",25132264,,,RAP80,Uimc1,INDUCES
+FANCG,Fancg,S383-p,454239,DSSEPRFsPPPSPPG,"activity, induced",,15367677,,,,,
+FANCG,Fancg,K258-ub,40848502,ALGSCHRkMGNPQRA,"molecular association, regulation","DNA repair, induced",25132264,TPR_1,,RAP80,Uimc1,INDUCES
+FANCG,Fancg,S387-p,454240,PRFSPPPsPPGPCMP,"activity, induced",,15367677,,,,,
+FANCG,Fancg,S7-p,453422,_MSRQTTsVGSSCLD,"molecular association, regulation",,18212739,, and direct interaction of BRCA2?FANCD2,FANCD2,Fancd2,INDUCES
+FANCG,Fancg,S7-p,453422,_MSRQTTsVGSSCLD,"molecular association, regulation",,18212739,, and direct interaction of BRCA2?FANCD2,XRCC3,Xrcc3,INDUCES
+FANCG,Fancg,S7-p,453422,_MSRQTTsVGSSCLD,"molecular association, regulation",,18212739,, and direct interaction of BRCA2?FANCD2,BRCA2,Brca2,INDUCES

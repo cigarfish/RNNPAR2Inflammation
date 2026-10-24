@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+E2F4,E2f4,S384-p,4763386,FAPLLRLsPPPGDHD,intracellular localization,"cell cycle regulation; transcription, induced",23919615,,,,,
+E2F4,E2f4,S244-p,28843800,QEASRPNsPQLTPTA,intracellular localization,"cell cycle regulation; transcription, induced",23919615,,,,,

@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDE1,Nde1,T191-p,20722719,QKQEKPRtPMPSSVE,"protein degradation; molecular association, regulation; intracellular localization",,16682949; 26206584,NUDE_C,"colocalization at centrosome, regulation of ciliary length",FBXW7,Fbxw7,INDUCES
+NDE1,Nde1,T191-p,20722719,QKQEKPRtPMPSSVE,"protein degradation; molecular association, regulation; intracellular localization",,16682949; 26206584,NUDE_C,"colocalization at centrosome, regulation of ciliary length",ZNF365,Zfp365,DISRUPTS
+NDE1,Nde1,S282-p,469633,RNLVYDQsPNRTGGP,"molecular association, regulation; intracellular localization",,16682949,NUDE_C,,ZNF365,Zfp365,DISRUPTS
+NDE1,Nde1,T228-p,449452,GPSSSLNtPGSFRRG,"molecular association, regulation; intracellular localization",,16682949,NUDE_C,,ZNF365,Zfp365,DISRUPTS
+NDE1,Nde1,T215-p,469489,ATGSVPStPIAHRGP,"molecular association, regulation; intracellular localization",,16682949,NUDE_C,,ZNF365,Zfp365,DISRUPTS
+NDE1,Nde1,T246-p,467025,STGGTPLtPAARISA,"molecular association, regulation; intracellular localization",cell cycle regulation,16682949; 21529751,NUDE_C,,ZNF365,Zfp365,DISRUPTS
+NDE1,Nde1,T131-p,20609200,LERAKRAtIMSLEDF,"molecular association, regulation; protein conformation",cytoskeletal reorganization,21677187,,phosphomimetic mutant inhibits neurite extension,NDEL1,Ndel1,INDUCES
+NDE1,Nde1,T131-p,20609200,LERAKRAtIMSLEDF,"molecular association, regulation; protein conformation",cytoskeletal reorganization,21677187,,phosphomimetic mutant inhibits neurite extension,PAFAH1B1,Pafah1b1,DISRUPTS
+NDE1,Nde1,T243-p,469634,LDDSTGGtPLTPAAR,"molecular association, regulation; intracellular localization",,16682949,NUDE_C,,ZNF365,Zfp365,DISRUPTS

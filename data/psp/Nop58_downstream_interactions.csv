@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOP58,Nop58,S502-p,459895,HIKEEPLsEEEPCTS,sumoylation,,20797634,,required for sumoylation of K497,,,

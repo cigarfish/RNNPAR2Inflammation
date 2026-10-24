@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAT2A,Mat2a,K394-sm,50455002,WEVPKKLkY______,"protein stabilization; molecular association, regulation","cell growth, induced; apoptosis, inhibited; transcription, induced",26416353,,,Bcl-2,Bcl2,INDUCES
+MAT2A,Mat2a,K81-ac,11319857,RAAVDYQkVVREAVK,protein degradation; ubiquitination; methylation,"carcinogenesis, inhibited; cell growth, inhibited",25925782,S-AdoMet_synt_N,decreased gobal methylation,,,
+MAT2A,Mat2a,K368-sm,50455001,VRDLDLKkPIYQRTA,"protein stabilization; molecular association, regulation","cell growth, induced; apoptosis, inhibited; transcription, induced",26416353,S-AdoMet_synt_C,,Bcl-2,Bcl2,INDUCES
+MAT2A,Mat2a,K340-sm,50455000,FHYGTSQkSERELLE,"protein stabilization; molecular association, regulation","cell growth, induced; apoptosis, inhibited; transcription, induced",26416353,S-AdoMet_synt_C,,Bcl-2,Bcl2,INDUCES

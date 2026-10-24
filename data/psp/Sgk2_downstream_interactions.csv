@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SGK2,Sgk2,T193-p,456159,EPEDTTStFCGTPEY,,"transcription, inhibited",28911860,Pkinase,represses the PCK1 promoter,,,

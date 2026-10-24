@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLK,Slk,T183-p,1211366,VSAKNTRtIQRRDSF,"molecular association, regulation; phosphorylation; enzymatic activity, induced","apoptosis, induced",22203681; 28475647,Pkinase,"induces phosphorylation of JNK and p38, homodimerization induces kinase activity",SLK,Slk,INDUCES
+SLK,Slk,S347-p,466943,SSDLSIAsSEEDKLS,"enzymatic activity, inhibited",,16837460,,site is critical for v-src dependent modulation of SLK kinase activity,,,
+SLK,Slk,T193-p,1211370,RRDSFIGtPYWMAPE,"enzymatic activity, induced",,28475647,Pkinase,,,,
+SLK,Slk,S348-p,466944,SDLSIASsEEDKLSQ,"enzymatic activity, inhibited",,16837460,,site is critical for v-src dependent modulation of SLK kinase activity,,,
+SLK,Slk,S189-p,468769,RTIQRRDsFIGTPYW,"molecular association, regulation; phosphorylation; enzymatic activity, induced","apoptosis, induced",22203681; 28475647,Pkinase,"induces phosphorylation of JNK and p38, homodimerization induces kinase activity",SLK,Slk,INDUCES

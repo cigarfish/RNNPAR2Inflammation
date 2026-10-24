@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRIN1,Grin1,Y837-p,17613300,LIFIEIAyKRHKDAR,"molecular association, regulation",,21113815,CaM_bdg_C0,Y837F mutation prevents the CSK-induced down-regulation of NMDAR1 activity,CSK,Csk,INDUCES

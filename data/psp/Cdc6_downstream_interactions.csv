@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC6,Cdc6,K109-ac,8539500,LTIKSPSkRELAKVH,intracellular localization,cell cycle regulation,19343071,,,,,
+CDC6,Cdc6,S74-p,450915,TPHLPPCsPPKQGKK,"protein stabilization; molecular association, regulation; intracellular localization",cell cycle regulation,10339564; 16153703; 22179839; 23129444; 24216307; 27246979; 9889196,,,CDH1,Cdh1,DISRUPTS
+CDC6,Cdc6,S106-p,450916,DNQLTIKsPSKRELA,"protein stabilization; molecular association, regulation; intracellular localization",cell cycle regulation,10339564; 16153703; 19343071; 22179839,,,CDH1,Cdh1,DISRUPTS
+CDC6,Cdc6,K105-ac,8539501,FDNQLTIkSPSKREL,intracellular localization,cell cycle regulation,19343071,,,,,
+CDC6,Cdc6,T37-p,17481900,SDAKLEPtNVQTVTC,"molecular association, regulation",cell cycle regulation,21041660,,,CDK1,Cdk1,INDUCES
+CDC6,Cdc6,K92-ac,8539502,PPHSHTLkGRRLVFD,intracellular localization,cell cycle regulation,19343071,,,,,
+CDC6,Cdc6,S54-p,450914,RVKALPLsPRKRLGD,"protein stabilization; molecular association, regulation; intracellular localization",cell cycle regulation,10339564; 14749377; 16153703; 22179839; 23129444; 24216307; 9889196,,,CDH1,Cdh1,DISRUPTS

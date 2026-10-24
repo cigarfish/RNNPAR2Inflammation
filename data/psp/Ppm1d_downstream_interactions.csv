@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPM1D,Ppm1d,S85-p,28847901,PLPDAGAsPAPSRCC,protein degradation; ubiquitination,"DNA repair, induced; signaling pathway regulation",23871434,PP2C,protein stabilization takes place after IR treatment and ATM activation,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HCRTR1,Hcrtr1,Y83-p,10206803,HMRTVTNyFIVNLSL,"molecular association, regulation","apoptosis, altered",19661287,7tm_1; TM,,SHP-2,Ptpn11,INDUCES
+HCRTR1,Hcrtr1,Y358-p,2063600,SAANPIIyNFLSGKF,,"apoptosis, induced",18198212,7tm_1; TM,apoptosis is inhibited in cells transfected with dnSHP-2 cDNA or treated with PAO,,,
+HCRTR1,Hcrtr1,S262-p,1869999600,VRNWKRPsDQLGDLE,"receptor internalization, induced; molecular association, regulation","endocytosis, induced",32827691,7tm_1,,GRK2,Grk2,INDUCES
+HCRTR1,Hcrtr1,S262-p,1869999600,VRNWKRPsDQLGDLE,"receptor internalization, induced; molecular association, regulation","endocytosis, induced",32827691,7tm_1,,AP-2 alpha,Tfap2a,INDUCES

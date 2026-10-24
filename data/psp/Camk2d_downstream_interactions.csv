@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMK2D,Camk2d,T337-p,484561,STESSNTtIEDEDVK,"enzymatic activity, altered",,34391760,,,,,
+CAMK2D,Camk2d,T336-p,484560,ESTESSNtTIEDEDV,"enzymatic activity, altered",,34391760,,,,,
+CAMK2D,Camk2d,S332-p,41591301,DGVKKRKsSSSVQMM,"intracellular localization; enzymatic activity, inhibited",cytoskeletal reorganization,26163515,,"CaMKIID3, S332A significantly increased BDNF protein expression, nuclear localization, neurite extension, and survival.",,,
+CAMK2D,Camk2d,T287-p,450982,SMMHRQEtVDCLKKF,"molecular association, regulation; intracellular localization; enzymatic activity, induced",,19884317; 34371035; 37468549,,,Calmodulin,Calm1,INDUCES
+CAMK2D,Camk2d,T287-p,450982,SMMHRQEtVDCLKKF,"molecular association, regulation; intracellular localization; enzymatic activity, induced",,19884317; 34371035; 37468549,,,RNF8,Rnf8,INDUCES
+CAMK2D,Camk2d,T306-p,2023845,KLKGAILtTMLATRN,"enzymatic activity, inhibited",,34391760,,,,,

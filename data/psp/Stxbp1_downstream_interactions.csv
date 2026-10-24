@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STXBP1,Stxbp1,Y145-p,456431,LPYESQVySLDSADS,"molecular association, regulation",,23962429,Sec1,,STX1A,Stx1a,INDUCES
+STXBP1,Stxbp1,S313-p,448744,SLKDFSSsKRMNTGE,"molecular association, regulation","exocytosis, induced",25716318; 28983637,Sec1,reduced vesicle association ;  mast cell degranulation ,STX1A,Stx1a,DISRUPTS
+STXBP1,Stxbp1,T574-p,454395,IGSTHILtPQKLLDT,,"exocytosis, inhibited",15273248,Sec1,,,,
+STXBP1,Stxbp1,S306-p,448743,VSQEVTRsLKDFSSS,"molecular association, regulation",,25716318,Sec1,reduced vesicle association ,STX1A,Stx1a,DISRUPTS

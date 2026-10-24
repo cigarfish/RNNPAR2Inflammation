@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UFD1,Ufd1,S229-p,15428799,ELGFRAFsGSGNRLD,"protein stabilization; molecular association, regulation",,31477623,,phosphorylation of this site inhibits ER-associated degradation (ERAD),VCP,Vcp,DISRUPTS

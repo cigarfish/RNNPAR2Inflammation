@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BAK1,Bak1,Y108-p,15794303,QPTAENAyEYFTKIA,"protein conformation; activity, inhibited","apoptosis, altered; apoptosis, inhibited",20959805; 25649765,Bcl-2,,,,
+BAK1,Bak1,Y110-p,15794304,TAENAYEyFTKIATS,"activity, induced; molecular association, regulation; protein conformation","apoptosis, inhibited",23782464,Bcl-2,,BAK1,Bak1,DISRUPTS
+BAK1,Bak1,Y110-p,15794304,TAENAYEyFTKIATS,"activity, induced; molecular association, regulation; protein conformation","apoptosis, inhibited",23782464,Bcl-2,,BID,Bid,INDUCES
+BAK1,Bak1,K113-ub,1880543100,NAYEYFTkIATSLFE,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, inhibited",30573668; 38087033,,,BAK1,Bak1,DISRUPTS
+BAK1,Bak1,K113-ub,1880543100,NAYEYFTkIATSLFE,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","apoptosis, inhibited",30573668; 38087033,,,BID,Bid,DISRUPTS
+BAK1,Bak1,S117-p,27276102,YFTKIATsLFESGIN,"molecular association, regulation; protein conformation; activity, inhibited","apoptosis, inhibited; signaling pathway regulation",23189150,Bcl-2, S117 dephosphorylation is required for BAK multimerization,BAK1,Bak1,DISRUPTS

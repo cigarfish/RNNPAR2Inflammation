@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DSP,Dsp,S2849-p,451165,RSGSRRGsFDATGNS,"molecular association, regulation","cytoskeletal reorganization; cell adhesion, inhibited",25010392; 7525582,,"DP-S2849G-GFP decreased Dsg3 expression, keratin retraction, increases association of PKC with Rack1; Desmoplakin S2849 phosphorylation may negatively regulate its interaction with the networks of keratin intermediate filaments. ",,,
+DSP,Dsp,S176-p,452247,GGGYTCQsGSGWDEF,intracellular localization,"cell adhesion, inhibited",38477878,,,,,
+DSP,Dsp,R2834-me,34833301,SGSRSGSrSGSRSGS,"molecular association, regulation","cell adhesion, induced",25733715,,"recruitment into desmosomes, R2834H mutant impaired recruitment and ablated phosphorylation of six serine residues within the GSK3 cascades. facilitates GSK3 interactions with Desmoplakin",,,
+DSP,Dsp,K2066-ub,52490401,IDPHRNEkLTVDSAI,protein degradation,,26676607,Plectin,,,,

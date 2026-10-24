@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LRP5,Lrp5,T1492-p,23122924,SSSSTKAtLYPPILN,"enzymatic activity, induced",,34205318,,regulates HIF1A stability by inducing hydroxylation activity of PHD2,,,
+LRP5,Lrp5,K1561-ub,1880644200,ASRWKASkYYLDLNS,protein degradation,,30305727,,,,,
+LRP5,Lrp5,K592-ub,21178266,LPDLMGLkAVNVAKV,protein degradation,,30305727,,,,,
+LRP5,Lrp5,K143-ub,573758764,NLNGTSRkVLFWQDL,protein degradation,,30305727,Ldl_recept_b,,,,
+LRP5,Lrp5,S1503-p,15411894,PILNPPPsPATDPSL,"enzymatic activity, induced",,34205318,,regulates HIF1A stability by inducing hydroxylation activity of PHD2,,,

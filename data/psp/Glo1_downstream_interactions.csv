@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLO1,Glo1,Y136-p,463450,GIAVPDVySACKRFE,"enzymatic activity, induced",,34838714,Glyoxalase,,,,
+GLO1,Glo1,T107-p,7106304,ELTHNWGtEDDETQS,"molecular association, regulation; protein stabilization; ubiquitination; enzymatic activity, inhibited; protein conformation; enzymatic activity, induced",,32966793; 33459186,Glyoxalase,disrupts binding to Hemimercaptal; inhibits ubiquitination,,,

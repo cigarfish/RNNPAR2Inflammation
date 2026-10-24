@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ETS2,Ets2,S225-p,30320501,LDSMCPAsTPSVLSS,protein degradation,,24218572; 26871468,,CDK10 mediated degradation,,,
+ETS2,Ets2,S220-p,30320500,PKGGLLDsMCPASTP,protein degradation,,24218572; 26871468,,CDK10 mediated degradation,,,
+ETS2,Ets2,T72-p,447688,NCELPLLtPCSKAVM,"activity, induced","cell cycle regulation; cell differentiation, induced; apoptosis, inhibited; transcription, induced; transcription, altered",12628005; 15217985; 21441955; 22128184; 8552081,,T-cell development; GSK3B transactivation ,,,
+ETS2,Ets2,S248-p,54126001,KSRLSSVsVTYCSVS,protein degradation,,26871468,Ets1_N_flank,CDK10 mediated degradation,,,

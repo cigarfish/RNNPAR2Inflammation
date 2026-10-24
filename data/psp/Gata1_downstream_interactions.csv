@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATA1,Gata1,K245-ac,466357,NRPLIRPkKRLIVSK,"molecular association, regulation","transcription, altered",16888089,,,,,
+GATA1,Gata1,K137-sm,3819000,TSFLETLkTERLSPD,"molecular association, regulation; intracellular localization","cell growth, inhibited; transcription, inhibited; transcription, altered",20064464; 27821551; 35342335,,decreased expression of CSN5 and ZEB1,,,
+GATA1,Gata1,K312-ac,459079,RNRKASGkGKKKRGS,"molecular association, regulation","transcription, altered",16888089,,,,,
+GATA1,Gata1,S187-p,451237,LNSAAYSsPKLRGTL,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",25726523,," GATA1-HDAC3/4 complex induces EMT of breast cancer cells, inhibits E-cadherin and promotes fibronectin expression",HDAC3,Hdac3,INDUCES
+GATA1,Gata1,S187-p,451237,LNSAAYSsPKLRGTL,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",25726523,," GATA1-HDAC3/4 complex induces EMT of breast cancer cells, inhibits E-cadherin and promotes fibronectin expression",HDAC4,Hdac4,INDUCES
+GATA1,Gata1,K314-ac,459194,RKASGKGkKKRGSSL,"molecular association, regulation","transcription, altered",16888089,,,,,
+GATA1,Gata1,S310-p,451231,QTRNRKAsGKGKKKR,"molecular association, regulation","cell growth, induced; cell differentiation, induced; transcription, induced; transcription, inhibited",16107690; 26680303; 35580337,,,FOG1,Zfpm1,INDUCES
+GATA1,Gata1,K315-ac,466358,KASGKGKkKRGSSLG,"molecular association, regulation","transcription, altered",16888089,,,,,
+GATA1,Gata1,K246-ac,459077,RPLIRPKkRLIVSKR,"molecular association, regulation","transcription, altered",16888089,,,,,
+GATA1,Gata1,S161-p,40407600,SSLPVPNsAYGGPDF,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",25726523,," GATA1-HDAC3/4 complex induces EMT of breast cancer cells, inhibits E-cadherin and promotes fibronectin expression",HDAC3,Hdac3,INDUCES
+GATA1,Gata1,S161-p,40407600,SSLPVPNsAYGGPDF,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",25726523,," GATA1-HDAC3/4 complex induces EMT of breast cancer cells, inhibits E-cadherin and promotes fibronectin expression",HDAC4,Hdac4,INDUCES
+GATA1,Gata1,S26-p,451232,VDPALVSsTPESGVF,"activity, induced","transcription, induced",20101202,,enhances survivin expression,,,
+GATA1,Gata1,K316-ac,466359,ASGKGKKkRGSSLGG,"molecular association, regulation","transcription, altered",16888089,,,,,

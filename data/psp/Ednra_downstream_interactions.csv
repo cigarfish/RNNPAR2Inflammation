@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EDNRA,Ednra,S420-p,2911706,NNHNTDRsSHKDSMN,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S404-p,2911711,SVPMNGTsIQWKNHD,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,T403-p,2911712,TSVPMNGtSIQWKNH,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S425-p,2911707,DRSSHKDsMN_____,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,T417-p,2911709,HDQNNHNtDRSSHKD,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S391-p,2911717,LCCCCYQsKSLMTSV,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S421-p,2911708,NHNTDRSsHKDSMN_,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S397-p,2911713,QSKSLMTsVPMNGTS,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,T396-p,2911714,YQSKSLMtSVPMNGT,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,
+EDNRA,Ednra,S393-p,2911710,CCCYQSKsLMTSVPM,"receptor desensitization, induced",,24064210,,"Lack of S397, T403 and S404 influences desensitization to a greater extent compared than S391, S393, and T396 ",,,

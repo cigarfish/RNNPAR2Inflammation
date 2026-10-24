@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF2AK2,Eif2ak2,S456-p,3181637,KGTLRYMsPEQISSQ,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",34799660,Pkinase,,,,
+EIF2AK2,Eif2ak2,S97-p,1872824902,TNSSEGLsMGNYIGL,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation","apoptosis, inhibited",33911136,,inhibits phosphorylation at other sites and of elF2,PKR,Eif2ak2,INDUCES
+EIF2AK2,Eif2ak2,T88-p,3753308,AVSPLLLtTTNSSEG,"enzymatic activity, induced",,11152499,,,,,
+EIF2AK2,Eif2ak2,Y101-p,458271,EGLSMGNyIGLINRI,"enzymatic activity, induced","translation, altered; cell growth, altered",16373505,dsrm,,,,
+EIF2AK2,Eif2ak2,T258-p,448087,DMKETKYtVDKRFGM,"enzymatic activity, induced",,11152499; 9528799,,,,,
+EIF2AK2,Eif2ak2,S242-p,448085,NQRKAKRsLAPRFDL,"enzymatic activity, induced",,11152499,,,,,
+EIF2AK2,Eif2ak2,S542-p,15413409,TLTVWKKsPEKNERH,phosphorylation,"carcinogenesis, induced; carcinogenesis, inhibited; cell motility, induced; cell growth, induced; apoptosis, induced; apoptosis, inhibited",32812257; 34799660,,,,,
+EIF2AK2,Eif2ak2,T89-p,3753307,VSPLLLTtTNSSEGL,"enzymatic activity, induced",,11152499,,,,,
+EIF2AK2,Eif2ak2,T446-p,448088,LKNDGKRtRSKGTLR,"molecular association, regulation; protein conformation; phosphorylation; enzymatic activity, induced","cell cycle regulation; apoptosis, induced; translation, induced; translation, inhibited; cell growth, altered",11432733; 15880455; 16179258; 32690681; 32813746; 33110236; 35354045; 35947956; 9528799,Pkinase,,p53,Trp53,INDUCES
+EIF2AK2,Eif2ak2,Y293-p,458273,HRIDGKTyVIKRVKY,"enzymatic activity, induced","translation, altered; cell growth, altered",16373505,Pkinase,,,,
+EIF2AK2,Eif2ak2,S6-p,23132463,__MAGDLsAGFFMEE,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation","apoptosis, inhibited",33911136,,inhibits phosphorylation at other sites and of elF2,PKR,Eif2ak2,INDUCES
+EIF2AK2,Eif2ak2,S83-p,3181640,NKEKKAVsPLLLTTT,"enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",11152499; 34799660,,,,,
+EIF2AK2,Eif2ak2,T255-p,448086,DLPDMKEtKYTVDKR,"enzymatic activity, induced",,11152499,,,,,
+EIF2AK2,Eif2ak2,T451-p,448089,KRTRSKGtLRYMSPE,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","apoptosis, induced; transcription, induced; translation, induced",11337501; 32690681; 32801355; 34380029; 35354045; 35947956; 9528799,Pkinase,,SPHK1,Sphk1,DISRUPTS
+EIF2AK2,Eif2ak2,Y162-p,458272,QLAAKLAyLQILSEE,"enzymatic activity, induced","translation, altered; cell growth, altered",16373505,dsrm,,,,
+EIF2AK2,Eif2ak2,T90-p,3181643,SPLLLTTtNSSEGLS,"enzymatic activity, induced",,11152499,,,,,

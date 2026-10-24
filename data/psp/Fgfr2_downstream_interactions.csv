@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGFR2,Fgfr2,Y656-p,472824,RDINNIDyYKKTTNG,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",35231400; 35428876,PK_Tyr_Ser-Thr,,SHC1,Shc1,INDUCES
+FGFR2,Fgfr2,Y656-p,472824,RDINNIDyYKKTTNG,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",35231400; 35428876,PK_Tyr_Ser-Thr,,SHP-2,Ptpn11,INDUCES
+FGFR2,Fgfr2,Y656-p,472825,DINNIDYyKKTTNGR,"molecular association, regulation; intracellular localization",,27107424,PK_Tyr_Ser-Thr,colocalization with CD44,CD44,Cd44,INDUCES
+FGFR2,Fgfr2,S780-p,34500854,SQPLEQYsPSYPDTR,phosphorylation,"carcinogenesis, inhibited; cell motility, inhibited; signaling pathway regulation",31146385,,"inhibits tyrosine phosphorylation of FGFR2 and phosphorylatin of ERK1/2 and PLC, inhibits the Ras/MAPK pathway",,,
+FGFR2,Fgfr2,Y769-p,448113,TLTTNEEyLDLSQPL,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",15629145; 35231400,,,FRS2,Frs2,INDUCES
+FGFR2,Fgfr2,Y769-p,448113,TLTTNEEyLDLSQPL,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",15629145; 35231400,,,PLCG1,Plcg1,INDUCES
+FGFR2,Fgfr2,Y769-p,448113,TLTTNEEyLDLSQPL,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",15629145; 35231400,,,SHC1,Shc1,INDUCES
+FGFR2,Fgfr2,Y769-p,448113,TLTTNEEyLDLSQPL,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",15629145; 35231400,,,SHP-2,Ptpn11,INDUCES
+FGFR2,Fgfr2,Y657-p,472825,DINNIDYyKKTTNGR,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",35231400; 35428876,PK_Tyr_Ser-Thr,,SHC1,Shc1,INDUCES
+FGFR2,Fgfr2,Y657-p,472825,DINNIDYyKKTTNGR,"molecular association, regulation","carcinogenesis, induced; cell growth, induced",35231400; 35428876,PK_Tyr_Ser-Thr,,SHP-2,Ptpn11,INDUCES
+FGFR2,Fgfr2,S782-p,2532302,PLEQYSPsYPDTRSS,"molecular association, regulation","cell cycle regulation; cell growth, altered",18332103,,reguates cell survival in response to FGF2,14-3-3 zeta,Ywhaz,INDUCES
+FGFR2,Fgfr2,Y655-p,472824,RDINNIDyYKKTTNG,"molecular association, regulation; intracellular localization",,27107424,PK_Tyr_Ser-Thr,colocalization with CD44,CD44,Cd44,INDUCES

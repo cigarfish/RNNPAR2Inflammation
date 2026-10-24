@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCK2,Pck2,K491-ac,54531208,AAAEHKGkIIMHDPF,protein stabilization,"carcinogenesis, induced; signaling pathway regulation",34166767,PEPCK_GTP,Isoenzyme transition from PCK1 to PCK2;  gluconeogenesis from glutamine and lactate enhanced tolerance to sorafenib;  development of sorafenib-resistant liver cancer cell; nonacetylated form of PCK2 was degraded via lysosomes,,,

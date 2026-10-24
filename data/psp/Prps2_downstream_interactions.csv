@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRPS2,Prps2,T285-p,1874748502,EDKMKHCtKIQVIDI,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited",34465890,Pribosyl_synth,,TRAF2,Traf2,INDUCES
+PRPS2,Prps2,S180-p,18014264,GGAKRVTsIADRLNV,"protein conformation; activity, inhibited","cell growth, inhibited",29074724,, tumor cell growth inhibited; converts PRPS1/2 hexamers to monomers,,,
+PRPS2,Prps2,T228-p,1874512700,DMADTCGtICHAADK,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced; cell growth, induced",34343500,Pribosyl_synth,inhibits ADP binding,,,

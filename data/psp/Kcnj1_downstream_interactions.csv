@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNJ1,Kcnj1,S44-p,449605,RQRARLVsKDGRCNI,"protein processing; activity, inhibited",,15987778; 18571730,IRK,,,,
+KCNJ1,Kcnj1,S219-p,2461201,RVANLRKsLLIGSHI,"activity, induced; protein conformation; activity, inhibited",,18547545; 18571730; 18620882,IRK_C,,,,
+KCNJ1,Kcnj1,S313-p,2461200,ATCQVRTsYVPEEVL,"activity, induced; protein conformation; activity, inhibited",,18547545; 18571730; 18620882,IRK_C,,,,
+KCNJ1,Kcnj1,T193-p,2813503,KKRAKTItFSKNAVI,"molecular association, regulation; activity, inhibited",,22139477,IRK_C,regulates pH sensitivity of the channel,ROMK,Kcnj1,DISRUPTS
+KCNJ1,Kcnj1,S183-p,2813506,GAILAKIsRPKKRAK,"activity, induced; intracellular localization",,12221079,IRK,,,,
+KCNJ1,Kcnj1,Y337-p,451246,SKTKEGKyRVDFHNF,"intracellular localization; activity, inhibited",,11719519; 12556363; 19706464,IRK_C,,,,
+KCNJ1,Kcnj1,S201-p,2813508,FSKNAVIsKRGGKLC,"activity, induced; intracellular localization",,12221079,IRK_C,,,,
+KCNJ1,Kcnj1,S4-p,2813507,____MNAsSRNVFDT,"activity, induced; intracellular localization",,12221079,,,,,

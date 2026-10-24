@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KMT5A,Kmt5a,K172-sm,25090302,LVPFPNQkSEAAEPP,,"transcription, inhibited",21829513,,,,,
+KMT5A,Kmt5a,K162-ac,31077504,QKIKDARkGPLVPFP,"protein stabilization; enzymatic activity, induced","cell cycle regulation; chromatin organization, altered",23468428,,,,,
+KMT5A,Kmt5a,K151-sm,25090303,NAVRSAMkSEEQKIK,,"transcription, inhibited",21829513,,,,,
+KMT5A,Kmt5a,S100-p,3213381,SKIYSYMsPNKCSGM,protein stabilization; ubiquitination; intracellular localization,cell cycle regulation,20966048,,phosphorylation of this site results in the removal of SETD8 from mitotic chromosomes;  inhibits SETD8 ubiquitination,,,

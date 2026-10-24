@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FGF2,Fgf2,S250-p,3146601,NNYNTYRsRKYTSWY,"molecular association, regulation","cell differentiation, altered; cell growth, altered",10657989,FGF,,CK2B,Csnk2b,INDUCES

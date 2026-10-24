@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAD51,Rad51,T13-p,23305002,QLEANADtSVEEESF,"molecular association, regulation; intracellular localization","DNA repair, induced",22325354; 24835992,,involved in DNA damage recognition and homologous recombination (HR) repair,NBS1,Nbn,INDUCES
+RAD51,Rad51,T13-p,23305002,QLEANADtSVEEESF,"molecular association, regulation; intracellular localization","DNA repair, induced",22325354; 24835992,,involved in DNA damage recognition and homologous recombination (HR) repair,BRCA2,Brca2,INDUCES
+RAD51,Rad51,Y54-p,449958,HTVEAVAyAPKKELI,"protein degradation; molecular association, regulation; enzymatic activity, induced","DNA repair, inhibited",38084915,HHH_5,,,,
+RAD51,Rad51,T309-p,455229,LRKGRGEtRICKIYD,"activity, induced","cell cycle regulation; DNA repair, induced; carcinogenesis, altered; DNA repair, altered",15665856; 34197606; 36692427,Rad51,,,,
+RAD51,Rad51,K57-sm,1879760604,EAVAYAPkKELINIK,"molecular association, regulation","DNA repair, induced",35061896,,"RAD51 SUMOylation is required for HR-mediated DSB repair, GFP-TOPORS-WT restored the interaction between RAD51 and BRCA2, but the T515A mutant restored to a lesser degree",BRCA2,Brca2,INDUCES
+RAD51,Rad51,Y315-p,448324,ETRICKIyDSPCLPE,"activity, induced; protein degradation; molecular association, regulation; enzymatic activity, induced","cell cycle regulation; DNA repair, induced; apoptosis, altered; cell growth, induced; DNA repair, inhibited",11684015; 15330855; 37992230; 38084915,Rad51,,RAD51,Rad51,DISRUPTS
+RAD51,Rad51,K156-ac,1873284314,DRGGGEGkAMYIDTE,,"DNA repair, inhibited",28869605,Rad51,,,,
+RAD51,Rad51,K70-sm,1879760605,IKGISEAkADKILAE,"molecular association, regulation","DNA repair, induced; chromatin organization, altered",29398486; 35061896,,"RAD51 SUMOylation is required for HR-mediated DSB repair, GFP-TOPORS-WT restored the interaction between RAD51 and BRCA2, but the T515A mutant restored to a lesser degree; induces mitochondrial DNA replication",BRCA2,Brca2,INDUCES
+RAD51,Rad51,K338-ac,1873284316,ADGVGDAkD______,,"DNA repair, inhibited",28869605,,,,,
+RAD51,Rad51,S67-p,1885514002,LINIKGIsEAKADKI,"molecular association, regulation",,38509361,,,,,
+RAD51,Rad51,S14-p,23305001,LEANADTsVEEESFG,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","cell cycle regulation; DNA repair, induced",22325354; 24835992; 34197606,,,BRCA2,Brca2,INDUCES

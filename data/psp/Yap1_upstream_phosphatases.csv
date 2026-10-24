@@ -1,0 +1,12 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Yap1,Ppm1a,PPM1A,PPM1A,YAP1,S109,"Phosphatases, in vitro"
+Yap1,Ppm1a,PPM1A,PPM1A,YAP1,S127,"Phosphatases, in vitro"
+Yap1,Ppm1b,PPM1B,PPM1B,YAP1,S127,"Phosphatases, in vitro"
+Yap1,Cdc14b,CDC14B,CDC14B,YAP1,S289,Putative upstream phosphatases
+Yap1,Cdc14b,CDC14B,CDC14B,YAP1,S367,Putative upstream phosphatases
+Yap1,Cdc14b,CDC14B,CDC14B,YAP1,T119,Putative upstream phosphatases
+Yap1,Ppm1a,PPM1A,PPM1A,YAP1,S109,Putative upstream phosphatases
+Yap1,Ppm1a,PPM1A,PPM1A,YAP1,S127,Putative upstream phosphatases
+Yap1,Ppm1a,PPM1A,PPM1A,YAP1,S366,Putative upstream phosphatases
+Yap1,Ppp1ca,PPP1CA,PPP1CA,YAP1,S127,Putative upstream phosphatases
+Yap1,Ppp1ca,PPP1CA,PPP1CA,YAP1,S397,Putative upstream phosphatases

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ERCC6L,Ercc6l,T1063-p,474544,VKQFDAStPKNDISP,"molecular association, regulation; intracellular localization",,17218258; 36719798,,,BLM,Blm,INDUCES
+ERCC6L,Ercc6l,T1063-p,474544,VKQFDAStPKNDISP,"molecular association, regulation; intracellular localization",,17218258; 36719798,,,TOP3A,Top3a,INDUCES

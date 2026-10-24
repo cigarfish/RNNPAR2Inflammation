@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCRS1,Mcrs1,S36-p,40268168,AGQKRASsQALGTIP,,cell cycle regulation; cytoskeletal reorganization,27192185,,K-fiber formation and dynamics,,,
+MCRS1,Mcrs1,S35-p,14575930,LAGQKRAsSQALGTI,,cell cycle regulation; cytoskeletal reorganization,27192185,,K-fiber formation and dynamics,,,

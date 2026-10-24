@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NBR1,Nbr1,T586-p,33602700,HNTPVDVtPCMSPLP,"protein stabilization; molecular association, regulation; activity, inhibited",,24879152,," inhibits function as a cargo adaptor protein, inhibits protein aggregation; phosphorylation slightly reduces its interaction with SQSTM1",SQSTM1,Sqstm1,DISRUPTS

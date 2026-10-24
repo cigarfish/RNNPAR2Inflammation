@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP3,Dusp3,Y138-p,448718,SPTLVIAyLMMRQKM,"enzymatic activity, induced",,12447358,DSPc,"When ZAP-70 was reintroduced into the ZAP-70(-) JURKAT cells, DUSP3 regained its ability to inhibit MAPK responses.",,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CTBP2,Ctbp2,K10-ac,461009,LVDKHKVkRQRLDRI,intracellular localization,"transcription, induced",16356938,,reduction of acetylation represses transcription,,,

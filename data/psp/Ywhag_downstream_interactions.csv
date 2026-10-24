@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YWHAG,Ywhag,S59-p,3892745,VVGARRSsWRVISSI,"molecular association, regulation; intracellular localization",,21118956,14-3-3,localizes to P-bodies,TNRC6A,Tnrc6a,INDUCES

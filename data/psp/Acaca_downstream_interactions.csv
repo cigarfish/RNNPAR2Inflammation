@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACACA,Acaca,S1263-p,463821,FSDSPPQsPTFPEAG,"molecular association, regulation; enzymatic activity, inhibited; protein conformation; phosphorylation",,16698035; 19061860; 29899443,ACC_central,,BRCA1,Brca1,INDUCES
+ACACA,Acaca,S80-p,448292,LHIRSSMsGLHLVKQ,"enzymatic activity, inhibited; intracellular localization; protein conformation","carcinogenesis, altered; autophagy, induced; apoptosis, induced; cell growth, inhibited; apoptosis, inhibited",21918180; 28778925; 29899443; 30309849; 34362796; 34418433; 35761398; 36243112,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FAM50A,Fam50a,K5-m1,57984718,___MAQYkGAASEAG,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES

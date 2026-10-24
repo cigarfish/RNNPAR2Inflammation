@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPSB1,Spsb1,Y31-p,455116,QELQGLDyCKPTRLD,"molecular association, regulation",,15713673,,,RASA1,Rasa1,INDUCES

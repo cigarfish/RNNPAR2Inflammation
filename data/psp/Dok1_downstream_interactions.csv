@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOK1,Dok1,S446-p,454884,SGIKSHNsALYSQVQ,,"cell motility, induced; cell growth, inhibited",15574499,,,,,
+DOK1,Dok1,Y362-p,448367,DPKEDPIyDEPEGLA,"protein degradation; molecular association, regulation; ubiquitination; activity, inhibited; phosphorylation",signaling pathway regulation,11551902; 22252131; 34145060,,regulates TCR/CD28 signaling,CBLL1,Cbll1,INDUCES
+DOK1,Dok1,Y362-p,448367,DPKEDPIyDEPEGLA,"protein degradation; molecular association, regulation; ubiquitination; activity, inhibited; phosphorylation",signaling pathway regulation,11551902; 22252131; 34145060,,regulates TCR/CD28 signaling,RASA1,Rasa1,INDUCES
+DOK1,Dok1,Y362-p,448367,DPKEDPIyDEPEGLA,"protein degradation; molecular association, regulation; ubiquitination; activity, inhibited; phosphorylation",signaling pathway regulation,11551902; 22252131; 34145060,,regulates TCR/CD28 signaling,NCK1,Nck1,INDUCES
+DOK1,Dok1,Y146-p,455786,EMLENSLySPTWEGS,"molecular association, regulation",,16177091,,Dok1/Dok2 oligomerization required for ERK1/2 and NFAT activation,DOK2,Dok2,INDUCES
+DOK1,Dok1,Y146-p,455786,EMLENSLySPTWEGS,"molecular association, regulation",,16177091,,Dok1/Dok2 oligomerization required for ERK1/2 and NFAT activation,DOK1,Dok1,INDUCES
+DOK1,Dok1,S439-p,454882,EPGTATGsGIKSHNS,,"cell motility, induced; cell growth, inhibited",15574499,,,,,
+DOK1,Dok1,Y398-p,448369,ARVKEEGyELPYNPA,"molecular association, regulation; phosphorylation",,11551902,,,RASA1,Rasa1,INDUCES
+DOK1,Dok1,Y398-p,448369,ARVKEEGyELPYNPA,"molecular association, regulation; phosphorylation",,11551902,,,NCK1,Nck1,INDUCES
+DOK1,Dok1,Y296-p,448366,LDSPPALyAEPLDSL,"molecular association, regulation; intracellular localization",,10688886; 19481264,,,RASA1,Rasa1,INDUCES
+DOK1,Dok1,Y296-p,448366,LDSPPALyAEPLDSL,"molecular association, regulation; intracellular localization",,10688886; 19481264,,,CD45,Ptprc,INDUCES
+DOK1,Dok1,S443-p,454883,ATGSGIKsHNSALYS,,"cell motility, induced; cell growth, inhibited",15574499,,,,,
+DOK1,Dok1,Y315-p,448904,CPSQDSLySDPLDST,"molecular association, regulation",,10688886,,,RASA1,Rasa1,INDUCES
+DOK1,Dok1,Y449-p,448879,KSHNSALySQVQKSG,"molecular association, regulation",,10852966; 19481264,,,CD45,Ptprc,INDUCES
+DOK1,Dok1,Y449-p,448879,KSHNSALySQVQKSG,"molecular association, regulation",,10852966; 19481264,,,SH2D1A,Sh2d1a,INDUCES
+DOK1,Dok1,S450-p,454885,SHNSALYsQVQKSGA,,"cell motility, induced; cell growth, inhibited",15574499,,,,,

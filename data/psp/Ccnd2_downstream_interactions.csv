@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCND2,Ccnd2,T280-p,469202,DELDQAStPTDVRDI,protein degradation,"cell cycle regulation; cell growth, inhibited",17486076; 24705253; 27843138,Cyclin_C,phosphodeficient mutants show increased proliferation; CCND2 T280A significantly increased cell growth,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ELL,Ell,K29-ac,1875199400,KVSVFHVkLTDSALR,protein degradation,,32152128,ELL,,,,
+ELL,Ell,K5-ac,1875199402,___MAALkEDRSYGL,protein degradation,,32152128,,,,,

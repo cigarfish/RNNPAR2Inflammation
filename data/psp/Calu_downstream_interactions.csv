@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CALU,Calu,T73-p,29606705,MYSHDGNtDEPEWVK,intracellular localization,"transcription, induced; cytoskeletal reorganization",24136234,,"nuclear localization, facilitates filopodia formation",,,

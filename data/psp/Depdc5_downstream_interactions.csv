@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DEPDC5,Depdc5,S1530-p,3845300,QQRRRRNsTSSTNQN,phosphorylation,"carcinogenesis, induced; cell growth, induced",31548394,DEPDC5_CTD,induces phosphorylation of mTORC1 substrates,,,

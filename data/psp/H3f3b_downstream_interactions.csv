@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+H3-3A,H3f3b,S28-p,18545302,ATKAARKsAPSTGGV,phosphorylation,,16185088,Histone,detecting S10 phosphorylation with phospho-antibody was disrupted in dual modified peptides with K9ac and K9 monomethyl as was S28 with K27ac,,,
+H3-3A,H3f3b,K27-ac,18545312,LATKAARkSAPSTGG,phosphorylation,,16185088,Histone,detecting S10 phosphorylation with phospho-antibody was disrupted in dual modified peptides with K9ac and K9 monomethyl as was S28 with K27ac,,,
+H3-3A,H3f3b,S10-p,18545301,TKQTARKsTGGKAPR,phosphorylation,cell cycle regulation,14583461; 16185088,Histone,,,,
+H3-3A,H3f3b,K79-m1,18545328,REIAQDFkTDLRFQS,"molecular association, regulation",,23583077,Histone,,L3MBTL iso4,L3mbtl2,INDUCES
+H3-3A,H3f3b,S31-p,18545303,AARKSAPsTGGVKKP,intracellular localization,"cell cycle regulation; carcinogenesis, altered",37638746; 39729988,Histone,,,,
+H3-3A,H3f3b,K79-m2,18545333,REIAQDFkTDLRFQS,"molecular association, regulation",,23583077,Histone,,L3MBTL iso4,L3mbtl2,INDUCES
+H3-3A,H3f3b,K9-ac,18545308,RTKQTARkSTGGKAP,phosphorylation,,16185088,Histone,detecting S10 phosphorylation with phospho-antibody was disrupted in dual modified peptides with K9ac and K9 monomethyl as was S28 with K27ac,,,
+H3-3A,H3f3b,K9-m1,18545324,RTKQTARkSTGGKAP,phosphorylation,,16185088,Histone,detecting S10 phosphorylation with phospho-antibody was disrupted in dual modified peptides with K9ac and K9 monomethyl as was S28 with K27ac,,,

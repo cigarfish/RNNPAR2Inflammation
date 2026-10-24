@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NFKB2,Nfkb2,K863-sm,3055610,LPSTAEVkEDSAYGS,protein processing; phosphorylation,signaling pathway regulation,18617892,,activation of alternative NF-kB pathway,,,
+NFKB2,Nfkb2,S711-p,25234803,PLPSPPTsDSDSDSE,protein degradation; ubiquitination,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",22388891; 22864569,,,FBXW7,Fbxw7,INDUCES
+NFKB2,Nfkb2,K298-sm,3055608,TPPYHKMkIERPVTV,protein processing; phosphorylation,signaling pathway regulation,18617892,RHD_dimer,activation of alternative NF-kB pathway,,,
+NFKB2,Nfkb2,S707-p,20804978,EPLCPLPsPPTSDSD,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",22388891; 22864569,,,FBXW7,Fbxw7,INDUCES
+NFKB2,Nfkb2,K90-sm,3055611,CNYEGPAkIEVDLVT,protein processing; phosphorylation,signaling pathway regulation,18617892,RHD_DNA_bind,activation of alternative NF-kB pathway,,,
+NFKB2,Nfkb2,S222-p,3193889,QPIHDSKsPGASNLK,"molecular association, regulation","transcription, altered",20513428,,,REL,Rel,INDUCES
+NFKB2,Nfkb2,S222-p,3193889,QPIHDSKsPGASNLK,"molecular association, regulation","transcription, altered",20513428,,,Bcl-3,Bcl3,DISRUPTS
+NFKB2,Nfkb2,S222-p,3193889,QPIHDSKsPGASNLK,"molecular association, regulation","transcription, altered",20513428,,,NFkB-p100,Nfkb2,DISRUPTS
+NFKB2,Nfkb2,S866-p,450166,TAEVKEDsAYGSQSV,"molecular association, regulation; protein processing",,11239468; 15310758; 22388891,,,IKKA,Chuk,INDUCES
+NFKB2,Nfkb2,S866-p,450166,TAEVKEDsAYGSQSV,"molecular association, regulation; protein processing",,11239468; 15310758; 22388891,,,BTRC,Btrc,INDUCES
+NFKB2,Nfkb2,K689-sm,3055609,TLTRLLLkAGADIHA,protein processing; phosphorylation,signaling pathway regulation,18617892,Ank_2,activation of alternative NF-kB pathway,,,
+NFKB2,Nfkb2,S870-p,450167,KEDSAYGsQSVEQEA,"molecular association, regulation; protein processing",,11239468; 15310758; 22388891,,,IKKA,Chuk,INDUCES
+NFKB2,Nfkb2,S870-p,450167,KEDSAYGsQSVEQEA,"molecular association, regulation; protein processing",,11239468; 15310758; 22388891,,,BTRC,Btrc,INDUCES

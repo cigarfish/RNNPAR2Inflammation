@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AFG3L2,Afg3l2,Y179-p,462232,WKDFVNNyLSKGVVD,protein processing,,24767997,FtsH_ext,"prevents SPG7 processing, regulates mitochondrial bioenergetics and mROS production",,,

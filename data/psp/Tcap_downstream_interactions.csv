@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TCAP,Tcap,S161-p,3893741,RSLSRSMsQEAQRG_,protein degradation; ubiquitination,cytoskeletal reorganization,24280220; 32937135,Telethonin,affects synchronous release and removal of Ca2 as a consequence of altered t-tubule organization,,,
+TCAP,Tcap,S157-p,448693,GALRRSLsRSMSQEA,protein degradation; ubiquitination,cytoskeletal reorganization,24280220; 32937135,Telethonin,affects synchronous release and removal of Ca2 as a consequence of altered t-tubule organization,,,

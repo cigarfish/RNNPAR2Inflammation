@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCAPG,Ncapg,T332-p,5014904,LIPVETLtPEIALYW,"molecular association, regulation; intracellular localization",,18977199,,regulates NCAPG localization with chromosomal DNA in mitotic cells,,,
+NCAPG,Ncapg,T308-p,5014903,LNALFSItPLSELVG,"molecular association, regulation; intracellular localization",,18977199,,regulates NCAPG localization with chromosomal DNA in mitotic cells,,,

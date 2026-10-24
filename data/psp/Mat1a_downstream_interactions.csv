@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAT1A,Mat1a,T202-p,1874404504,VIPVRIHtIVISVQH,"protein degradation; molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",34349244,S-AdoMet_synt_M,,14-3-3 zeta,Ywhaz,INDUCES
+MAT1A,Mat1a,S114-p,27996470,LVALEQQsPDIAQCV,"protein degradation; molecular association, regulation; intracellular localization",,35091576,S-AdoMet_synt_N,,PIN1,Pin1,INDUCES
+MAT1A,Mat1a,S180-p,1874404502,LPWLRPDsKTQVTVQ,"protein degradation; molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",34349244,S-AdoMet_synt_M,,14-3-3 zeta,Ywhaz,INDUCES

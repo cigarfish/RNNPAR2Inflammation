@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCF2,Mcf2,Y510-p,33402206,LIQTERVyVRELYTV,"activity, induced; molecular association, regulation; intracellular localization",cytoskeletal reorganization,24778185,RhoGEF,RhoA-GTPases activity induced transcriptional activation of NFkB,GRB2,Grb2,INDUCES
+MCF2,Mcf2,Y510-p,33402206,LIQTERVyVRELYTV,"activity, induced; molecular association, regulation; intracellular localization",cytoskeletal reorganization,24778185,RhoGEF,RhoA-GTPases activity induced transcriptional activation of NFkB,CDC42,Cdc42,INDUCES
+MCF2,Mcf2,Y510-p,33402206,LIQTERVyVRELYTV,"activity, induced; molecular association, regulation; intracellular localization",cytoskeletal reorganization,24778185,RhoGEF,RhoA-GTPases activity induced transcriptional activation of NFkB,RHOA,Rhoa,INDUCES

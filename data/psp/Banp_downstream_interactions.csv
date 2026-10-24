@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BANP,Banp,T337-p,41301700,VKSFSRRtPNSSSYC,intracellular localization,,26080397,,cytoplasmic localization,,,
+BANP,Banp,T352-p,41301701,PSEPMMStPPPASEL,intracellular localization,,26080397,,cytoplasmic localization,,,

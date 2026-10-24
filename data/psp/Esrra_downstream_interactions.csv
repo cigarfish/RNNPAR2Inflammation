@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ESRRA,Esrra,K129-ac,15211513,EITKRRRkACQACRF,"molecular association, regulation","transcription, inhibited",20484414,zf-C4,,,,
+ESRRA,Esrra,K162-ac,15211511,RGGRQKYkRRPEVDP,"molecular association, regulation","transcription, inhibited",20484414,,,,,
+ESRRA,Esrra,K138-ac,15211510,CQACRFTkCLRVGML,"molecular association, regulation","transcription, inhibited",20484414,zf-C4,,,,
+ESRRA,Esrra,K160-ac,15211512,RVRGGRQkYKRRPEV,"molecular association, regulation","transcription, inhibited",20484414,,,,,
+ESRRA,Esrra,K68-ub,1877015602,PGEQGGGkLVLSSLP,protein degradation,"cell differentiation, inhibited",31907393,,,,,
+ESRRA,Esrra,K51-ub,1877015601,TRCLPGHkEEEDGEG,protein degradation,"cell differentiation, inhibited",31907393,,,,,

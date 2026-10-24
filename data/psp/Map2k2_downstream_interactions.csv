@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP2K2,Map2k2,S306-p,3295100,RPPGRPVsGHGMDSR,"molecular association, regulation; protein conformation","carcinogenesis, induced; cell motility, induced; cell adhesion, induced",28225038,Pkinase,Interaction with AKT induces FOXO1 phosphorylation;  metastasis in nude mice ,Akt1,Akt1,INDUCES
+MAP2K2,Map2k2,S226-p,448074,LIDSMANsFVGTRSY,"phosphorylation; enzymatic activity, induced","carcinogenesis, altered; cell motility, induced; cell growth, induced; signaling pathway regulation",19106095; 19175691; 21893193; 33328637,Pkinase,,,,
+MAP2K2,Map2k2,S222-p,448073,VSGQLIDsMANSFVG,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; carcinogenesis, altered; cell motility, induced; cell growth, induced; signaling pathway regulation",19106095; 19175691; 21893193; 33328637; 34262144,Pkinase,,,,
+MAP2K2,Map2k2,T13-gl,1871246004,KPVLPALtINPTIAE,protein stabilization; phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced; signaling pathway regulation",33226073,,"promotes phosphorylation at MEK2-T394, activates MEK2/ERK1/2 signaling cascade",,,
+MAP2K2,Map2k2,S216-p,455802,KLCDFGVsGQLIDSM,"enzymatic activity, inhibited",,12506122,Pkinase,,,,
+MAP2K2,Map2k2,T394-p,452289,LRLNQPGtPTRTAV_,"phosphorylation; enzymatic activity, induced",,33226073,,induces ERK1/2 phosphorylation,,,

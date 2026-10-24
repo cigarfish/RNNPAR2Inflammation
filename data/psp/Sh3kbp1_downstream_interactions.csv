@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SH3KBP1,Sh3kbp1,S587-p,457025,TAGHRANsPSLFGTE,"molecular association, regulation",,23178720,,,DAB1,Dab1,DISRUPTS
+SH3KBP1,Sh3kbp1,K598-sm,25336500,FGTEGKPkMEPAASS,"molecular association, regulation; intracellular localization",,22203040,,,NPHS1,Nphs1,DISRUPTS

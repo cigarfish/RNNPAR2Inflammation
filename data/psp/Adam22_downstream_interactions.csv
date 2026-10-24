@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 beta,Ywhab,INDUCES
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 theta,Ywhaq,INDUCES
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 zeta,Ywhaz,INDUCES
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 epsilon,Ywhae,INDUCES
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 gamma,Ywhag,INDUCES
+ADAM22,Adam22,S857-p,469109,RFRPRSNsTETLSPA,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 eta,Ywhah,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 beta,Ywhab,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 theta,Ywhaq,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 zeta,Ywhaz,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 epsilon,Ywhae,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 gamma,Ywhag,INDUCES
+ADAM22,Adam22,S834-p,469108,NGRPRSNsWQGNLGG,"protein stabilization; molecular association, regulation; intracellular localization",,16868027,,,14-3-3 eta,Ywhah,INDUCES

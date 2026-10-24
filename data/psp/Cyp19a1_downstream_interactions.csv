@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYP19A1,Cyp19a1,Y361-p,10433800,KVMENFIyESMRYQP,"protein degradation; enzymatic activity, induced",,19556341; 31652308,p450,,,,

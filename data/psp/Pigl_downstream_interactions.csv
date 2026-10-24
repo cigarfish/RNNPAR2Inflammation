@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIGL,Pigl,Y81-p,1881980200,LCFSAGNyYNQGETR,"molecular association, regulation; intracellular localization","carcinogenesis, induced",37280393,,,KPNB1,Kpnb1,DISRUPTS
+PIGL,Pigl,Y81-p,1881980200,LCFSAGNyYNQGETR,"molecular association, regulation; intracellular localization","carcinogenesis, induced",37280393,,,Myc,Myc,DISRUPTS
+PIGL,Pigl,Y81-p,1881980200,LCFSAGNyYNQGETR,"molecular association, regulation; intracellular localization","carcinogenesis, induced",37280393,,,KPNA2,Kpna2,DISRUPTS

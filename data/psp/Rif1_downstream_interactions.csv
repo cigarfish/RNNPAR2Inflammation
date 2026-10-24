@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RIF1,Rif1,S2205-p,3201699,VNKVRRVsFADPIYQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,31209037; 32900880,,,PPP2R2C,Ppp2r2c,DISRUPTS
+RIF1,Rif1,S2205-p,3201699,VNKVRRVsFADPIYQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,31209037; 32900880,,,PPP2R3B,Ppp2r3b,INDUCES
+RIF1,Rif1,S2205-p,3201699,VNKVRRVsFADPIYQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,31209037; 32900880,,,PPP2R5C,Ppp2r5c,DISRUPTS
+RIF1,Rif1,S2205-p,3201699,VNKVRRVsFADPIYQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,31209037; 32900880,,,PPP2R3A,Ppp2r3a,INDUCES

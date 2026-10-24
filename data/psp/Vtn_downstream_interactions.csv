@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VTN,Vtn,S397-p,452178,NQNSRRPsRATWLSL,"molecular association, regulation; protein conformation; phosphorylation",,11795878,,decreases accessibility of CKII to phosphorylate VTN,SERPINE1,Serpine1,DISRUPTS

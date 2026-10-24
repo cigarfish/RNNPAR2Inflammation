@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SERPINA3,Serpina3n,K237-ac,464674,RFYLSKKkWVMVPMM,"molecular association, regulation",,7782318,Serpin,,,,
+SERPINA3,Serpina3n,K416-ac,464676,QNIFFMSkVTNPKQA,"molecular association, regulation",,7782318,Serpin,,,,
+SERPINA3,Serpina3n,K236-ac,464673,SRFYLSKkKWVMVPM,"molecular association, regulation",,7782318,Serpin,,,,
+SERPINA3,Serpina3n,K235-ac,464672,QSRFYLSkKKWVMVP,"molecular association, regulation",,7782318,Serpin,,,,
+SERPINA3,Serpina3n,K421-ac,464675,MSKVTNPkQA_____,"molecular association, regulation",,7782318,,,,,

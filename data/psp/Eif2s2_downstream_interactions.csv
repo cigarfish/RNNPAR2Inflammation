@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EIF2S2,Eif2s2,S67-p,450072,DTRKKDAsDDLDDLN,,"translation, altered; cell growth, altered",16225457,,,,,
+EIF2S2,Eif2s2,S2-p,451805,______MsGDEMIFD,,"translation, altered; cell growth, altered",16225457,,,,,

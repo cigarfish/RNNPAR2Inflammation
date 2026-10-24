@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPSM3,Gpsm3,S35-p,4717965,STTRPWRsAPPSPPP,"protein stabilization; molecular association, regulation; intracellular localization",,22843681,,,14-3-3 beta,Ywhab,INDUCES
+GPSM3,Gpsm3,S39-p,4717970,PWRSAPPsPPPPGTR,"protein stabilization; molecular association, regulation; intracellular localization",,22843681,,,14-3-3 beta,Ywhab,INDUCES

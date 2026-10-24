@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRDX1,Prdx1,T90-p,455554,CHLAWVNtPKKQGGL,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,11986303; 16376335; 23386615,AhpC-TSA,,PRDX1,Prdx1,INDUCES
+PRDX1,Prdx1,K197-ac,11318619,KSKEYFSkQK_____,"phosphorylation; enzymatic activity, induced","transcription, altered",39207899,1-cysPrx_C,regulates ERK phosphorylation,,,
+PRDX1,Prdx1,Y194-p,448924,DVQKSKEyFSKQK__,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited",,20178744,1-cysPrx_C,,NOX1,Nox1,INDUCES
+PRDX1,Prdx1,T183-p,476233,GWKPGSDtIKPDVQK,"enzymatic activity, inhibited",,23386615,1-cysPrx_C,,,,
+PRDX1,Prdx1,S32-p,15334103,QFKDISLsDYKGKYV,"protein conformation; enzymatic activity, induced","apoptosis, altered",20647304,AhpC-TSA,,,,

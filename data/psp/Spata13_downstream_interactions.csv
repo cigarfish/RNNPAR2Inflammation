@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPATA13,Spata13,S106-p,33670315,SDGGTEPsALVDDNG,"activity, induced","cell motility, induced; cell adhesion, altered",24874604,,"Rac activation, regulates adhesion turnover, SPATA13 GEF activity promoted",,,

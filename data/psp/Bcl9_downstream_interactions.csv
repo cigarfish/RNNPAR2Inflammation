@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCL9,Bcl9,K212-ub,1878196102,IQNISNNkTERSTAP,"molecular association, regulation","cell growth, inhibited",31073027,,ubiquitination inhibits Beta-catenin/BCL9/PYGO1 complex and proliferation and breast cancer cell proliferation ,CTNNB1,Ctnnb1,DISRUPTS
+BCL9,Bcl9,K212-ub,1878196102,IQNISNNkTERSTAP,"molecular association, regulation","cell growth, inhibited",31073027,,ubiquitination inhibits Beta-catenin/BCL9/PYGO1 complex and proliferation and breast cancer cell proliferation ,PYGO1,Pygo1,DISRUPTS
+BCL9,Bcl9,T172-p,3150953,EPTPAQKtPAKVVYV,"protein stabilization; molecular association, regulation",,30217955,,"stabilizing signalosome and Wnt signaling, promotes oncogenic activity of Bcl-9, regulates cell division",CLTC,Cltc,DISRUPTS
+BCL9,Bcl9,T172-p,3150953,EPTPAQKtPAKVVYV,"protein stabilization; molecular association, regulation",,30217955,,"stabilizing signalosome and Wnt signaling, promotes oncogenic activity of Bcl-9, regulates cell division",Myc,Myc,INDUCES
+BCL9,Bcl9,T172-p,3150953,EPTPAQKtPAKVVYV,"protein stabilization; molecular association, regulation",,30217955,,"stabilizing signalosome and Wnt signaling, promotes oncogenic activity of Bcl-9, regulates cell division",CTNNB1,Ctnnb1,INDUCES

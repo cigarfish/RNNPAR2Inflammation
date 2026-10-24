@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CALR,Calr,K62-ac,4219815,KFYGDEEkDKGLQTS,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K207-ac,4219813,WDFLPPKkIKDPDAS,"protein conformation; enzymatic activity, induced",,18795239; 33585151,Calreticulin,K207 of P-domain is the active site residue controlling TAase activity.,,,
+CALR,Calr,K48-ac,4219810,KHKSDFGkFVLSSGK,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K209-ac,4219811,FLPPKKIkDPDASKP,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K159-ac,4219807,GKNVLINkDIRCKDD,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K238-ac,4219809,SKPEDWDkPEHIPDP,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K206-ac,4219812,DWDFLPPkKIKDPDA,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K153-ac,4219808,VIFNYKGkNVLINKD,protein conformation,,18795239,Calreticulin,,,,
+CALR,Calr,K64-ac,4219814,YGDEEKDkGLQTSQD,protein conformation,,18795239,Calreticulin,,,,

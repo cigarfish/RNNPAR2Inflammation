@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NPHS1,Nphs1,Y1217-p,469566,YQDPRGIyDQVAGDL,protein degradation; intracellular localization,"endocytosis, induced; exocytosis, induced; cell adhesion, induced; cytoskeletal reorganization; translation, inhibited",19882202; 22718751; 25404734,,,,,
+NPHS1,Nphs1,T1125-p,18507017,QWTGERDtQSSTVST,"molecular association, regulation",,21321125,,PICK1 and PKCa are also in this complex,ARRB2,Arrb2,INDUCES
+NPHS1,Nphs1,T1120-p,18507016,EYEESQWtGERDTQS,"molecular association, regulation",,21321125,,PICK1 and PKCa are also in this complex,ARRB2,Arrb2,INDUCES
+NPHS1,Nphs1,Y1193-p,469565,SGAWGPLyDEVQMGP,"molecular association, regulation; intracellular localization","endocytosis, induced; exocytosis, induced; cell adhesion, induced; cytoskeletal reorganization; transcription, induced; endocytosis, inhibited",16968782; 22718751; 36822326,,,NPHS2,Nphs2,INDUCES
+NPHS1,Nphs1,Y1193-p,469565,SGAWGPLyDEVQMGP,"molecular association, regulation; intracellular localization","endocytosis, induced; exocytosis, induced; cell adhesion, induced; cytoskeletal reorganization; transcription, induced; endocytosis, inhibited",16968782; 22718751; 36822326,,,ARRB2,Arrb2,DISRUPTS
+NPHS1,Nphs1,Y1176-p,2299202,MAFPGHLyDEVERTY,intracellular localization,"endocytosis, induced; exocytosis, induced; cell adhesion, induced; cytoskeletal reorganization",22718751; 36822326,,,,,

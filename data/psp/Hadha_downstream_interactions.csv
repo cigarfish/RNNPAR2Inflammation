@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HADHA,Hadha,Y271-p,1883585000,LVEKLTAyAMTIPFV,intracellular localization,,37424790,,,,,
+HADHA,Hadha,K406-ac,461764,RGQQQVFkGLNDKVK,protein stabilization,,27457618,3HCDH_N,"3 sites can be acetylated or ubiquitylated, acetylation blocks ubiquitylation ",,,
+HADHA,Hadha,K383-ac,56842400,IAQVSVDkGLKTILK,protein stabilization,,27457618,3HCDH_N,"3 sites can be acetylated or ubiquitylated, acetylation blocks ubiquitylation ",,,
+HADHA,Hadha,K406-ub,27192523,RGQQQVFkGLNDKVK,protein degradation; ubiquitination,,27457618,3HCDH_N,,,,
+HADHA,Hadha,K383-ub,56842401,IAQVSVDkGLKTILK,protein degradation; ubiquitination,,27457618,3HCDH_N,,,,
+HADHA,Hadha,K350-ub,27192507,YHGQVLCkKNKFGAP,protein degradation; ubiquitination,,27457618,,,,,
+HADHA,Hadha,K350-ac,466489,YHGQVLCkKNKFGAP,protein stabilization,,27457618,,"3 sites can be acetylated or ubiquitylated, acetylation blocks ubiquitylation ",,,

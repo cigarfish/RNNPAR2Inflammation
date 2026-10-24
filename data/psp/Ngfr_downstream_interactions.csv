@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NGFR,Ngfr,S303-p,10432300,PEGEKLHsDSGISVD,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cytoskeletal reorganization; cell growth, altered",12682012; 26119933,, inactivation of Rho ; NGFR-mediated glioma invasion ; translocation to lipid rafts,CLIM1,Ldb2,INDUCES
+NGFR,Ngfr,S425-p,41389903,CSESTATsPV_____,"molecular association, regulation","carcinogenesis, inhibited",26119933,,NGFR mediated glioma invasion ,CLIM1,Ldb2,DISRUPTS

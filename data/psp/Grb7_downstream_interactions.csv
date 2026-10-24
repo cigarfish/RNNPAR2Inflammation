@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRB7,Grb7,Y188-p,7965100,FRKNFAKyELFKSSP,phosphorylation,"cell cycle regulation; cell motility, altered",19473962,," double mutation Grb7 Y188, 338F inhibits phosphorylation of FAK Y397 (Y428 in mouse), Y861 (Y899 in mouse) and PXN Y118;  involed in tumorigenesis process",,,
+GRB7,Grb7,Y338-p,7965101,AAFRLFKyGVQLYKN,phosphorylation,"cell cycle regulation; cell motility, altered",19473962,PH," double mutation Grb7 Y188, 338F inhibits phosphorylation of FAK Y397 (Y428 in mouse), Y861 (Y899 in mouse) and PXN Y118;  involed in tumorigenesis process",,,
+GRB7,Grb7,S194-p,58912301,KYELFKSsPHSLFPE,"protein degradation; molecular association, regulation; ubiquitination",cell cycle regulation,27658202,,,PIN1,Pin1,INDUCES

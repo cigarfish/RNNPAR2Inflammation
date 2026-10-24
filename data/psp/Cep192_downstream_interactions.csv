@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEP192,Cep192,S995-p,41159606,TSPLSHSsPSEISGT,"molecular association, regulation",cell cycle regulation; cytoskeletal reorganization,26012549,,required for proper spindle formation and mitotic progression,PLK1,Plk1,INDUCES
+CEP192,Cep192,T44-p,41159607,GLPVAVStLARDRSS,"molecular association, regulation",cell cycle regulation; cytoskeletal reorganization,26012549,,required for proper spindle formation and mitotic progression,PLK1,Plk1,INDUCES

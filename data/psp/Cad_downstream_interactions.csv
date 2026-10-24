@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAD,Cad,S1859-p,451247,PPRIHRAsDPGLPAE,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",23429703; 31391321; 35046532,,,,,
+CAD,Cad,T456-p,451248,KVYFLPItPHYVTQV,"activity, induced; intracellular localization; enzymatic activity, induced","carcinogenesis, inhibited; cell growth, induced",15890648; 25472841; 31391321; 33771897,,,,,
+CAD,Cad,S1406-p,451249,GAGGRRLsSFVTKGY,phosphorylation,,17206380,MGS,inhibits phosphorylation of T456,,,

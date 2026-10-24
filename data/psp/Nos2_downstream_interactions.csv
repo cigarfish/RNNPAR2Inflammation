@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NOS2,Nos2,S745-p,763800,KSRQNLQsPTSSRAT,"enzymatic activity, induced",,17804409,FAD_binding_1,,,,
+NOS2,Nos2,Y1055-p,4115776,LPGKPKVyVQDILRQ,protein stabilization,,19875457,NAD_binding_1,,,,
+NOS2,Nos2,Y151-p,457593,IEFVNQYyGSFKEAK,"intracellular localization; enzymatic activity, inhibited",,16116474,NO_synthase,,,,

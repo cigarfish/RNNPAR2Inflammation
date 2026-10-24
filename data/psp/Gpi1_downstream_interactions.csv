@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GPI,Gpi1,S185-p,455279,GPRVWYVsNIDGTHI,"molecular association, regulation; enzymatic activity, inhibited","cell growth, altered",15637053,PGI,,G6PI,Gpi1,INDUCES

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYLIP,Mylip,K293-sm,1881268800,MQYSRDLkGHLASLF,protein stabilization,"endocytosis, inhibited",33154164,,counteracts its ubiquitination,,,

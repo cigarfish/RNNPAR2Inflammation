@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AFP,Afp,K211-ac,1879738501,TKAATVTkELRESSL,ubiquitination,"carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",31811908,,"inhibits ubiquitination, promotes the migration and invasion ",,,
+AFP,Afp,K194-ac,1879738503,KIIPSCCkAENAVEC,ubiquitination,"carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",31811908,,"inhibits ubiquitination, promotes the migration and invasion ",,,
+AFP,Afp,K242-ac,1879738502,FQAITVTkLSQKFTK,ubiquitination,"carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",31811908,,"inhibits ubiquitination, promotes the migration and invasion ",,,

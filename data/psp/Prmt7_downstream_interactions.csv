@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRMT7,Prmt7,R531-m1,63128900,FRDLWRIrSPCGDCE,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; transcription, inhibited",28188177,,,YY1,Yy1,INDUCES

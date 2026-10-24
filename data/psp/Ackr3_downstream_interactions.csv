@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACKR3,Ackr3,S355-p,4709319,RVSETEYsALEQSTK,"receptor internalization, induced; molecular association, regulation; intracellular localization",,33799570,,,ARRB1,Arrb1,INDUCES
+ACKR3,Ackr3,T352-p,4709314,DASRVSEtEYSALEQ,"receptor internalization, induced; molecular association, regulation; intracellular localization",,33799570,,,ARRB1,Arrb1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBM39,Rbm39,Y95-p,3196190,DRRFRGRyRSPYSGP,,"transcription, induced",27018250,,expression of ER (or PR) responsive genes,,,
+RBM39,Rbm39,Y99-p,12244420,RGRYRSPySGPKFNS,,"transcription, induced",27018250,,expression of ER (or PR) responsive genes,,,

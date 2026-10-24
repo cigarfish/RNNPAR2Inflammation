@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MIF,Mif,S91-p,3081709,LAERLRIsPDRVYIN,"molecular association, regulation; intracellular localization","transcription, altered",38052787,MIF,phosphorylation regulates cilia biogenesis,14-3-3 zeta,Ywhaz,INDUCES
+MIF,Mif,S112-gl,48990005,ANVGWNNsTFA____,"molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",26280537,MIF,binds to EGFR and blocks EGF binding to EGFR,EGFR,Egfr,INDUCES
+MIF,Mif,K78-ac,461652,AQNRSYSkLLCGLLA,intracellular localization,"apoptosis, inhibited",35585040,MIF,"impaired MIF interaction with AIF and nuclear translocation, protect neuronal death, reduces ischemia-induced brain injury",AIF1,Aif1,DISRUPTS
+MIF,Mif,T113-gl,48990004,NVGWNNStFA_____,"molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cell motility, inhibited",26280537,MIF,binds to EGFR and blocks EGF binding to EGFR,EGFR,Egfr,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ASB8,Asb8,S31-p,1868140200,RTIAAIRsFPHDNVE,ubiquitination,signaling pathway regulation,31009856,Ank_2,induces ubiquitination of IKKB;  regulates NF-kB signaling pathway,,,
+ASB8,Asb8,S17-p,1869062300,QSIQSKYsLSERLIR,,signaling pathway regulation,32298923,,"IFN-beta signaling, TBK1/IKKi ubiquitination and degradation;  inhibition of IRF3 pathway",,,

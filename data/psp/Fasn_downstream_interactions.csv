@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FASN,Fasn,S1028-p,27930800,LWKDNWVsFMDTMLQ,,"transcription, inhibited",23585690,PS-DH,,,,
+FASN,Fasn,T1032-p,27930801,NWVSFMDtMLQMSIL,,"transcription, inhibited",23585690,PS-DH,,,,

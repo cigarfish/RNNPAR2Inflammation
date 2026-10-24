@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EHD3,Ehd3,K315-sm,49176400,AYIISSLkKEMPSVF,"receptor recycling, induced; intracellular localization","endocytosis, altered",26226295,DUF5600, tubulation of the endocytic recycling compartment (ERC) membranes and efficient recycling,,,
+EHD3,Ehd3,K511-sm,49176401,ANHLIKVkLEGHELP,"receptor recycling, induced; intracellular localization","endocytosis, altered",26226295,EF-hand_4, tubulation of the endocytic recycling compartment (ERC) membranes and efficient recycling,,,

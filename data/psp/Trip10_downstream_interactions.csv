@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIP10,Trip10,Y471-p,480709,ESQDTPIyTEFDEDF,intracellular localization,"carcinogenesis, altered; cytoskeletal reorganization",21525036,,alters TRIP10 invadopodia-suppressive activity,,,
+TRIP10,Trip10,T225-p,1868832804,DMDERRAtRLGAGYG,"molecular association, regulation; intracellular localization","endocytosis, induced; carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",31319138,,,CDC42,Cdc42,INDUCES

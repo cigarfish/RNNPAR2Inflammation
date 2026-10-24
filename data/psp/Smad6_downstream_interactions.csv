@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMAD6,Smad6,K173-ub,31914118,LLLEQELkTVTYSLL,"molecular association, regulation; phosphorylation","cell differentiation, induced; transcription, induced; signaling pathway regulation",23455153,MH1,enhances Smad1 phosphorylation,ALK2,Acvr1,DISRUPTS
+SMAD6,Smad6,R82-m2,1880719800,RGAQGAGrRRRAGGP,"molecular association, regulation; intracellular localization","cell differentiation, inhibited",33667543,,"Disrupts SMAD1-SMAD4 complex formation,required for nuclear localization of SMAD1, promotes cell invasion, inhibits osteogenic differentiation ",SMAD1,Smad1,INDUCES

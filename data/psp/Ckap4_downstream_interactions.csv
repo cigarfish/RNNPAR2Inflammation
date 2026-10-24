@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CKAP4,Ckap4,S3-p,455353,_____MPsAKQRGSK,"molecular association, regulation; intracellular localization; palmitoylation","neural plasticity; cell growth, inhibited; cytoskeletal reorganization; transcription, altered; signaling pathway regulation",15703217; 22265418; 22536245,,,,,
+CKAP4,Ckap4,S19-p,455355,GHGAASPsEKGAHPS,"molecular association, regulation; intracellular localization; palmitoylation","neural plasticity; cell growth, inhibited; cytoskeletal reorganization; transcription, altered; signaling pathway regulation",15703217; 22265418; 22536245,,,,,
+CKAP4,Ckap4,S17-p,455354,KGGHGAAsPSEKGAH,"molecular association, regulation; intracellular localization; palmitoylation","neural plasticity; cell growth, inhibited; cytoskeletal reorganization; transcription, altered; signaling pathway regulation",15703217; 22265418; 22536245,,,,,

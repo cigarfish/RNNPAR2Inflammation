@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SESN2,Sesn2,S73-p,1869992401,GLEALMSsGRVDNLA,"molecular association, regulation; intracellular localization","autophagy, induced",32854424,PA26,,ATP5A1,Atp5a1,INDUCES
+SESN2,Sesn2,K13-ub,573766050,SECRAELkDYLRFAP,protein degradation,,31586034,,leucine-dependent nutrient sensing,,,
+SESN2,Sesn2,S254-p,1869992400,NNSGGFEsARDVEAL,"molecular association, regulation; intracellular localization","autophagy, induced",32854424,PA26,,ATP5A1,Atp5a1,INDUCES

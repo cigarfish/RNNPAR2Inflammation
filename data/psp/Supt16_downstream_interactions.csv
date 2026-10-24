@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUPT16H,Supt16,K674-ub,22252789,IRPNIAQkRMQGSLE,"molecular association, regulation","cell cycle regulation; chromatin organization, altered",35320725,SPT16, K674 ubiquitylation of SPT16 regulates DNA replication-coupled histone incorporation into chromatin,H3,H3,DISRUPTS
+SUPT16H,Supt16,K674-ub,22252789,IRPNIAQkRMQGSLE,"molecular association, regulation","cell cycle regulation; chromatin organization, altered",35320725,SPT16, K674 ubiquitylation of SPT16 regulates DNA replication-coupled histone incorporation into chromatin,H4,Hist1h4a,DISRUPTS
+SUPT16H,Supt16,K674-ac,474904,IRPNIAQkRMQGSLE,"protein stabilization; molecular association, regulation",,35904816,SPT16," SPT16H?BRD4  interacts with HDAC1 and EZH2 contributing to gene silencing, IFN signaling via epigenetic suppression",BRD4,Brd4,INDUCES

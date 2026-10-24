@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CACNA1C,Cacna1c,Y1920-p,1043300,ETSQDETyEVKMNHD,"activity, induced",,17942635,,Ca(2+) currents,,,
+CACNA1C,Cacna1c,Y2217-p,1043301,ELQDSRVyVSSL___,"activity, induced; molecular association, regulation",,17942635,,,Src,Src,INDUCES
+CACNA1C,Cacna1c,Y2134-p,1043301,ELQDSRVyVSSL___,,signaling pathway regulation,20128810,,mutation (Y to F) prevents depolarization-induced CRE activation,,,
+CACNA1C,Cacna1c,S1535-p,460572,DYLTRDWsILGPHHL,protein conformation,,29123182,Ion_trans,increased calcium influx through the channel,,,
+CACNA1C,Cacna1c,S1981-p,455278,ASLGRRAsFHLECLK,"activity, induced",,22100296; 22310722; 31759979,,Ca-v1.2 channel activity induced,,,

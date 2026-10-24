@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BRIP1,Brip1,K1249-ac,15293613,KGMFPGFk_______,,"DNA repair, induced",22792074,,"FANCJ K1249R or BRIP1 K1249Q promotes pol H- or Rad54-dependent repair, respectively;  promotes resection-associated events;  promote an RPA response",,,
+BRIP1,Brip1,T1133-p,5831623,EDESIYFtPELYDPE,"molecular association, regulation",cell cycle regulation,20159562,,,TOPBP1,Topbp1,INDUCES
+BRIP1,Brip1,S990-p,451461,IVISRSTsPTFNKQT,"acetylation; molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, induced",14576433; 15125843; 20173781; 22792074; 32251466,,,CtIP,Rbbp8,INDUCES
+BRIP1,Brip1,S990-p,451461,IVISRSTsPTFNKQT,"acetylation; molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, induced",14576433; 15125843; 20173781; 22792074; 32251466,,,BRCA1(NOT_REPORTED,Brca1,UNKNOWN
+BRIP1,Brip1,S990-p,451461,IVISRSTsPTFNKQT,"acetylation; molecular association, regulation; intracellular localization","cell cycle regulation; DNA repair, induced",14576433; 15125843; 20173781; 22792074; 32251466,,,BRCA1,Brca1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HMGCR,Hmgcr,K89-ub,55607400,NLRQLGSkYILGIAG,protein degradation; ubiquitination,,31323021,Sterol-sensing,"mutationsdid not reduce sterol-induced degradation of HMGCR,  Ubiad1 (WT) or Ubiad1 (G184R) did not increase the amount of mutant HMGCR (K89R, K248R)",,,
+HMGCR,Hmgcr,K248-ub,10844794,VLEEEENkPNPVTQR,protein degradation; ubiquitination,,20458442; 31323021,,"mutationsdid not reduce sterol-induced degradation of HMGCR,  Ubiad1 (WT) or Ubiad1 (G184R) did not increase the amount of mutant HMGCR (K89R, K248R)",,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXW5,Fbxw5,S151-p,20831310,SQFNKDDsLLLASGV,protein degradation; ubiquitination,cell cycle regulation,21725316,,Induces degradation of HsSAS-6 and inhibits its ubiquitination. Induces centrosome duplication,,,

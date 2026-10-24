@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SSTR5,Sstr5,S242-p,1779801,VGCVRRRsERKVTRM,"activity, induced; molecular association, regulation; receptor internalization, altered",,18096696,7tm_1,,ARRB2,Arrb2,INDUCES
+SSTR5,Sstr5,T247-p,1779800,RRSERKVtRMVLVVV,"molecular association, regulation; receptor internalization, altered",,18096696,7tm_1,,ARRB2,Arrb2,INDUCES
+SSTR5,Sstr5,T333-p,27724400,GAKDADAtEPRPDRI,"receptor internalization, induced; receptor recycling, induced",,23418396; 24637622,,,,,

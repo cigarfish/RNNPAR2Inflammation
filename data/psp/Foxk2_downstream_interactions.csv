@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FOXK2,Foxk2,S373-p,3193955,SSRSAPAsPNHAGVL,protein stabilization,"apoptosis, altered; transcription, altered",20810654,,,,,
+FOXK2,Foxk2,S428-p,3193961,FAQSAPGsPLSSQPV,protein stabilization,"apoptosis, altered; transcription, altered",20810654,,,,,
+FOXK2,Foxk2,T13-p,25173275,AALSGAGtPPAGGGA,intracellular localization,"cell growth, induced; transcription, induced",38734828,,,,,
+FOXK2,Foxk2,S30-p,11536109,GGAGGGGsPPGGWAV,intracellular localization,"cell growth, induced; transcription, induced",38734828,,,,,

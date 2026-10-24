@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNPAT,Gnpat,K128-ac,466158,FCAFTLSkVFKQIFS,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell growth, induced",31974474,,regulates FASN degradation,TRIM21,Trim21,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP8,Arhgap8,S455-p,3635677,TKPTLPPsPLMAARR,"activity, induced; molecular association, regulation; protein conformation","cell growth, induced",28092672,,LAMTOR3-mediated nuclear accumulation of phospho-ERK1/2,LAMTOR3,Lamtor3,INDUCES
+ARHGAP8,Arhgap8,S455-p,3635677,TKPTLPPsPLMAARR,"activity, induced; molecular association, regulation; protein conformation","cell growth, induced",28092672,,LAMTOR3-mediated nuclear accumulation of phospho-ERK1/2,MEK1,Map2k1,INDUCES

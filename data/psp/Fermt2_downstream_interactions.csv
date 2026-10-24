@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FERMT2,Fermt2,S180-p,3208611,PGSGSIYsSPGLYSK,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, induced; apoptosis, inhibited; cytoskeletal reorganization; cell adhesion, inhibited",35469017,,,CUL9,Cul9,INDUCES
+FERMT2,Fermt2,K153-ub,1875153101,DPTKKKKkKLDDQSE,protein degradation,"cell adhesion, inhibited",28408404,,,,,
+FERMT2,Fermt2,S177-p,4760248,LITPGSGsIYSSPGL,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, induced; apoptosis, inhibited; cytoskeletal reorganization; cell adhesion, inhibited",35469017,,,CUL9,Cul9,INDUCES
+FERMT2,Fermt2,S159-p,3208605,KKKLDDQsEDEALEL,,"carcinogenesis, induced; cytoskeletal reorganization",25646088; 32104508,,regulates invadopodia formation; induces invadopodia formation,,,
+FERMT2,Fermt2,Y193-p,6153405,SKTMTPTyDAHDGSP,"molecular association, regulation","cell motility, induced; cell adhesion, induced",26037143,,FBLM1 is recruited to focal adhesions. required for cell spreading and migration,FBLIM1,Fblim1,INDUCES
+FERMT2,Fermt2,K154-ub,964523622,PTKKKKKkLDDQSED,protein degradation,"cell adhesion, inhibited",28408404,,,,,
+FERMT2,Fermt2,K187-ub,1875153100,SSPGLYSkTMTPTYD,protein degradation,"cell adhesion, inhibited",28408404,,,,,
+FERMT2,Fermt2,S181-p,3208614,GSGSIYSsPGLYSKT,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, induced; apoptosis, inhibited; cytoskeletal reorganization; cell adhesion, inhibited",25646088; 35469017,,,CUL9,Cul9,INDUCES
+FERMT2,Fermt2,S175-p,3208608,GPLITPGsGSIYSSP,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, induced; apoptosis, inhibited; cytoskeletal reorganization; cell adhesion, inhibited",35469017,,,CUL9,Cul9,INDUCES
+FERMT2,Fermt2,S186-p,15226813,YSSPGLYsKTMTPTY,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; cell growth, induced; apoptosis, inhibited; cytoskeletal reorganization; cell adhesion, inhibited",35469017,,,CUL9,Cul9,INDUCES

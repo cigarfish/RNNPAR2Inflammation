@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCK1,Nck1,K178-ub,40190203,HVGSLSEkLAAVVNN,protein degradation,cytoskeletal reorganization,24287595,,"induces stress-fibre formation in synaptopodin-depleted podocytes, regulation of RhoA-mediated actin dynamics",,,

@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGFBR2,Tgfbr2,S31-gl,1873645300,IPPHVQKsVNNDMIV,"molecular association, regulation; protein conformation",signaling pathway regulation,33234595,,downstream TGF-? signaling,TGFBR1,Tgfbr1,DISRUPTS
+TGFBR2,Tgfbr2,Y424-p,2869602,GQVGTARyMAPEVLE,"enzymatic activity, induced","transcription, altered",9169454,PK_Tyr_Ser-Thr,,,,
+TGFBR2,Tgfbr2,K556-ne,27581511,GRSCSEEkIPEDGSL,protein stabilization; ubiquitination,,23290524,,antagonizes its ubiquitination,,,
+TGFBR2,Tgfbr2,Y336-p,2869603,AKGNLQEyLTRHVIS,"activity, induced; enzymatic activity, induced; phosphorylation","transcription, altered; signaling pathway regulation",24983314; 9169454,PK_Tyr_Ser-Thr,,,,
+TGFBR2,Tgfbr2,S416-p,452049,SVDDLANsGQVGTAR,"enzymatic activity, inhibited",,9155023,PK_Tyr_Ser-Thr,,,,
+TGFBR2,Tgfbr2,Y470-p,34729902,AVGEVKDyEPPFGSK,"activity, induced; phosphorylation",signaling pathway regulation,24983314,PK_Tyr_Ser-Thr," regulates cell morphology, induces phosphorylation and activation of SMAD3, expression of E-cadherin, collagen synthesis and renal fibrosis; regulates TGF-beta1-mediated activation of canonical signaling",,,
+TGFBR2,Tgfbr2,S213-p,452047,TRKLMEFsEHCAIIL,,"cell growth, altered",9155023,,,,,
+TGFBR2,Tgfbr2,K567-ne,27581513,DGSLNTTk_______,protein stabilization; ubiquitination,,23290524,,antagonizes its ubiquitination,,,
+TGFBR2,Tgfbr2,Y284-p,479864,KIFPYEEyASWKTEK,"molecular association, regulation","cytoskeletal reorganization; cell growth, altered",17440088; 18174260,PK_Tyr_Ser-Thr,important for TGF beta -induced cell invasion; stimulates cell invasion;  important for TGF-beta-mediated activation of p38MAPK,GRB2,Grb2,INDUCES
+TGFBR2,Tgfbr2,Y284-p,479864,KIFPYEEyASWKTEK,"molecular association, regulation","cytoskeletal reorganization; cell growth, altered",17440088; 18174260,PK_Tyr_Ser-Thr,important for TGF beta -induced cell invasion; stimulates cell invasion;  important for TGF-beta-mediated activation of p38MAPK,SHC1,Shc1,INDUCES
+TGFBR2,Tgfbr2,Y259-p,2869604,KGRFAEVyKAKLKQN,"enzymatic activity, induced","transcription, altered",9169454,PK_Tyr_Ser-Thr,,,,
+TGFBR2,Tgfbr2,S409-p,452048,LRLDPTLsVDDLANS,"enzymatic activity, induced",,9155023,PK_Tyr_Ser-Thr,,,,

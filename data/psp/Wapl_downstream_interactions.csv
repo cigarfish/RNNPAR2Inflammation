@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WAPL,Wapl,T8-p,1886703600,MTSRFGKtYSRKGGN,"molecular association, regulation",cell cycle regulation,29138236,,,APRIN,Pds5b,DISRUPTS

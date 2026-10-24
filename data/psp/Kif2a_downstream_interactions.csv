@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF2A,Kif2a,T554-p,40240801,ANRVKELtVDPTAAG,intracellular localization,cytoskeletal reorganization,25660017,,"similar temporal and spatial localization; microtubule depolymerization, disassemble primary cilia",,,
+KIF2A,Kif2a,S100-p,23119257,KNRRTVAsIKNDPPS,"activity, induced; molecular association, regulation; intracellular localization",cell cycle regulation,34417301,,,DVL1,Dvl1,INDUCES
+KIF2A,Kif2a,S100-p,23119257,KNRRTVAsIKNDPPS,"activity, induced; molecular association, regulation; intracellular localization",cell cycle regulation,34417301,,,DVL3,Dvl3,INDUCES
+KIF2A,Kif2a,S100-p,23119257,KNRRTVAsIKNDPPS,"activity, induced; molecular association, regulation; intracellular localization",cell cycle regulation,34417301,,,DVL2,Dvl2,INDUCES
+KIF2A,Kif2a,S135-p,4705535,SSAQQNGsVSDISPV,"intracellular localization; activity, inhibited","cytoskeletal reorganization; cell motility, inhibited",26323690,,decreases MT-binding and depolymerizing activity of KIF2A,,,
+KIF2A,Kif2a,T97-p,27451648,KIVKNRRtVASIKND,intracellular localization,cell cycle regulation; cytoskeletal reorganization,23960144,,,,,
+KIF2A,Kif2a,S157-p,2150904,GPPSRRKsNCVKEVE,intracellular localization,cell cycle regulation; cytoskeletal reorganization,23960144,,,,,

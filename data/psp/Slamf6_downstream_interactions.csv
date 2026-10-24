@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLAMF6,Slamf6,Y309-p,457710,ENDTITIySTINHSK,"molecular association, regulation; phosphorylation","cell adhesion, induced; signaling pathway regulation",24688028; 31199820,,necessary for ERK phosphorylation,Lck,Lck,INDUCES
+SLAMF6,Slamf6,Y309-p,457710,ENDTITIySTINHSK,"molecular association, regulation; phosphorylation","cell adhesion, induced; signaling pathway regulation",24688028; 31199820,,necessary for ERK phosphorylation,SH2D1A,Sh2d1a,INDUCES
+SLAMF6,Slamf6,Y285-p,457709,SPTNNTVyASVTHSN,"molecular association, regulation",,24688028,,,Lck,Lck,INDUCES
+SLAMF6,Slamf6,Y285-p,457709,SPTNNTVyASVTHSN,"molecular association, regulation",,24688028,,,SH2D1A,Sh2d1a,INDUCES

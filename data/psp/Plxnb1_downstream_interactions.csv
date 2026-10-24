@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLXNB1,Plxnb1,Y1708-p,3413438,DSVGEPLyMLFRGIK,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,GRB2,Grb2,INDUCES
+PLXNB1,Plxnb1,Y1708-p,3413438,DSVGEPLyMLFRGIK,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,PLCG1,Plcg1,INDUCES
+PLXNB1,Plxnb1,Y1708-p,3413438,DSVGEPLyMLFRGIK,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,PLCG2,Plcg2,INDUCES
+PLXNB1,Plxnb1,Y1732-p,11485312,SVTGKAKyTLNDNRL,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,GRB2,Grb2,INDUCES
+PLXNB1,Plxnb1,Y1732-p,11485312,SVTGKAKyTLNDNRL,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,PLCG1,Plcg1,INDUCES
+PLXNB1,Plxnb1,Y1732-p,11485312,SVTGKAKyTLNDNRL,"molecular association, regulation","cell motility, altered",19805522,Plexin_cytopl,,PLCG2,Plcg2,INDUCES

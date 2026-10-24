@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCM7,Mcm7,S365-p,10027300,LVGGVDQsPRGMKIR,,cell cycle regulation,23720738,MCM,,,,
+MCM7,Mcm7,Y600-p,463418,WASKDATyTSARTLL,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",23764002,MCM_lid,enhances binding at DNA replication origins,MCM2,Mcm2,INDUCES
+MCM7,Mcm7,Y600-p,463418,WASKDATyTSARTLL,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",23764002,MCM_lid,enhances binding at DNA replication origins,MCM5,Mcm5,INDUCES
+MCM7,Mcm7,Y600-p,463418,WASKDATyTSARTLL,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell growth, induced",23764002,MCM_lid,enhances binding at DNA replication origins,MCM3,Mcm3,INDUCES
+MCM7,Mcm7,K449-m2,58123200,CCIDEFDkMAEADRT,"molecular association, regulation",,23583077,MCM,,L3MBTL iso4,L3mbtl2,INDUCES
+MCM7,Mcm7,K449-m1,58123402,CCIDEFDkMAEADRT,"molecular association, regulation",,23583077,MCM,,L3MBTL iso4,L3mbtl2,INDUCES
+MCM7,Mcm7,S121-p,3189844,RDPGMVRsPQNQYPA,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation; signaling pathway regulation,23720738,MCM_N,"induces loading onto chromatin, induces activation of ATR/Chk1/CDK checkpoint pathway",MCM5,Mcm5,INDUCES
+MCM7,Mcm7,S121-p,3189844,RDPGMVRsPQNQYPA,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation; signaling pathway regulation,23720738,MCM_N,"induces loading onto chromatin, induces activation of ATR/Chk1/CDK checkpoint pathway",CDC45L,Cdc45,INDUCES
+MCM7,Mcm7,S121-p,3189844,RDPGMVRsPQNQYPA,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation; signaling pathway regulation,23720738,MCM_N,"induces loading onto chromatin, induces activation of ATR/Chk1/CDK checkpoint pathway",MCM3,Mcm3,INDUCES

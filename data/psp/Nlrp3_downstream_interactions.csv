@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NLRP3,Nlrp3,S198-p,230295300,GKTKTCEsPVSPIKM,"activity, induced; molecular association, regulation; ubiquitination; protein conformation",,28943315,FISNA, deubiquitination;  assembly of NLRP3 oligomers; inflammasome activation,ASCC1,Ascc1,INDUCES
+NLRP3,Nlrp3,Y861-p,59041400,SHSLTRLyVGENALG,"activity, inhibited",,27043286,,"reduced IL-1B secretion, regulates inflammasome activation",,,
+NLRP3,Nlrp3,S806-p,1877558200,KLVELDLsDNALGDF,"molecular association, regulation",,34615873,LRR_6,induces deubiquitination,NEK7,Nek7,DISRUPTS
+NLRP3,Nlrp3,S806-p,1877558200,KLVELDLsDNALGDF,"molecular association, regulation",,34615873,LRR_6,induces deubiquitination,BRCC3,Brcc3,DISRUPTS
+NLRP3,Nlrp3,C958-pa,1894900101,CNLTSHCcWDLSTLL,intracellular localization,,39173637,,,,,
+NLRP3,Nlrp3,K324-ub,1885720106,PLCTDWQkAERGDIL,"activity, induced; molecular association, regulation",,37575012,,NLRP3 inflammasome activation. NLRP3 self-oligomerization,NEK7,Nek7,INDUCES
+NLRP3,Nlrp3,K324-ub,1885720106,PLCTDWQkAERGDIL,"activity, induced; molecular association, regulation",,37575012,,NLRP3 inflammasome activation. NLRP3 self-oligomerization,NLRP3,Nlrp3,INDUCES
+NLRP3,Nlrp3,C130-pa,1894900100,YLSRISIcKMKKDYR,intracellular localization,,39173637,,,,,
+NLRP3,Nlrp3,S295-p,57761902,HKIVRKPsRILFLMD,"molecular association, regulation; activity, inhibited",,27548431; 39173637,NACHT,"regulates cleavages of caspase-1 and GSDMD, as well as the secretion of IL-1? and LDH",NEK7,Nek7,INDUCES
+NLRP3,Nlrp3,S5-p,38492201,___MKMAsTRCKLAR,"protein stabilization; molecular association, regulation; protein conformation; activity, inhibited",signaling pathway regulation,28465465; 32929041,,"inhibits ubiquitination, inhibits NLRP3 oligomerization",NLRP3,Nlrp3,DISRUPTS
+NLRP3,Nlrp3,S5-p,38492201,___MKMAsTRCKLAR,"protein stabilization; molecular association, regulation; protein conformation; activity, inhibited",signaling pathway regulation,28465465; 32929041,,"inhibits ubiquitination, inhibits NLRP3 oligomerization",PYCARD,Pycard,DISRUPTS
+NLRP3,Nlrp3,K496-ub,10998766,LRNHGLQkADVSAFL,protein degradation,,32929041,NOD2_WH,,,,
+NLRP3,Nlrp3,K430-ub,1885720108,KQQMESGkSLAQTSK,"activity, induced; molecular association, regulation",,37575012,,NLRP3 inflammasome activation. NLRP3 self-oligomerization,NEK7,Nek7,INDUCES
+NLRP3,Nlrp3,K430-ub,1885720108,KQQMESGkSLAQTSK,"activity, induced; molecular association, regulation",,37575012,,NLRP3 inflammasome activation. NLRP3 self-oligomerization,NLRP3,Nlrp3,INDUCES
+NLRP3,Nlrp3,T659-p,1871776517,KIEINLStRMDHMVS,"activity, induced; molecular association, regulation",,33432150,, increased pro-IL-1? maturation; induce inflammasome activation,NEK7,Nek7,INDUCES

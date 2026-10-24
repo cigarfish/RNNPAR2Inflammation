@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FAAP20,Faap20,S113-p,27445146,GAGGHLEsPARSLPQ,protein degradation; ubiquitination,,27232758,FANCA_interact,,FBXW7,Fbxw7,INDUCES
+FAAP20,Faap20,K152-ub,41486807,RSCPMCQkEFAPRLT,protein degradation; ubiquitination,,27232758,UBZ_FAAP20,,FBXW7,Fbxw7,INDUCES
+FAAP20,Faap20,K152-ac,1870026101,RSCPMCQkEFAPRLT,protein stabilization; ubiquitination,,32763975,UBZ_FAAP20,antagonizes FAAP20 ubiquitination and degradation,,,
+FAAP20,Faap20,S48-p,1868139203,AELLRTVsPELILDH,"protein stabilization; molecular association, regulation; protein conformation",signaling pathway regulation,30789902,FANCA_interact, PIN1 interaction regulate the FBW7 proteolytic signaling ; isomerization of pFAAP20 by PIN1,PIN1,Pin1,INDUCES

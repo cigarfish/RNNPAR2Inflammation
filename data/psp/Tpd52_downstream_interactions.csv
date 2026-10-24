@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TPD52,Tpd52,S176-p,465974,KNSPTFKsFEEKVEN,"activity, induced; molecular association, regulation; intracellular localization","cell cycle regulation; exocytosis, induced",20032513; 20946871; 23868405,TPD52,,LAMP1,Lamp1,INDUCES
+TPD52,Tpd52,S40-p,17555377,GNSSPPGsPTLQKFG,"protein stabilization; molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced",35194188,,inhibits ubiquitination,SPOP,Spop,DISRUPTS
+TPD52,Tpd52,K163-ac,1881321500,SVGSVITkKLEDVKN,"molecular association, regulation; activity, inhibited","carcinogenesis, inhibited; cell growth, inhibited; autophagy, inhibited",34034634,,inhibits CMA (chaperone-mediated autophagy ),HSC70,Hspa8,DISRUPTS

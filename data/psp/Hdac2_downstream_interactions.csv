@@ -1,0 +1,18 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC2,Hdac2,K75-ac,11320706,YHSDEYIkFLRSIRP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","transcription, induced",24526703; 32698523,Hist_deacetyl,"Lamin A/C binds PCAF and HDAC2 in committed C2C12 ; induces hypertrophic phenotypes in cardiomyocytes, induces phosphorylation at HDAC2- S394 ",lamin A/C,Lmna,INDUCES
+HDAC2,Hdac2,K75-ac,11320706,YHSDEYIkFLRSIRP,"molecular association, regulation; phosphorylation; enzymatic activity, induced","transcription, induced",24526703; 32698523,Hist_deacetyl,"Lamin A/C binds PCAF and HDAC2 in committed C2C12 ; induces hypertrophic phenotypes in cardiomyocytes, induces phosphorylation at HDAC2- S394 ",CK2A1,Csnk2a1,INDUCES
+HDAC2,Hdac2,S411-p,13373500,KRISIRAsDKRIACD,"molecular association, regulation; acetylation; enzymatic activity, inhibited",,20388487,,,p53,Trp53,INDUCES
+HDAC2,Hdac2,S411-p,13373500,KRISIRAsDKRIACD,"molecular association, regulation; acetylation; enzymatic activity, inhibited",,20388487,,,HDAC1,Hdac1,INDUCES
+HDAC2,Hdac2,K462-sm,27490400,EDKKTDVkEEDKSKD,"molecular association, regulation","apoptosis, inhibited",22493095,,,p53,Trp53,INDUCES
+HDAC2,Hdac2,S422-p,467979,IACDEEFsDSEDEGE,"molecular association, regulation; acetylation; enzymatic activity, inhibited",,20388487,,,p53,Trp53,INDUCES
+HDAC2,Hdac2,S422-p,467979,IACDEEFsDSEDEGE,"molecular association, regulation; acetylation; enzymatic activity, inhibited",,20388487,,,HDAC1,Hdac1,INDUCES
+HDAC2,Hdac2,K51-sm,1877676805,LNYGLYRkMEIYRPH,"acetylation; enzymatic activity, induced",,30873037,Hist_deacetyl,inhibited IL-8 acetylation,,,
+HDAC2,Hdac2,Y222-p,464957,IGAGKGKyYAVNFPM,protein stabilization; ubiquitination,"transcription, inhibited",25219501,Hist_deacetyl,inhibits polyubiquitination,,,
+HDAC2,Hdac2,S424-p,467980,CDEEFSDsEDEGEGG,"acetylation; molecular association, regulation; enzymatic activity, inhibited",,19486889; 20388487,,,p53,Trp53,INDUCES
+HDAC2,Hdac2,S424-p,467980,CDEEFSDsEDEGEGG,"acetylation; molecular association, regulation; enzymatic activity, inhibited",,19486889; 20388487,,,HDAC1,Hdac1,INDUCES
+HDAC2,Hdac2,S424-p,467980,CDEEFSDsEDEGEGG,"acetylation; molecular association, regulation; enzymatic activity, inhibited",,19486889; 20388487,,,KLF4,Klf4,DISRUPTS
+HDAC2,Hdac2,S394-p,449930,EDAVHEDsGDEDGED,"acetylation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","apoptosis, induced",12082111; 20388487; 25609639,,,p53,Trp53,INDUCES
+HDAC2,Hdac2,S394-p,449930,EDAVHEDsGDEDGED,"acetylation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","apoptosis, induced",12082111; 20388487; 25609639,,,HDAC1,Hdac1,INDUCES
+HDAC2,Hdac2,S394-p,449930,EDAVHEDsGDEDGED,"acetylation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","apoptosis, induced",12082111; 20388487; 25609639,,,FOXO3A,Foxo3,INDUCES
+HDAC2,Hdac2,S394-p,449930,EDAVHEDsGDEDGED,"acetylation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","apoptosis, induced",12082111; 20388487; 25609639,,,SIN3A,Sin3a,INDUCES
+HDAC2,Hdac2,S394-p,449930,EDAVHEDsGDEDGED,"acetylation; molecular association, regulation; enzymatic activity, inhibited; enzymatic activity, induced","apoptosis, induced",12082111; 20388487; 25609639,,,CHD-3 iso3,Chd3,INDUCES

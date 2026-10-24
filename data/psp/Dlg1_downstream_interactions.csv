@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DLG1,Dlg1,T657-p,22496705,KERARLKtVKFNSKT,,"cell motility, induced",22027822,,,,,
+DLG1,Dlg1,S443-p,5931300,FLGQTPAsPARYSPV,protein degradation; protein stabilization; ubiquitination; intracellular localization,,19066288; 19307009,PDZ_assoc,degraded by HPV E6 oncoprotein in HPV-containing cell lines,,,
+DLG1,Dlg1,S158-p,2024309,FVSHSHIsPIKPTEA,"protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization",cytoskeletal reorganization,15729360; 19066288; 19307009,MAGUK_N_PEST,,GKAP1,Gkap1,DISRUPTS
+DLG1,Dlg1,T209-p,35547401,VNTDSLEtPTYVNGT,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,15729360,MAGUK_N_PEST,,GKAP1,Gkap1,DISRUPTS

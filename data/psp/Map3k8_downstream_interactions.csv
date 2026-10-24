@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP3K8,Map3k8,T290-p,455276,FPKDLRGtEIYMSPE,"protein degradation; molecular association, regulation; phosphorylation; enzymatic activity, induced",,15466476; 15699325; 16806191,Pkinase,required for phosphorylation of Cot Ser62,NFkB-p105,Nfkb1,DISRUPTS
+MAP3K8,Map3k8,S62-p,2868603,QNDERSKsLLLSGQE,"enzymatic activity, induced",,16806191,,,,,
+MAP3K8,Map3k8,S400-p,447712,EDQPRCQsLDSALLE,,"transcription, altered",12138205,,,,,

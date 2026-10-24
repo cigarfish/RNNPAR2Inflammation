@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MRAS,Mras,K127-ub,1879723002,PMILVANkVDLMHLR,protein degradation,,31337872,,other residues may be involved in degradation,,,

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAD2L1,Mad2l1,S195-p,468160,TTIHKVNsMVAYKIP,"molecular association, regulation; protein conformation; activity, inhibited",cell cycle regulation,12574116; 21041666,HORMA,"MAD2L1 S195D mutant bound to Mad1 with lower affinity in vitro but higher in vivo, as compared to MAD2L1-wt",Mad1,Mad1l1,DISRUPTS
+MAD2L1,Mad2l1,S195-p,468160,TTIHKVNsMVAYKIP,"molecular association, regulation; protein conformation; activity, inhibited",cell cycle regulation,12574116; 21041666,HORMA,"MAD2L1 S195D mutant bound to Mad1 with lower affinity in vitro but higher in vivo, as compared to MAD2L1-wt",CDC20,Cdc20,DISRUPTS
+MAD2L1,Mad2l1,S178-p,11280300,GPQFITNsEEVRLRS,"molecular association, regulation",cell cycle regulation,12574116,HORMA,,Mad1,Mad1l1,DISRUPTS
+MAD2L1,Mad2l1,T187-p,22640014,EVRLRSFtTTIHKVN,intracellular localization,,23454898,HORMA,,,,
+MAD2L1,Mad2l1,S170-p,11280301,VPEKWEEsGPQFITN,"molecular association, regulation; protein conformation",cell cycle regulation,12574116; 21041666,HORMA,,Mad1,Mad1l1,DISRUPTS
+MAD2L1,Mad2l1,S185-p,4326275,SEEVRLRsFTTTIHK,intracellular localization; protein conformation,,21041666; 23454898,HORMA,,,,

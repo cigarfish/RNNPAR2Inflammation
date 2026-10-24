@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR2F1,Nr2f1,K396-ub,21180242,FFVRLVGkTPIETLI,ubiquitination,"transcription, altered",37968257,,"463aa with low expression in GBM induced less ubiquitination of the transcription factor NR2F1 to increase its expression level inducing transcription of MMP2, MMP9, and VE-cadherin ",,,

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MST1R,Mst1r,Y1353-p,456487,SALLGDHyVQLPATY,"molecular association, regulation; phosphorylation","cell growth, altered",10871856; 11064459,,,Met,Met,INDUCES
+MST1R,Mst1r,Y1198-p,456482,QVARGMEyLAEQKFV,"enzymatic activity, induced","transcription, induced",24739671,PK_Tyr_Ser-Thr,relieves inhibition on Ron activation imposed by the JM-C region,,,
+MST1R,Mst1r,Y1239-p,457984,DILDREYySVQQHRH,"phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited",24739671; 35569509,PK_Tyr_Ser-Thr,,,,
+MST1R,Mst1r,Y1317-p,456484,EYCPDSLyQVMQQCW,,"cell growth, altered",11064459,PK_Tyr_Ser-Thr,,,,
+MST1R,Mst1r,Y1360-p,456488,YVQLPATyMNLGPST,"molecular association, regulation; phosphorylation","cell growth, altered",10871856; 11064459,,,Met,Met,INDUCES
+MST1R,Mst1r,S1394-p,450270,VRRPRPLsEPPRPT_,"molecular association, regulation",,12919677; 14505491,,,14-3-3 beta,Ywhab,INDUCES
+MST1R,Mst1r,Y1238-p,454933,RDILDREyYSVQQHR,"protein conformation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited",20726546; 24739671; 35569509,PK_Tyr_Ser-Thr,,,,

@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KEAP1,Keap1,S599-p,29606702,SEVTRMTsGRSGVGV,"molecular association, regulation","carcinogenesis, inhibited; apoptosis, inhibited",24127568,,,NRF2,Nfe2l2,INDUCES
+KEAP1,Keap1,K323-ub,1883516303,VMPCRAPkVGRLIYT,protein degradation,,36163178,,,,,
+KEAP1,Keap1,S104-ga,1873356118,KVVLASSsPVFKAMF,protein degradation; ubiquitination,"transcription, inhibited",28663241,BTB,NRF2 ubiquitination and degradation,CUL3,Cul3,INDUCES
+KEAP1,Keap1,S602-p,29606703,TRMTSGRsGVGVAVT,"protein stabilization; molecular association, regulation","carcinogenesis, inhibited; apoptosis, inhibited",24127568,,,NRF2,Nfe2l2,INDUCES
+KEAP1,Keap1,S104-p,1875847402,KVVLASSsPVFKAMF,"molecular association, regulation",,34918396,BTB,,PIN1,Pin1,INDUCES
+KEAP1,Keap1,T277-p,15404187,AVRCHSLtPNFLQMQ,"molecular association, regulation",,34918396,BACK,,PIN1,Pin1,INDUCES
+KEAP1,Keap1,K312-ac,1883300103,FEELTLHkPTQVMPC,"protein stabilization; molecular association, regulation","transcription, inhibited",35917404,,"hP301S mutant Tau,  decreases the transcription of synaptic genes in the presence of P301S mutant, synapse loss and cognitive dysfunction",Tau,Mapt,INDUCES
+KEAP1,Keap1,S293-p,4270135,QKCEILQsDSRCKDY,,"transcription, inhibited",30576774,,"NQO1, Nrf2 expression reduced",,,
+KEAP1,Keap1,K39-sm,1885722808,MYASTECkAEVTPSQ,sumoylation; protein stabilization; ubiquitination,"cell growth, induced; transcription, induced",37660919,,"Sumoylation inhibits NRF2 ubiquitination-dependent degradation, increased expression of NRF2 related genes, increased NRF2 binding to the promoter regions of antioxidant genes and expression of NRF2 related genes, promotes tumor growth",,,
+KEAP1,Keap1,S53-p,1410340102,QHGNRTFsYTLEDHT,"molecular association, regulation","transcription, induced",30576774,,"free NRF2 nuclear localization, NQO1, GCLC transcription induced",NRF2,Nfe2l2,DISRUPTS
+KEAP1,Keap1,K108-ub,12344574,ASSSPVFkAMFTNGL,protein degradation,,36163178,BTB,,,,
+KEAP1,Keap1,K551-ub,1883516302,WTFVAPMkHRRSALG,protein degradation,,36163178,,,,,

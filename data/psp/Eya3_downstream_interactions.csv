@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EYA3,Eya3,Y77-p,1869778703,QMYSAKPyAHILSVP,,"cell growth, altered",31847183,,,,,
+EYA3,Eya3,Y237-p,1870640400,TTLAATTyQSEKPSV,,"cell growth, altered",31847183,,,,,
+EYA3,Eya3,Y96-p,1869778704,AYPGQTQyQTLQQTQ,,"cell growth, altered",31847183,,,,,

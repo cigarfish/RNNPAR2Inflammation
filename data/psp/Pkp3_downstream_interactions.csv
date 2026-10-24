@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PKP3,Pkp3,S285-p,4782043,APSVRSLsLSLADSG,"molecular association, regulation; intracellular localization","cell adhesion, induced; cell motility, inhibited",24124604; 29678907,,"strong  plasma  membrane  association  with  or  without  14-3-3 sigma overexpression in WT cells; Mutants unable to associate with 14-3-3 sigma, display decreased adhesion and increased motility.",14-3-3 sigma,Sfn,INDUCES
+PKP3,Pkp3,Y195-p,451533,PGGLDDRySLVSEQL,intracellular localization,,25501895,,desmosome disassembly and function,,,

@@ -1,0 +1,35 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XRCC1,Xrcc1,T284-p,5014905,APTRTPAtAPVPARA,"activity, induced; molecular association, regulation","cell growth, altered",18971944,,promotes base excision repair,MPG,Mpg,INDUCES
+XRCC1,Xrcc1,T284-p,5014905,APTRTPAtAPVPARA,"activity, induced; molecular association, regulation","cell growth, altered",18971944,,promotes base excision repair,CCNO,Ccno,INDUCES
+XRCC1,Xrcc1,S421-p,3181474,EASHSGGsGDEAPKL,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,K260-ac,466090,EEKKTPSkPPAQLSP,protein degradation,,31043584,,,,,
+XRCC1,Xrcc1,S578-p,40274402,GELEDYMsDRVQFVI,"molecular association, regulation",,25477519,BRCT_2,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,K431-ac,1878191201,EAPKLPQkQPQTKTK,protein degradation,,31043584,,,,,
+XRCC1,Xrcc1,S408-p,3181459,YLMAGPGsSSEEDEA,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S485-p,451510,QDNGAEDsGDTEDEL,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S485-p,451510,QDNGAEDsGDTEDEL,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,S525-p,451451,STDENTDsEEHQEPP,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S525-p,451451,STDENTDsEEHQEPP,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,S518-p,451449,GEDPYAGsTDENTDS,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S518-p,451449,GEDPYAGsTDENTDS,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,APTX,Aptx,INDUCES
+XRCC1,Xrcc1,S518-p,451449,GEDPYAGsTDENTDS,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,S371-p,458811,FANTPKYsQVLGLGG,"molecular association, regulation",,16397295,BRCT,,XRCC1,Xrcc1,DISRUPTS
+XRCC1,Xrcc1,T488-p,451452,GAEDSGDtEDELRRV,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T488-p,451452,GAEDSGDtEDELRRV,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,T367-p,36131476,LICAFANtPKYSQVL,intracellular localization,"DNA repair, induced",28740101,BRCT,recruitment of XRCC1 to DNA damage and binding to PARP1/PAR,,,
+XRCC1,Xrcc1,S416-p,3181468,SSEEDEAsHSGGSGD,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T523-p,451448,AGSTDENtDSEEHQE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T523-p,451448,AGSTDENtDSEEHQE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,APTX,Aptx,INDUCES
+XRCC1,Xrcc1,T523-p,451448,AGSTDENtDSEEHQE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,S409-p,3181462,LMAGPGSsSEEDEAS,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T519-p,451450,EDPYAGStDENTDSE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T519-p,451450,EDPYAGStDENTDSE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,APTX,Aptx,INDUCES
+XRCC1,Xrcc1,T519-p,451450,EDPYAGStDENTDSE,"molecular association, regulation; intracellular localization",,15066279; 15367657; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,Y515-p,40274401,EENGEDPyAGSTDEN,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,T358-p,143281205,PDWTRDStHLICAFA,intracellular localization,"DNA repair, induced",28740101,BRCT,recruitment of XRCC1 to DNA damage and binding to PARP1/PAR,,,
+XRCC1,Xrcc1,K176-sm,55462128,KLGQFRVkEEDESAN,"molecular association, regulation","cell differentiation, altered",30523148,,,TDG,Tdg,INDUCES
+XRCC1,Xrcc1,S410-p,3181465,MAGPGSSsEEDEASH,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S418-p,3181471,EEDEASHsGGSGDEA,"molecular association, regulation",,25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S475-p,451509,IDIEGVQsEGQDNGA,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,PARP1,Parp1,DISRUPTS
+XRCC1,Xrcc1,S475-p,451509,IDIEGVQsEGQDNGA,"molecular association, regulation; intracellular localization",,15066279; 25477519,,,Pnk1,Pnk1,INDUCES
+XRCC1,Xrcc1,K298-ac,474774,AQGAVTGkPRGEGTE,protein degradation,,31043584,,,,,

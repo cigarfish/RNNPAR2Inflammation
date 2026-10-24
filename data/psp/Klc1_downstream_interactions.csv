@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KLC1,Klc1,S460-p,477826,YKACKVDsPTVTTTL,protein processing,,31806024,, inhibits the axonal transport; promotes amyloidogenic processing of APP,,,

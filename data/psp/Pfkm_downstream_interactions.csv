@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PFKM,Pfkm,S762-p,55569802,YEIDLDTsDHAHLEH,"enzymatic activity, inhibited",,27153534,,,,,
+PFKM,Pfkm,S74-p,55569803,EATWESVsMMLQLGG,"enzymatic activity, inhibited",,27153534,PFK,,,,

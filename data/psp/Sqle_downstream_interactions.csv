@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SQLE,Sqle,S87-p,1877421602,WAKSPPEsENKEQLE,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",35767703,,,MARCH6,Marchf6,INDUCES
+SQLE,Sqle,S83-ub,1879784804,IGFFWAKsPPESENK,protein degradation,,30940729,,cholesterol-accelerated degradation ,,,
+SQLE,Sqle,S83-p,1877421600,IGFFWAKsPPESENK,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",35767703,,,MARCH6,Marchf6,INDUCES

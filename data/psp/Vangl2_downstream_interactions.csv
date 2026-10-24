@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+VANGL2,Vangl2,S520-p,8095023,MRLQSETsV______,"molecular association, regulation",,38142947,Strabismus,,SYNJ2BP,Synj2bp,INDUCES

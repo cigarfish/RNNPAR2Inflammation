@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GATAD2A,Gatad2a,K30-sm,3755612,DVESKKIkMERGLLA,"molecular association, regulation","transcription, inhibited",16738318,,,HDAC1,Hdac1,INDUCES
+GATAD2A,Gatad2a,K487-sm,3755611,GTAPAQAkAEPTAAP,,"transcription, inhibited",16738318,,,,,

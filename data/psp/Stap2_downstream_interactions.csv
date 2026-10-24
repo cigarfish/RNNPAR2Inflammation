@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STAP2,Stap2,Y22-p,11500606,GVLPSHYyESFLEKK,,"transcription, altered",12540842,PH,,,,
+STAP2,Stap2,Y310-p,6155352,LPNQEENyVTPIGDG,,"transcription, altered",12540842,,,,,
+STAP2,Stap2,Y322-p,3974222,GDGPAVDyENQDVAS,"molecular association, regulation","transcription, altered",12540842,,,STAT3,Stat3,INDUCES
+STAP2,Stap2,Y250-p,478353,PFLLDEDyEKVLGYV,phosphorylation,"signaling pathway regulation; transcription, altered",12540842; 35725273,,"induces phosphorylation of ZAP-70, PLC-g1, ERK, and p38 thus inducing the TCR-proximal signaling pathway ",,,

@@ -1,0 +1,23 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLT3,Flt3,R972-m2,1879733100,CPHTYQNrRPFSREM,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,GRB2,Grb2,INDUCES
+FLT3,Flt3,R972-m2,1879733100,CPHTYQNrRPFSREM,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,Btk(NOT_REPORTED,Btk,UNKNOWN
+FLT3,Flt3,R972-m2,1879733100,CPHTYQNrRPFSREM,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,SHP-2,Ptpn11,INDUCES
+FLT3,Flt3,Y599-p,448643,VDFREYEyDLKWEFP,"molecular association, regulation; enzymatic activity, induced; phosphorylation",,11971190; 16684964; 26848862,,,Src,Src,INDUCES
+FLT3,Flt3,Y599-p,448643,VDFREYEyDLKWEFP,"molecular association, regulation; enzymatic activity, induced; phosphorylation",,11971190; 16684964; 26848862,,,SHP-2,Ptpn11,INDUCES
+FLT3,Flt3,Y599-p,448643,VDFREYEyDLKWEFP,"molecular association, regulation; enzymatic activity, induced; phosphorylation",,11971190; 16684964; 26848862,,,Fyn,Fyn,INDUCES
+FLT3,Flt3,R973-m2,1879733101,PHTYQNRrPFSREMD,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,GRB2,Grb2,INDUCES
+FLT3,Flt3,R973-m2,1879733101,PHTYQNRrPFSREMD,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,Btk(NOT_REPORTED,Btk,UNKNOWN
+FLT3,Flt3,R973-m2,1879733101,PHTYQNRrPFSREMD,"molecular association, regulation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",31217189; 31395602,,,SHP-2,Ptpn11,INDUCES
+FLT3,Flt3,Y591-p,448190,SSDNEYFyVDFREYE,"molecular association, regulation; enzymatic activity, induced; phosphorylation","cell growth, induced; cell growth, altered",11971190; 16103085; 16627759; 26848862; 36473282,,,Fyn,Fyn,INDUCES
+FLT3,Flt3,Y793-p,7996202,EDLLCFAyQVAKGME,"molecular association, regulation",,23246379,PK_Tyr_Ser-Thr,,GRB10,Grb10,INDUCES
+FLT3,Flt3,Y842-p,454872,DIMSDSNyVVRGNAR,protein conformation; phosphorylation,"apoptosis, inhibited; cell growth, altered",15345593,PK_Tyr_Ser-Thr,FLT3 Y842C -transfected cells show constitutive FLT3 tyrosine phosphorylation and activation ,,,
+FLT3,Flt3,Y969-p,454874,VSECPHTyQNRRPFS,"molecular association, regulation",cell cycle regulation,19438505; 31395602,,regulates cell proliferation,GRB2,Grb2,INDUCES
+FLT3,Flt3,Y969-p,454874,VSECPHTyQNRRPFS,"molecular association, regulation",cell cycle regulation,19438505; 31395602,,regulates cell proliferation,Btk(NOT_REPORTED,Btk,UNKNOWN
+FLT3,Flt3,Y969-p,454874,VSECPHTyQNRRPFS,"molecular association, regulation",cell cycle regulation,19438505; 31395602,,regulates cell proliferation,SHP-2,Ptpn11,INDUCES
+FLT3,Flt3,Y589-p,448189,TGSSDNEyFYVDFRE,"molecular association, regulation; enzymatic activity, inhibited; phosphorylation","cell growth, altered",11971190; 16627759; 16684964,,"The double mutation Y589/591F has a slower growth rate (this is in the ligand-independent, constitutive active allele).",Src,Src,INDUCES
+FLT3,Flt3,Y768-p,459389,HSEDEIEyENQKRLE,"molecular association, regulation",cell cycle regulation,19438505,PK_Tyr_Ser-Thr,regulates cell proliferation,GRB2,Grb2,INDUCES
+FLT3,Flt3,Y597-p,450033,FYVDFREyEYDLKWE,phosphorylation,,11971190,," however, in the FLT3-ITD mutant,  there is only a slight decrease in its phosphotyrosine content and this mutation does not alter its transforming capabilities (and STAT5a and MAPK activation and SHC phosphorylation).; Mutation of all 4 sites from Y->F abrogates the phosphotyrosine content of wt-FLT3",,,
+FLT3,Flt3,Y955-p,454873,ADAEEAMyQNVDGRV,"molecular association, regulation; phosphorylation",cell cycle regulation,16627759; 19438505; 26848862,,regulates cell proliferation,GRB2,Grb2,INDUCES
+FLT3,Flt3,Y955-p,454873,ADAEEAMyQNVDGRV,"molecular association, regulation; phosphorylation",cell cycle regulation,16627759; 19438505; 26848862,,regulates cell proliferation,Fyn,Fyn,INDUCES
+FLT3,Flt3,Y726-p,448644,KEHNFSFyPTFQSHP,phosphorylation,,16627759,PK_Tyr_Ser-Thr,"While none of the single mutations affected STAT-5 phosphotyrosine levels, 3 double mutations did:  Y591/726F, Y591/955F, Y589/591F (all three pairs have Y591F in common).",,,
+FLT3,Flt3,Y572-p,466345,KYKKQFRyESQLQMV,"molecular association, regulation",,23246379,,,GRB10,Grb10,INDUCES

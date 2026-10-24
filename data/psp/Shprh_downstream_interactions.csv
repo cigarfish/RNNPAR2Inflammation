@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SHPRH,Shprh,K1562-ub,22252010,FAQISRVkTFQENLS,protein degradation; ubiquitination,"carcinogenesis, altered; cell growth, altered",29343848,Helicase_C,regulates PCNA ubiquitination,,,
+SHPRH,Shprh,K1572-ub,22252007,QENLSAFkRDPQINI,protein degradation; ubiquitination,"carcinogenesis, altered; cell growth, altered",29343848,Helicase_C,regulates PCNA ubiquitination,,,

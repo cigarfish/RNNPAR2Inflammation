@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HRH1,Hrh1,S398-p,450937,WKRLRSHsRQYVSGL,"receptor desensitization, altered; receptor internalization, altered",,10101032; 15107581; 15328002,7tm_1,,,,
+HRH1,Hrh1,S396-p,453404,FTWKRLRsHSRQYVS,"receptor desensitization, altered; activity, inhibited",,15107581; 15328002,7tm_1,S396 phosphorylation had an inhibitory effect on S398-mediated receptor downregulation.,,,
+HRH1,Hrh1,T140-p,453406,LRYLKYRtKTRASAT,"receptor desensitization, altered; receptor internalization, altered",,15107581; 15328002,7tm_1,,,,
+HRH1,Hrh1,T142-p,453405,YLKYRTKtRASATIL,"receptor desensitization, altered; activity, inhibited",,15107581; 15328002,7tm_1,T142 phosphorylation had an inhibitory effect on T140-mediated receptor downregulation.,,,
+HRH1,Hrh1,T478-p,453403,CNENFKKtFKRILHI,"receptor desensitization, altered",,15107581,,,,,

@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GMNN,Gmnn,T203-p,475945,EGTVSSStDAKPCI_,,"apoptosis, altered",17261582,,regulates geminin cleavage by caspase-3,,,
+GMNN,Gmnn,Y150-p,33402208,EVAEHVQyMAELIER,protein stabilization,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",24789045,Geminin,"induces aneuploidy, promotes transformation ",,,
+GMNN,Gmnn,K100-ub,964516696,NPSSQYWkEVAEKRR,"molecular association, regulation",,34599168,Geminin,"inhibits MCM proteins binding to Cdt1;  cancer-derived SPOP mutants increase replication origin ?ring, re-replication, and genome instability, increased by ATR inhibition",CDT1,Cdt1,DISRUPTS
+GMNN,Gmnn,T25-p,40323301,NSSVPRRtLKMIQPS,protein stabilization,,23695679,Geminin,,,,
+GMNN,Gmnn,S184-p,25535401,EEETVEDsLVEDSEI,"molecular association, regulation",,22615398,Geminin,,HOXC9,Hoxc9,INDUCES
+GMNN,Gmnn,S200-p,475942,TCAEGTVsSSTDAKP,,"apoptosis, altered",17261582,,regulates geminin cleavage by caspase-3,,,
+GMNN,Gmnn,K127-ub,573758968,LHKEIEQkDNEIARL,"molecular association, regulation",,34599168,Geminin,"inhibits MCM proteins binding to Cdt1;  cancer-derived SPOP mutants increase replication origin ?ring, re-replication, and genome instability, increased by ATR inhibition",CDT1,Cdt1,DISRUPTS
+GMNN,Gmnn,S202-p,475944,AEGTVSSsTDAKPCI,,"apoptosis, altered",17261582,,regulates geminin cleavage by caspase-3,,,
+GMNN,Gmnn,S201-p,475943,CAEGTVSsSTDAKPC,,"apoptosis, altered",17261582,,regulates geminin cleavage by caspase-3,,,

@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF18A,Kif18a,S684-p,3207072,KGQHTLKsPPSQSVQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R2C,Ppp2r2c,DISRUPTS
+KIF18A,Kif18a,S684-p,3207072,KGQHTLKsPPSQSVQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3B,Ppp2r3b,INDUCES
+KIF18A,Kif18a,S684-p,3207072,KGQHTLKsPPSQSVQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R5C,Ppp2r5c,DISRUPTS
+KIF18A,Kif18a,S684-p,3207072,KGQHTLKsPPSQSVQ,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3A,Ppp2r3a,INDUCES
+KIF18A,Kif18a,S284-p,50782076,EGTNINRsLLALGNV,intracellular localization,"cell cycle regulation; cell growth, inhibited",38410188,Kinesin,,,,
+KIF18A,Kif18a,S357-p,2526556,NRAKDIKsSLKSNVL,intracellular localization,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",37903223,,,,,
+KIF18A,Kif18a,S674-p,3207069,TRRKLMPsPLKGQHT,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R2C,Ppp2r2c,DISRUPTS
+KIF18A,Kif18a,S674-p,3207069,TRRKLMPsPLKGQHT,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3B,Ppp2r3b,INDUCES
+KIF18A,Kif18a,S674-p,3207069,TRRKLMPsPLKGQHT,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R5C,Ppp2r5c,DISRUPTS
+KIF18A,Kif18a,S674-p,3207069,TRRKLMPsPLKGQHT,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,32900880,,,PPP2R3A,Ppp2r3a,INDUCES

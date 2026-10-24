@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPRTN,Sprtn,K230-ac,1875273400,KGKAKLGkEPVLAAE,intracellular localization,,32649882,,"recruitment to chromatin, DNA-protein crosslinks (DPCs) repair",,,

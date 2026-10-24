@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNQ1,Kcnq1,T470-p,2999202,SSVRKSPtLLEVSMP,"activity, induced",,12835205,,,,,
+KCNQ1,Kcnq1,S27-p,2999203,LPGARRGsAGLAKKC,"activity, induced; molecular association, regulation; protein conformation",,12835205; 22095730; 25037568,,cAMP-mediated upregulation of channel IKS K+ current,KCNE1,Kcne1,INDUCES
+KCNQ1,Kcnq1,S577-p,456165,PSLFISVsEKSKDRG,"activity, induced",,12879210,KCNQ_channel,,,,
+KCNQ1,Kcnq1,T513-p,456164,LREHHRAtIKVIRRM,"activity, induced",,12879210,KCNQ_channel,,,,
+KCNQ1,Kcnq1,S484-p,40556220,PHFMRTNsFAEDLDL,"activity, inhibited",,29410121,KCNQ_channel,reduction of currrent density,,,
+KCNQ1,Kcnq1,S468-p,2999201,YDSSVRKsPTLLEVS,"activity, induced",,12835205,,,,,
+KCNQ1,Kcnq1,S464-p,456163,SVDGYDSsVRKSPTL,"activity, induced",,12879210,,,,,
+KCNQ1,Kcnq1,S95-p,4712797,DPRVSIYsTRRPVLA,"activity, inhibited",,29452158,,mediate the inhibition of Ang II on the current,,,
+KCNQ1,Kcnq1,S409-p,456162,SHTLLSPsPKPKKSV,"activity, induced",,12879210,,,,,
+KCNQ1,Kcnq1,T96-p,23120471,PRVSIYStRRPVLAR,"activity, inhibited",,29452158,,mediate the inhibition of Ang II on the current,,,
+KCNQ1,Kcnq1,K424-sm,1873173302,VVKKKKFkLDKDNGV,sumoylation,,28743749,,A SUMO shifts the half-maximal activation voltage and  produces a maximal+34-mV shift. ,,,

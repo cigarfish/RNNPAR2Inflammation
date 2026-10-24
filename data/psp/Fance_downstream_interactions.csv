@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FANCE,Fance,S374-p,476782,LFLGRILsLTSSASR,"protein degradation; molecular association, regulation; intracellular localization",,17296736,FA_FANCE,required for mitomycin C resistance,FANCD2,Fancd2,INDUCES
+FANCE,Fance,T346-p,476781,LGLLRLCtWLLALSP,"protein degradation; molecular association, regulation; intracellular localization",,17296736,FA_FANCE,required for mitomycin C resistance,FANCD2,Fancd2,INDUCES

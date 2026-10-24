@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ADAR,Adar,K574-ub,59149208,TILLEEAkAKDSGKS,protein degradation,,27729454,,regulation of IFN-signaling induced anti-viral activity,,,
+ADAR,Adar,T1033-p,1868546602,RLGERLRtMSCSDKI,"enzymatic activity, inhibited",,31095429,A_deamin,,,,
+ADAR,Adar,K576-ub,59149207,LLEEAKAkDSGKSEE,protein degradation,,27729454,,regulation of IFN-signaling induced anti-viral activity,,,
+ADAR,Adar,K418-sm,3726902,NGQEPVIkLENRQEA,"enzymatic activity, inhibited",,16120648,,,,,
+ADAR,Adar,S825-p,3193222,TMLLLSRsPEAQPKT,phosphorylation,"carcinogenesis, inhibited; apoptosis, induced",32812257,,induces phosphorylation of eIF2,,,

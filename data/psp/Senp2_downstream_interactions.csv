@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SENP2,Senp2,K447-sm,1878219601,TFFYPKLkSGGYQAV,"ubiquitination; activity, inhibited",,31266997,,LMP1 inhibited the ubiquitination of SENP2,,,
+SENP2,Senp2,T369-p,40499300,TDDLLELtEDMEKEI,intracellular localization,"apoptosis, induced",25689261,,nuclear export,,,

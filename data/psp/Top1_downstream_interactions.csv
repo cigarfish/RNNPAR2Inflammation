@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TOP1,Top1,K391-sm,40724402,INCSKDAkVPSPPPG,"molecular association, regulation; enzymatic activity, inhibited",,25851487,Topoisom_I_N,recruitment of mRNA processing factors to transcriptionally active chromatin preventing R-loops,POLR2A,Polr2a,INDUCES
+TOP1,Top1,K117-sm,2793907,FSSPPQIkDEPEDDG,"molecular association, regulation; intracellular localization","apoptosis, induced",12149243; 12439742,,increase in CPT-induced apoptosis; enhances TOPO1-DNA cleavable complex formation induced by CPT,,,
+TOP1,Top1,S10-p,465604,GDHLHNDsQIEADFR,protein degradation,,28415827,,,,,
+TOP1,Top1,K103-sm,2793908,ASGDAKIkKEKENGF,intracellular localization,,12149243,,,,,
+TOP1,Top1,K436-sm,40724401,LNPSSRIkGEKDWQK,"molecular association, regulation; enzymatic activity, inhibited",,25851487,Topoisom_I,recruitment of mRNA processing factors to transcriptionally active chromatin preventing R-loops,POLR2A,Polr2a,INDUCES
+TOP1,Top1,S21-p,2721301,ADFRLNDsHKHKDKH,"enzymatic activity, induced",,18408216,,enhances DNA relaxation activity in vitro,,,
+TOP1,Top1,S506-p,27276101,ADTVGCCsLRVEHIN,"molecular association, regulation",,23185622; 23555599,Topoisom_I,ARF enhances the binding of hyperphosphorylated S506 to DNA. ; enhances relaxation of supercoiled DNA by increasing TOP1 DNA binding,ARF1,Arf1,INDUCES
+TOP1,Top1,K153-sm,2793909,DYKPKKIkTEDTKKE,"molecular association, regulation; intracellular localization","apoptosis, induced",12149243; 12439742,,increase in CPT-induced apoptosis; enhances TOPO1-DNA cleavable complex formation induced by CPT,,,

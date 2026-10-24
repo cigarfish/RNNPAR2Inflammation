@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ALDH1B1,Aldh1b1,K511-ub,1881380902,EVKTVTIkVPQKNS_,"molecular association, regulation","transcription, inhibited",34769507,,AMBRA1-mediated ubiquitylation of ALDH1B1 inhibitss the self-association of ALDH1B1 and the transcription of PTEN,ALDH1B1,Aldh1b1,DISRUPTS
+ALDH1B1,Aldh1b1,K506-ub,1881380901,LKAYTEVkTVTIKVP,"molecular association, regulation","transcription, inhibited",34769507,,AMBRA1-mediated ubiquitylation of ALDH1B1 inhibitss the self-association of ALDH1B1 and the transcription of PTEN,ALDH1B1,Aldh1b1,DISRUPTS
+ALDH1B1,Aldh1b1,K515-ub,1881380903,VTIKVPQkNS_____,"molecular association, regulation","transcription, inhibited",34769507,,AMBRA1-mediated ubiquitylation of ALDH1B1 inhibitss the self-association of ALDH1B1 and the transcription of PTEN,ALDH1B1,Aldh1b1,DISRUPTS

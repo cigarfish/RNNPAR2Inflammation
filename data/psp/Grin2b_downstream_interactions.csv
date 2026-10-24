@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRIN2B,Grin2b,K1082-ub,1885621202,GNAAKRRkQQYKDSL,ubiquitination,,38012808,,synaptic dysfunction of AD through ubiquitinating NMDAR2B K1082,,,
+GRIN2B,Grin2b,S1303-p,450171,NKLRRQHsYDTFVDL,"activity, induced; receptor desensitization, inhibited; molecular association, regulation; phosphorylation",,19453375; 21423658; 21768120; 25434386; 27998718; 28614711,NMDAR2_C,,CAMK2A,Camk2a,INDUCES
+GRIN2B,Grin2b,S1303-p,450171,NKLRRQHsYDTFVDL,"activity, induced; receptor desensitization, inhibited; molecular association, regulation; phosphorylation",,19453375; 21423658; 21768120; 25434386; 27998718; 28614711,NMDAR2_C,,CAMK2A,Camk2a,DISRUPTS
+GRIN2B,Grin2b,S1303-p,450171,NKLRRQHsYDTFVDL,"activity, induced; receptor desensitization, inhibited; molecular association, regulation; phosphorylation",,19453375; 21423658; 21768120; 25434386; 27998718; 28614711,NMDAR2_C,,DAPK1,Dapk1,INDUCES
+GRIN2B,Grin2b,Y1474-p,448167,GSSNGHVyEKLSSIE,,"carcinogenesis, induced; cell motility, induced",36139568,NMDAR2_C,,,,
+GRIN2B,Grin2b,Y1252-p,448165,CKKAGNLyDISEDNS,,"carcinogenesis, induced; cell motility, induced",36139568,NMDAR2_C,,,,
+GRIN2B,Grin2b,S1166-p,481156,SDDFKRDsVSGGGPC,"activity, induced",,24431445,NMDAR2_C,NMDAR potentiation and Ca2+ signaling in spines,,,
+GRIN2B,Grin2b,S1415-p,1874095504,QPTVAGAsKARPDFR,"activity, induced",,34252035,NMDAR2_C,,,,
+GRIN2B,Grin2b,S1323-p,455808,ALAPRSVsLKDKGRF,"activity, induced",,22179603,NMDAR2_C,Phosphorylation increased receptor mechanosensitivity-neuronal stretch sensitivity,,,

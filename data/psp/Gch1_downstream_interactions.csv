@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GCH1,Gch1,S81-p,487495,AYSSILSsLGENPQR,"molecular association, regulation; enzymatic activity, induced",,17704208; 19926872,GTP_cyclohydroI,,GCHFR,Gchfr,DISRUPTS

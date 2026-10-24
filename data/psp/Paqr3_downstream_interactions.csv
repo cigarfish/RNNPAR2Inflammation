@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAQR3,Paqr3,T32-p,53998800,PRGIRLYtYEQIPGS,intracellular localization; phosphorylation,"autophagy, induced",26834238,,"punctiform distribution of PAQR3 upon glucose starvation, ;  PAQR3 T32- affects Beclin1 S93 phosphorylation",,,

@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SYK,Syk,Y526-p,447662,LRADENYyKAQTHGK,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; carcinogenesis, inhibited; cell growth, induced",11380624; 18818202; 30923129; 34132782; 36252040; 37330581; 8657103,PK_Tyr_Ser-Thr,,ITGAM,Itgam,INDUCES
+SYK,Syk,Y630-p,459326,ELRLRNYyYDVVN__,"enzymatic activity, altered","transcription, altered",9624129,,,,,
+SYK,Syk,S295-p,7445408,GIISRIKsYSFPKPG,protein degradation; ubiquitination,"cell cycle regulation; carcinogenesis, induced",22585575,,,,,
+SYK,Syk,Y525-p,447661,ALRADENyYKAQTHG,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; carcinogenesis, inhibited; cell growth, induced",11380624; 18818202; 30923129; 34132782; 36252040; 37330581; 8657103,PK_Tyr_Ser-Thr,,ITGAM,Itgam,INDUCES
+SYK,Syk,S297-p,1983707,ISRIKSYsFPKPGHR,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation",signaling pathway regulation,21469132,,"inhibits ubiquitination, inhibits phosphorylation of substrates and hence BCR signaling",14-3-3 gamma,Ywhag,INDUCES
+SYK,Syk,S297-p,1983707,ISRIKSYsFPKPGHR,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation",signaling pathway regulation,21469132,,"inhibits ubiquitination, inhibits phosphorylation of substrates and hence BCR signaling",ubiquitin,Ubc,DISRUPTS
+SYK,Syk,S297-p,1983707,ISRIKSYsFPKPGHR,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation",signaling pathway regulation,21469132,,"inhibits ubiquitination, inhibits phosphorylation of substrates and hence BCR signaling",Ig-beta,Cd79b,DISRUPTS
+SYK,Syk,Y631-p,459327,LRLRNYYyDVVN___,"enzymatic activity, altered","transcription, altered",9624129,,,,,
+SYK,Syk,Y352-p,447660,TEVYESPyADPEEIR,"molecular association, regulation; enzymatic activity, induced",,18818202; 19289168; 8657103,,,CLTC,Cltc,INDUCES
+SYK,Syk,Y352-p,447660,TEVYESPyADPEEIR,"molecular association, regulation; enzymatic activity, induced",,18818202; 19289168; 8657103,,,ITGAM,Itgam,INDUCES
+SYK,Syk,Y352-p,447660,TEVYESPyADPEEIR,"molecular association, regulation; enzymatic activity, induced",,18818202; 19289168; 8657103,,,PLCG1,Plcg1,INDUCES
+SYK,Syk,S178-p,25687503,GKISREEsEQIVLIG,,"cell adhesion, induced; signaling pathway regulation",22848421,SH2,PKC-LKB1-AMPK signaling pathway to induce cell adhesion,,,
+SYK,Syk,K375-ub,1881478400,KLLTLEDkELGSGNF,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced",,34362877,, TRIM31 attenuated SHP-1 mediated WT SYK dephosphorylation; anti-fungal responses;  SYK translocation to the membrane and  binding with the C-type lectin receptors (CLRs),SHP-1,Ptpn6,DISRUPTS
+SYK,Syk,K517-ub,12112713,ISDFGLSkALRADEN,"molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced",,34362877,PK_Tyr_Ser-Thr, TRIM31 attenuated SHP-1 mediated WT SYK dephosphorylation; anti-fungal responses;  SYK translocation to the membrane and  binding with the C-type lectin receptors (CLRs),SHP-1,Ptpn6,DISRUPTS
+SYK,Syk,Y348-p,447659,LPMDTEVyESPYADP,"molecular association, regulation; enzymatic activity, induced",,18818202; 30923129; 8657103,,,ITGAM,Itgam,INDUCES
+SYK,Syk,Y348-p,447659,LPMDTEVyESPYADP,"molecular association, regulation; enzymatic activity, induced",,18818202; 30923129; 8657103,,,PLCG1,Plcg1,INDUCES
+SYK,Syk,Y629-p,3656843,VELRLRNyYYDVVN_,"enzymatic activity, altered","transcription, altered",9624129,,,,,
+SYK,Syk,Y323-p,447658,STVSFNPyEPELAPW,"molecular association, regulation; enzymatic activity, induced",,9535867,,,Fyn,Fyn,INDUCES
+SYK,Syk,Y323-p,447658,STVSFNPyEPELAPW,"molecular association, regulation; enzymatic activity, induced",,9535867,,,CBL,Cbl,INDUCES

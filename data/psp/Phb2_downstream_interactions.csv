@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PHB2,Phb2,K200-ub,15385266,YTAAVEAkQVAQQEA,"molecular association, regulation; ubiquitination","autophagy, induced",36379251,Band_7,BAP37 promotes ef?cient mitophagy ,LC3B,Map1lc3b,INDUCES
+PHB2,Phb2,S39-p,1868188300,VAYGVREsVFTVEGG,"molecular association, regulation","autophagy, induced",33820826,,induces mitophagy,LC3A,Map1lc3a,INDUCES
+PHB2,Phb2,S91-p,22342307,RARPRKIsSPTGSKD,,"apoptosis, inhibited; transcription, induced",21689744; 24522204,Band_7,,,,
+PHB2,Phb2,K142-ub,573782384,SIVNEVLkSVVAKFN,"molecular association, regulation; ubiquitination","autophagy, induced",36379251,Band_7,BAP37 promotes ef?cient mitophagy ,LC3B,Map1lc3b,INDUCES
+PHB2,Phb2,Y121-p,463049,AQELPSMyQRLGLDY,"molecular association, regulation","autophagy, altered",36406767,Band_7,mitophagy inhibited;  induces oxidative stress injury,LC3A,Map1lc3a,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+JAM3,Jam3,S281-p,15404111,NNKQDGEsYKNPGKP,intracellular localization,,28196865,,"cell-cell contact region,  S-palmitoylation of JAM3 is independent of JAM3 phosphorylation on Ser281",,,
+JAM3,Jam3,K283-ub,22246354,KQDGESYkNPGKPDG,"protein degradation; receptor recycling, altered","cell motility, induced",31790392,,,,,

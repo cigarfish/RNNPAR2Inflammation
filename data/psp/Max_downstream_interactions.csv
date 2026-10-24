@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAX,Max,S2-p,449307,______MsDNDDIEV,"molecular association, regulation; activity, inhibited","transcription, altered",37642402; 8018564,,phosphorylation-deficient mutant inhibits transcription more efficiently,,,
+MAX,Max,S11-p,449308,NDDIEVEsDADKRAH,"activity, inhibited","transcription, altered",8018564,,phosphorylation-deficient mutant inhibits transcription more efficiently,,,
+MAX,Max,K153-ac,474515,PEEPQSRkKLRMEAS,"molecular association, regulation; intracellular localization","transcription, induced",17217336,,,B-Myc,Mycl,INDUCES
+MAX,Max,K66-ac,474517,SRAQILDkATEYIQY,"molecular association, regulation; intracellular localization","transcription, induced",17217336,HLH,,B-Myc,Mycl,INDUCES
+MAX,Max,S11-p,449308,NDDIEVEsDEEQPRF,"molecular association, regulation; activity, inhibited","transcription, altered",37642402; 8018564,,phosphorylation-deficient mutant inhibits transcription more efficiently,,,
+MAX,Max,K154-ac,474516,EEPQSRKkLRMEAS_,"molecular association, regulation; intracellular localization","transcription, induced",17217336,,,B-Myc,Mycl,INDUCES
+MAX,Max,S2-p,449307,______MsDNDDIEV,"activity, inhibited","transcription, altered",8018564,,phosphorylation-deficient mutant inhibits transcription more efficiently,,,

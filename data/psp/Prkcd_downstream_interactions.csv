@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCD,Prkcd,T295-p,4272376,AEALNQVtQRASRRS,"enzymatic activity, induced",,19366211,,,,,
+PRKCD,Prkcd,Y52-p,447574,VQKKPTMyPEWKSTF,"activity, inhibited","apoptosis, altered",11927579,,,,,
+PRKCD,Prkcd,Y64-p,447581,STFDAHIyEGRVIQI,"activity, inhibited; phosphorylation","apoptosis, altered; apoptosis, induced",11927579; 18434324,,ERK phosphorylation/activation,,,
+PRKCD,Prkcd,Y334-p,450077,MQDNSGTyGKIWEGS,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",17658731; 28784722,,Y334 phosphorylation increases clevage of PKCD into active catalytic domain. ; DKD-507A activity activity is rescued by Src-dependent Y334 phosphorylation,Src,Src,INDUCES
+PRKCD,Prkcd,T507-p,447511,FGESRAStFCGTPDY,"sumoylation; intracellular localization; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; apoptosis, altered; cell growth, inhibited; cell growth, induced; signaling pathway regulation",12393602; 16505477; 18652571; 21730054; 24632950; 28784722; 31511386; 33318039; 34089566; 36611885,Pkinase,,,,
+PRKCD,Prkcd,Y374-p,464424,ELKGRGEyFAIKALK,"protein stabilization; receptor recycling, induced; intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",33411917,Pkinase,"prevents EGFR degradation and induces its recycling, induces EGFR signaling, induces RTK activation",,,
+PRKCD,Prkcd,Y313-p,447573,SSEPVGIyQGFEKKT,"sumoylation; molecular association, regulation; protein conformation; enzymatic activity, altered; phosphorylation","carcinogenesis, induced; apoptosis, altered; cell motility, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation; transcription, inhibited",16982614; 17126298; 21730054; 24260357; 25755284; 26876198; 33318039; 34089566; 36862682; 38347536,,  induces mitochondrial membrane potential; inhibits ROS level,,,
+PRKCD,Prkcd,S359-p,6319238,HKVLGKGsFGKVLLG,"enzymatic activity, altered",,25755284,Pkinase,Y313 indirectly decreases phosphorylation in the kinase domain ATP-positioning loop at Ser359,,,
+PRKCD,Prkcd,Y187-p,447579,WGLNKQGyKCRQCNA,"activity, inhibited; phosphorylation","apoptosis, altered; apoptosis, induced",11927579; 18434324,C1_1,ERK phosphorylation/activation,,,
+PRKCD,Prkcd,Y155-p,447575,IKQAKIHyIKNHEFI,intracellular localization,"apoptosis, induced",28237688,,,,,
+PRKCD,Prkcd,K475-sm,1881459303,GIIYRDLkLDNVLLD,sumoylation; protein stabilization,"apoptosis, induced",34089566,,promotes apoptosis induced by H2O2; phosphorylation induces sumoylation which reciprocally induces phosphorylation,,,
+PRKCD,Prkcd,T141-p,1028305,EDEAKFPtMNRRGAI,"enzymatic activity, induced",,19366211,,,,,
+PRKCD,Prkcd,S645-p,448591,LNEKARLsYSDKNLI,sumoylation; intracellular localization,"carcinogenesis, induced; cell growth, inhibited",28237688; 34089566; 34155348; 36611885,Pkinase_C,,,,
+PRKCD,Prkcd,S299-p,483986,NQVTQRAsRRSDSAS,intracellular localization,,17603046,,localizes to the plasma and nuclear membrane,,,

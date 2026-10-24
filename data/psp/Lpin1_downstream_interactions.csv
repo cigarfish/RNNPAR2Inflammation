@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LPIN1,Lpin1,Y795-p,1871177712,FPNTEPFyAAFGNRP,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",33203880,LNS2,"Activity of PAP, increase glycolipid synthesis",,,
+LPIN1,Lpin1,Y398-p,1871177710,HLGADGVyLDDLTDM,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",33203880,,"Activity of PAP, increase glycolipid synthesis",,,
+LPIN1,Lpin1,Y413-p,1871177711,DPEVAALyFPKNGDP,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced",33203880,,"Activity of PAP, increase glycolipid synthesis",,,

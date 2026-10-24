@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGEF7,Arhgef7,S340-p,454356,LSASPRMsGFIYQGK,"activity, induced; molecular association, regulation",,24792722,PH,"O2 production increased, Nox1 activity upregulated",RAC1,Rac1,INDUCES
+ARHGEF7,Arhgef7,T526-p,455216,EFASRKStAALEEDA,"activity, induced; molecular association, regulation","cell motility, altered; cytoskeletal reorganization",14557270; 25150978,RhoGEF67_u2,,ARHGAP13,Arhgap13,DISRUPTS
+ARHGEF7,Arhgef7,S518-p,454356,LSASPRMsGFIYQGK,,"exocytosis, induced",25009260,PH,dopamine release,,,
+ARHGEF7,Arhgef7,S525-p,455681,EEFASRKsTAALEED,"activity, induced",cytoskeletal reorganization,14557270,RhoGEF67_u2,S525/T526 phosphorylation regulates Rac1 activation and growth cone extension/retraction.,,,
+ARHGEF7,Arhgef7,Y620-p,3753309,PAPLTPAyHTLPHPS,"activity, induced; molecular association, regulation","cell growth, altered",16892055,,GEF activity for Cdc42,EGFR,Egfr,INDUCES
+ARHGEF7,Arhgef7,Y620-p,3753309,PAPLTPAyHTLPHPS,"activity, induced; molecular association, regulation","cell growth, altered",16892055,,GEF activity for Cdc42,CDC42 iso1,Cdc42,INDUCES
+ARHGEF7,Arhgef7,Y620-p,3753309,PAPLTPAyHTLPHPS,"activity, induced; molecular association, regulation","cell growth, altered",16892055,,GEF activity for Cdc42,Cbl-b,Cblb,INDUCES
+ARHGEF7,Arhgef7,T704-p,455216,EFASRKStAALEEDA,"activity, induced; molecular association, regulation",cytoskeletal reorganization,16954223,RhoGEF67_u2,activates ARHGEF7's exchange activity on Rac1,RAP1GDS1,Rap1gds1,DISRUPTS
+ARHGEF7,Arhgef7,S703-p,455681,EEFASRKsTAALEED,"activity, induced; molecular association, regulation",cytoskeletal reorganization,16954223,RhoGEF67_u2,activates ARHGEF7's exchange activity on Rac1,RAP1GDS1,Rap1gds1,DISRUPTS
+ARHGEF7,Arhgef7,S761-p,14569926,DSLGRRSsLSRLEPS,,"exocytosis, induced",25009260,,dopamine release,,,
+ARHGEF7,Arhgef7,S516-p,455215,RKPERKPsDEEFASR,"molecular association, regulation",cytoskeletal reorganization,26056138,RhoGEF67_u2,increased increase number of dendritic spines and synapses,KCC2,Slc12a5,INDUCES
+ARHGEF7,Arhgef7,Y442-p,3753309,PAPLTPAyHTLPHPS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell motility, altered",20375009; 34582006,,,DYN2,Dnm2,INDUCES
+ARHGEF7,Arhgef7,Y442-p,3753309,PAPLTPAyHTLPHPS,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell motility, altered",20375009; 34582006,,,GIT1,Git1,DISRUPTS

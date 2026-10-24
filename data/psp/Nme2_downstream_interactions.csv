@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NME2,Nme2,S44-p,23255088,AMKFLRAsEEHLKQH,"molecular association, regulation",,26950439,NDK,induced by forskolin,CFTR,Cftr,INDUCES
+NME2,Nme2,H118-p,474519,QVGRNIIhGSDSVKS,"molecular association, regulation; enzymatic activity, induced",,17157250; 8132589,NDK,H1118F mutant retained it's DNA binding and transcriptional activity in vitro. ; in vivo and in vitro,KCNN4,Kcnn4,INDUCES

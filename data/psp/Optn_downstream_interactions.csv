@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPTN,Optn,S177-p,4762451,SSGSSEDsFVEIRMA,"protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; autophagy, induced; apoptosis, induced",21617041; 22365832; 26376340; 27035970; 27247382; 34099552,,"induces mitophagy; mitophagy, formation of autophagosomes around depolarized mitochondria",SPTLC3,Sptlc3,INDUCES
+OPTN,Optn,S177-p,4762451,SSGSSEDsFVEIRMA,"protein stabilization; molecular association, regulation; intracellular localization","cell cycle regulation; autophagy, induced; apoptosis, induced",21617041; 22365832; 26376340; 27035970; 27247382; 34099552,,"induces mitophagy; mitophagy, formation of autophagosomes around depolarized mitochondria",RAB8A,Rab8a,DISRUPTS
+OPTN,Optn,S473-p,9511914,AQMEVYCsDFHAERA,ubiquitination; intracellular localization,,26365381; 27035970,CC2-LZ,,,,
+OPTN,Optn,K501-ub,12313403,LQLAVLLkENDAFED,"protein degradation; molecular association, regulation","autophagy, induced",32014991; 39052481,CC2-LZ,required for proper proteostasis of DBR exposed SOD1,RNF31,Rnf31,INDUCES
+OPTN,Optn,S513-p,21214714,FEDGGRQsLMEMQSR,ubiquitination; intracellular localization,,26365381; 27035970,,"recruitment to depolarized mitochondria,TBK1 activation, mitophagy; recruitment to mitochondria ",,,
+OPTN,Optn,K448-ub,12291920,QLQMDEMkQTIAKQE,"molecular association, regulation",,39052481,CC2-LZ,,RNF31,Rnf31,INDUCES

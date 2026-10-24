@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRDX2,Prdx2,Y193-p,448985,NVDDSKEyFSKHN__,"intracellular localization; protein conformation; enzymatic activity, induced",,33535382,1-cysPrx_C,,,,
+PRDX2,Prdx2,S76-p,1869663300,GCEVLGVsVDSQFTH,"molecular association, regulation",,32601209,AhpC-TSA,,PRDX2,Prdx2,DISRUPTS

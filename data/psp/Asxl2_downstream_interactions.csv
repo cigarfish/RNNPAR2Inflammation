@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ASXL2,Asxl2,R641-m2,27269954,SQVSPRArFPVSITS,,"cell differentiation, inhibited; apoptosis, inhibited; transcription, inhibited",36197977,,CARM1 inhibition up-regulates apoptosis and differentiation related genes,MLL3,Kmt2c,DISRUPTS
+ASXL2,Asxl2,R639-m2,27269956,HPSQVSPrARFPVSI,,"cell differentiation, inhibited; apoptosis, inhibited; transcription, inhibited",36197977,,CARM1 inhibition up-regulates apoptosis and differentiation related genes,MLL3,Kmt2c,DISRUPTS

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEK2,Nek2,T170-p,4271902,ARILNHDtSFAKTFV,"enzymatic activity, induced",,17197699,Pkinase,,,,
+NEK2,Nek2,T175-p,12574603,HDTSFAKtFVGTPYY,"enzymatic activity, induced",,17197699,Pkinase,,,,
+NEK2,Nek2,S171-p,12574604,RILNHDTsFAKTFVG,"enzymatic activity, induced",,17197699,Pkinase,,,,
+NEK2,Nek2,T179-p,12574601,FAKTFVGtPYYMSPE,"enzymatic activity, inhibited",,17197699,Pkinase,,,,
+NEK2,Nek2,S241-p,12574600,RRIPYRYsDELNEII,"enzymatic activity, inhibited",,17197699,Pkinase,,,,

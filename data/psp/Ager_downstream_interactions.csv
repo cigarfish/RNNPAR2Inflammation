@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AGER,Ager,K374-ub,1873037702,QRRGEERkAPENQEE,protein degradation; phosphorylation,,28515150,,degradation by RAGE phosphorylation by PKCZ and FBXO10-directed ubiquitination,,,
+AGER,Ager,S391-p,4731275,ERAELNQsEEPEAGE,"molecular association, regulation; protein conformation; phosphorylation","DNA repair, induced; apoptosis, induced; signaling pathway regulation",21829704; 25002577; 28977635,,,IRAK4,Irak4,INDUCES
+AGER,Ager,S391-p,4731275,ERAELNQsEEPEAGE,"molecular association, regulation; protein conformation; phosphorylation","DNA repair, induced; apoptosis, induced; signaling pathway regulation",21829704; 25002577; 28977635,,,TIRAP,Tirap,INDUCES
+AGER,Ager,S391-p,4731275,ERAELNQsEEPEAGE,"molecular association, regulation; protein conformation; phosphorylation","DNA repair, induced; apoptosis, induced; signaling pathway regulation",21829704; 25002577; 28977635,,,MYD88,Myd88,INDUCES

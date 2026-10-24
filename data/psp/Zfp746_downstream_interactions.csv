@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZNF746,Zfp746,Y137-p,13831906,ETLVSLDyAISKPEV,"activity, induced; molecular association, regulation; acetylation; intracellular localization; phosphorylation; enzymatic activity, induced","apoptosis, induced; transcription, inhibited; signaling pathway regulation",34581802,,"induces p53 phosphorylation and activation and c-Abl activation, inhibits histone acetylation, regulates MDM4-p53/PGC-1-NRF1 pathway",TIF1B,Trim28,INDUCES
+ZNF746,Zfp746,K286-sm,55465778,EDVKIVIkTEVQEEE,,"transcription, inhibited",33077496,,,,,
+ZNF746,Zfp746,S613-p,25759828,APPDPFKsPASKGPL,protein degradation; ubiquitination,,28122242,,protective effect of DA neuron toxicity,,,
+ZNF746,Zfp746,S322-p,27533659,QATRFFPsPAQEGAW,protein degradation; ubiquitination,,28122242,,protective effect of DA neuron toxicity,,,
+ZNF746,Zfp746,K189-sm,580826722,PDLLMQIkQEGELQL,,"transcription, inhibited",31856708; 33077496,,,,,

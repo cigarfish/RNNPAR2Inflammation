@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+COP1,Cop1,S387-p,467307,SDDSRTAsQLDEFQE,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,16931761; 20843328; 25957415,,,14-3-3 sigma,Sfn,INDUCES
+COP1,Cop1,S387-p,467307,SDDSRTAsQLDEFQE,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,16931761; 20843328; 25957415,,,p27Kip1,Cdkn1b,DISRUPTS
+COP1,Cop1,S387-p,467307,SDDSRTAsQLDEFQE,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization",,16931761; 20843328; 25957415,,,p53,Trp53,DISRUPTS
+COP1,Cop1,K294-ac,1881312002,SVLEEDIkRVEEMSG,protein degradation,"cell growth, induced; apoptosis, inhibited",33995658,,"decreases ?-catenin protein degradation and enhances ?-catenin  stability, MYST3 regulates apoptosis by COP1 acetylation and  stabling  ?-catenin",,,

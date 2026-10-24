@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDIT4,Ddit4,K129-ub,4106211,QLVSQVGkELLRLAY,"molecular association, regulation",,36170669,RTP801_C,,HSC70,Hspa8,INDUCES

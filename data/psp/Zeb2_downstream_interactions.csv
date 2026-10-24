@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZEB2,Zeb2,K866-sm,3726901,PLNLTFIkKEFSNSN,"molecular association, regulation","transcription, induced",16061479,,,CTBP1,Ctbp1,DISRUPTS
+ZEB2,Zeb2,K391-sm,3726900,QTGLLKIkTEPLDFN,"molecular association, regulation","transcription, induced",16061479,,,CTBP1,Ctbp1,DISRUPTS

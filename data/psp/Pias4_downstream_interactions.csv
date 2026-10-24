@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIAS4,Pias4,S18-p,56589715,MVMSFRVsDLQMLLG,"protein degradation; molecular association, regulation",,27162139,,,AREL1 iso2,Arel1,INDUCES
+PIAS4,Pias4,K35-sm,2293702,GRSKSGLkHELVTRA,"sumoylation; molecular association, regulation; intracellular localization","transcription, induced",15831457,,induces sumoylation of Tcf-4,PML,Pml,DISRUPTS

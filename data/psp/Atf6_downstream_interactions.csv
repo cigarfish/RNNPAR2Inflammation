@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATF6,Atf6,K152-ub,1881440801,AEPLKEDkPVTGPRN,,signaling pathway regulation,34623328,,"K152 ATF6 is required for PRR-induced, RNF186-dependent antimicrobial  pathways in human MDMs",,,
+ATF6,Atf6,S104-p,35527101,SSSYSVSsPRSVDSY,,"transcription, induced",25135476,,,,,
+ATF6,Atf6,T166-p,35527100,NKTENGLtPKKKIQV,"protein degradation; molecular association, regulation; intracellular localization","cell cycle regulation; autophagy, induced; cell differentiation, induced; transcription, induced",25135476; 37239128,,,EBP,Ebp,INDUCES

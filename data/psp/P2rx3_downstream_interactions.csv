@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+P2RX3,P2rx3,T134-p,458895,LPGGGILtGRCVNYS,"receptor desensitization, altered",,16226373,P2X_receptor,,,,
+P2RX3,P2rx3,S269-p,458894,FTRLDSVsEKSSVSP,"receptor desensitization, altered",,16226373,P2X_receptor,,,,
+P2RX3,P2rx3,S178-p,458896,FTIFIKNsIRFPLFN,"receptor desensitization, altered",,16226373,P2X_receptor,,,,
+P2RX3,P2rx3,T196-p,458893,GNLLPNLtARDMKTC,"receptor desensitization, altered",,16226373,P2X_receptor,,,,

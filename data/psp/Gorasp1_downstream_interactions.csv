@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GORASP1,Gorasp1,S189-p,25247500,AAWGGEGsLGCGIGY,"molecular association, regulation; protein conformation",,22523075,GRASP55_65,"dimer formation inhibited- substitution  of  two  residues  Glu145  and  S189 rescued  dimer formation,  membrane tethering inhibited",GRASP65,Gorasp1,DISRUPTS

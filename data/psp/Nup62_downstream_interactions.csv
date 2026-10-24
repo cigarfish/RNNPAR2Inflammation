@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUP62,Nup62,S272-p,36440511,SGTSTTTsTAATATA,protein degradation; phosphorylation,signaling pathway regulation,30401435,,"induces phosphorylation of IRS1, regulates p38?/p62/mTORC1 pathway",,,
+NUP62,Nup62,K432-ac,1883343300,HADEEREkTYKLAEN,intracellular localization,cell cycle regulation; cytoskeletal reorganization,36190325,,"Acetylation-elicited remodeling of nucleoporin complex regulates Nup62 on the mitotic spindle and proper spindle orientation and segregation, and the cortical localization of LGN?NuMA",,,
+NUP62,Nup62,T269-p,36440512,GAASGTStTTSTAAT,protein degradation; phosphorylation,signaling pathway regulation,30401435,,"induces phosphorylation of IRS1, regulates p38?/p62/mTORC1 pathway",,,
+NUP62,Nup62,Y422-p,463925,KEQSGTIyLQHADEE,intracellular localization,,25349423,Nsp1_C,,,,

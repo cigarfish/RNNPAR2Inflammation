@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRIN2A,Grin2a,Y1292-p,4109565,RISRQHSyDNIVDKP,"activity, induced",,33037073,NMDAR2_C,leptin-induced beta-cell membrane potentiation,,,
+GRIN2A,Grin2a,Y1267-p,461052,PATGEQVyQQDWAQN,"activity, induced",,10195142,NMDAR2_C,potentiation of receptor currents mediated by Src,,,
+GRIN2A,Grin2a,Y1387-p,455471,GRCPSDPyKHSLPSQ,"activity, induced",,10195142; 33037073,NMDAR2_C,potentiation of receptor currents mediated by Src; leptin-induced beta-cell membrane potentiation,,,
+GRIN2A,Grin2a,Y1105-p,4109553,CSEVERTyLKTKSSS,"activity, induced",,10195142,NMDAR2_C,potentiation of receptor currents mediated by Src,,,
+GRIN2A,Grin2a,Y1325-p,458211,RLLEGNFyGSLFSVP,"activity, induced",,19834457,NMDAR2_C,,,,
+GRIN2A,Grin2a,S929-p,485949,ADFIQRGsLIMDMVS,"activity, induced; receptor desensitization, inhibited",,23503100; 34252035,NMDAR2_C,,,,
+GRIN2A,Grin2a,S1459-p,481117,RVYKKMPsIESDV__,"molecular association, regulation; receptor recycling, induced",neural plasticity,32877683; 34233182,NMDAR2_C,,SNX27,Snx27,INDUCES
+GRIN2A,Grin2a,S1459-p,481117,RVYKKMPsIESDV__,"molecular association, regulation; receptor recycling, induced",neural plasticity,32877683; 34233182,NMDAR2_C,,PSD-95,Dlg4,DISRUPTS
+GRIN2A,Grin2a,S900-p,2897403,NMLKLLRsAKNISSM,"receptor desensitization, inhibited",,23503100,NMDAR2_C," increase in synaptic NR current by phosphorylation of Ser-900, 929",,,

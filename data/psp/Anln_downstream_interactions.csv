@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ANLN,Anln,Y634-p,450421,SEDRDLLySIDAYRS,intracellular localization,cell cycle regulation,28081137,,anillin recruitment to the equatorial cortex at anaphase ,,,
+ANLN,Anln,S635-p,15228550,EDRDLLYsIDAYRSQ,intracellular localization,cell cycle regulation,28081137,,anillin recruitment to the equatorial cortex at anaphase ,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OPN3,Opn3,S380-p,25303237,FIITSDEsLSVDDSD,,"carcinogenesis, induced",35180853,,,,,
+OPN3,Opn3,Y140-p,23257062,TVLAYERyIRVVHAR,,"carcinogenesis, induced",35180853,7tm_1,,,,

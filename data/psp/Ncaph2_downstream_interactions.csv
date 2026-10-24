@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCAPH2,Ncaph2,S288-p,36136891,ESRSPQQsAALPRRY,,cell cycle regulation,28717250,,required for mitotic chromosome segregation,,,
+NCAPH2,Ncaph2,S492-p,459636,FVQETELsQRIRDWE,intracellular localization,cell cycle regulation,24934155,CNDH2_C,chromosome condensation,,,

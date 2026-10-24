@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATF1,Atf1,S36-p,465558,AQQVSSLsESEESQD,"molecular association, regulation; phosphorylation",,20730097,,primes for S47/S50/S51 phosphorylation,CBP,Crebbp,DISRUPTS
+ATF1,Atf1,S63-p,449762,GILARRPsYRKILKD,"activity, induced; molecular association, regulation; protein conformation","transcription, induced; transcription, altered; cell growth, altered",12414794; 18794154; 28032861; 9687510,pKID,,PIN1,Pin1,INDUCES
+ATF1,Atf1,S41-p,15725600,SLSESEEsQDSSDSI,"molecular association, regulation; phosphorylation",,20730097,,primes for S47/S50/S51 phosphorylation,CBP,Crebbp,DISRUPTS
+ATF1,Atf1,T184-p,31858260,QTYQIRTtPSATSLP,"protein stabilization; molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, induced",28032861; 35397606,,,PIN1,Pin1,INDUCES

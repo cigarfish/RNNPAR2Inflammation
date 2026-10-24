@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLI3,Gli3,K779-ub,6097712,TKWMEHVkLERLKQV,protein processing,,16705181,,,,,
+GLI3,Gli3,K595-m1,56418601,SNASDRAkHQNRTHS,"molecular association, regulation","cell growth, induced",27146893,zf-C2H2,positively regulates tumorigenesis in NSCLCs,,,
+GLI3,Gli3,K773-ub,6097711,RRNPAGTkWMEHVKL,protein processing,,16705181,,,,,
+GLI3,Gli3,S849-p,7998355,NMLNRRDsSASTISS,protein processing,"transcription, inhibited",10693759,,,,,
+GLI3,Gli3,S907-p,15501388,TDASRRSsEASQSDG,protein processing,"transcription, inhibited",10693759,,,,,
+GLI3,Gli3,S877-p,15501382,CFSSRRSsEASQAEG,protein processing,"transcription, inhibited",10693759,,,,,
+GLI3,Gli3,S865-p,15501379,YLSSRRSsGISPCFS,protein processing,"transcription, inhibited",10693759,,,,,
+GLI3,Gli3,K784-ub,6097709,HVKLERLkQVNGMFP,protein processing,,16705181,,,,,
+GLI3,Gli3,S1006-p,15501397,GHGVRRAsDPVRTGS,protein processing,"transcription, inhibited",10693759,,,,,
+GLI3,Gli3,K436-m1,56418600,PMHNKRSkIKPDEDL,protein stabilization,"cell growth, induced",27146893,,positively regulates tumorigenesis in NSCLCs,,,
+GLI3,Gli3,K800-ub,6097710,LNPILPPkAPAVSPL,protein processing,,16705181,,,,,
+GLI3,Gli3,S980-p,25780315,VHAPRRCsDGGAHGY,protein processing,"transcription, inhibited",10693759,,,,,

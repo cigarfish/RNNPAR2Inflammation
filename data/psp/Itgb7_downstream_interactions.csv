@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGB7,Itgb7,T784-p,464648,LYKSAITtTINPRFQ,"molecular association, regulation",,16455489,Integrin_b_cyt,based on glutamate mutant of threonine site,FLNA,Flna,DISRUPTS
+ITGB7,Itgb7,T783-p,450186,PLYKSAItTTINPRF,"molecular association, regulation",,16455489,Integrin_b_cyt,based on glutamate mutant of threonine site,FLNA,Flna,DISRUPTS
+ITGB7,Itgb7,Y753-p,469601,YRLSVEIyDRREYSR,,"cell adhesion, altered",16874740,Integrin_b_cyt,,,,
+ITGB7,Itgb7,T785-p,464649,YKSAITTtINPRFQE,"molecular association, regulation",,16455489,Integrin_b_cyt,based on glutamate mutant of threonine site,FLNA,Flna,DISRUPTS
+ITGB7,Itgb7,Y758-p,469602,EIYDRREySRFEKEQ,,"cell adhesion, altered",16874740,Integrin_b_cyt,,,,

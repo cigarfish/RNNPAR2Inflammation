@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPTA1,Spta1,Y1499-p,6211807,ERTKLGDyANLKQFY,,cytoskeletal reorganization,20206558,,,,,
+SPTA1,Spta1,Y422-p,13421405,HKHEIDSyDDRFQSA,,cytoskeletal reorganization,20206558,Spectrin,,,,
+SPTA1,Spta1,Y548-p,13421404,KLIGDDHyDSENIKA,,cytoskeletal reorganization,20206558,Spectrin,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARFIP2,Arfip2,S260-p,455884,GTRGRLEsAQATFQA,intracellular localization,,15809304,Arfaptin,phosphorylation of site by Akt1 has a neuroprotective effect in Huntington's disease.,,,

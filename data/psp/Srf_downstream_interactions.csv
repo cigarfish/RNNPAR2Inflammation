@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRF,Srf,S251-p,13203802,TDLTYQVsESDSSGE,,"transcription, inhibited",8375385,,,,,
+SRF,Srf,S103-p,447692,RGLKRSLsEMEIGMV,"molecular association, regulation","transcription, altered",11859076; 1547771; 23548149; 8413226,,,,,
+SRF,Srf,K147-sm,2303901,TRGRVKIkMEFIDNK,,"transcription, inhibited",12788062,,,,,
+SRF,Srf,S162-p,460665,LRRYTTFsKRKTGIM,,"transcription, inhibited",16537394; 19778940,SRF-TF,,,,
+SRF,Srf,S85-p,451801,GSEGDSEsGEEEELG,"molecular association, regulation",,1547771,,,,,
+SRF,Srf,T159-p,449631,DNKLRRYtTFSKRKT,"activity, induced","transcription, induced; transcription, inhibited",12809504; 19778940,SRF-TF,,,,
+SRF,Srf,S224-p,468829,TCLNSPDsPPRSDPT,"molecular association, regulation; acetylation; methylation","transcription, induced",34381779,,regulates histone acetylation and methylation,MKL1,Mkl1,INDUCES
+SRF,Srf,S253-p,13203801,LTYQVSEsDSSGETK,,"transcription, inhibited",8375385,,,,,
+SRF,Srf,K165-me,1881502502,YTTFSKRkTGIMKKA,,"cell differentiation, induced; transcription, induced",33564100,,,,,
+SRF,Srf,S83-p,451800,YSGSEGDsESGEEEE,"molecular association, regulation",,1547771,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAH,Pah,S16-p,449074,PGLGRKLsDFGQETS,"molecular association, regulation; protein conformation; enzymatic activity, induced",,12185072; 15096628; 20937381,,PAH G46S mutant; The conformational change is around the phosphoserine and the catalytic domain (not global).,PAH,Pah,DISRUPTS

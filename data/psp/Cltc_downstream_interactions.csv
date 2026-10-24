@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLTC,Cltc,T606-p,1868832801,ILGNQMFtHYDRAHI,intracellular localization; phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",31272276,Clathrin,induces phosphorylation of Kiz,,,
+CLTC,Cltc,Y1477-p,448069,LFITEEDyQALRTSI,"molecular association, regulation; intracellular localization",,10089883; 19289168,Clathrin,,Syk,Syk,INDUCES

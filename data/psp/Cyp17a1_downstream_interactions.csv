@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYP17A1,Cyp17a1,S258-p,464643,KEKFRSDsITNMLDT,"enzymatic activity, inhibited; enzymatic activity, induced",,16616104; 20160131,p450,in vitro; S258 mutants were impaired in both 17alpha-hydroxylase and C(17-20) lyase activities,,,

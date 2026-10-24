@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNAZ,Gnaz,S27-p,451241,DRHLRSEsQRQRREI,"activity, induced; protein conformation",,10686433; 9166747,G-alpha,,,,
+GNAZ,Gnaz,S16-p,451242,EKEAARRsRRIDRHL,"activity, induced; protein conformation",,9166747,G-alpha,,,,

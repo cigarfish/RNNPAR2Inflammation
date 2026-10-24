@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LBR,Lbr,Y385-p,25298224,IGTFDLKyFCELRPG,"molecular association, regulation",,39342616,ERG4_ERG24,,VDAC2,Vdac2,INDUCES
+LBR,Lbr,S357-p,31879697,KAPRNDLsPASSGNA,"molecular association, regulation",,39342616,ERG4_ERG24,,VDAC2,Vdac2,INDUCES
+LBR,Lbr,T284-p,23121070,IGKVVEGtPLIDGRR,"molecular association, regulation",,39342616,ERG4_ERG24,,VDAC2,Vdac2,INDUCES

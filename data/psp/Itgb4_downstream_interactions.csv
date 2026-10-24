@@ -1,0 +1,22 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGB4,Itgb4,Y1642-p,450143,GLSENVPyKFKVQAR,"molecular association, regulation","cell adhesion, altered",11044453,fn3,,SHC1,Shc1,INDUCES
+ITGB4,Itgb4,Y1422-p,450140,SSTLTRDyNSLTRSE,"molecular association, regulation","cell adhesion, altered",11044453; 33883672,,,PLCG1,Plcg1,INDUCES
+ITGB4,Itgb4,Y1422-p,450140,SSTLTRDyNSLTRSE,"molecular association, regulation","cell adhesion, altered",11044453; 33883672,,,SHC1,Shc1,INDUCES
+ITGB4,Itgb4,Y1494-p,456323,LQGYSVEyQLLNGGE,"activity, induced; molecular association, regulation; intracellular localization","cell motility, altered; autophagy, inhibited",20855525; 24007983; 26918348,fn3,,ANXA7,Anxa7,INDUCES
+ITGB4,Itgb4,Y1494-p,456323,LQGYSVEyQLLNGGE,"activity, induced; molecular association, regulation; intracellular localization","cell motility, altered; autophagy, inhibited",20855525; 24007983; 26918348,fn3,,SHP-2,Ptpn11,INDUCES
+ITGB4,Itgb4,Y1440-p,450141,STTLPRDySTLTSVS,"activity, induced; molecular association, regulation","cell motility, altered; cell adhesion, altered",11044453; 20855525; 33883672,,promote SFK (Fyn) activation and tumor cell invasion,PLCG1,Plcg1,INDUCES
+ITGB4,Itgb4,Y1440-p,450141,STTLPRDySTLTSVS,"activity, induced; molecular association, regulation","cell motility, altered; cell adhesion, altered",11044453; 20855525; 33883672,,promote SFK (Fyn) activation and tumor cell invasion,SHC1,Shc1,INDUCES
+ITGB4,Itgb4,S1360-p,451654,VLRSPSGsQRPSVSD,"molecular association, regulation",,17615294,,,Plectin-1,Plec,DISRUPTS
+ITGB4,Itgb4,T1727-p,480544,GSLTRHVtQEFVSRT,"molecular association, regulation; protein conformation",,22357621,,regulates HD assembly,Plectin-1,Plec,DISRUPTS
+ITGB4,Itgb4,T1727-p,480544,GSLTRHVtQEFVSRT,"molecular association, regulation; protein conformation",,22357621,,regulates HD assembly,ITGB4 iso2,Itgb4,INDUCES
+ITGB4,Itgb4,Y1564-p,456323,LQGYSVEyQLLNGGE,intracellular localization,"apoptosis, induced; transcription, induced",23677256,fn3,"Induce mRNA and protein levels of IL-8, PTGS2, KITLG and ATF3",,,
+ITGB4,Itgb4,S1356-p,451653,YSDDVLRsPSGSQRP,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",17615294; 20870721,,,Plectin-1,Plec,DISRUPTS
+ITGB4,Itgb4,T1736-p,1243302,EFVSRTLtTSGTLST,"molecular association, regulation; intracellular localization; protein conformation",,22357621,,regulates HD assembly,Plectin-1,Plec,DISRUPTS
+ITGB4,Itgb4,T1736-p,1243302,EFVSRTLtTSGTLST,"molecular association, regulation; intracellular localization; protein conformation",,22357621,,regulates HD assembly,ITGB4 iso2,Itgb4,INDUCES
+ITGB4,Itgb4,Y1526-p,450142,DLLPNHSyVFRVRAQ,"molecular association, regulation","cell adhesion, altered",11044453,fn3,,SHC1,Shc1,INDUCES
+ITGB4,Itgb4,Y1510-p,450141,STTLPRDySTLTSVS,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell motility, induced; signaling pathway regulation",25531330; 31242404,,"induces expression of ITGB4 and ERK1/2, induces phosphorylation of MEK1 and ERK1/2, MEK1-ERK1/2 signaling pathway",Syk,Syk,INDUCES
+ITGB4,Itgb4,Y1492-p,450140,SSTLTRDyNSLTRSE,"molecular association, regulation",,25531330,,,Syk,Syk,INDUCES
+ITGB4,Itgb4,S1424-p,465821,TLTRDYNsLTRSEHS,intracellular localization,"carcinogenesis, induced",22824799,,decreased phosphorylation of this site and cells invasion of CD151-depleted A431 cells,,,
+ITGB4,Itgb4,S1325-p,3103700,TQPKRPMsIPIIPDI,"molecular association, regulation",,15817481,,,Plectin-1,Plec,INDUCES
+ITGB4,Itgb4,S1364-p,451655,PSGSQRPsVSDDTGC,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization",17615294; 20870721,,,Plectin-1,Plec,DISRUPTS
+ITGB4,Itgb4,S1494-p,465821,TLTRDYNsLTRSEHS,intracellular localization,,19005215,,inhibits incorporation of ITGB4 into hemidesmosomes and promotes its disassembly,,,

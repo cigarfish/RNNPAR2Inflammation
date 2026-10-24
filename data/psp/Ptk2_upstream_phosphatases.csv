@@ -1,0 +1,11 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Ptk2,Pten,PTEN,PTEN,PTK2,Y397,"Phosphatases, in vitro"
+Ptk2,Ptpn1,PTPN1,PTP1B,PTK2,Y347,"Phosphatases, in vitro"
+Ptk2,Ptpn1,PTPN1,PTP1B,PTK2,Y397,"Phosphatases, in vitro"
+Ptk2,Ptpn11,PTPN11,SHP-2,PTK2,Y397,"Phosphatases, in vitro"
+Ptk2,Ptpn11,PTPN11,SHP-2,PTK2,Y576,"Phosphatases, in vitro"
+Ptk2,Ptpn11,PTPN11,SHP-2,PTK2,Y577,"Phosphatases, in vitro"
+Ptk2,Ptpn11,PTPN11,SHP-2,PTK2,Y925,"Phosphatases, in vitro"
+Ptk2,Dusp3,DUSP3,DUSP3,PTK2,Y397,Putative upstream phosphatases
+Ptk2,Fbp1,FBP1,FBPase,PTK2,Y570,Putative upstream phosphatases
+Ptk2,Ptpn12,PTPN12,PTP-PEST,PTK2,Y397,Putative upstream phosphatases

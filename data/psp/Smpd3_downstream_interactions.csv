@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMPD3,Smpd3,K103-ub,1880099300,IYSRLEDkGLAGGAA,protein degradation,,36261549,,,,,
+SMPD3,Smpd3,S209-p,17547980,GSIKRTAsVEYKGDG,protein stabilization,,36261549,,phosphorylation of SMPD3 S208 inhibits degradation of  K103-mediated degradation of SMPD3,,,

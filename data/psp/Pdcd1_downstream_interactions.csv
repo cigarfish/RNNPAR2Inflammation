@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDCD1,Pdcd1,S261-p,1881448300,PSGMGTSsPARRGSA,protein degradation; ubiquitination; intracellular localization,"carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",36104103,,,FBXW7,Fbxw7,INDUCES
+PDCD1,Pdcd1,S261-p,1881448300,PSGMGTSsPARRGSA,protein degradation; ubiquitination; intracellular localization,"carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced",36104103,,,KPNA2,Kpna2,INDUCES
+PDCD1,Pdcd1,K210-ub,1877141201,RRTGQPLkEDPSAVP,protein degradation,,33109719,,,,,
+PDCD1,Pdcd1,Y223-p,50293000,VPVFSVDyGELDFQW,"molecular association, regulation; phosphorylation",,15240681; 31189114,,induces dephosphorylation of target substrates after binding to SHP,SHP-2,Ptpn11,INDUCES
+PDCD1,Pdcd1,Y223-p,50293000,VPVFSVDyGELDFQW,"molecular association, regulation; phosphorylation",,15240681; 31189114,,induces dephosphorylation of target substrates after binding to SHP,SHP-1,Ptpn6,INDUCES
+PDCD1,Pdcd1,T234-p,1884731806,DFQWREKtPEPPVPC,"protein stabilization; molecular association, regulation","carcinogenesis, induced",37208329,,induces deubiquitination,USP5,Usp5,INDUCES
+PDCD1,Pdcd1,Y248-p,50293001,CVPEQTEyATIVFPS,"molecular association, regulation",,15240681,,,SHP-2,Ptpn11,INDUCES
+PDCD1,Pdcd1,Y248-p,50293001,CVPEQTEyATIVFPS,"molecular association, regulation",,15240681,,,SHP-1,Ptpn6,INDUCES
+PDCD1,Pdcd1,K233-ub,1877141202,LDFQWREkTPEPPVP,protein degradation,"carcinogenesis, inhibited",30487606; 33109719,,,,,

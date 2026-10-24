@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WASF3,Wasf3,Y151-p,486448,KKDGLKFyTDPSYFF,,"cell motility, induced; cytoskeletal reorganization",17623672,,induces lamellipodia formation,,,
+WASF3,Wasf3,Y486-p,486451,SRRIAVEySDSDDDS,,"cell motility, induced; cytoskeletal reorganization",17623672,,induces lamellipodia formation,,,
+WASF3,Wasf3,Y248-p,486449,HASDVTDySYPATPN,,"cell motility, induced; cytoskeletal reorganization",17623672,,induces lamellipodia formation,,,
+WASF3,Wasf3,Y337-p,486450,LPAQIIEyYNPSGPP,,"cell motility, induced; cytoskeletal reorganization",17623672,,induces lamellipodia formation,,,

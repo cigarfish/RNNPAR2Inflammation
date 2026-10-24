@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MRTFA,Mrtfa,S454-p,467355,TGSTPPVsPTPSERS,intracellular localization,"transcription, altered",18694962; 22139079,,stimulates MKL1 binding to G-actin and its nuclear export,,,
+MRTFA,Mrtfa,K499-sm,2407402,SPLQILVkEEGPRAG,sumoylation; intracellular localization,"transcription, inhibited",16098147; 36979893,,,,,
+MRTFA,Mrtfa,K576-sm,2407401,APLGTPVkQENSFSS,sumoylation; intracellular localization,"transcription, inhibited",16098147; 36979893,,,,,
+MRTFA,Mrtfa,K624-sm,2407400,GPPSVVVkQEALQPE,sumoylation; intracellular localization,"transcription, inhibited",16098147; 36979893,,,,,

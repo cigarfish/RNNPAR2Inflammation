@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTBP1,Ptbp1,T22-p,3072235,GSDELFStCVTNGPF,protein conformation,"RNA splicing, altered",38336291,,,,,
+PTBP1,Ptbp1,S16-p,450288,AVGTKRGsDELFSTC,protein conformation,"RNA splicing, altered",38336291,,,,,
+PTBP1,Ptbp1,S35-p,56568882,PFIMSSNsASAANGN,protein conformation,"RNA splicing, altered",38336291,,,,,
+PTBP1,Ptbp1,S16-p,450288,AVGTKRGsDELFSTC,intracellular localization,,12851456,,,,,
+PTBP1,Ptbp1,S167-p,56653834,GNLALAAsAAAVDAG,protein conformation,"RNA splicing, altered",38336291,,,,,
+PTBP1,Ptbp1,T138-p,18010516,SNHKELKtDSSPNQA,"molecular association, regulation","carcinogenesis, inhibited; RNA splicing, induced; cell differentiation, induced",35115536,RRM_5,,,,
+PTBP1,Ptbp1,S159-p,56653830,QAVNSVQsGNLALAA,protein conformation,"RNA splicing, altered",38336291,,,,,
+PTBP1,Ptbp1,S21-p,3072331,RGSDELFsTCVTNGP,protein conformation,"RNA splicing, altered",38336291,,,,,

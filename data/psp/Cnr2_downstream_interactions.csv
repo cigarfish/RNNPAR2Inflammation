@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CNR2,Cnr2,S352-p,450818,KITPWPDsRDLDLSD,"protein degradation; ubiquitination; receptor desensitization, altered",,10400664; 36448459,,,,,

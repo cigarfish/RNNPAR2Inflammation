@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,LYN,Lyn,INDUCES
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,Hck,Hck,INDUCES
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,Lck,Lck,INDUCES
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,BLK,Blk,INDUCES
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,FRK,Frk,INDUCES
+SKAP2,Skap2,Y75-p,449669,DAEDGEEyDDPFAGP,"molecular association, regulation; protein conformation",,21719704; 38483858,,,Fyn,Fyn,INDUCES
+SKAP2,Skap2,Y261-p,449668,QPIDDEIyEELPEEE,,"cell motility, induced",26577701,,macrophages migration towards cancer cells,,,

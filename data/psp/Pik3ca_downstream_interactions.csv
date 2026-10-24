@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PIK3CA,Pik3ca,Y317-p,462650,RISTATPyMNGETST,phosphorylation,"carcinogenesis, induced; cell motility, induced; cell growth, induced",37689735,,,,,
+PIK3CA,Pik3ca,T1061-p,1883454505,KMDWIFHtIKQHALN,"enzymatic activity, inhibited; protein conformation; phosphorylation",,38060450,,inhibits AKT phosphorylation,,,
+PIK3CA,Pik3ca,Y508-p,462651,SREAGFSySHAGLSN,phosphorylation,"carcinogenesis, induced; cell motility, induced; cell growth, induced; signaling pathway regulation",37689735,,induces AKT phosphorylation and signaling,,,

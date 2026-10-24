@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CASP2,Casp2,S164-p,241497501,STDTVEHsLDNKDGP,"molecular association, regulation",,28943433,,,14-3-3 zeta,Ywhaz,INDUCES
+CASP2,Casp2,S139-p,6835500,LSCDYDLsLPFPVCE,"molecular association, regulation; protein processing; enzymatic activity, induced",cell cycle regulation,19203584; 28943433,,,14-3-3 zeta,Ywhaz,INDUCES
+CASP2,Casp2,S157-p,456810,LYKKLRLsTDTVEHS,"protein conformation; activity, inhibited",,16193064,,lack of phosphorylation of this residue leads to Casp's dimerization and activation ,,,
+CASP2,Casp2,K77-sm,12004434,MRELIQAkVGSFSQN,"intracellular localization; enzymatic activity, induced",,15882978,CARD,maturation of procaspase-2,,,
+CASP2,Casp2,K152-ub,1880643700,CESCPLYkKLRLSTD,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",29875129,,,CASP2,Casp2,INDUCES
+CASP2,Casp2,S340-p,10892800,DGKNHAGsPGCEESD,,"apoptosis, altered",19730412,Peptidase_C14,,,,
+CASP2,Casp2,K153-ub,964503152,ESCPLYKkLRLSTDT,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",29875129,,,CASP2,Casp2,INDUCES
+CASP2,Casp2,K15-ub,41483564,SWSTFQHkELMAADR,"molecular association, regulation; enzymatic activity, induced","apoptosis, induced",29875129,,,CASP2,Casp2,INDUCES

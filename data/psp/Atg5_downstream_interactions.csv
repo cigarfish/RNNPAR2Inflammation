@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG5,Atg5,T101-p,23084709,SALPWNItVHFKSFP,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; autophagy, induced; cell growth, induced; apoptosis, inhibited",32186433; 36528756,APG5,induces deubiquitination; inhibits ubiquitination,ATG16L1,Atg16l1,INDUCES
+ATG5,Atg5,T101-p,23084709,SALPWNItVHFKSFP,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; autophagy, induced; cell growth, induced; apoptosis, inhibited",32186433; 36528756,APG5,induces deubiquitination; inhibits ubiquitination,USP13,Usp13,INDUCES

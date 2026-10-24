@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PYGM,Pygm,S15-p,449838,QEKRKQIsVRGLAGV,"protein conformation; enzymatic activity, induced",,1150650,,"14 residue phosphopeptide with phosphorylated S14, PYGM becomes activated in the absence of AMP and associates to a tetramer. ",,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CERS5,Cers5,S350-p,18260879,KVSKDDRsDVESSSE,"enzymatic activity, induced",,26887952,,,,,
+CERS5,Cers5,S355-p,18260885,DRSDVESsSEEEDVT,"enzymatic activity, induced",,26887952,,,,,
+CERS5,Cers5,S354-p,18260882,DDRSDVEsSSEEEDV,"enzymatic activity, induced",,26887952,,,,,
+CERS5,Cers5,S356-p,18260888,RSDVESSsEEEDVTT,"enzymatic activity, induced",,26887952,,,,,

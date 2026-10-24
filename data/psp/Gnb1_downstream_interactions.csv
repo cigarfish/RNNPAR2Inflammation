@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNB1,Gnb1,K23-ub,7250962,NQIRDARkACADATL,phosphorylation,signaling pathway regulation,34342229,,KCTD2/KCTD5-CUL3-RING E3 ligase promotes cAMP signaling in cancer-derived cell lines,,,
+GNB1,Gnb1,H266-p,9643001,QELMTYShDNIICGI,"activity, induced",,12486123; 17363702,WD40,receptor-independent activation of G proteins regulation of cAMP synthesis and contractility,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC20,Cdc20,S170-p,23092094,KTCRYIPsLPDRILD,"protein degradation; molecular association, regulation; ubiquitination",,23643811,,,CDC27,Cdc27,INDUCES
+CDC20,Cdc20,S170-p,23092094,KTCRYIPsLPDRILD,"protein degradation; molecular association, regulation; ubiquitination",,23643811,,,CDH1,Cdh1,INDUCES
+CDC20,Cdc20,T59-p,23092103,AGRTPGRtPGKSSSK,,cell cycle regulation,33819340,,,,,
+CDC20,Cdc20,T70-p,455844,SSSKVQTtPSKPGGD,"activity, inhibited",cell cycle regulation,29084198; 33819340,,,,,
+CDC20,Cdc20,S92-p,454660,AAQMEVAsFLLSKEN,"molecular association, regulation",cell cycle regulation,26811472,,phosphorylation-dependent regulation of Ube2S is coordinated with the microtubule-binding status of kinetochores,UBE2S,Ube2s,DISRUPTS

@@ -1,0 +1,25 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YWHAZ,Ywhaz,T232-p,449846,LTLWTSDtQGDEAEA,"molecular association, regulation; protein conformation; activity, inhibited",,14613942; 15119949; 18559254; 21081103; 9360956,,,14-3-3 zeta,Ywhaz,DISRUPTS
+YWHAZ,Ywhaz,T232-p,449846,LTLWTSDtQGDEAEA,"molecular association, regulation; protein conformation; activity, inhibited",,14613942; 15119949; 18559254; 21081103; 9360956,,,RAF1,Raf1,DISRUPTS
+YWHAZ,Ywhaz,T232-p,449846,LTLWTSDtQGDEAEA,"molecular association, regulation; protein conformation; activity, inhibited",,14613942; 15119949; 18559254; 21081103; 9360956,,,Tau iso3,Mapt,DISRUPTS
+YWHAZ,Ywhaz,T232-p,449846,LTLWTSDtQGDEAEA,"molecular association, regulation; protein conformation; activity, inhibited",,14613942; 15119949; 18559254; 21081103; 9360956,,,HSP20,Hspb6,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,14-3-3 zeta,Ywhaz,INDUCES
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,Tau iso3,Mapt,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,p53,Trp53,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,14-3-3 zeta,Ywhaz,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,ASK1,Map3k5,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,Tau,Mapt,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,HSP20,Hspb6,DISRUPTS
+YWHAZ,Ywhaz,S58-p,449833,VVGARRSsWRVVSSI,"protein degradation; molecular association, regulation; intracellular localization","apoptosis, altered",11956222; 16376338; 18559254; 19451227; 21081103; 35321476; 38492709,14-3-3,,14-3-3 epsilon,Ywhae,DISRUPTS
+YWHAZ,Ywhaz,K49-ac,474726,NLLSVAYkNVVGARR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,KIF11,Kif11,DISRUPTS
+YWHAZ,Ywhaz,K49-ac,474726,NLLSVAYkNVVGARR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,ATG9A,Atg9a,DISRUPTS
+YWHAZ,Ywhaz,K49-ac,474726,NLLSVAYkNVVGARR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,AS160,Tbc1d4,DISRUPTS
+YWHAZ,Ywhaz,K49-ac,474726,NLLSVAYkNVVGARR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,BAD,Bad,DISRUPTS
+YWHAZ,Ywhaz,K120-ac,3649468,ESKVFYLkMKGDYYR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,KIF11,Kif11,DISRUPTS
+YWHAZ,Ywhaz,K120-ac,3649468,ESKVFYLkMKGDYYR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,ATG9A,Atg9a,DISRUPTS
+YWHAZ,Ywhaz,K120-ac,3649468,ESKVFYLkMKGDYYR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,AS160,Tbc1d4,DISRUPTS
+YWHAZ,Ywhaz,K120-ac,3649468,ESKVFYLkMKGDYYR,"molecular association, regulation","apoptosis, induced",25770209,14-3-3,,BAD,Bad,DISRUPTS
+YWHAZ,Ywhaz,S184-p,449855,FYYEILNsPEKACSL,"protein stabilization; molecular association, regulation; protein conformation; phosphorylation","carcinogenesis, inhibited; apoptosis, induced; signaling pathway regulation",15071501; 16009721; 18559254; 21081103; 37676279,14-3-3,regulates BAD/BCL-xL signaling ,HSP20,Hspb6,INDUCES
+YWHAZ,Ywhaz,S184-p,449855,FYYEILNsPEKACSL,"protein stabilization; molecular association, regulation; protein conformation; phosphorylation","carcinogenesis, inhibited; apoptosis, induced; signaling pathway regulation",15071501; 16009721; 18559254; 21081103; 37676279,14-3-3,regulates BAD/BCL-xL signaling ,JNK1(NOT_REPORTED,Mapk8,UNKNOWN
+YWHAZ,Ywhaz,S184-p,449855,FYYEILNsPEKACSL,"protein stabilization; molecular association, regulation; protein conformation; phosphorylation","carcinogenesis, inhibited; apoptosis, induced; signaling pathway regulation",15071501; 16009721; 18559254; 21081103; 37676279,14-3-3,regulates BAD/BCL-xL signaling ,BAX,Bax,DISRUPTS
+YWHAZ,Ywhaz,S64-p,10407031,SSWRVVSsIEQKTEG,"activity, induced; molecular association, regulation; intracellular localization","transcription, induced",34697370,14-3-3,,AR,Ar,INDUCES

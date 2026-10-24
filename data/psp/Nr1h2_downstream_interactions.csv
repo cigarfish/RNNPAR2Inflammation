@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR1H2,Nr1h2,S426-p,18502600,RMLMKLVsLRTLSSV,"molecular association, regulation","transcription, induced",21331046,Hormone_recep,,coronin 2A,Coro2a,DISRUPTS
+NR1H2,Nr1h2,S426-p,18502600,RMLMKLVsLRTLSSV,"molecular association, regulation","transcription, induced",21331046,Hormone_recep,,SENP3,Senp3,INDUCES
+NR1H2,Nr1h2,K409-sm,12004410,LLSYTRIkRPQDQLR,"molecular association, regulation","transcription, inhibited",17218271; 21331046,Hormone_recep,,coronin 2A,Coro2a,INDUCES
+NR1H2,Nr1h2,S431-p,1881579402,LVSLRTLsSVHSEQV,,"carcinogenesis, induced; cell motility, induced; cell growth, induced; transcription, altered",37059993,,,,,
+NR1H2,Nr1h2,K447-sm,12004409,ALRLQDKkLPPLLSE,"molecular association, regulation","transcription, inhibited",17218271; 21331046,,,coronin 2A,Coro2a,INDUCES

@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGDIB,Arhgdib,S31-p,4933709,YKPPPQKsLKELQEM,"molecular association, regulation; activity, inhibited",,22469974; 31075185,Rho_GDI,,CDC42,Cdc42,DISRUPTS
+ARHGDIB,Arhgdib,S31-p,4933709,YKPPPQKsLKELQEM,"molecular association, regulation; activity, inhibited",,22469974; 31075185,Rho_GDI,,RAC1,Rac1,DISRUPTS
+ARHGDIB,Arhgdib,Y24-p,448978,ELDSKLNyKPPPQKS,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 31075185; 32903764,Rho_GDI,,CDC42,Cdc42,DISRUPTS
+ARHGDIB,Arhgdib,Y24-p,448978,ELDSKLNyKPPPQKS,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 31075185; 32903764,Rho_GDI,,RHOA,Rhoa,DISRUPTS
+ARHGDIB,Arhgdib,Y24-p,448978,ELDSKLNyKPPPQKS,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 31075185; 32903764,Rho_GDI,,RAC1,Rac1,DISRUPTS
+ARHGDIB,Arhgdib,Y24-p,448978,ELDSKLNyKPPPQKS,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 31075185; 32903764,Rho_GDI,,RHOC,Rhoc,DISRUPTS
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,CDC42,Cdc42,DISRUPTS
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,RHOA,Rhoa,DISRUPTS
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,RAC1,Rac1,DISRUPTS
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,SELPLG,Selplg,INDUCES
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,RHOC,Rhoc,DISRUPTS
+ARHGDIB,Arhgdib,Y153-p,7386101,YGPRPEEyEFLTPVE,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cell motility, induced",19321744; 24055812; 31075185; 32903764,Rho_GDI,,VAV1,Vav1,INDUCES
+ARHGDIB,Arhgdib,Y130-p,4113623,LKYVQHTyRTGVKVD,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",24055812; 32903764,Rho_GDI,,RHOA,Rhoa,DISRUPTS
+ARHGDIB,Arhgdib,Y130-p,4113623,LKYVQHTyRTGVKVD,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",24055812; 32903764,Rho_GDI,,SELPLG,Selplg,INDUCES
+ARHGDIB,Arhgdib,Y130-p,4113623,LKYVQHTyRTGVKVD,"molecular association, regulation","carcinogenesis, induced; cell motility, induced",24055812; 32903764,Rho_GDI,,RHOC,Rhoc,DISRUPTS

@@ -1,0 +1,18 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LRP1,Lrp1,Y4507-p,451245,TNFTNPVyATLYMGG,"molecular association, regulation; protein conformation",,11854294; 18381291; 21650223,,only binds when Fe65 is in complex with APP,SHC1,Shc1,INDUCES
+LRP1,Lrp1,Y4507-p,451245,TNFTNPVyATLYMGG,"molecular association, regulation; protein conformation",,11854294; 18381291; 21650223,,only binds when Fe65 is in complex with APP,SHP-2,Ptpn11,INDUCES
+LRP1,Lrp1,Y4507-p,451245,TNFTNPVyATLYMGG,"molecular association, regulation; protein conformation",,11854294; 18381291; 21650223,,only binds when Fe65 is in complex with APP,Fe65,Apbb1,INDUCES
+LRP1,Lrp1,S4523-p,7103863,GSRHSLAsTDEKREL,"molecular association, regulation; receptor internalization, altered",,15272003,,,GULP1,Gulp1,INDUCES
+LRP1,Lrp1,S4523-p,7103863,GSRHSLAsTDEKREL,"molecular association, regulation; receptor internalization, altered",,15272003,,,DAB1,Dab1,INDUCES
+LRP1,Lrp1,S4523-p,7103863,GSRHSLAsTDEKREL,"molecular association, regulation; receptor internalization, altered",,15272003,,,SHC1,Shc1,INDUCES
+LRP1,Lrp1,T4460-p,12526700,GFQHQRMtNGAMNVE,"molecular association, regulation; receptor internalization, altered",,15272003,,,GULP1,Gulp1,INDUCES
+LRP1,Lrp1,T4460-p,12526700,GFQHQRMtNGAMNVE,"molecular association, regulation; receptor internalization, altered",,15272003,,,DAB1,Dab1,INDUCES
+LRP1,Lrp1,T4460-p,12526700,GFQHQRMtNGAMNVE,"molecular association, regulation; receptor internalization, altered",,15272003,,,SHC1,Shc1,INDUCES
+LRP1,Lrp1,S4520-p,450168,GGHGSRHsLASTDEK,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,11158305; 15272003,,,GULP1,Gulp1,INDUCES
+LRP1,Lrp1,S4520-p,450168,GGHGSRHsLASTDEK,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,11158305; 15272003,,,DAB1,Dab1,INDUCES
+LRP1,Lrp1,S4520-p,450168,GGHGSRHsLASTDEK,"molecular association, regulation; receptor desensitization, altered; receptor internalization, altered",,11158305; 15272003,,,SHC1,Shc1,INDUCES
+LRP1,Lrp1,S4517-p,4769100,LYMGGHGsRHSLAST,"molecular association, regulation; receptor internalization, altered",,15272003,,,GULP1,Gulp1,INDUCES
+LRP1,Lrp1,S4517-p,4769100,LYMGGHGsRHSLAST,"molecular association, regulation; receptor internalization, altered",,15272003,,,DAB1,Dab1,INDUCES
+LRP1,Lrp1,S4517-p,4769100,LYMGGHGsRHSLAST,"molecular association, regulation; receptor internalization, altered",,15272003,,,SHC1,Shc1,INDUCES
+LRP1,Lrp1,Y4473-p,473712,VEIGNPTyKMYEGGE,"molecular association, regulation",,18381291,,,SNX17,Snx17,DISRUPTS
+LRP1,Lrp1,Y4473-p,473712,VEIGNPTyKMYEGGE,"molecular association, regulation",,18381291,,,SHP-2,Ptpn11,INDUCES

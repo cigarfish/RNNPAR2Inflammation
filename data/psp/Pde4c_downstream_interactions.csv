@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE4C,Pde4c,S535-p,471381,YQSKIPRsPSDLTNP,"enzymatic activity, inhibited",,11030732,,,,,
+PDE4C,Pde4c,S13-p,458390,PHSQRREsFLYRSDS,"enzymatic activity, induced",,12023945,,,,,

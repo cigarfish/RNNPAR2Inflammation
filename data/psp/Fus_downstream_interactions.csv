@@ -1,0 +1,30 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FUS,Fus,S42-p,3306333,QQSYSGYsQSTDTSG,"molecular association, regulation; protein conformation",,28942918; 29610493,,strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation; precise steric regulation of the rolled-sheet amyloid fibril architecture formed  by hnRNP P2 RAC1 and its potential contribution to the assembly of hnRNP P2 in RNA granules,,,
+FUS,Fus,S462-p,18801758,PGGGPGGsHMGGNYG,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S164-p,1878186702,QQNQYNSsSGGGGGG,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,K510-ac,36293641,RGGFGPGkMDSRGEH,"molecular association, regulation; intracellular localization",,32691043,,formation of stress granule-like inclusions,KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,S61-p,3306334,SYSSYGQsQNTGYGT,"molecular association, regulation; protein conformation",,28942918; 31805282,,"strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation; inhibits amyloid segment aggregation, fibrillization and seeding processes;  disrupt the intra and intermolecular interactions to inhibit the aggregation of R2",hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,T68-p,179463704,SQNTGYGtQSTPQGY,"molecular association, regulation",,28942918,,strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation,,,
+FUS,Fus,S84-p,3306336,STGGYGSsQSSQSSY,"molecular association, regulation",,28942918,,strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation,,,
+FUS,Fus,R522-me,1873375606,GEHRQDRrERPY___,intracellular localization,,22968170,,"Arginines in the RGG3 domain are required for nuclear import of mutant hnRNP, and arginine methylation in this domain reduces KPNB2 binding. ",KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,S182-p,1878186704,GNYGQDQsSMSSGGG,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,R521-me,1873375602,RGEHRQDrRERPY__,intracellular localization,,22968170,,"Arginines in the RGG3 domain are required for nuclear import of mutant hnRNP, and arginine methylation in this domain reduces KPNB2 binding. ",KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,T11-p,179463706,NDYTQQAtQSYGAYP,"molecular association, regulation",,28942918,,strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation,,,
+FUS,Fus,S277-p,1232880,DQGSRHDsEQDNSDN,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S163-p,1878186700,GQQNQYNsSSGGGGG,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S221-p,12217071,GGRGRGGsGGGGGGG,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,R514-me,1873356110,GPGKMDSrGEHRQDR,intracellular localization,,22968170,,"Arginines in the RGG3 domain are required for nuclear import of mutant hnRNP, and arginine methylation in this domain reduces KPNB2 binding. ",KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,S273-p,23113764,GGPRDQGsRHDSEQD,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S439-p,56654253,TCENMNFsWRNECNQ,"molecular association, regulation","translation, inhibited",35777956,zf-RanBP,,,,
+FUS,Fus,R476-me,1880718400,GDDRRGGrGGYDRGG,"molecular association, regulation; enzymatic activity, induced","transcription, induced",29784880,,induces p300 activity,p300,Ep300,DISRUPTS
+FUS,Fus,K315-ac,1877549400,IGIIKTNkKTGQPMI,"molecular association, regulation",,32691043,RRM_1,,,,
+FUS,Fus,R524-me,1873375604,HRQDRRErPY_____,intracellular localization,,22968170,,"Arginines in the RGG3 domain are required for nuclear import of mutant hnRNP, and arginine methylation in this domain reduces KPNB2 binding. ",KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,K333-sm,580826268,DRETGKLkGEATVSF,protein stabilization,"autophagy, inhibited",32069702,RRM_1,promotes hnRNPD-mediated ATG4D stability ,,,
+FUS,Fus,T338-p,1878186708,GKLKGEAtVSFDDPP,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S183-p,1878186706,NYGQDQSsMSSGGGS,"molecular association, regulation",,35753345,,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,K316-ac,1877549401,GIIKTNKkTGQPMIN,"molecular association, regulation",,32691043,RRM_1,,,,
+FUS,Fus,S54-p,283458502,TSGYGQSsYSSYGQS,"molecular association, regulation",,28942918,,strongly reduced the effects of DNA-PK treatment on both hydrogel binding and droplet formation,,,
+FUS,Fus,Y526-p,50318713,QDRRERPy_______,"molecular association, regulation; intracellular localization",,26403203; 37071594,,,KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,R518-me,1873375600,MDSRGEHrQDRRERP,intracellular localization,,22968170,,"Arginines in the RGG3 domain are required for nuclear import of mutant hnRNP, and arginine methylation in this domain reduces KPNB2 binding. ",KPNB2,Kpnb1,DISRUPTS
+FUS,Fus,S346-p,14160213,VSFDDPPsAKAAIDW,"molecular association, regulation",,35753345,RRM_1,,hnRNP P2,Hnrnpu,DISRUPTS
+FUS,Fus,S257-p,450486,GRGGMGGsDRGGFNK,protein stabilization,,10913197,,Phosphorylation-induced protein stabilization is observed only in those cells which overexpress BCR-ABL.  Ectopic expression of phosphomimetic S256D FUS mutant induces apoptosis and inhibits the differentiation of the cells escaping cell death. ,,,

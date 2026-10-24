@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKCH,Prkch,S675-p,463347,QDEFRNFsYVSPELQ,"protein stabilization; enzymatic activity, induced","DNA repair, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",34593629,Pkinase_C,,,,
+PRKCH,Prkch,T656-p,3914109,IKEEPVLtPIDEGHL,"protein stabilization; enzymatic activity, induced","DNA repair, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",34593629,Pkinase_C,,,,

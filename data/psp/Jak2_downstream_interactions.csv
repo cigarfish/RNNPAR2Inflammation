@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+JAK2,Jak2,K970-ub,1873147100,GMEYLGTkRYIHRDL,"phosphorylation; enzymatic activity, induced","transcription, induced; signaling pathway regulation",28676638,PK_Tyr_Ser-Thr,JAK2/STAT5 signal axis ,,,
+JAK2,Jak2,Y1008-p,448408,LPQDKEYyKVKEPGE,"activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; cell adhesion, induced; apoptosis, inhibited; transcription, induced; signaling pathway regulation",22177802; 22508938; 34118143; 34162728; 34380633; 34642304; 34900727; 35296317; 36516775,PK_Tyr_Ser-Thr,,,,
+JAK2,Jak2,K630-sm,31899103,ILVQEFVkFGSLDTY,"molecular association, regulation; intracellular localization",,23581279,PK_Tyr_Ser-Thr,translocation into the nucleus,GH receptor,Ghr,DISRUPTS
+JAK2,Jak2,S518-p,56527201,VFRTNGVsDVPTSPT,"enzymatic activity, induced","transcription, induced",27368100,,STAT3 activity induced,,,
+JAK2,Jak2,K167-sm,31899102,DFVHGWIkVPVTHET,"molecular association, regulation; intracellular localization",,23581279,FERM_F2,translocation into the nucleus,GH receptor,Ghr,DISRUPTS
+JAK2,Jak2,K912-sm,31899106,LQHDNIVkYKGVCYS,"molecular association, regulation; intracellular localization",,23581279,PK_Tyr_Ser-Thr,translocation into the nucleus,GH receptor,Ghr,DISRUPTS
+JAK2,Jak2,Y221-p,451493,IRAKIQDyHILTRKR,"enzymatic activity, induced","carcinogenesis, induced; transcription, induced; signaling pathway regulation",34031055,FERM_F2,CD44/JAK2/STAT2/CDA signaling pathway,,,
+JAK2,Jak2,K914-sm,31899107,HDNIVKYkGVCYSAG,"molecular association, regulation; intracellular localization",,23581279,PK_Tyr_Ser-Thr,translocation into the nucleus,GH receptor,Ghr,DISRUPTS
+JAK2,Jak2,Y201-p,470070,DQTPLAIyNSISYKT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",22837531,FERM_F2,"induces phosphorylation of JAK2,  STAT5 and SHP2",STAT5A,Stat5a,INDUCES
+JAK2,Jak2,Y201-p,470070,DQTPLAIyNSISYKT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",22837531,FERM_F2,"induces phosphorylation of JAK2,  STAT5 and SHP2",SHP-2,Ptpn11,INDUCES
+JAK2,Jak2,K1011-sm,31899105,DKEYYKVkEPGESPI,"molecular association, regulation; intracellular localization",,23581279,PK_Tyr_Ser-Thr,translocation into the nucleus,GH receptor,Ghr,DISRUPTS
+JAK2,Jak2,T174-p,56527200,KVPVTHEtQEECLGM,"enzymatic activity, induced","transcription, induced",27368100,FERM_F2,STAT3 activity induced,,,
+JAK2,Jak2,Y972-p,470145,EYLGTKRyIHRDLAT,"activity, induced",signaling pathway regulation,23926298,PK_Tyr_Ser-Thr,oncogenic kinase  Jak2V617F signaling and tumor suppressor (PP2A) activity,,,
+JAK2,Jak2,Y119-p,470132,VLYRIRFyFPRWYCS,"protein stabilization; enzymatic activity, inhibited",,17024180,FERM_F1,,EPOR,Epor,DISRUPTS
+JAK2,Jak2,Y1007-p,448407,VLPQDKEyYKVKEPG,"activity, induced; molecular association, regulation","carcinogenesis, induced; carcinogenesis, altered; cell motility, induced; cell adhesion, induced; transcription, induced; transcription, altered; signaling pathway regulation; cell growth, induced; apoptosis, inhibited",16914724; 22177802; 22508938; 34118143; 34162728; 34380633; 34642304; 34900727; 35296317; 36516775; 37145144,PK_Tyr_Ser-Thr,,SOCS1,Socs1,INDUCES
+JAK2,Jak2,Y813-p,451492,NSLFTPDyELLTEND,"molecular association, regulation; phosphorylation",,15767667; 16914724; 17565041; 38417019,,,APS,Sh2b2,INDUCES
+JAK2,Jak2,Y813-p,451492,NSLFTPDyELLTEND,"molecular association, regulation; phosphorylation",,15767667; 16914724; 17565041; 38417019,,,SH2-B-beta,Sh2b1,INDUCES
+JAK2,Jak2,Y813-p,451492,NSLFTPDyELLTEND,"molecular association, regulation; phosphorylation",,15767667; 16914724; 17565041; 38417019,,,LNK,Sh2b3,INDUCES
+JAK2,Jak2,K991-sm,31899101,VENENRVkIGDFGLT,"molecular association, regulation; intracellular localization",,23581279,PK_Tyr_Ser-Thr,translocation into the nucleus,GH receptor,Ghr,DISRUPTS

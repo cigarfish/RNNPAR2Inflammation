@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMURF2,Smurf2,K119-ub,1877715600,YQRLDLCkLGPNDND,protein degradation; ubiquitination,"cell differentiation, induced",31076633,,,,,
+SMURF2,Smurf2,R234-m2,56854400,RLAERRVrSQRHRNY,protein degradation,,26126536,,,,,
+SMURF2,Smurf2,K26-sm,52415801,LCAKNLVkKDFFRLP,,"carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation",26679521; 28423498,C2,,,,
+SMURF2,Smurf2,R232-m1,56854401,DPRLAERrVRSQRHR,protein degradation,,26126536,,,,,
+SMURF2,Smurf2,K369-sm,52415800,CLTVPRYkRDLVQKL,,"carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation",26679521; 28423498,,,,,
+SMURF2,Smurf2,R239-m2,56854402,RVRSQRHrNYMSRTH,protein degradation,,26126536,,,,,
+SMURF2,Smurf2,S384-p,1870790704,KILRQELsQQQPQAG,"molecular association, regulation; enzymatic activity, induced","DNA repair, altered",33097595,,"DNA repair delayed,",RNF20,Rnf20,INDUCES
+SMURF2,Smurf2,R237-m1,56854403,ERRVRSQrHRNYMSR,protein degradation,,26126536,,,,,
+SMURF2,Smurf2,K734-ub,50760802,SYEKLYEkLLTAIEE,"enzymatic activity, induced","cell motility, induced; signaling pathway regulation",26435193,HECT,"regulates TGF-beta signaling pathway (TGF-beta activity and biological effects), induces SMURF2 transthiolation",,,
+SMURF2,Smurf2,T249-p,27457334,MSRTHLHtPPDLPEG,ubiquitination,"carcinogenesis, inhibited; signaling pathway regulation",35017630,,"induces TGFBR1 ubiquitination and degradation, thus regulating the TGF-?-SMAD2/3 pathway",,,

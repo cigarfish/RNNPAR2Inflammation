@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDH2,Cdh2,S788-p,472343,EDQDYDLsQLQQPDT,"molecular association, regulation; enzymatic activity, inhibited","cell adhesion, induced",38127465,,inhibits RhoA activity,CTNND1,Ctnnd1,DISRUPTS
+CDH2,Cdh2,Y860-p,458305,DSLLVFDyEGSGSTA,"molecular association, regulation",,16371504,CADH_Y-type_LIR,,CTNNB1,Ctnnb1,DISRUPTS

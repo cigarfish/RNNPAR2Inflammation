@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RRM2,Rrm2,K95-ac,1878237800,HDIWQMYkKAEASFW,"molecular association, regulation","cell cycle regulation; cell growth, inhibited",31324785,,"K95 disrupts its homodimerization, RRM2 is deacetylated following DNA damage",RRM2,Rrm2,INDUCES
+RRM2,Rrm2,S20-p,457399,DPQQLQLsPLKGLSL,,"transcription, induced; signaling pathway regulation",17693683,, Beta-catenin-LEF/TCF transcriptional activity ; Wnt signaling pathway,,,
+RRM2,Rrm2,Y221-p,464201,IGDKEATyGERVVAF,"enzymatic activity, induced",,20484015,Ribonuc_red_sm,,,,
+RRM2,Rrm2,T33-p,3189775,SLVDKENtPPALSGT,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; DNA repair, inhibited",22632967; 26602815,,,CCNF,Ccnf,INDUCES

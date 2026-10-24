@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACSS2,Acss2,S659-p,83970101,PGLPKTRsGKIMRRV,"molecular association, regulation; intracellular localization","autophagy, induced; transcription, induced",28552616; 28820290; 38332049,AMP-binding_C,nuclear translocation,KPNA5,Kpna5,INDUCES
+ACSS2,Acss2,S267-p,460828,MGDSTSQsPPIKRSC,protein stabilization,"carcinogenesis, induced; cell growth, induced",35190642,AMP-binding,inhibits polyubiquitination,,,

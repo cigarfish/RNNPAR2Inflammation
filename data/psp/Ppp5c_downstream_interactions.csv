@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP5C,Ppp5c,K199-ub,41493185,KELMQWYkDQKKLHR,protein degradation; ubiquitination,,29141220,PPP5,,,,
+PPP5C,Ppp5c,T362-p,344893200,LFSEDGVtLDDIRKI,"enzymatic activity, induced","cell growth, induced; apoptosis, inhibited",29141220,Metallophos,,,,
+PPP5C,Ppp5c,K185-ub,21182254,GPKLEDGkVTISFMK,protein degradation; ubiquitination,,29141220,PPP5,,,,

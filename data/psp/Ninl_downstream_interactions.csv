@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NINL,Ninl,K495-ub,486278,EKLTLALkENSRLQK,protein degradation,,17403670,,,,,
+NINL,Ninl,S589-p,17490600,NRHSPSWsPDGRRRQ,protein degradation; ubiquitination; intracellular localization,,20890132,,,,,
+NINL,Ninl,S448-p,15668107,QGYRERLsLLRSEVE,intracellular localization,cell cycle regulation,20864540,,,,,
+NINL,Ninl,S585-p,15668108,RLPKNRHsPSWSPDG,intracellular localization,cell cycle regulation,20864540,,,,,
+NINL,Ninl,S185-p,15668109,WDSEDFGsPQKSCSP,"protein degradation; molecular association, regulation; protein stabilization; ubiquitination; intracellular localization",cell cycle regulation,20864540; 20890132,,,PLK1,Plk1,INDUCES

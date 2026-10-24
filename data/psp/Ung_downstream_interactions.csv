@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UNG,Ung,S23-p,2018600,ARKRHAPsPEPAVQG,"activity, induced; molecular association, regulation; enzymatic activity, induced",,18079698,,,RPA1,Rpa1,INDUCES
+UNG,Ung,T6-p,453426,__MIGQKtLYSFFSP,"molecular association, regulation",,28746850,,,PCNA,Pcna,DISRUPTS
+UNG,Ung,S64-p,2018601,EPGTPPSsPLSAEQL,"protein degradation; molecular association, regulation; ubiquitination; protein conformation; enzymatic activity, induced","DNA repair, induced",18079698; 27875297,,,RPA1,Rpa1,DISRUPTS
+UNG,Ung,T60-p,452622,AGQEEPGtPPSSPLS,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation; enzymatic activity, induced","DNA repair, induced",18079698; 27875297,,,RPA1,Rpa1,DISRUPTS
+UNG,Ung,Y8-p,460068,MIGQKTLySFFSPSP,"molecular association, regulation",,28746850,,,PCNA,Pcna,DISRUPTS

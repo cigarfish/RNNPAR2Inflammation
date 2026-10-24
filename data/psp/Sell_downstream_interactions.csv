@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SELL,Sell,S364-p,40548101,RLKKGKKsKRSMNDP,"molecular association, regulation",,25775539,,,Calmodulin,Calm1,DISRUPTS

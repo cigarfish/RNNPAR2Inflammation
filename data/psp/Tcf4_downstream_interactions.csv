@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TCF4,Tcf4,S56-p,451216,NVEDRSSsGSWGNGG,"molecular association, regulation","transcription, induced",11711551,,,CTNNG,Jup,DISRUPTS

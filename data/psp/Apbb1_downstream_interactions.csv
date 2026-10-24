@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APBB1,Apbb1,T579-p,288031700,SSSREQWtPSHVSVA,"molecular association, regulation; intracellular localization; protein conformation",,28963516,PID, promotes the amyloidogenic processing of APP;  suppresses FE65-PTB2 dimerization; gamma-secretase cleavage of APP;  cytoplasmic retention by enhancing FE65/APP interaction,APP,App,INDUCES
+APBB1,Apbb1,K701-ac,1881304500,QSLWGSLkPKRLGAH,,"transcription, induced",33938178,,,,,
+APBB1,Apbb1,K204-ac,1881304501,DGPREHSkSASLLFG,,"transcription, induced",33938178,,,,,
+APBB1,Apbb1,S228-p,36841900,DSSWATLsQGSPSYG,,"transcription, inhibited",25397632,,inhibits transcriptional activity of  APP in the Fe65-APP complex,,,
+APBB1,Apbb1,Y547-p,451143,VQKFQVYyLGNVPVA,"molecular association, regulation","transcription, induced",18922798,PID,part of a tripartite complex with APP,RASD1,Rasd1,DISRUPTS
+APBB1,Apbb1,S610-p,2035401,ECRVRFLsFLAVGRD,"molecular association, regulation; intracellular localization; protein conformation",,26188042,PID,,APP,App,DISRUPTS

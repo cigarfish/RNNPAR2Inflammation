@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC12A5,Slc12a5,T929-p,10045603,SAYTYEKtLVMEQRS,"activity, inhibited",,19665974,SLC12,,,,
+SLC12A5,Slc12a5,Y1110-p,3087801,NRNGDENyMEFLEVL,"activity, inhibited",,10942735,SLC12,,,,
+SLC12A5,Slc12a5,T1030-p,10045602,DPEKVHLtWTKDKSV,"activity, inhibited",,19665974; 29092909; 36318922,,Induces net ion influx and cell volume recovery during hypertonic stress,,,

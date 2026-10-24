@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EXO1,Exo1,S746-p,1240803,PGLYKSSsADSLSTT,"molecular association, regulation; protein conformation","chromatin organization, altered; signaling pathway regulation",22222486; 31053472,,Ca2+- CAMKK2-AMPK-Exo1 signaling pathway,14-3-3 beta,Ywhab,INDUCES
+EXO1,Exo1,S746-p,1240803,PGLYKSSsADSLSTT,"molecular association, regulation; protein conformation","chromatin organization, altered; signaling pathway regulation",22222486; 31053472,,Ca2+- CAMKK2-AMPK-Exo1 signaling pathway,14-3-3 sigma,Sfn,INDUCES
+EXO1,Exo1,S746-p,1240803,PGLYKSSsADSLSTT,"molecular association, regulation; protein conformation","chromatin organization, altered; signaling pathway regulation",22222486; 31053472,,Ca2+- CAMKK2-AMPK-Exo1 signaling pathway,14-3-3 gamma,Ywhag,INDUCES
+EXO1,Exo1,S746-p,1240803,PGLYKSSsADSLSTT,"molecular association, regulation; protein conformation","chromatin organization, altered; signaling pathway regulation",22222486; 31053472,,Ca2+- CAMKK2-AMPK-Exo1 signaling pathway,14-3-3 eta,Ywhah,INDUCES
+EXO1,Exo1,S714-p,482301,CNIKLLDsQSDQTSK,protein degradation,,18048416,,,,,
+EXO1,Exo1,S454-p,1240800,SEGNKSLsFSEVFVP,protein degradation,,18048416,,,,,
+EXO1,Exo1,T621-p,1240808,GLGDFSRtPSPSPST,protein degradation,,18048416,,,,,

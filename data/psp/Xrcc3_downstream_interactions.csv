@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XRCC3,Xrcc3,S225-p,482710,PFRCEFDsQASAPRA,"activity, induced","cell cycle regulation; DNA repair, induced; signaling pathway regulation",23438602,Rad51,XRCC3 phosphorylation is important for cellular resistance;  ATR/ATM pathway,,,

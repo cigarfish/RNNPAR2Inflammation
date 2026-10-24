@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BST2,Bst2,K18-ub,14512105,VPMEDGDkRCKLLLG,protein degradation; intracellular localization,,20419159,,inhibits BST2-mediated restriction on the release of KSHV and HIV-1 viral particles,,,

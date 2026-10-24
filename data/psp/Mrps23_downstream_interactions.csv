@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MRPS23,Mrps23,R21-m1,8093824,SRTRDLVrAGVLKEK,protein degradation; ubiquitination,"carcinogenesis, induced; cell motility, induced",33927350,MRP-S23,"promote degradation to a low level; promotes breast cancer metastasis,  OXPHOS inhibition, mtROS production,",,,
+MRPS23,Mrps23,K108-m2,1881582601,EKYTELQkLGETDEE,protein degradation; ubiquitination,"cell motility, induced",33927350,,promote degradation to a low level,,,

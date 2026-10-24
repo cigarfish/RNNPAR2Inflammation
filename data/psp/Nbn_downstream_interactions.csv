@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NBN,Nbn,K698-ac,487515,VTYPGAGkLPHIIGG,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,Nbs1_C,inhibits phosphorylation at S343,,,
+NBN,Nbn,K233-ac,487508,TFIFLNAkQHKKLSS,phosphorylation,"cell cycle regulation; apoptosis, induced; DNA repair, inhibited",17612497; 28869605,NIBRIN_BRCT_II,,,,
+NBN,Nbn,K544-ac,487512,SKSHAAEkLRSNKKR,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,,inhibits phosphorylation at S343,,,
+NBN,Nbn,K690-ac,487514,KNFKKFKkVTYPGAG,phosphorylation,"cell cycle regulation; apoptosis, induced; DNA repair, inhibited",17612497; 28869605,Nbs1_C,,,,
+NBN,Nbn,K441-ac,487510,TKLPSINkSKDRASQ,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,,inhibits phosphorylation at S343,,,
+NBN,Nbn,S343-p,448605,TTPGPSLsQGVSVDE,"activity, induced; acetylation; phosphorylation","cell cycle regulation; carcinogenesis, induced; DNA repair, induced; apoptosis, induced; chromatin organization, altered; cell growth, altered",10802669; 12861053; 14707289; 15733840; 17431132; 17526493; 18003706; 18644472; 24876101; 33568520,,,,,
+NBN,Nbn,K665-ac,487513,EFRSLVIkNSTSRNP,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,,inhibits phosphorylation at S343,,,
+NBN,Nbn,S278-p,449968,VDTGITNsQTLIPDC,phosphorylation,"cell cycle regulation; apoptosis, induced; chromatin organization, altered",12861053; 14707289; 18003706; 18644472,NIBRIN_BRCT_II,phosphorylation of RFA2; important for apoptosis induction; S phase checkpoint; telomere maintenance,,,
+NBN,Nbn,K715-ac,487516,LIAHHARkNTELEEW,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,Nbs1_C,inhibits phosphorylation at S343,,,
+NBN,Nbn,S432-p,483547,RIPNYQLsPTKLPSI,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered; DNA repair, altered; apoptosis, inhibited",22927831; 28216226,,"radioprotective effects; recruitment of Apollo/SNM1B to leading strand telomeres, regulates telomere repair choice",TRF2,Terf2,DISRUPTS
+NBN,Nbn,K504-ac,487511,TPSLWKNkEQHLSEN,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,,inhibits phosphorylation at S343,,,
+NBN,Nbn,K334-ac,487509,GHPSTGLkTTTPGPS,phosphorylation,"cell cycle regulation; apoptosis, induced",17612497,,inhibits phosphorylation at S343,,,
+NBN,Nbn,K208-ac,487507,DEPSIGSkNVDLSGR,phosphorylation,"cell cycle regulation; apoptosis, induced; DNA repair, inhibited",17612497; 28869605,,,,,

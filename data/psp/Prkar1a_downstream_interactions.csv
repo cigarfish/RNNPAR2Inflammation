@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKAR1A,Prkar1a,S77-p,468450,KAGTRTDsREDEISP,"molecular association, regulation; enzymatic activity, inhibited",,23942052; 35977512,,,PKACA,Prkaca,INDUCES
+PRKAR1A,Prkar1a,S101-p,454354,RRRRGAIsAEVYTEE,"enzymatic activity, induced",,29378851,,PKACA enzymatic activity,,,
+PRKAR1A,Prkar1a,S83-p,450936,DSREDEIsPPPPNPV,"molecular association, regulation; enzymatic activity, inhibited","cell cycle regulation; carcinogenesis, induced",16582606; 23942052; 25605337; 35977512; 36114575,,,PKACA,Prkaca,INDUCES
+PRKAR1A,Prkar1a,S83-p,450936,DSREDEIsPPPPNPV,"molecular association, regulation; enzymatic activity, inhibited","cell cycle regulation; carcinogenesis, induced",16582606; 23942052; 25605337; 35977512; 36114575,,,RFC2,Rfc2,DISRUPTS
+PRKAR1A,Prkar1a,S83-p,450936,DSREDEIsPPPPNPV,"molecular association, regulation; enzymatic activity, inhibited","cell cycle regulation; carcinogenesis, induced",16582606; 23942052; 25605337; 35977512; 36114575,,,MYO10,Myo10,INDUCES

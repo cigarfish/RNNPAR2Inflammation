@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNK12,Kcnk12,S13-p,29668008,PRPPPRRsRRRLPRP,"activity, induced; intracellular localization",,24163367,,"Channel current is increased in S13D mutant. Phosphorylation affects retrieval/retention signal, and allows KCNK12 to exit the ER and reach the plasma membrane.",,,

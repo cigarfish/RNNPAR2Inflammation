@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PELP1,Pelp1,S477-p,470174,ADALKLRsPRGSPDG,,"cell cycle regulation; carcinogenesis, altered; transcription, altered",20807815,NUC202,,,,
+PELP1,Pelp1,S1033-p,472322,LAPEALPsQGEVERE,,"DNA repair, induced; apoptosis, inhibited; transcription, induced; transcription, inhibited",24786831; 25788226,,modulate levels of E2F1,,,
+PELP1,Pelp1,S991-p,15334104,PALPPPEsPPKVQPE,,"cell cycle regulation; carcinogenesis, altered; transcription, altered",20807815,,,,,
+PELP1,Pelp1,K826-sm,1872504900,ASPPVPAkEEPEELP,intracellular localization,,21326211,,regulates nucleolar partioning of ribosome biogenesis complex and determines the rate of ribosome formation,,,
+PELP1,Pelp1,Y920-p,473548,EEEDEEEyFEEEEEE,"molecular association, regulation","apoptosis, inhibited; cell growth, altered",17194752,,,PIK3R1,Pik3r1,INDUCES

@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC6A4,Slc6a4,T616-p,7576402,IKSITPEtPTEIPCG,"molecular association, regulation; intracellular localization",,19270731,,,Vimentin,Vim,DISRUPTS
+SLC6A4,Slc6a4,Y142-p,21697922,MELALGQyHRNGCIS,"activity, induced; protein stabilization",,21992875,SNF,increases 5-HT uptake,,,
+SLC6A4,Slc6a4,T276-p,456508,SIWKGVKtSGKVVWV,"activity, induced; protein conformation",,16112691; 17310063; 17913921; 35258286,SNF,,,,
+SLC6A4,Slc6a4,Y47-p,21697923,SGQISNGySAVPSPG,"activity, induced; protein stabilization",,21992875,5HT_transport_N,increases 5-HT uptake,,,
+SLC6A4,Slc6a4,S611-p,7576400,FKERIIKsITPETPT,"activity, induced; molecular association, regulation",,19270731,,,Vimentin,Vim,DISRUPTS
+SLC6A4,Slc6a4,T81-p,12610000,LHQGEREtWGKKVDF,protein conformation,,20118234,SNF,,,,
+SLC6A4,Slc6a4,T613-p,7576401,ERIIKSItPETPTEI,"molecular association, regulation; intracellular localization",,19270731,,,Vimentin,Vim,DISRUPTS
+SLC6A4,Slc6a4,S48-p,1869992415,GQISNGYsAVPSPGA,"receptor internalization, inhibited",,32797733,5HT_transport_N,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DNAJC6,Dnajc6,S570-p,2518108,SATSTSAsPTLRVGE,"molecular association, regulation",,29735704,,,CLTC,Cltc,DISRUPTS

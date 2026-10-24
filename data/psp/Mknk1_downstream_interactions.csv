@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MKNK1,Mknk1,T250-p,447621,NSCTPITtPELTTPC,"enzymatic activity, induced","apoptosis, inhibited; cell growth, altered",17130135; 17590453; 18299328,Pkinase,Disruption of Mnk1 Mnk2 enhances As2O4 inducedapoptosis.,,,
+MKNK1,Mknk1,T214-p,447622,ITTPELTtPCGSAEY,"intracellular localization; enzymatic activity, induced",,17590453,Pkinase,Leaves nucleus to cytoplasm upon phosphorylation.,,,
+MKNK1,Mknk1,T255-p,447622,ITTPELTtPCGSAEY,"enzymatic activity, induced","apoptosis, inhibited; cell growth, altered",17130135; 17590453; 18299328,Pkinase,Disruption of Mnk1 Mnk2 enhances As2O4 inducedapoptosis.,,,
+MKNK1,Mknk1,S353-p,56790200,QVLQRNSsTMDLTLF,"activity, inhibited",,28545025,,,,,
+MKNK1,Mknk1,T209-p,447621,NSCTPITtPELTTPC,"intracellular localization; enzymatic activity, induced",,17590453,Pkinase,Leaves nucleus to cytoplasm upon phosphorylation.,,,

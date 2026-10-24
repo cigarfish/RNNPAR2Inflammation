@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACD,Acd,S25-p,3208632,LGSETPSsPRAGQLL,"molecular association, regulation; enzymatic activity, inhibited",cell cycle regulation,23509301,TPP1,shortened telomere length,TERT,Tert,INDUCES
+ACD,Acd,K147-ub,25218502,QDLDVQKkLYDCLEE,"protein stabilization; molecular association, regulation; intracellular localization","DNA repair, altered",22101936,,induces telomere shortening and chromosome fusions via alternative NHEJ pathway,POT1,Pot1a,INDUCES
+ACD,Acd,S169-p,15407290,SNAGLSLsQLLDEMR,"molecular association, regulation",,27396482,,"telomerase recruitment, telomere length regulation",TERT,Tert,INDUCES

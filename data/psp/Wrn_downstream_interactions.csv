@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WRN,Wrn,S440-p,3196118,DTSYVIEsDEDLEME,intracellular localization,"DNA repair, induced",24429382,,"localization to nucleoli, protection of cells from DSBs produced by etoposide",,,
+WRN,Wrn,K1117-ac,14512101,YSYKPCDkISSGSNI,protein stabilization; ubiquitination,,20428248,,inhibits ubiquitination,,,
+WRN,Wrn,K1413-ac,486391,RLPVWFAkGSDTSKK,protein stabilization; ubiquitination,,20428248,,inhibits ubiquitination,,,
+WRN,Wrn,K496-sm,12004439,PTHSKCLkMERNLGL,intracellular localization,,15355988,,,,,
+WRN,Wrn,K1389-ac,486390,CSSSKRSkEEVGINT,protein stabilization; ubiquitination,,20428248,,inhibits ubiquitination,,,
+WRN,Wrn,S1133-p,10940893,KKSIMVQsPEKAYSS,"molecular association, regulation; intracellular localization","DNA repair, induced",27634057,,association of WRN with the MRE11 complex and MRE11 foci-formation after replication-dependent DSBs,MRE11A,Mre11a,INDUCES
+WRN,Wrn,K366-ac,14512102,GEDVLGNkVERKEDG,protein stabilization; ubiquitination,,20428248,,inhibits ubiquitination,,,
+WRN,Wrn,K1127-ac,14512100,SGSNISKkSIMVQSP,protein stabilization; ubiquitination,,20428248,,inhibits ubiquitination,,,
+WRN,Wrn,S467-p,3196124,DTSYVIEsDEDLEME,intracellular localization,"DNA repair, induced",24429382,,"localization to nucleoli, protection of cells from DSBs produced by etoposide",,,
+WRN,Wrn,S1141-p,481875,PEKAYSSsQPVISAQ,"protein degradation; molecular association, regulation; ubiquitination","cell cycle regulation; DNA repair, induced",26695548,,WRN replication at S1141 modulates its dissociation from DSBs during replication stress and prevents chromosome breaks ,,,
+WRN,Wrn,K887-ac,14512103,LTEIRNEkFRLYKLK,protein stabilization; ubiquitination,,20428248,RecQ_Zn_bind,inhibits ubiquitination,,,
+WRN,Wrn,S426-p,3196115,YKSTEHLsPNDNEND,"molecular association, regulation; intracellular localization","DNA repair, altered",34612580,,,RPA1,Rpa1,INDUCES

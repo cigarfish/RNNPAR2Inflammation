@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ETFB,Etfb,K203-m2,36974101,PNIMKAKkKKIEVIK,"enzymatic activity, inhibited",,25416781,ETF,inhibitory effect on the transfer of electrons,,,
+ETFB,Etfb,K203-m3,36974100,PNIMKAKkKKIEVIK,"enzymatic activity, inhibited",,25416781,ETF,inhibitory effect on the transfer of electrons,,,
+ETFB,Etfb,K200-m2,3899873,ATLPNIMkAKKKKIE,"enzymatic activity, inhibited",,25416781,ETF,inhibitory effect on the transfer of electrons,,,
+ETFB,Etfb,K200-m3,15381912,ATLPNIMkAKKKKIE,"enzymatic activity, inhibited",,25416781,ETF,inhibitory effect on the transfer of electrons,,,

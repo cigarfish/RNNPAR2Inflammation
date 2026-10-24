@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLB,Polb,K72-ac,460603,VGTKIAEkIDEFLAT,,"DNA repair, inhibited",12453427,HHH_8,,,,
+POLB,Polb,S44-p,41521700,NAYRKAAsVIAKYPH,"enzymatic activity, inhibited; protein conformation",,29223917; 30138833; 37240334,HHH_8,,,,
+POLB,Polb,R152-m1,2363901,DFEKRIPrEEMLQMQ,,"DNA repair, induced",16600869,DNA_pol_B_palm,,,,
+POLB,Polb,S55-p,41521701,KYPHKIKsGAEAKKL,"protein conformation; enzymatic activity, induced",,30138833,HHH_8,,,,
+POLB,Polb,K206-ub,56841101,SFTSESTkQPKLLHQ,protein degradation; ubiquitination,,25423885,DNA_pol_B_palm,,,,
+POLB,Polb,K61-ub,12723500,KSGAEAKkLPGVGTK,protein degradation,"DNA repair, inhibited",19713937,HHH_8,,,,
+POLB,Polb,R83-m1,2363900,FLATGKLrKLEKIRQ,,"DNA repair, induced",16600869,,,,,
+POLB,Polb,K41-ub,12723501,HKYNAYRkAASVIAK,protein degradation,"DNA repair, inhibited",19713937,HHH_8,,,,
+POLB,Polb,K81-ub,12486800,DEFLATGkLRKLEKI,protein degradation,"DNA repair, inhibited",19713937,,,,,
+POLB,Polb,K244-ub,56841100,GVCQLPSkNDEKEYP,protein degradation; ubiquitination,,25423885,DNA_pol_B_palm,,,,

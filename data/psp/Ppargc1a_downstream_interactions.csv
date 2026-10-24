@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPARGC1A,Ppargc1a,K278-ac,63355301,KGSPFENkTIERTLS,,"transcription, inhibited",28340340,,,,,
+PPARGC1A,Ppargc1a,S266-p,448008,SLPLTPEsPNDPKGS,protein stabilization,,11741533,,,,,
+PPARGC1A,Ppargc1a,T299-p,448009,AGLTPPTtPPHKANQ,protein stabilization,,11741533,,,,,
+PPARGC1A,Ppargc1a,K224-m1,1878289800,NDDPPHTkPTENRNS,"activity, inhibited","cell growth, induced; apoptosis, inhibited",31629659,,inhibits PGC-1a-mediated NRF1/2 activation and inhibits ROS productiion and mitochondrial biogenesis,,,
+PPARGC1A,Ppargc1a,S571-p,2045307,RMRSRSRsFSRHRSC,"activity, inhibited",,19915805,,,,,
+PPARGC1A,Ppargc1a,S636-p,15422179,SRRPRYDsYEEYQHE,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, induced; DNA repair, induced; apoptosis, inhibited",36696363,,decreases H2AX phosphorylation,RNF34,Rnf34,INDUCES
+PPARGC1A,Ppargc1a,K347-ac,63355302,QGNNSTKkGPEQSEL,,"transcription, inhibited",28340340,,,,,
+PPARGC1A,Ppargc1a,T263-p,448241,TTLSLPLtPESPNDP,protein stabilization,,11741533,,,,,

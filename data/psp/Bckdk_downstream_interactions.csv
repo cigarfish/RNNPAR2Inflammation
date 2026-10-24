@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BCKDK,Bckdk,Y246-p,1868515109,RRLCEHKyGNAPRVR,"protein stabilization; ubiquitination; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",32238881,,"induces phosphorylation of MEK and BCKDHA, inhibits ubiquitination",,,

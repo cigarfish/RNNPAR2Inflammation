@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABCA1,Abca1,S2054-p,455498,GGNKRKLsTAMALIG,"activity, induced; ubiquitination",,12196520; 26494466,ABC_tran,,,,
+ABCA1,Abca1,Y1206-p,3718336,DIGHELTyVLPYEAA,"activity, inhibited",,21402379,,,,,

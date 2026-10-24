@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MCM4,Mcm4,T19-p,448634,GSRRGRAtPAQTPRS,"activity, inhibited",,12714602,,,,,
+MCM4,Mcm4,K216-m1,58123003,NVNCEHIkSFDKNLY,"molecular association, regulation",,23583077,MCM_N,,L3MBTL iso4,L3mbtl2,INDUCES
+MCM4,Mcm4,T7-p,450000,_MSSPAStPSRRGSR,"activity, inhibited",,12714602,,,,,
+MCM4,Mcm4,S32-p,450001,RSEDARSsPSQRRRG,"activity, inhibited",,12714602,,,,,
+MCM4,Mcm4,S54-p,448667,ELQPMPTsPGVDLQS,"activity, inhibited",,12714602,,,,,
+MCM4,Mcm4,T110-p,450002,PRSGVRGtPVRQRPD,"activity, inhibited",,12714602,,,,,

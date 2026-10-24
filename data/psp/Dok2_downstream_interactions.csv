@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOK2,Dok2,Y139-p,449649,CMEENELySSAVTVG,"molecular association, regulation",,16177091,,Dok1/Dok2 oligomerization required for ERK1/2 and NFAT activation,DOK2,Dok2,INDUCES
+DOK2,Dok2,Y139-p,449649,CMEENELySSAVTVG,"molecular association, regulation",,16177091,,Dok1/Dok2 oligomerization required for ERK1/2 and NFAT activation,DOK1,Dok1,INDUCES

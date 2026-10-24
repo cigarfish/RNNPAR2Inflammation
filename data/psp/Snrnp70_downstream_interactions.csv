@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNRNP70,Snrnp70,S140-p,2103618,HMVYSKRsGKPRGYA,"molecular association, regulation; intracellular localization","apoptosis, induced; cell growth, altered",12548559; 18202700,RRM_1,present in apoptotic bodies; Phosphorylated peptide S140-P induced CD4+ Tcell proliferation and IL-2 secretion in MLR/lpr mice. ,HLA-DQB1,H2-Ab1,INDUCES
+SNRNP70,Snrnp70,S226-p,451900,YDERPGPsPLPHRDR,"molecular association, regulation; intracellular localization; protein conformation","RNA splicing, induced",33811140,,,SF2,Srsf1,INDUCES
+SNRNP70,Snrnp70,S226-p,451900,YDERPGPsPLPHRDR,"molecular association, regulation; intracellular localization; protein conformation","RNA splicing, induced",33811140,,,snRNP A,Snrpa,INDUCES
+SNRNP70,Snrnp70,S226-p,451900,YDERPGPsPLPHRDR,"molecular association, regulation; intracellular localization; protein conformation","RNA splicing, induced",33811140,,,snRNP B1,Snrpb,INDUCES
+SNRNP70,Snrnp70,S226-p,451900,YDERPGPsPLPHRDR,"molecular association, regulation; intracellular localization; protein conformation","RNA splicing, induced",33811140,,,snRNP C,Snrpc,INDUCES
+SNRNP70,Snrnp70,S226-p,451900,YDERPGPsPLPHRDR,"molecular association, regulation; intracellular localization; protein conformation","RNA splicing, induced",33811140,,,SMN,Smn1,INDUCES

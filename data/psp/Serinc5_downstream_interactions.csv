@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SERINC5,Serinc5,S360-p,1874340202,ARCCFCFsPGGEDTE,"protein degradation; molecular association, regulation","endocytosis, induced",34380030,Serinc,induces interaction with HIV-1 Nef protein,,,
+SERINC5,Serinc5,K130-ub,1883494503,HNGFWFFkLLLLGAM,intracellular localization,,35474067,Serinc,"downregulation by HIV-1 Nef,  required for SERINC5 anti-HIV-1 activity",,,

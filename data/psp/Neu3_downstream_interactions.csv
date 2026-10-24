@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NEU3,Neu3,Y346-p,450320,QRVDLGIyLNQTPLE,"molecular association, regulation; phosphorylation",,12730204,BNR_2,lowers IRS-1 phosphorylation,GRB2,Grb2,INDUCES

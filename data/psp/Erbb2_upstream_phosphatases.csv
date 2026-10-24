@@ -1,0 +1,6 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Erbb2,Pfkfb3,PFKFB3,PFKFB3,ERBB2,S1151,Putative upstream phosphatases
+Erbb2,Ptpn12,PTPN12,PTP-PEST,ERBB2,Y1112,Putative upstream phosphatases
+Erbb2,Ptpn12,PTPN12,PTP-PEST,ERBB2,Y1196,Putative upstream phosphatases
+Erbb2,Ptpn12,PTPN12,PTP-PEST,ERBB2,Y1248,Putative upstream phosphatases
+Erbb2,Ptpro,PTPRO,PTPRO,ERBB2,Y1248,Putative upstream phosphatases

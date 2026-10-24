@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPP1R1B,Ppp1r1b,T34-p,448047,MIRRRRPtPAMLFRL,,"carcinogenesis, induced; cell motility, altered; cytoskeletal reorganization; signaling pathway regulation",19651774; 36966223,DARPP-32,induces ERK signaling,,,

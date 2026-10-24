@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HDAC1,Hdac1,S423-p,447913,CEEEFSDsEEEGEGG,"molecular association, regulation; enzymatic activity, induced",,11602581; 36082664,,,SIN3A,Sin3a,INDUCES
+HDAC1,Hdac1,K220-ac,4219802,DIGAGKGkYYAVNYP,"enzymatic activity, inhibited","transcription, inhibited",16762839,Hist_deacetyl,,,,
+HDAC1,Hdac1,K441-ac,4219804,SSNFKKAkRVKTEDE,"enzymatic activity, inhibited","transcription, inhibited",16762839,,,,,
+HDAC1,Hdac1,K218-ac,4219805,LRDIGAGkGKYYAVN,"enzymatic activity, inhibited","transcription, inhibited",16762839,Hist_deacetyl,,,,
+HDAC1,Hdac1,K74-ub,15389913,YHSDDYIkFLRSIRP,protein degradation,,26832969,Hist_deacetyl,enhances vascular calcification,,,
+HDAC1,Hdac1,K444-sm,2407421,FKKAKRVkTEDEKEK,,"cell cycle regulation; transcription, inhibited",11960997,,,,,
+HDAC1,Hdac1,S421-p,447912,IACEEEFsDSEEEGE,"molecular association, regulation; enzymatic activity, induced",,11602581; 36082664,,,SIN3A,Sin3a,INDUCES
+HDAC1,Hdac1,K438-ac,4219806,RKNSSNFkKAKRVKT,"enzymatic activity, inhibited","transcription, inhibited",16762839,,,,,
+HDAC1,Hdac1,K432-ac,4219803,EEGEGGRkNSSNFKK,"enzymatic activity, inhibited","transcription, inhibited",16762839,,,,,
+HDAC1,Hdac1,K439-ac,4219801,KNSSNFKkAKRVKTE,"enzymatic activity, inhibited","transcription, inhibited",16762839,,,,,
+HDAC1,Hdac1,Y72-p,55375010,TKYHSDDyIKFLRSI,protein stabilization; intracellular localization,"apoptosis, inhibited",33976119,Hist_deacetyl,inhibits ubiquitination,,,
+HDAC1,Hdac1,K476-sm,2407422,KPEAKGVkEEVKLA_,,"cell cycle regulation; transcription, inhibited",11960997,,,,,

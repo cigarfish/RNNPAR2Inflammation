@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITGA2,Itga2,S1180-p,3181118,IDETTELsS______,"molecular association, regulation",,27765911,,,MST1,Mst1,INDUCES

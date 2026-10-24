@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PELI1,Peli1,S39-p,1870773105,GDRGRRKsRFALFKR,"protein degradation; molecular association, regulation; ubiquitination",,33052227,Pellino,,RIPK1,Ripk1,DISRUPTS
+PELI1,Peli1,S39-p,1870773105,GDRGRRKsRFALFKR,"protein degradation; molecular association, regulation; ubiquitination",,33052227,Pellino,,TICAM1,Ticam1,DISRUPTS
+PELI1,Peli1,S39-p,1870773105,GDRGRRKsRFALFKR,"protein degradation; molecular association, regulation; ubiquitination",,33052227,Pellino,,ubiquitin,Ubc,DISRUPTS
+PELI1,Peli1,T264-p,1881000300,EGLSHTPtVKHLEAL,"ubiquitination; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",36841821,,,,,
+PELI1,Peli1,S76-p,7388015,ISNKDQHsISYTLSR,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,S78-p,7388013,NKDQHSIsYTLSRAQ,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,T80-p,7388010,DQHSISYtLSRAQTV,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,T288-p,7388016,QCPVGFNtLAFPSMK,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,S82-p,7388012,HSISYTLsRAQTVVV,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,Y154-p,3800785,PPFTARIyAAGFDSS,"ubiquitination; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",36841821,Pellino,,,,
+PELI1,Peli1,S293-p,7388014,FNTLAFPsMKRKDVV,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,
+PELI1,Peli1,T86-p,7388011,YTLSRAQtVVVEYTH,"ubiquitination; enzymatic activity, induced",,19264966,Pellino,,,,

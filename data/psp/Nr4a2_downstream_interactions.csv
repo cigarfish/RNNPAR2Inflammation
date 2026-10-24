@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR4A2,Nr4a2,S125-p,487428,GSVYYKPsSPPTPTT,,"transcription, induced",17890097,,S125C mutation attenuated NR4A2 -induced transcriptional activity.,,,
+NR4A2,Nr4a2,T132-p,487426,SSPPTPTtPGFQVQH,,"transcription, induced",17681692,,,,,
+NR4A2,Nr4a2,S126-p,487424,SVYYKPSsPPTPTTP,intracellular localization,"transcription, induced",17681692; 24223135,,,,,
+NR4A2,Nr4a2,K558-sm,7435500,YLSKLLGkLPELRTL,,"transcription, inhibited",19345186,Hormone_recep,,,,
+NR4A2,Nr4a2,S181-p,30304800,SLFSFKQsPPGTPVS,intracellular localization,,24223135,,UV induced nuclear foci formation and co-localization with DNA repair proteins,,,
+NR4A2,Nr4a2,K577-sm,2407418,LQRIFYLkLEDLVPP,,"transcription, inhibited",19345186,Hormone_recep,,,,

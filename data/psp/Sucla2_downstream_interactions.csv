@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUCLA2,Sucla2,S79-p,27457818,PKGYVAKsPDEAYAI,"molecular association, regulation","apoptosis, induced",33991485,ATP-grasp_2,,glutaminase,Gls,DISRUPTS

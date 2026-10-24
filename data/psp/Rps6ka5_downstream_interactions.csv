@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RPS6KA5,Rps6ka5,T581-p,448217,PDNQPLKtPCFTLHY,"intracellular localization; enzymatic activity, induced","cell growth, induced; transcription, induced; cytoskeletal reorganization",15568999; 15728587; 17429437; 19940164; 25958199,Pkinase,transcriptional activation of Fra-1 and c-Jun,,,
+RPS6KA5,Rps6ka5,S212-p,448214,DETERAYsFCGTIEY,"enzymatic activity, induced",,15568999,Pkinase,,,,
+RPS6KA5,Rps6ka5,S360-p,448215,TEMDPTYsPAALPQS,"protein conformation; enzymatic activity, induced",,17446865,Pkinase_C,,,,
+RPS6KA5,Rps6ka5,S376-p,448216,EKLFQGYsFVAPSIL,"enzymatic activity, induced",,15568999,Pkinase_C,,,,

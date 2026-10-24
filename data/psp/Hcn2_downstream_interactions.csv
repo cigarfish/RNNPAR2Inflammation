@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HCN2,Hcn2,T576-p,15785721,DYIIREGtIGKKMYF,"activity, inhibited","apoptosis, inhibited",21037554,cNMP_binding,,,,

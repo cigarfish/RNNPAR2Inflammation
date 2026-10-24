@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TIMELESS,Timeless,T1078-p,50613403,PPASGQEtFWRIPAK,"molecular association, regulation","DNA repair, altered",26456830,TIMELESS_C,,PARP1,Parp1,DISRUPTS

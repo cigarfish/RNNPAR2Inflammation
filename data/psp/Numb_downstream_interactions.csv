@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,,,AP2A1,Ap2a1,DISRUPTS
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,,,CDH1,Cdh1,DISRUPTS
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,,,CTNND1,Ctnnd1,DISRUPTS
+NUMB,Numb,T102-p,3333403,LRVVDEKtKDLIVDQ,"activity, induced; intracellular localization","endocytosis, altered",18657069,PID,,,,
+NUMB,Numb,S284-p,470030,SPFKRQLsLRINELP,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,AP2A1,Ap2a1,DISRUPTS
+NUMB,Numb,S284-p,470030,SPFKRQLsLRINELP,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,CDH1,Cdh1,DISRUPTS
+NUMB,Numb,S284-p,470030,SPFKRQLsLRINELP,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,CTNND1,Ctnnd1,DISRUPTS
+NUMB,Numb,S413-p,1885079902,KEIAATCsGTEWGQS,,"carcinogenesis, induced; translation, altered; cell motility, induced",38184733,,,,,
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,intracellular localization,"endocytosis, induced; cell motility, induced",17609107,,,AP2A1,Ap2a1,DISRUPTS
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,intracellular localization,"endocytosis, induced; cell motility, induced",17609107,,,PAR3,Par3,INDUCES
+NUMB,Numb,S7-p,487518,_MNKLRQsFRRKKDV,intracellular localization,"endocytosis, induced; cell motility, induced",17609107,,,ITGB1,Itgb1,DISRUPTS
+NUMB,Numb,S265-p,456490,EQLARQGsFRGFPAL,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,AP2A1,Ap2a1,DISRUPTS
+NUMB,Numb,S265-p,456490,EQLARQGsFRGFPAL,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,CDH1,Cdh1,DISRUPTS
+NUMB,Numb,S265-p,456490,EQLARQGsFRGFPAL,"molecular association, regulation; intracellular localization","endocytosis, inhibited",21775625,NumbF,,CTNND1,Ctnnd1,DISRUPTS

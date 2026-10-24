@@ -1,0 +1,6 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Sp1,Ppp2cb,PPP2CB,PPP2CB,SP1,T453,"Phosphatases, in vitro"
+Sp1,Ppp2cb,PPP2CB,PPP2CB,SP1,T739,"Phosphatases, in vitro"
+Sp1,Ppp2ca,PPP2CA,PPP2CA,SP1,S59,Putative upstream phosphatases
+Sp1,Ppp2ca,PPP2CA,PPP2CA,SP1,T681,Putative upstream phosphatases
+Sp1,Ppp2ca,PPP2CA,PPP2CA,SP1,T739,Putative upstream phosphatases

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRMT6,Prmt6,R35-m1,41554252,EREAALErPRRTKRE,protein stabilization,,23866860,,automethylated PRTM6 inhibits HIV1 replication,,,

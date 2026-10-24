@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATG9A,Atg9a,S14-p,3203970,EYQRLEAsYSDSPPG,,"autophagy, induced",27934868,,,,,
+ATG9A,Atg9a,Y8-p,62382600,MAQFDTEyQRLEASY,"molecular association, regulation","autophagy, induced",27934868,,,AP1B1,Ap1b1,INDUCES
+ATG9A,Atg9a,Y8-p,62382600,MAQFDTEyQRLEASY,"molecular association, regulation","autophagy, induced",27934868,,,AP1M2,Ap1m2,INDUCES
+ATG9A,Atg9a,S761-p,4722321,QSIPRSAsYPCAAPR,"molecular association, regulation","autophagy, induced",25266655,,,14-3-3 zeta,Ywhaz,INDUCES

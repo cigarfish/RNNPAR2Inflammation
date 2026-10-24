@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PPIA,Ppia,K82-ac,461597,GKSIYGEkFEDENFI,,"exocytosis, induced; cell adhesion, induced; signaling pathway regulation",24293519,Pro_isomerase,"secretion in VSMC, regulates VSMC activation pathway",,,
+PPIA,Ppia,K125-ac,466190,KTEWLDGkHVVFGKV,,"exocytosis, induced; cell adhesion, induced; signaling pathway regulation",24293519,Pro_isomerase,"secretion in VSMC, regulates VSMC activation pathway",,,

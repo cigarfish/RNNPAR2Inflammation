@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HAUS8,Haus8,S19-p,20583302,PATGPTNsSSAKKKD,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21705324,,disrupts microtubule binding,,,
+HAUS8,Haus8,S131-p,20609207,SKKPESTsFSAPRKK,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,
+HAUS8,Haus8,T130-p,7322606,ISKKPEStSFSAPRK,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,
+HAUS8,Haus8,S129-p,20609206,TISKKPEsTSFSAPR,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,
+HAUS8,Haus8,S143-p,20609210,RKKSPDLsEAMEMME,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,
+HAUS8,Haus8,S20-p,20583301,ATGPTNSsSAKKKDK,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21705324,,disrupts microtubule binding,,,
+HAUS8,Haus8,S151-p,20609209,EAMEMMEsQTLLLTL,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,
+HAUS8,Haus8,S133-p,20609208,KPESTSFsAPRKKSP,intracellular localization,"cell cycle regulation; apoptosis, inhibited",21690413,,localization to the spindle,,,

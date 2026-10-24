@@ -1,0 +1,19 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CNR1,Cnr1,T467-p,22342301,TMSVSTDtSAEAL__,"molecular association, regulation",,27895162; 34970999,,,CRIP1,Crip1,DISRUPTS
+CNR1,Cnr1,T467-p,22342301,TMSVSTDtSAEAL__,"molecular association, regulation",,27895162; 34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,T467-p,22342301,TMSVSTDtSAEAL__,"molecular association, regulation",,27895162; 34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,T467-p,22342301,TMSVSTDtSAEAL__,"molecular association, regulation",,27895162; 34970999,,,ARRB2,Arrb2,DISRUPTS
+CNR1,Cnr1,S425-p,999609,TAQPLDNsMGDSDCL,"molecular association, regulation; protein conformation",,17910957; 34970999,,,GRK3,Grk3,DISRUPTS
+CNR1,Cnr1,S425-p,999609,TAQPLDNsMGDSDCL,"molecular association, regulation; protein conformation",,17910957; 34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,S429-p,999608,LDNSMGDsDCLHKHA,"molecular association, regulation; protein conformation",,17910957; 34970999,,,GRK3,Grk3,DISRUPTS
+CNR1,Cnr1,S429-p,999608,LDNSMGDsDCLHKHA,"molecular association, regulation; protein conformation",,17910957; 34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,T465-p,22342306,KVTMSVStDTSAEAL,"molecular association, regulation",,34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,T465-p,22342306,KVTMSVStDTSAEAL,"molecular association, regulation",,34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,S464-p,22342302,AKVTMSVsTDTSAEA,"molecular association, regulation",,34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,S464-p,22342302,AKVTMSVsTDTSAEA,"molecular association, regulation",,34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,S468-p,22342303,MSVSTDTsAEAL___,"molecular association, regulation",,34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,S468-p,22342303,MSVSTDTsAEAL___,"molecular association, regulation",,34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,T460-p,22342304,TVKIAKVtMSVSTDT,"molecular association, regulation",,34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,T460-p,22342304,TVKIAKVtMSVSTDT,"molecular association, regulation",,34970999,,,ARRB2,Arrb2,INDUCES
+CNR1,Cnr1,S462-p,22342305,KIAKVTMsVSTDTSA,"molecular association, regulation",,34970999,,,GRK3,Grk3,INDUCES
+CNR1,Cnr1,S462-p,22342305,KIAKVTMsVSTDTSA,"molecular association, regulation",,34970999,,,ARRB2,Arrb2,INDUCES

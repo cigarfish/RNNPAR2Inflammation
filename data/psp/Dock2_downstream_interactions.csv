@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOCK2,Dock2,Y1405-p,1876205002,VKNAPGQyIQCFTVQ,"molecular association, regulation; intracellular localization; enzymatic activity, induced","transcription, induced; signaling pathway regulation",35079145,DHR-2_Lobe_B,induces RAC1 GTPase recruitment and activation further inducing CLR signaling,RAC1,Rac1,INDUCES
+DOCK2,Dock2,Y985-p,1876205000,DLIGKNVyPGDWMAM,"molecular association, regulation; intracellular localization; enzymatic activity, induced","transcription, induced; signaling pathway regulation",35079145,,induces RAC1 GTPase recruitment and activation further inducing CLR signaling,RAC1,Rac1,INDUCES

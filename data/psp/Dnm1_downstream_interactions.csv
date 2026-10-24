@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DNM1,Dnm1,S774-p,450205,SVPAGRRsPTSSPTP,"activity, induced; activity, inhibited","endocytosis, induced; endocytosis, inhibited",26139537; 29695509,,,,,

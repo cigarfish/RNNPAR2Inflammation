@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CYTH1,Cyth1,S394-p,1319401,ARKKKVSsTKRH___,"activity, induced",,18042453,,"increase in exchange activity, GRP1 autoinhibition reversed",,,
+CYTH1,Cyth1,T395-p,1319400,RKKKVSStKRH____,"activity, induced",,18042453,,"increase in exchange activity, GRP1 autoinhibition reversed",,,

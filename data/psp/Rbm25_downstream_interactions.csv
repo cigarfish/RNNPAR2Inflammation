@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBM25,Rbm25,K77-m1,58123403,DHPGLKAkENDENCG,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES
+RBM25,Rbm25,K77-me,1873076616,DHPGLKAkENDENCG,"molecular association, regulation",,28655759,,promotes inclusion of alternatively spliced exons,SFRS2,Srsf2,DISRUPTS

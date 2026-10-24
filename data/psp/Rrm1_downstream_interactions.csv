@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RRM1,Rrm1,S559-p,31890671,PYETYEGsPVSKGIL,"activity, induced; molecular association, regulation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, altered",32712628,Ribonuc_red_lgC,"regulation of DNA replication, dNTP levels and genomic stability;  induce RNR activity ",RFA2,Rpa2,DISRUPTS
+RRM1,Rrm1,S631-p,41454201,IYTRRVLsGEFQIVN,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",34126361,Ribonuc_red_lgC,regulates RNR enzymatic activity for DNA replication,RRM2,Rrm2,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FYN,Fyn,Y420-p,447882,RLIEDNEyTARQGAK,"molecular association, regulation","carcinogenesis, induced; DNA repair, induced",11983687; 29989005,PK_Tyr_Ser-Thr,,STEP,Ptpn5,INDUCES
+FYN,Fyn,Y531-p,447883,FTATEPQyQPGENL_,"activity, induced; intracellular localization; enzymatic activity, inhibited; protein conformation; phosphorylation","cell growth, altered",1533589; 15713745; 17389760; 1985196,,"Localization of Fyn is modulated by PDEF in cells expressing wild-FES (WT6-8 cells) , but not in cells with inactive FES (KE5-15).  ",,,
+FYN,Fyn,Y214-p,455043,KLDNGGYyITTRAQF,"activity, induced; molecular association, regulation; protein conformation; enzymatic activity, induced",,17389760; 27001024,SH2,autophosphorylation reduces its ability to bind to ESDN/DCBLD2; hyper-active conformation of Fyn ;  reduces SH2-dependent binding interactions,,,
+FYN,Fyn,S21-p,1983273,LTEERDGsLNQSSGY,"intracellular localization; phosphorylation; enzymatic activity, induced","cell motility, altered",20658524,,,,,
+FYN,Fyn,Y185-p,465282,SETTKGAySLSIRDW,"molecular association, regulation; enzymatic activity, induced",,27001024,SH2,autophosphorylation reduces its ability to bind to ESDN/DCBLD2;  reduces SH2-dependent binding interactions,,,
+FYN,Fyn,Y213-p,451536,RKLDNGGyYITTRAQ,"molecular association, regulation; intracellular localization; enzymatic activity, induced","apoptosis, inhibited",21097520; 27001024,SH2,,Exportin-1,Xpo1,INDUCES

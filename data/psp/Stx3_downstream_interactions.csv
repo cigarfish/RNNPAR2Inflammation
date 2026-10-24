@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+STX3,Stx3,T14-p,31960301,QLKAKQLtQDDDTDA,"molecular association, regulation; protein conformation",,35661757,,,VAMP2,Vamp2,INDUCES
+STX3,Stx3,T14-p,31960301,QLKAKQLtQDDDTDA,"molecular association, regulation; protein conformation",,35661757,,,STXBP1,Stxbp1,DISRUPTS
+STX3,Stx3,T14-p,31960301,QLKAKQLtQDDDTDA,"molecular association, regulation; protein conformation",,35661757,,,SNAP-25,Snap25,INDUCES

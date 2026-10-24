@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CUL3,Cul3,Y764-p,25180500,TPEDRKVyTYVA___,intracellular localization,,22448038,,,,,
+CUL3,Cul3,K712-ne,486343,AAIVRIMkSRKKMQH,"molecular association, regulation; ubiquitination",,16449638,Cullin_Nedd8,"Neddylation of Cul3 is required for Keap1-dependent ubiquitination of Nrf2 in vivo, but not in vitro. ",KEAP1,Keap1,INDUCES
+CUL3,Cul3,K712-ne,486343,AAIVRIMkSRKKMQH,"molecular association, regulation; ubiquitination",,16449638,Cullin_Nedd8,"Neddylation of Cul3 is required for Keap1-dependent ubiquitination of Nrf2 in vivo, but not in vitro. ",RBX1,Rbx1,INDUCES
+CUL3,Cul3,K712-ne,486343,AAIVRIMkSRKKMQH,"molecular association, regulation; ubiquitination",,16449638,Cullin_Nedd8,"Neddylation of Cul3 is required for Keap1-dependent ubiquitination of Nrf2 in vivo, but not in vitro. ",CAND1,Cand1,INDUCES

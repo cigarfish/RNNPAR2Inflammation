@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UFL1,Ufl1,T536-p,34668643,SGTGRKRtIKDLQEE,"molecular association, regulation","carcinogenesis, inhibited",38377992,,inhibtis PD-1 UFMylation;  induces CD8+ T cell activity and anti-tumor immunity,14-3-3 gamma,Ywhag,INDUCES
+UFL1,Ufl1,T536-p,34668643,SGTGRKRtIKDLQEE,"molecular association, regulation","carcinogenesis, inhibited",38377992,,inhibtis PD-1 UFMylation;  induces CD8+ T cell activity and anti-tumor immunity,PD-1,Pdcd1,DISRUPTS
+UFL1,Ufl1,S462-p,15436603,DDDSDDEsQSSHTGK,"molecular association, regulation; enzymatic activity, induced","DNA repair, induced",30886146,,activation of ATM signaling   ,NBS1,Nbn,INDUCES

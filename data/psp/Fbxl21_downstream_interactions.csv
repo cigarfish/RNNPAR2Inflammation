@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FBXL21P,Fbxl21,T33-p,1870414702,FYSSLNQtHTHTVLL,"protein degradation; molecular association, regulation; ubiquitination",,32937135,,induces telethonin ubiquitination and degradation,CUL1,Cul1,INDUCES

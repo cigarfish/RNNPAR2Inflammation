@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NR1D1,Nr1d1,S59-p,471092,FPPSPTGsLTQDPAR,protein stabilization,,16484495,,,,,
+NR1D1,Nr1d1,S55-p,471091,CPTYFPPsPTGSLTQ,protein stabilization,,16484495,,,,,

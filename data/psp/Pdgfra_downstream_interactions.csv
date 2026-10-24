@@ -1,0 +1,14 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDGFRA,Pdgfra,Y555-p,1887905500,IWKQKPRyEIRWRVI,"molecular association, regulation",,30057274,,,CBL,Cbl,INDUCES
+PDGFRA,Pdgfra,Y1018-p,448647,RLSADSGyIIPLPDI,"molecular association, regulation",,11818394; 7535778,,,PLCG1,Plcg1,INDUCES
+PDGFRA,Pdgfra,Y762-p,448440,SDIQRSLyDRPASYK,"molecular association, regulation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,33626330; 9546424,PK_Tyr_Ser-Thr,induces AKT phosphorylation and signaling,CRKL,Crkl,INDUCES
+PDGFRA,Pdgfra,Y762-p,448440,SDIQRSLyDRPASYK,"molecular association, regulation; phosphorylation; enzymatic activity, induced",signaling pathway regulation,33626330; 9546424,PK_Tyr_Ser-Thr,induces AKT phosphorylation and signaling,CDK6,Cdk6,INDUCES
+PDGFRA,Pdgfra,Y572-p,448437,ISPDGHEyIYVDPMQ,"molecular association, regulation",,9454734,,,Src,Src,INDUCES
+PDGFRA,Pdgfra,R554-me,1880718706,VIWKQKPrYEIRWRV,"protein stabilization; molecular association, regulation",,30057274,,,CBL,Cbl,DISRUPTS
+PDGFRA,Pdgfra,Y849-p,448441,DIMHDSNyVSKGSTF,"phosphorylation; enzymatic activity, induced","cell differentiation, inhibited; carcinogenesis, induced; cell motility, induced; cell growth, induced; signaling pathway regulation",33626330; 34858182; 35393545,PK_Tyr_Ser-Thr,regulates the phosphorylation of DUSP1/p38MAPK and inhibits cell differentiation through the DUSP1/p38MAPK pathway,,,
+PDGFRA,Pdgfra,Y720-p,452056,ADESTRSyVILSFEN,"molecular association, regulation",,11818394; 11896619; 8943348,PK_Tyr_Ser-Thr,Grb2 binds to the PDGFRalpha indirectly via tyrosine-phosphorylated SHP-2.,SHP-2,Ptpn11,INDUCES
+PDGFRA,Pdgfra,Y742-p,448657,KQADTTQyVPMLERK,"molecular association, regulation",,11818394,PK_Tyr_Ser-Thr,,PIK3R1,Pik3r1,INDUCES
+PDGFRA,Pdgfra,Y574-p,448438,PDGHEYIyVDPMQLP,"molecular association, regulation",,9454734,,,Src,Src,INDUCES
+PDGFRA,Pdgfra,Y731-p,448646,SFENNGDyMDMKQAD,"molecular association, regulation",,11818394,PK_Tyr_Ser-Thr,,PIK3R1,Pik3r1,INDUCES
+PDGFRA,Pdgfra,Y754-p,448439,ERKEVSKySDIQRSL,"molecular association, regulation",,11896619; 7523122,PK_Tyr_Ser-Thr,a 134kDa and a 70kDa protein,SHP-2,Ptpn11,INDUCES
+PDGFRA,Pdgfra,Y988-p,450905,RVDSDNAyIGVTYKN,"molecular association, regulation",,7535778,,,PLCG1,Plcg1,INDUCES

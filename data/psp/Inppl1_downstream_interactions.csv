@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+INPPL1,Inppl1,K315-ub,12718515,PVQAFEVkLDVTLGD,"intracellular localization; enzymatic activity, induced",,19880507,,,,,
+INPPL1,Inppl1,T958-p,475076,APREEPLtPRLKPEG,phosphorylation,,17219406,,Tyrosine phosphorylation is regulated by T958.,,,
+INPPL1,Inppl1,S132-p,468749,PPDDRDAsDGEDEKP,"protein degradation; intracellular localization; protein conformation; enzymatic activity, induced",cytoskeletal reorganization,21770892; 23040614,,,,,

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM71,Trim71,S3-p,18914372,_____MAsFPETDFQ,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",31160797,,inhibits ubiquitination,UBE1,Uba1,DISRUPTS
+TRIM71,Trim71,S3-p,18914372,_____MAsFPETDFQ,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",31160797,,inhibits ubiquitination,UBE2D3,Ube2d3,DISRUPTS
+TRIM71,Trim71,S3-p,18914372,_____MAsFPETDFQ,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",31160797,,inhibits ubiquitination,ubiquitin,Ubc,DISRUPTS

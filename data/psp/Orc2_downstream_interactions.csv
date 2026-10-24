@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ORC2,Orc2,T116-p,3195386,LASELAKtPQKSVSF,"molecular association, regulation",cell cycle regulation,22334659; 24732362,,,,,
+ORC2,Orc2,S188-p,21507302,SEYSASNsEDDEGVA,,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited; transcription, induced",21947279; 23188630,,,,,
+ORC2,Orc2,T226-p,7320974,SAPVGKEtPSKRMKR,"molecular association, regulation",cell cycle regulation,22334659; 24732362,,,,,

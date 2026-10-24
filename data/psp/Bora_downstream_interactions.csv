@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BORA,Bora,T501-p,2512943,QMDSGYNtQNCGSNI,"protein degradation; molecular association, regulation; ubiquitination",cell cycle regulation,18378770; 18521620; 23592782; 34759346,,,BTRC,Btrc,INDUCES
+BORA,Bora,T501-p,2512943,QMDSGYNtQNCGSNI,"protein degradation; molecular association, regulation; ubiquitination",cell cycle regulation,18378770; 18521620; 23592782; 34759346,,,BRD8,Brd8,INDUCES
+BORA,Bora,S274-p,9318308,TSPSPISsPTFSPIE,"protein degradation; molecular association, regulation",cell cycle regulation,23442801; 23970419,,required for mitotic entry,PIN1,Pin1,INDUCES
+BORA,Bora,S112-p,27444813,TKDVIVPsPWTDHEG,"molecular association, regulation; phosphorylation",cell cycle regulation,27068477; 33771996,BORA_N,,PLK1,Plk1,INDUCES
+BORA,Bora,S112-p,27444813,TKDVIVPsPWTDHEG,"molecular association, regulation; phosphorylation",cell cycle regulation,27068477; 33771996,BORA_N,,AurA,Aurka,INDUCES
+BORA,Bora,S278-p,27724403,PISSPTFsPIEFQIG,"protein degradation; molecular association, regulation",cell cycle regulation,23442801; 23970419,,required for mitotic entry,PIN1,Pin1,INDUCES
+BORA,Bora,S252-p,7533203,SSGQFSSsPIQASAK,"molecular association, regulation",cell cycle regulation,18521620; 34759346,,,PLK1,Plk1,INDUCES
+BORA,Bora,S41-p,11452210,LHEQTLAsPSVFKST,"molecular association, regulation",cell cycle regulation,27068477,BORA_N,,PLK1,Plk1,INDUCES
+BORA,Bora,S137-p,9320596,CTNINSDsPVGKKLT,"molecular association, regulation",cell cycle regulation,27068477,BORA_N,,PLK1,Plk1,INDUCES
+BORA,Bora,S497-p,2512942,SSNIQMDsGYNTQNC,"protein degradation; molecular association, regulation",cell cycle regulation,18378770; 18521620; 34759346,,,BTRC,Btrc,INDUCES
+BORA,Bora,S325-p,4753166,SPYIDGCsPIKNWSP,"molecular association, regulation","DNA repair, inhibited",25742493,,,MDC1,Mdc1,INDUCES

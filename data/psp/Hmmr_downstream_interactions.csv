@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HMMR,Hmmr,T703-p,460367,KENFALKtPLKEGNT,intracellular localization,,28993511,HMMR_C,nuclear localization,,,

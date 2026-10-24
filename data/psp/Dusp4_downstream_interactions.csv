@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUSP4,Dusp4,S391-p,15412246,LHSPITTsPSC____,protein stabilization,,25204653,,,,,
+DUSP4,Dusp4,S386-p,15412243,SSLPYLHsPITTSPS,protein stabilization,,25204653,,,,,

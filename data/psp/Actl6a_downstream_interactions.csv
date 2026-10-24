@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACTL6A,Actl6a,S233-p,471130,KEAVREGsPANWKRK,"molecular association, regulation","apoptosis, induced; transcription, induced",34898277,Actin,,RASSF6,Rassf6,INDUCES
+ACTL6A,Actl6a,S86-p,18908932,RENMEAIsPLKNGMV,"molecular association, regulation","apoptosis, induced; transcription, induced",34898277,Actin,,RASSF6,Rassf6,INDUCES
+ACTL6A,Actl6a,S195-p,1876807200,LQQGIVKsPLAGDFI,"molecular association, regulation","apoptosis, induced; transcription, induced",34898277,Actin,,RASSF6,Rassf6,INDUCES

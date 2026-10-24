@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MVB12A,Mvb12a,S163-p,3950650,VPKPRGLsRDMQGLS,protein processing,,18005716,DUF2464,inhibition of HIV-1 release and infectivity,,,
+MVB12A,Mvb12a,S207-p,13211303,NDSIYEAsSLYGISA,protein processing,,18005716,DUF2464,inhibition of HIV-1 release and infectivity,,,
+MVB12A,Mvb12a,S232-p,483399,RFEGKSCsPLAFSAF,protein processing,,18005716,DUF2464,inhibition of HIV-1 release and infectivity,,,
+MVB12A,Mvb12a,Y204-p,469592,LRRNDSIyEASSLYG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,16895919,DUF2464,important for ligand-mediated EGFR internalization and downregulation,SH3KBP1,Sh3kbp1,INDUCES
+MVB12A,Mvb12a,Y204-p,469592,LRRNDSIyEASSLYG,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,16895919,DUF2464,important for ligand-mediated EGFR internalization and downregulation,CD2AP,Cd2ap,INDUCES
+MVB12A,Mvb12a,S170-p,3208938,SRDMQGLsLDAASQP,protein processing,,18005716,DUF2464,inhibition of HIV-1 release and infectivity,,,
+MVB12A,Mvb12a,T130-p,13211302,RLSGKTKtVPGYLRI,protein processing,,18005716,DUF2464,inhibition of HIV-1 release and infectivity,,,

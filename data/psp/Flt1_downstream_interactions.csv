@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FLT1,Flt1,Y794-p,455807,SSEIKTDyLSIIMDP,phosphorylation,"cell cycle regulation; cell differentiation, altered",11350975; 16946136,,angiogenesis,,,
+FLT1,Flt1,Y1169-p,448208,VQQDGKDyIPINAIL,"molecular association, regulation",,9299537,,,PLCG1,Plcg1,INDUCES
+FLT1,Flt1,K831-me,4061500,RERLKLGkSLGRGAF,"phosphorylation; enzymatic activity, induced",,18006819,PK_Tyr_Ser-Thr,enhances VEGFR1 autophosphorylation,,,
+FLT1,Flt1,Y1213-p,448209,GSSDDVRyVNAFKFM,"molecular association, regulation; enzymatic activity, induced",,11583921; 9722576,,,GRB2,Grb2,INDUCES
+FLT1,Flt1,Y1213-p,448209,GSSDDVRyVNAFKFM,"molecular association, regulation; enzymatic activity, induced",,11583921; 9722576,,,PLCG1,Plcg1,INDUCES
+FLT1,Flt1,Y1213-p,448209,GSSDDVRyVNAFKFM,"molecular association, regulation; enzymatic activity, induced",,11583921; 9722576,,,SHP-2,Ptpn11,INDUCES
+FLT1,Flt1,Y1333-p,448212,DYNSVVLySTPPI__,"protein degradation; molecular association, regulation; receptor internalization, altered","cell cycle regulation; signaling pathway regulation; cell growth, altered",11583921; 15001553; 25119572; 9722576,,,PLCG1,Plcg1,INDUCES
+FLT1,Flt1,Y1333-p,448212,DYNSVVLySTPPI__,"protein degradation; molecular association, regulation; receptor internalization, altered","cell cycle regulation; signaling pathway regulation; cell growth, altered",11583921; 15001553; 25119572; 9722576,,,NCK1,Nck1,INDUCES
+FLT1,Flt1,Y1333-p,448212,DYNSVVLySTPPI__,"protein degradation; molecular association, regulation; receptor internalization, altered","cell cycle regulation; signaling pathway regulation; cell growth, altered",11583921; 15001553; 25119572; 9722576,,,CBL,Cbl,INDUCES
+FLT1,Flt1,Y1333-p,448212,DYNSVVLySTPPI__,"protein degradation; molecular association, regulation; receptor internalization, altered","cell cycle regulation; signaling pathway regulation; cell growth, altered",11583921; 15001553; 25119572; 9722576,,,CRK,Crk,INDUCES
+FLT1,Flt1,Y1242-p,448210,ATSMFDDyQGDSSTL,,"cell cycle regulation; cell growth, altered",11583921,,mutation to phenylalanine caused increased tyrosine phosphorylation of PLCG1,,,

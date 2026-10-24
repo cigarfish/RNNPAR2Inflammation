@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARPC1B,Arpc1b,T21-p,10349703,HAWNKDRtQIAICPN,"molecular association, regulation; phosphorylation","cell cycle regulation; cell motility, altered; cytoskeletal reorganization",14749719; 20603326,,stimulates T288 AurA phosphorylation and its activation,ARPC2,Arpc2,INDUCES
+ARPC1B,Arpc1b,T21-p,10349703,HAWNKDRtQIAICPN,"molecular association, regulation; phosphorylation","cell cycle regulation; cell motility, altered; cytoskeletal reorganization",14749719; 20603326,,stimulates T288 AurA phosphorylation and its activation,ARP2,Actr2,INDUCES

@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FOS,Fos,S32-p,470080,DSLSYYHsPADSFSS,"protein stabilization; molecular association, regulation",,17018293,,,UBR1,Ubr1,DISRUPTS
+FOS,Fos,T232-p,448491,GGLPEVAtPESEEAF,"activity, induced; intracellular localization; phosphorylation","carcinogenesis, induced; cell motility, induced; transcription, induced; transcription, altered",16055710; 17018293; 23667255; 27014871; 7816602,,,,,
+FOS,Fos,Y30-p,473044,AGDSLSYyHSPADSF,intracellular localization,"cell cycle regulation; cell growth, inhibited",17160021; 22105363,,critical for association of Fos with endoplasmic reticulum membranes and phospholipid synthesis activation; inhibits phospholipid synthesis,,,
+FOS,Fos,R287-me,1885721100,PSGSETArSVPDMDL,protein stabilization,"carcinogenesis, induced; cell growth, induced; autophagy, inhibited",37564212,,gastric tumorigenesis,,,
+FOS,Fos,S308-p,7388000,ADWEPLHsGSLGMGP,protein stabilization,,19285436,,,,,
+FOS,Fos,T325-p,448483,TELEPLCtPVVTCTP,,"carcinogenesis, induced; transcription, induced",23667255,,nuclear import of HBXIP,,,
+FOS,Fos,T331-p,448484,CTPVVTCtPSCTAYT,,"carcinogenesis, induced; transcription, induced",23667255,,nuclear import of HBXIP,,,
+FOS,Fos,K265-sm,3289000,SISSMELkTEPFDDF,intracellular localization; phosphorylation,"transcription, inhibited",16055710,,"intranuclear distribution; phosphorylation at T232 inhibits K265 sumoylation,",,,
+FOS,Fos,Y10-p,473043,FSGFNADyEASSSRC,intracellular localization,"cell cycle regulation; cell growth, inhibited",17160021; 22105363,,critical for association of Fos with endoplasmic reticulum membranes and phospholipid synthesis activation; inhibits phospholipid synthesis,,,
+FOS,Fos,S374-p,448482,PSSDSLSsPTLLAL_,"protein stabilization; molecular association, regulation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited; transcription, induced",23667255; 26725323; 32075732; 35439648; 38233377,,,FBXL10,Kdm2b,DISRUPTS

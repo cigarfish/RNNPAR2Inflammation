@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NADK,Nadk,S46-p,1210510,RGRAKSRsLSASPAL,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced",34133937,,primes for phosphorylation at S64,,,
+NADK,Nadk,S48-p,467325,RAKSRSLsASPALGS,"enzymatic activity, induced",,37659078,,,,,
+NADK,Nadk,S64-p,467326,KEFRRTRsLHGPCPV,"enzymatic activity, induced","carcinogenesis, induced",34133937,,,,,
+NADK,Nadk,S50-p,3178668,KSRSLSAsPALGSTK,"enzymatic activity, induced",,37659078,,,,,

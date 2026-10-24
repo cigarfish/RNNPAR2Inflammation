@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD79B,Cd79b,Y196-p,459286,GMEEDHTyEGLDIDQ,phosphorylation,signaling pathway regulation,37467575,,"inhibits DOCK8 phosphorylation, regulates BCR signaling",,,
+CD79B,Cd79b,K219-ub,12312067,TLRTGEVkWSVGEHP,intracellular localization,,32127472,,in cytoplasm,,,

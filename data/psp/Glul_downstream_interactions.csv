@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLUL,Glul,K14-ac,33351284,SHLNKGIkQVYMSLP,"protein degradation; molecular association, regulation; ubiquitination",,26990986,,,CRBN,Crbn,INDUCES
+GLUL,Glul,K11-ac,55588404,SASSHLNkGIKQVYM,"protein degradation; molecular association, regulation; ubiquitination",,26990986,,,CRBN,Crbn,INDUCES

@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MARK2,Mark2,T324-p,4145507,RYNEVMAtYLLLGYK,intracellular localization,"cytoskeletal reorganization; cell growth, altered",18760999,UBA,,,,
+MARK2,Mark2,S400-p,5635600,HKVQRSVsANPKQRR,"molecular association, regulation; intracellular localization",,19011111,,,14-3-3 beta,Ywhab,INDUCES
+MARK2,Mark2,S619-p,455400,PYGVTPAsPSGHSQG,,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited",35780183,,,,,
+MARK2,Mark2,S456-p,453135,STAKVPAsPLPGLER,,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited",35780183,,,,,
+MARK2,Mark2,T208-p,449999,TFGNKLDtFCGSPPY,"molecular association, regulation; protein conformation; enzymatic activity, induced",,22238344; 28711359; 35469920,Pkinase,,CBP,Crebbp,DISRUPTS
+MARK2,Mark2,S569-p,2192738,PQRVPVAsPSAHNIS,,"cell cycle regulation; carcinogenesis, induced; apoptosis, inhibited",35780183,,,,,
+MARK2,Mark2,T596-p,453427,RGVSSRStFHAGQLR,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; phosphorylation; enzymatic activity, induced","translation, induced; signaling pathway regulation",15084291; 15324659; 19011111; 33705388,,induces elF2 phosphorylation and hence the PKCd-MARK2-eIF2a signaling pathway,14-3-3 beta,Ywhab,INDUCES
+MARK2,Mark2,S409-p,3245780,NPKQRRFsDQAAGPA,"enzymatic activity, inhibited",neural plasticity; cytoskeletal reorganization,25512381,,1) PKAC inhibits phosphorylation of Tau caused by MARK-2. 2) PKAC acts as a negative regulator of MARK-2 in regulating microtubule stability and neurite outgrowth. ,,,
+MARK2,Mark2,S212-p,450068,KLDTFCGsPPYAAPE,"enzymatic activity, inhibited","cell differentiation, altered; cytoskeletal reorganization",18424437,Pkinase,GSK3B coexpression inhibits MARK2 enzymatic activity.,,,

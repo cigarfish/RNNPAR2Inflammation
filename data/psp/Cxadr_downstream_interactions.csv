@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CXADR,Cxadr,S293-p,3193535,SRTSTARsYIGSNHS,"molecular association, regulation; intracellular localization",,29382784,, translocation within cell junctions in response to EGF,KIF22,Kif22,INDUCES
+CXADR,Cxadr,T290-p,801662702,PPKSRTStARSYIGS,"molecular association, regulation; intracellular localization",,29382784,, translocation within cell junctions in response to EGF,KIF22,Kif22,INDUCES

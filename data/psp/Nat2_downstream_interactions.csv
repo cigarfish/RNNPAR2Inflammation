@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NAT1,Nat2,K100-ac,1876800100,VYSTPAKkYSTGMIH,"molecular association, regulation; enzymatic activity, inhibited",,32487734,Acetyltransf_2,acetylation inhibited the allosteric effects of ATP on NAT1,PPAT,Ppat,DISRUPTS
+NAT1,Nat2,K188-ac,36302509,LEDSKYRkIYSFTLK,"molecular association, regulation; enzymatic activity, inhibited",,32487734,Acetyltransf_2,acetylation inhibited the allosteric effects of ATP on NAT1,PPAT,Ppat,DISRUPTS

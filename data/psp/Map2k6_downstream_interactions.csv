@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP2K6,Map2k6,T211-p,448195,LVDSVAKtIDAGCKP,"enzymatic activity, induced; phosphorylation","transcription, induced; signaling pathway regulation",11460167; 8622669,Pkinase,,,,
+MAP2K6,Map2k6,S151-p,448194,ISGYLVDsVAKTIDA,"enzymatic activity, induced",,8621675,Pkinase,,,,
+MAP2K6,Map2k6,T211-ac,4325702,LVDSVAKtIDAGCKP,"enzymatic activity, inhibited; phosphorylation",,16728640,Pkinase,yopJ inhibits MKK6 phosphorylation and its enzymatic activation in vitro,,,
+MAP2K6,Map2k6,T155-p,448195,LVDSVAKtIDAGCKP,"enzymatic activity, induced",,8621675,Pkinase,,,,
+MAP2K6,Map2k6,Y219-p,1186001,IDAGCKPyMAPERIN,"molecular association, regulation",,17854274,Pkinase,enhances Rac-GTPase activity and inhibits NADPH oxidase activity in vivo,RAC1,Rac1,INDUCES
+MAP2K6,Map2k6,S207-p,448194,ISGYLVDsVAKTIDA,"enzymatic activity, inhibited; enzymatic activity, induced; phosphorylation","transcription, induced; signaling pathway regulation",11460167; 21878628; 37689067; 8622669,Pkinase,,,,
+MAP2K6,Map2k6,S207-ac,4325701,ISGYLVDsVAKTIDA,"enzymatic activity, inhibited; phosphorylation",,16728640,Pkinase,yopJ inhibits MKK6 phosphorylation and its enzymatic activation in vitro,,,

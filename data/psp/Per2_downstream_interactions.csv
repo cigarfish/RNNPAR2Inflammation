@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PER2,Per2,S696-p,468399,EMVEDAAsGPESLDC,,"carcinogenesis, induced; cell growth, induced",30746467,,,,,
+PER2,Per2,S480-p,50596800,PVPHSGSsGYGSLGS,"protein degradation; molecular association, regulation",,30425162,,,BTRC,Btrc,INDUCES
+PER2,Per2,S662-gl,27717323,ALPGKAEsVASLTSQ,phosphorylation,,23395175,,"blocks phosphorylation at S662, regulation of circadian clock",,,
+PER2,Per2,S662-p,449331,ALPGKAEsVASLTSQ,protein degradation; protein stabilization; intracellular localization; phosphorylation,"transcription, induced",17218255; 21324900; 30425162,,Phosphorylation of S662 promotes casein kinase I to phosphorylate nearby residues. CKI does not appear to phosphorlyate this residue (requires priming kinase).  Phosphorylation increased period length (tau).  Nonphosphorylated protein is mainly nuclear (as opposed to nuclear and cytoplasmic). Phosphorylated Per2 promotes its own transcription.,,,

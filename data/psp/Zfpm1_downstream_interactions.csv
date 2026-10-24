@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZFPM1,Zfpm1,K463-sm,14988612,PAAPRSIkVEAVEEP,"molecular association, regulation",,20587419,,,CTBP1,Ctbp1,INDUCES
+ZFPM1,Zfpm1,K501-sm,14988611,SPAPARVkAELSSPT,"molecular association, regulation",,20587419,,,CTBP1,Ctbp1,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DNAJB1,Dnajb1,S151-p,23099871,VNFGRSRsAQEPARK,,"transcription, inhibited",24309468,,,,,
+DNAJB1,Dnajb1,S149-p,30306601,TNVNFGRsRSAQEPA,,"transcription, inhibited",24309468,,,,,
+DNAJB1,Dnajb1,S171-p,30306602,VTHDLRVsLEEIYSG,,"transcription, inhibited",24309468,DnaJ_C,,,,

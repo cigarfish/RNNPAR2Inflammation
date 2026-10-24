@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RNF7,Rnf7,T10-p,449925,DVEDGEEtCALASHS,protein degradation,cell cycle regulation,12748192; 16874460,,Phosphorylation of T10 of CKBBP1 is required for efficient degradation of I-kappa-B-alpha and P27/Kip1,,,

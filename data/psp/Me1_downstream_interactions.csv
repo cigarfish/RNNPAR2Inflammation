@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ME1,Me1,K337-ac,33350408,KIWLVDSkGLIVKGR,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced",31735643,Malic_M,decreases phosphorylation at S336; protein dimerization increased,ME1,Me1,INDUCES
+ME1,Me1,S336-p,4701731,KKIWLVDsKGLIVKG,"molecular association, regulation; acetylation; intracellular localization; activity, inhibited","carcinogenesis, inhibited",31735643,Malic_M,protein dimerization decreased; decreases acetylation at K337,ME1,Me1,DISRUPTS

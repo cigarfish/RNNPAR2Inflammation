@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KAT2B,Kat2b,K428-ac,458985,LEANPGEkRKMTDSH,"enzymatic activity, induced",,12888487,,in vitro,,,
+KAT2B,Kat2b,K89-m1,7482014,LRSAPRAkKLEKLGV,intracellular localization,,19351588,PCAF_N,,,,
+KAT2B,Kat2b,K442-ac,458988,HVLEEAKkPRVMGDI,"enzymatic activity, induced",,12888487,,in vitro,,,
+KAT2B,Kat2b,K430-ac,458986,ANPGEKRkMTDSHVL,"enzymatic activity, induced",,12888487,,in vitro,,,
+KAT2B,Kat2b,S264-p,1870426001,YWHLEAPsQRRLRSP,"molecular association, regulation; acetylation",,32966758,PCAF_N,inhibits histone acetylation thus stabilizing replication forks/ prevent excessive fork degradation,,,
+KAT2B,Kat2b,K416-ac,458984,GSSSPACkASSGLEA,"enzymatic activity, induced",,12888487,,in vitro,,,
+KAT2B,Kat2b,K720-ac,1876931100,PSGKEKSkEPRDPDQ,"molecular association, regulation",cell cycle regulation,32404984,,,MDM2,Mdm2,DISRUPTS
+KAT2B,Kat2b,K441-ac,458987,SHVLEEAkKPRVMGD,"enzymatic activity, induced",,12888487,,in vitro,,,

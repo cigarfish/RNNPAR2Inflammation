@@ -1,0 +1,44 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAD52,Rad52,K192-ac,971232905,EVDLTKAkRQDLEPS,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K192-ac,971232905,EVDLTKAkRQDLEPS,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K192-ac,971232905,EVDLTKAkRQDLEPS,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K192-ac,971232905,EVDLTKAkRQDLEPS,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K133-ac,971232903,YGVSEGLkSKALSLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K133-ac,971232903,YGVSEGLkSKALSLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K133-ac,971232903,YGVSEGLkSKALSLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K133-ac,971232903,YGVSEGLkSKALSLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K412-sm,13258712,RKSQDMKkRKYDPS_,intracellular localization,,20190268,,,,,
+RAD52,Rad52,K262-ac,971232902,HQRKLRQkQLQQQFR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K262-ac,971232902,HQRKLRQkQLQQQFR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K262-ac,971232902,HQRKLRQkQLQQQFR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K262-ac,971232902,HQRKLRQkQLQQQFR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K177-ac,971232913,DYLRSLNkLPRQLPL,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K177-ac,971232913,DYLRSLNkLPRQLPL,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K177-ac,971232913,DYLRSLNkLPRQLPL,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K177-ac,971232913,DYLRSLNkLPRQLPL,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,Rad52_Rad22,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K323-ac,971232908,GVTQELIkTLEDNSE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K323-ac,971232908,GVTQELIkTLEDNSE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K323-ac,971232908,GVTQELIkTLEDNSE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K323-ac,971232908,GVTQELIkTLEDNSE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K286-ac,54247385,VSTPSAEkSEAAPPA,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K286-ac,54247385,VSTPSAEkSEAAPPA,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K286-ac,54247385,VSTPSAEkSEAAPPA,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K286-ac,54247385,VSTPSAEkSEAAPPA,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K411-sm,13258714,HRKSQDMkKRKYDPS,intracellular localization,,20190268,,,,,
+RAD52,Rad52,K190-ac,971232906,PLEVDLTkAKRQDLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K190-ac,971232906,PLEVDLTkAKRQDLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K190-ac,971232906,PLEVDLTkAKRQDLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K190-ac,971232906,PLEVDLTkAKRQDLE,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K274-ac,971232904,QFRERMEkQQVRVST,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K274-ac,971232904,QFRERMEkQQVRVST,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K274-ac,971232904,QFRERMEkQQVRVST,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K274-ac,971232904,QFRERMEkQQVRVST,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,Y104-p,449061,DLNNGKFyVGVCAFV,"activity, induced; molecular association, regulation; intracellular localization","DNA repair, induced",12379650; 21804533; 23836560,Rad52_Rad22,enhances ssDNA annealing activity by attenuating dsDNA binding.; single-strand annealing but not homologous recombination repair,,,
+RAD52,Rad52,K406-ac,971232911,GNWESHRkSQDMKKR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K406-ac,971232911,GNWESHRkSQDMKKR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K406-ac,971232911,GNWESHRkSQDMKKR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K406-ac,971232911,GNWESHRkSQDMKKR,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES
+RAD52,Rad52,K344-ac,971232909,DAGDGVVkPSSRADP,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RFA2,Rpa2,INDUCES
+RAD52,Rad52,K344-ac,971232909,DAGDGVVkPSSRADP,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA3,Rpa3,INDUCES
+RAD52,Rad52,K344-ac,971232909,DAGDGVVkPSSRADP,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RAD51,Rad51,INDUCES
+RAD52,Rad52,K344-ac,971232909,DAGDGVVkPSSRADP,"molecular association, regulation; intracellular localization","DNA repair, induced",29590107,,accumulation of RAD52 at DSB sites,RPA1,Rpa1,INDUCES

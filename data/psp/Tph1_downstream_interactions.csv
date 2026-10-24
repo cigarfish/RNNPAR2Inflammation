@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TPH1,Tph1,S58-p,451575,RKSKRRNsEFEIFVD,"molecular association, regulation",,9334190,,Interaction with 14-3-3 leads to increase in enzymatic activity of TPH1 and its stabilization. The interaction also inhibits dephosphorylation of TPH1.,14-3-3 beta,Ywhab,INDUCES

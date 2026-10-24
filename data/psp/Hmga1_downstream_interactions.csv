@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HMGA1,Hmga1,K54-ac,458952,RGRPKGSkNKGAAKT,,"apoptosis, induced",11389094,AT_hook,,,,
+HMGA1,Hmga1,K71-ac,458953,SKNKGAAkTRKTTTT,"molecular association, regulation; acetylation","transcription, induced",11498590; 9809067,,"optimum activation of transcription without effect on postinduction turnoff ; enhanceosome assembly, inhibits acetylation at K65",NFkB-p105,Nfkb1,INDUCES
+HMGA1,Hmga1,K71-ac,458953,SKNKGAAkTRKTTTT,"molecular association, regulation; acetylation","transcription, induced",11498590; 9809067,,"optimum activation of transcription without effect on postinduction turnoff ; enhanceosome assembly, inhibits acetylation at K65",ATF-2,Atf2,INDUCES
+HMGA1,Hmga1,K71-ac,458953,SKNKGAAkTRKTTTT,"molecular association, regulation; acetylation","transcription, induced",11498590; 9809067,,"optimum activation of transcription without effect on postinduction turnoff ; enhanceosome assembly, inhibits acetylation at K65",NFkB-p65,Rela,INDUCES
+HMGA1,Hmga1,T78-p,451516,KTRKTTTtPGRKPRG,"molecular association, regulation",,17960875,,Cdc2 phosphorylated HMGA1 has lower binding affinity than  HIPK2 phosphorylated HMGA1. ,,,
+HMGA1,Hmga1,T53-p,451515,KEPSEVPtPKRPRGR,"molecular association, regulation",,17960875,,Cdc2 phosphorylated HMGA1 has lower binding affinity than  HIPK2 phosphorylated HMGA1. ,,,
+HMGA1,Hmga1,S99-p,452256,KEEEEGIsQESSEEE,,"cell growth, induced",29038488,,,,,
+HMGA1,Hmga1,K60-ac,458953,SKNKGAAkTRKTTTT,,"apoptosis, induced",11389094,,,,,
+HMGA1,Hmga1,K65-ac,458952,RGRPKGSkNKGAAKT,"molecular association, regulation","transcription, inhibited",11498590; 9809067,AT_hook,"disrupts HMGA1/NF-kB cooperative complex and IFNB enhanceosome, prevents post induction turnoff in virus-induced ttanscription",NFkB-p100,Nfkb2,DISRUPTS
+HMGA1,Hmga1,S36-p,455950,PRKQPPVsPGTALVG,"molecular association, regulation",,17960875,,Cdc2 phosphorylated HMGA1 has lower binding affinity than  HIPK2 phosphorylated HMGA1. ,,,

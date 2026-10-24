@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC27,Cdc27,S821-p,23010415,TQLHAAEsDEF____,"molecular association, regulation",,22139841,,,MCPH1,Mcph1,INDUCES
+CDC27,Cdc27,S154-p,18258506,FLWSPFEsLCEIGEK,,"cell growth, altered",21209074,,regulates SnoN degradation,,,

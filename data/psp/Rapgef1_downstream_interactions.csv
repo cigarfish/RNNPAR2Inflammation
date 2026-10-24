@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAPGEF1,Rapgef1,Y554-p,1870440700,KNKHMLAyMQLLEDY,"molecular association, regulation; enzymatic activity, induced",,32873726,,"induces Rap1, LFA1 and IL3 activation",CDC25A,Cdc25a,INDUCES
+RAPGEF1,Rapgef1,Y504-p,448393,APIPSVPyAPFAAIL,"activity, induced; intracellular localization; enzymatic activity, induced; phosphorylation","cell cycle regulation; apoptosis, altered; cell growth, induced; cell differentiation, induced; signaling pathway regulation; transcription, altered",10318861; 12734187; 15320955; 18957052; 20581864; 21876762; 24396067; 28790195; 30567575; 32296045,,regulates the ADP-P2Y12-PI3K-Rap1 pathway; neurite growth,,,

@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP3K11,Map3k11,S770-p,448612,LISRPRPsPLRSRID,"phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced",35843311,,,,,
+MAP3K11,Map3k11,T477-p,36324901,HVRRRRGtFKRSKLR,"protein degradation; molecular association, regulation; ubiquitination; intracellular localization","carcinogenesis, inhibited; apoptosis, inhibited",25204656; 33875576,,,14-3-3 zeta,Ywhaz,INDUCES
+MAP3K11,Map3k11,T277-p,448263,LAREWHKtTQMSAAG,"molecular association, regulation; enzymatic activity, induced","cell differentiation, induced",11053428; 18851832; 21965325,PK_Tyr_Ser-Thr,,GEFT,Ngef,INDUCES
+MAP3K11,Map3k11,T738-p,4271419,EEEPRGGtVSPPPGT,"phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited",34511598,,induces c-Jun phosphorylation,,,
+MAP3K11,Map3k11,S789-p,487506,VSAGPRPsPLPSPQP,"enzymatic activity, induced","apoptosis, induced",17711861,,induces activation of itself and JNK,,,
+MAP3K11,Map3k11,S705-p,448610,FSLKTPDsPPTPAPL,"molecular association, regulation",,29084209,, oxidative stress-induced invasion of colon cancer cells; promotes MLK3-dependent B-Raf and ERK1/2 activation,BRAF,Braf,DISRUPTS
+MAP3K11,Map3k11,S758-p,448611,GTPGTPRsPPLGLIS,"molecular association, regulation",,29084209,, oxidative stress-induced invasion of colon cancer cells; promotes MLK3-dependent B-Raf and ERK1/2 activation,BRAF,Braf,DISRUPTS
+MAP3K11,Map3k11,S281-p,448262,WHKTTQMsAAGTYAW,"molecular association, regulation; enzymatic activity, induced","cell differentiation, induced",11053428; 18851832; 21965325,PK_Tyr_Ser-Thr,,GEFT,Ngef,INDUCES
+MAP3K11,Map3k11,S793-p,448613,PRPSPLPsPQPAPRR,"enzymatic activity, induced","apoptosis, induced",17711861,,induces activation of itself and JNK,,,
+MAP3K11,Map3k11,S674-p,448790,PGRERGEsPTTPPTP,"activity, inhibited","carcinogenesis, induced; apoptosis, inhibited",12458207; 26152725,,,,,
+MAP3K11,Map3k11,K264-ub,36324902,DMEHKTLkITDFGLA,protein degradation,,25204656,PK_Tyr_Ser-Thr,,,,
+MAP3K11,Map3k11,S548-p,4269787,GQAWGRQsPRRLEDS,"enzymatic activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, inhibited; cell growth, inhibited",35843311,,inhibits JNK and SEK1 phosphorylation,,,

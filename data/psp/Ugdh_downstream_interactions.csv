@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UGDH,Ugdh,Y473-p,4699451,VSSKRIPyAPSGEIP,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; RNA stability, induced; transcription, induced",31243371; 36896759,,"induces binding to UDP-Glc and hence disrupting interaction of HUR with UDP-Glc, facilitates easy release of UDP-GlcUA",HuR,Elavl1,INDUCES

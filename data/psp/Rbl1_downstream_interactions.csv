@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RBL1,Rbl1,S640-p,451296,RRDMQPLsPISVHER,,"cell growth, altered",11884610,,,,,
+RBL1,Rbl1,T997-p,3903587,HKNGSGLtPRSALLY,"molecular association, regulation",,28439018,Rb_C,,E2F1,E2f1,DISRUPTS
+RBL1,Rbl1,S1009-p,27460997,LLYKFNGsPSKSLKD,"molecular association, regulation",,28439018,Rb_C,,E2F1,E2f1,DISRUPTS
+RBL1,Rbl1,S975-p,450986,HIKQQPGsPRRISQQ,,"cell growth, altered",11884610,Rb_C,,,,
+RBL1,Rbl1,T369-p,451295,KRSFAPStPLTGRRY,"molecular association, regulation","cell growth, altered",11884610; 12006580,,,E2F4,E2f4,DISRUPTS
+RBL1,Rbl1,S650-p,455534,SVHERYSsPTAGSAK,"molecular association, regulation",,12006580,,,E2F4,E2f4,DISRUPTS
+RBL1,Rbl1,S964-p,451297,MMDAPPLsPFPHIKQ,"molecular association, regulation","cell growth, altered",11884610; 12006580,Rb_C,,E2F4,E2f4,DISRUPTS
+RBL1,Rbl1,S615-p,36125980,HLPLMPMsPLMHPRV,,cell cycle regulation,34661528,,,,,

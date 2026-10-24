@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAK6,Pak6,S165-p,454427,MPWPEPQsPRVLPNG,"enzymatic activity, induced",,15550393,,,,,
+PAK6,Pak6,T354-p,29666303,SPAGSPRtWHAQIST,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",24130878,, promotion of cell motility and invasion,AR,Ar,INDUCES
+PAK6,Pak6,S560-p,450316,KDVPKRKsLVGTPYW,"enzymatic activity, induced",,15550393,Pkinase,,,,
+PAK6,Pak6,S308-p,29666302,SLVAKAQsLPSDQPV,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",24130878,, promotion of cell motility and invasion,AR,Ar,INDUCES
+PAK6,Pak6,T99-p,3843654,LSVISSNtLRGRSPT,"molecular association, regulation; intracellular localization",,35969127,,,14-3-3 sigma,Sfn,INDUCES
+PAK6,Pak6,Y566-p,454426,KSLVGTPyWMAPEVI,"enzymatic activity, induced",,15550393,Pkinase,,,,
+PAK6,Pak6,T326-p,29666306,SPLTTSDtSSPQKSL,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",24130878,, promotion of cell motility and invasion,AR,Ar,INDUCES
+PAK6,Pak6,S360-p,12099459,RTWHAQIsTSNLYLP,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",24130878,, promotion of cell motility and invasion,AR,Ar,INDUCES
+PAK6,Pak6,S346-p,29666300,TGQLPGRsSPAGSPR,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",24130878,, promotion of cell motility and invasion,AR,Ar,INDUCES
+PAK6,Pak6,S113-p,5208141,TSRRRAQsLGLLGDE,"molecular association, regulation; intracellular localization",,35969127,,,14-3-3 sigma,Sfn,INDUCES

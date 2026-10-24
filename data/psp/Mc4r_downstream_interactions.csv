@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MC4R,Mc4r,S329-p,449102,LGGLCDLsSRY____,"receptor recycling, inhibited; intracellular localization; receptor internalization, altered; activity, inhibited",,12639913; 22544740,,retains MC4R in the endosomal compartment,,,
+MC4R,Mc4r,T312-p,449101,RSQELRKtFKEIICC,"receptor recycling, inhibited; intracellular localization; receptor internalization, altered; activity, inhibited",,12639913; 22544740,,retains MC4R in the endosomal compartment,,,
+MC4R,Mc4r,S330-p,449103,GGLCDLSsRY_____,"receptor internalization, altered",,12639913,,,,,

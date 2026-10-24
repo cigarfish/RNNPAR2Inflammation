@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RND3,Rnd3,S11-p,455489,RRASQKLsSKSIMDP,protein stabilization; intracellular localization,,15775972,,,,,
+RND3,Rnd3,S240-p,27933601,LRKDKAKsCTVM___,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23622247; 32041905,,,14-3-3 beta,Ywhab,INDUCES
+RND3,Rnd3,S240-p,27933601,LRKDKAKsCTVM___,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23622247; 32041905,,,14-3-3 zeta,Ywhaz,INDUCES
+RND3,Rnd3,S210-p,27933600,KNVKRNKsQRATKRI,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23622247; 32041905,,,14-3-3 beta,Ywhab,INDUCES
+RND3,Rnd3,S210-p,27933600,KNVKRNKsQRATKRI,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23622247; 32041905,,,GRF-1,Rasgrf1,DISRUPTS
+RND3,Rnd3,S218-p,25307985,QRATKRIsHMPSRPE,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,23622247; 32041905,,,14-3-3 beta,Ywhab,INDUCES

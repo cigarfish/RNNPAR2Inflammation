@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BUB1,Bub1,S314-p,481705,SHEDLPAsQERSEVN,"enzymatic activity, induced","cell cycle regulation; DNA repair, induced",22071147; 22099307,,required for the spindle checkpoint activation,,,
+BUB1,Bub1,T589-p,3175277,WGIRCNKtLAPSPKS,intracellular localization,,26399325,,T589 autophosphorylation limits H2A-pT120 and SGO1 to centromeres,,,
+BUB1,Bub1,T609-p,465611,SAAQLAStPFHKLPV,"molecular association, regulation; intracellular localization; phosphorylation",cell cycle regulation; signaling pathway regulation,16760428; 33125045; 34551298,,induces KNL1-MELT signaling; induces PLK1 recruitment,PLK1,Plk1,INDUCES
+BUB1,Bub1,S969-p,20722066,FTAKCETsGFQCVEM,"enzymatic activity, induced",,26658523,Pkinase,,,,

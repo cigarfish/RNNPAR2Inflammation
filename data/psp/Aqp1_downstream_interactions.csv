@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AQP1,Aqp1,T239-p,482807,APRSSDLtDRVKVWT,"activity, induced; intracellular localization",,17522053; 22334691,,T157A/T239A double mutation inhibits AQP1 translocation to the plasma membrane following hypotonic exposure; phosphorylation by PKC increases ion currents and water permability of AQP1.,,,
+AQP1,Aqp1,T157-p,482806,VLCVLATtDRRRRDL,"activity, induced; intracellular localization",,17522053; 22334691,MIP,T157A/T239A double mutation inhibits AQP1 translocation to the plasma membrane following hypotonic exposure; phosphorylation by PKC increases ion currents and water permability of AQP1.,,,

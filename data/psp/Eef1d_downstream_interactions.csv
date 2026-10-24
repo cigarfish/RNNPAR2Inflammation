@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EEF1D,Eef1d,S133-p,455672,APQTQHVsPMRQVEP,phosphorylation,,12551973,,,,,
+EEF1D,Eef1d,S499-p,455672,APQTQHVsPMRQVEP,,"transcription, inhibited",33521052,,,,,

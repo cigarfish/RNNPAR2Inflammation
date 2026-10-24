@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PCNT,Pcnt,S1235-p,25617500,MSSVAEIsSHMRESF,,cytoskeletal reorganization,22184200; 24466316,,important for spindle formation and centrosomal microtubule nucleation and the recruitment of the PCM proteins for centrosome maturation in mitosis; centrosome maturation and bipolar spindle formation during mitosis,,,
+PCNT,Pcnt,S1241-p,25617501,ISSHMREsFLMSPES,,cytoskeletal reorganization,22184200; 24466316,,important for spindle formation and centrosomal microtubule nucleation and the recruitment of the PCM proteins for centrosome maturation in mitosis; centrosome maturation and bipolar spindle formation during mitosis,,,

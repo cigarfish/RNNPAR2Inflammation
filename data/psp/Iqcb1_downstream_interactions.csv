@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+IQCB1,Iqcb1,K31-ub,95155301,NVPVILLkLKEIINI,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K528-ub,95155300,LMKAPSLkEAEGKEP,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K19-ub,95155302,SIAAEVAkSPEQNVP,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K263-ub,21177000,GLRRLLSkQETGTEF,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K205-ub,15491986,DLLRIGRkALYSILD,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K33-ub,95155303,PVILLKLkEIINITP,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,,regulation of cilia formation,,,
+IQCB1,Iqcb1,K396-ub,95155304,KSALIIQkHWRGYRE,intracellular localization,cell cycle regulation; cytoskeletal reorganization,28498859,IQ,regulation of cilia formation,,,

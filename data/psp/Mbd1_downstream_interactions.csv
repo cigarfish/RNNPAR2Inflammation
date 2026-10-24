@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MBD1,Mbd1,K499-sm,3144812,VVALPQVkQEKADTQ,"molecular association, regulation","transcription, induced",17066076,,,SETDB1,Setdb1,DISRUPTS
+MBD1,Mbd1,K538-sm,3144813,DPGLPSVkQEPPDPE,"molecular association, regulation","transcription, induced",17066076,,,SETDB1,Setdb1,DISRUPTS

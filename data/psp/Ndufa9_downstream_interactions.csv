@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFA9,Ndufa9,K189-ac,33351156,RNKAVGEkVVRDAFP,"activity, inhibited",,27508876,Epimerase,inhibits Complex 1 activity,,,

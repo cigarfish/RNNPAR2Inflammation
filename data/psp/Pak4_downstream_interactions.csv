@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PAK4,Pak4,S291-p,2192537,PGPPGPRsPQREPQR,,"carcinogenesis, induced; cell growth, induced; signaling pathway regulation",34262144,,"?-catenin/c-Myc, MEK/ERK signaling pathway",,,
+PAK4,Pak4,S474-p,448023,KEVPRRKsLVGTPYW,"intracellular localization; enzymatic activity, induced","carcinogenesis, induced; cell growth, altered",11668177; 20926745; 29849120; 35969127,Pkinase,,,,
+PAK4,Pak4,K473-me,1876978900,SKEVPRRkSLVGTPY,intracellular localization,"cytoskeletal reorganization; cell motility, inhibited; cell adhesion, inhibited",33051544,Pkinase,"decreases formation of filopodia and actin structures, inhibits paxillin localization to focal adhesions, inhibits invasion",,,
+PAK4,Pak4,S99-p,2192540,MSVTRSNsLRRDSPP,"molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization; cell motility, inhibited",23841590; 35593474; 35969127,,,14-3-3 zeta,Ywhaz,INDUCES
+PAK4,Pak4,S99-p,2192540,MSVTRSNsLRRDSPP,"molecular association, regulation; intracellular localization; phosphorylation","carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization; cell motility, inhibited",23841590; 35593474; 35969127,,,14-3-3 gamma,Ywhag,INDUCES
+PAK4,Pak4,S181-p,2192531,SRDKRPLsGPDVGTP,"molecular association, regulation; intracellular localization","cell motility, induced; cytoskeletal reorganization",35969127,,,14-3-3 sigma,Sfn,INDUCES

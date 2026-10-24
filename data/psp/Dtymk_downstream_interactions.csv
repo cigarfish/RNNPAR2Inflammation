@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DTYMK,Dtymk,S88-p,1253766700,PLIKEKLsQGVTLVV,"molecular association, regulation; intracellular localization","DNA repair, induced",30199284,Thymidylate_kin,,Tip60,Kat5,INDUCES

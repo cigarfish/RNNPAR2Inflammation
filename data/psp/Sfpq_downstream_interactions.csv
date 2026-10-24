@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SFPQ,Sfpq,T687-p,449362,PRGMGPGtPAGYGRG,"molecular association, regulation",,20932480,,TRAP150-PSF interaction regulates CD45 splicing by blocking PSF from interacting with CD45 pre-mRNA in resting T cells,BCLAF1,Bclaf1,INDUCES
+SFPQ,Sfpq,T687-p,449362,PRGMGPGtPAGYGRG,"molecular association, regulation",,20932480,,TRAP150-PSF interaction regulates CD45 splicing by blocking PSF from interacting with CD45 pre-mRNA in resting T cells,Trap150,Thrap3,INDUCES
+SFPQ,Sfpq,Y293-p,482843,RRPGEKTyTQRCRLF,intracellular localization,"transcription, altered; cell growth, altered",17537995,,relocalization from nucleus to cytoplasm,,,

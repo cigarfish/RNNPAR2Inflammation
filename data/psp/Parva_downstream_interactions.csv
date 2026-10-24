@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARVA,Parva,S4-p,4270096,____MATsPQKSPSV,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell adhesion, induced",15353548; 22955285,,"Matrix degradation, Src and MMP2 activity",ARHGEF7,Arhgef7,INDUCES
+PARVA,Parva,S4-p,4270096,____MATsPQKSPSV,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell adhesion, induced",15353548; 22955285,,"Matrix degradation, Src and MMP2 activity",PAK1,Pak1,INDUCES
+PARVA,Parva,S8-p,4270099,MATSPQKsPSVPKSP,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell adhesion, induced",15353548; 22955285,,"Matrix degradation, Src and MMP2 activity",ARHGEF7,Arhgef7,INDUCES
+PARVA,Parva,S8-p,4270099,MATSPQKsPSVPKSP,"molecular association, regulation; enzymatic activity, induced","cell motility, induced; cell adhesion, induced",15353548; 22955285,,"Matrix degradation, Src and MMP2 activity",PAK1,Pak1,INDUCES

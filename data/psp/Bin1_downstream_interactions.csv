@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+BIN1,Bin1,T348-p,7532308,VPPPPKHtPSKEVKQ,"molecular association, regulation; protein conformation",signaling pathway regulation,31065832,,Tau phosporylation-dependent interaction,Tau,Mapt,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DHX9,Dhx9,S321-p,460822,KLAQFEPsQRQNQVG,"molecular association, regulation","cell growth, induced; apoptosis, inhibited",37930853,,,RFA2,Rpa2,INDUCES
+DHX9,Dhx9,S688-p,17544210,YQILPLHsQIPREEQ,"molecular association, regulation",,37930853,Helicase_C,,RFA2,Rpa2,INDUCES

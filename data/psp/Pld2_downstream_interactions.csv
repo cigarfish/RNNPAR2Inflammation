@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLD2,Pld2,Y415-p,10036101,ALGINSGySKRALML,"molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; cell motility, induced",19715678; 20176813; 21414324; 23378025; 26124282,,activates lipase activity and inhibits GEF activity,JAK2,Jak2,INDUCES
+PLD2,Pld2,Y169-p,458806,KQKYLENyLNRLLTM,"molecular association, regulation; enzymatic activity, induced","cell motility, altered; cell growth, altered",16407827; 20647543,PX,,GRB2,Grb2,INDUCES
+PLD2,Pld2,S243-p,456497,RWLVVKDsFLLYMCL,"enzymatic activity, induced",,15979581,,,,,
+PLD2,Pld2,S134-p,456492,ARFAVAYsPARDAGN,"enzymatic activity, induced",,18625302,PX,stimulates EGF-dependent insulin secretion in pancreatic beta-cells,,,
+PLD2,Pld2,T566-p,15343400,FIQRWNFtKTTKAKY,intracellular localization,cytoskeletal reorganization,20733000,,required for integrin-mediated cell spreading,,,
+PLD2,Pld2,Y179-p,458807,RLLTMSFyRNYHAMT,"molecular association, regulation; enzymatic activity, induced; phosphorylation","cell cycle regulation; cell motility, altered; cell growth, altered",16407827; 18006275; 19715678; 20647543,PX,,GRB2,Grb2,INDUCES
+PLD2,Pld2,Y179-p,458807,RLLTMSFyRNYHAMT,"molecular association, regulation; enzymatic activity, induced; phosphorylation","cell cycle regulation; cell motility, altered; cell growth, altered",16407827; 18006275; 19715678; 20647543,PX,,CD45,Ptprc,DISRUPTS
+PLD2,Pld2,Y296-p,10036102,LILKCSSyRQARWWA,"enzymatic activity, inhibited; enzymatic activity, induced","carcinogenesis, inhibited; cell motility, altered",19715678; 20176813; 20647543,,,,,
+PLD2,Pld2,T252-p,456498,LLYMCLEtGAISFVQ,"enzymatic activity, induced",,15979581,,,,,
+PLD2,Pld2,Y511-p,10036100,FFWLGKDySNLITKD,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",19715678; 20176813,,dephosphorylated Y179 and Y511 mediates an induction of cell proliferation,GRB2,Grb2,INDUCES
+PLD2,Pld2,Y511-p,10036100,FFWLGKDySNLITKD,"molecular association, regulation; enzymatic activity, induced","cell growth, altered",19715678; 20176813,,dephosphorylated Y179 and Y511 mediates an induction of cell proliferation,CD45,Ptprc,DISRUPTS

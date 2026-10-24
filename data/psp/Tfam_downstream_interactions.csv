@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TFAM,Tfam,K197-ac,1876567510,KNLSDSEkELYIQHA,,"transcription, induced",35278431,HMG_box_2,,,,
+TFAM,Tfam,K154-ac,1876567506,KELTLLGkPKRPRSA,,"transcription, induced",35278431,HMG_box_2,,,,
+TFAM,Tfam,K76-ac,1883522700,KAQNPDAkTTELIRR,"molecular association, regulation",,36474281,,mitochondrial biogenesis impairment,TOMM70A,Tomm70a,DISRUPTS
+TFAM,Tfam,S55-p,18016712,SCPKKPVsSYLRFSK,protein degradation; intracellular localization,"transcription, inhibited",23201127,HMG_box,"localized to mitochondria,  Lon-mediated degradation",,,
+TFAM,Tfam,K52-ac,1876567508,VLASCPKkPVSSYLR,,"transcription, induced",35278431,HMG_box,,,,
+TFAM,Tfam,S177-p,33402212,FQEAKGDsPQEKLKT,"molecular association, regulation","transcription, inhibited",24768991,HMG_box_2,mitochondrial transcription;  supression of mitochondrial biogenesis,,,
+TFAM,Tfam,S61-p,27530800,VSSYLRFsKEQLPIF,,"transcription, induced",35278431,HMG_box,,,,
+TFAM,Tfam,K69-ac,1876567504,KEQLPIFkAQNPDAK,,"transcription, induced",35278431,HMG_box,,,,

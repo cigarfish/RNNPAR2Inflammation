@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYF5,Myf5,S49-p,457384,HKAELQGsDEDEHVR,"activity, induced",,9461343,Basic,,,,
+MYF5,Myf5,S133-p,457385,NAIRYIEsLQELLRE,"activity, induced",,9461343,HLH,,,,

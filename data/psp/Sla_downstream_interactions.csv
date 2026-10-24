@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLA,Sla,Y258-p,1018109,KKSISLMyGGSKRKS,"activity, inhibited",,24284075,,oncogenic c-Kit bypasses the normal cellular negative feedback control,,,
+SLA,Sla,Y273-p,467049,SFFSSPPyFED____,"activity, inhibited",,24284075,,oncogenic c-Kit bypasses the normal cellular negative feedback control,,,
+SLA,Sla,Y120-p,15570321,SETKKGFySLSVRHR,"activity, inhibited",,24284075,SH2,oncogenic c-Kit bypasses the normal cellular negative feedback control,,,

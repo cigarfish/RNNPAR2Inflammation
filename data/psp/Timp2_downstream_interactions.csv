@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TIMP2,Timp2,Y90-p,1257779601,EKDIEFIyTAPSSAV,"molecular association, regulation",,30227959,TIMP,,MMP2,Mmp2,INDUCES

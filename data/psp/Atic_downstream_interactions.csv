@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATIC,Atic,K266-ac,33363151,IPAAASFkHVSPAGA,"protein degradation; enzymatic activity, inhibited","carcinogenesis, induced",36750554,AICARFT_IMPCHas,,,,
+ATIC,Atic,Y104-p,456299,RVVACNLyPFVKTVA,"enzymatic activity, induced",,18845790,MGS,,,,

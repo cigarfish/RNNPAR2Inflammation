@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDUFV1,Ndufv1,T383-p,33402200,HESCGQCtPCREGVD,"activity, induced",cell cycle regulation,24746669,NADH_4Fe-4S,increases mitochondrial respiration for G/2M transition,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SMC1A,Smc1a,S957-p,448697,ISQEEGSsQGEDSVS,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,11877376; 11877377; 18832153; 21757780,SMC_N,,RAE1,Rae1,INDUCES
+SMC1A,Smc1a,S966-p,448698,GEDSVSGsQRISSIY,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,11877376; 11877377; 18832153,SMC_N,,RAE1,Rae1,INDUCES

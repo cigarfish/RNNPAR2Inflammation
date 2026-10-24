@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC12A3,Slc12a3,S73-p,469631,TYEHYANsTQPGEPR,"activity, induced; molecular association, regulation; protein conformation",,21164023; 36792826,AA_permease_N,,ADD3,Add3,DISRUPTS
+SLC12A3,Slc12a3,K828-ub,27200754,IFQSEQGkKTIDIYW,"protein degradation; ubiquitination; activity, inhibited; phosphorylation","endocytosis, induced",29021560,SLC12,NCC transport activity decreased. phosphorylation inhibited,,,
+SLC12A3,Slc12a3,K909-ub,27200746,NPRAEHTkRFEDMIA,"protein degradation; ubiquitination; activity, inhibited; phosphorylation","endocytosis, induced",29021560,SLC12,NCC transport activity decreased. phosphorylation inhibited,,,
+SLC12A3,Slc12a3,T60-p,469617,MRTFGYNtIDVVPTY,"activity, induced; molecular association, regulation; protein conformation",,18270262; 21164023; 36792826,AA_permease_N,,ADD3,Add3,DISRUPTS
+SLC12A3,Slc12a3,T55-p,469616,SSTFCMRtFGYNTID,"activity, induced; molecular association, regulation; protein conformation",,21164023; 36792826,AA_permease_N,,ADD3,Add3,DISRUPTS
+SLC12A3,Slc12a3,K706-ub,27200726,WLNKRKIkAFYSDVI,"protein degradation; ubiquitination; activity, inhibited; phosphorylation","endocytosis, induced",29021560,SLC12,NCC transport activity decreased. phosphorylation inhibited,,,

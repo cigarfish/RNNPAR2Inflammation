@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FER,Fer,Y402-p,457934,EPPPVVNyEEDARSV,,"cell motility, inhibited",37196766,,,,,
+FER,Fer,Y615-p,6311907,EAKILKQyDHPNIVK,"enzymatic activity, induced",,19159681,PK_Tyr_Ser-Thr,,,,
+FER,Fer,Y714-p,448461,RQEDGGVySSSGLKQ,"enzymatic activity, induced",,19159681,PK_Tyr_Ser-Thr,,,,

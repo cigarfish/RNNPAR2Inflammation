@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ICAM1,Icam1,Y501-p,450969,GTAGLSTyLYNRQRK,protein processing,,14973144,TM,proteolytic cleavage,,,
+ICAM1,Icam1,Y512-p,450460,RQRKIKKyRLQQAQK,"molecular association, regulation; protein processing","cell motility, altered; cell adhesion, altered",10864922; 12902516; 14973144,,,SHP-2,Ptpn11,INDUCES

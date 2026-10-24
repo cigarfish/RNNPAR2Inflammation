@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPV1,Trpv1,Y200-p,458384,ASYTDSYyKGQTALH,"receptor desensitization, altered; intracellular localization",,16319926,Ank_2,,,,
+TRPV1,Trpv1,S801-p,450017,VPLLREAsARDRQSA,"receptor desensitization, altered",,18701070,,,,,
+TRPV1,Trpv1,S502-p,450016,YFLQRRPsMKTLFVD,"receptor desensitization, altered; intracellular localization",,18701070; 31563651,Ion_trans,,,,
+TRPV1,Trpv1,T705-p,487542,WKLQRAItILDTEKS,"activity, induced",,24920628,,"TRPV1 internalization, sensitivity to capsaicin, heat sensitivity  ",,,
+TRPV1,Trpv1,T407-p,473576,IAYSSSEtPNRHDML,intracellular localization,,39891095,,,,,

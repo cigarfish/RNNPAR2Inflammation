@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+S100A11,S100a11,S94-p,10888706,LAMACHDsFLKAVPS,intracellular localization,"cell growth, altered",14623863,,Nuclear translocation is mediated by T10 phosphorylation. Calcium induced growth inhibition is mediated by T10 and S94 phosphorylation.,NCL,Ncl,INDUCES
+S100A11,S100a11,T10-p,10888705,KISSPTEtERCIESL,intracellular localization,"cell cycle regulation; cell growth, altered",10851017; 14623863,S_100,Nuclear translocation is mediated by T10 phosphorylation. Calcium induced growth inhibition is mediated by T10 and S94 phosphorylation.;  induces nuclear localization at cell confluency ,NCL,Ncl,INDUCES

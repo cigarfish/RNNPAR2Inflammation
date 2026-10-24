@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TIAM1,Tiam1,S1466-p,4727743,SDAVSASsPEKESQQ,phosphorylation,cell cycle regulation,26078008,,induces phosphorylation and centrosomal activation of PAK1/2 in mitosis;  regulates centrosome separation,,,
+TIAM1,Tiam1,S231-p,468938,STCQRANsLGDLYAQ,"protein stabilization; molecular association, regulation",,25746002,,,14-3-3 beta,Ywhab,INDUCES
+TIAM1,Tiam1,S334-p,35524908,EGSEFADsGIEGATT,"protein degradation; molecular association, regulation",,25124033,,,BTRC,Btrc,INDUCES
+TIAM1,Tiam1,T340-p,35524907,DSGIEGAtTDTDLLS,"molecular association, regulation",,25124033,,,BTRC,Btrc,INDUCES
+TIAM1,Tiam1,S172-p,11485306,FKKKRSKsADIWRED,"protein stabilization; molecular association, regulation",,25746002,,,14-3-3 beta,Ywhab,INDUCES
+TIAM1,Tiam1,S329-p,23152631,DVNAGEGsEFADSGI,"protein degradation; molecular association, regulation",,25124033,,,BTRC,Btrc,INDUCES
+TIAM1,Tiam1,S695-p,4727713,KRRSRFSsLWGLDTT,"protein stabilization; molecular association, regulation",,25746002,,,14-3-3 beta,Ywhab,INDUCES
+TIAM1,Tiam1,S60-p,11485305,EVSTRSSsTPSIPQS,"protein stabilization; molecular association, regulation",,25746002,,,14-3-3 beta,Ywhab,INDUCES

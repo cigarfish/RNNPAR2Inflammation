@@ -1,0 +1,19 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD274,Cd274,S283-p,14735979,DTNSKKQsDTHLEET,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",33879767; 33909988,,,CMTM4,Cmtm4,DISRUPTS
+CD274,Cd274,S283-p,14735979,DTNSKKQsDTHLEET,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",33879767; 33909988,,,ARIH1,Arih1,INDUCES
+CD274,Cd274,S184-p,63237405,GKTTTTNsKREEKLF,protein degradation; ubiquitination,,27572267,C2-set_2,,,,
+CD274,Cd274,K263-ub,1885539906,TFIFRLRkGRMMDVK,protein degradation; ubiquitination,,36810288,,"induces internalization, endosome trafficking, and lysosomal degradation",,,
+CD274,Cd274,S279-p,1872811800,CGIQDTNsKKQSDTH,"protein degradation; molecular association, regulation; ubiquitination","carcinogenesis, inhibited",33879767,,,ARIH1,Arih1,INDUCES
+CD274,Cd274,T290-p,56667601,SDTHLEEt_______,"protein degradation; protein stabilization; molecular association, regulation","carcinogenesis, induced; autophagy, induced",35385574; 38007240,,,HSC70,Hspa8,INDUCES
+CD274,Cd274,T290-p,56667601,SDTHLEEt_______,"protein degradation; protein stabilization; molecular association, regulation","carcinogenesis, induced; autophagy, induced",35385574; 38007240,,,SPOP,Spop,DISRUPTS
+CD274,Cd274,T210-p,1874101910,TNEIFYCtFRRLDPE,O-GlcNAc glycosylation; protein stabilization; ubiquitination,"carcinogenesis, induced",34315872,C2-set_2,inhibits ubiquitination,,,
+CD274,Cd274,S195-p,796148000,EKLFNVTsTLRINTT,protein degradation; ubiquitination; intracellular localization; N-GlcNAc glycosylation,"carcinogenesis, inhibited; RNA stability, inhibited; DNA repair, inhibited; signaling pathway regulation",30118680; 35181605,C2-set_2,,,,
+CD274,Cd274,T180-p,63237406,QVLSGKTtTTNSKRE,protein degradation; ubiquitination,,27572267,C2-set_2,,,,
+CD274,Cd274,K281-ub,1883389000,IQDTNSKkQSDTHLE,protein degradation; ubiquitination,,36376293,,HUWE1 and TMUB1 antagonistically affect the degradation of PD-L1,,,
+CD274,Cd274,T194-p,1874101908,EEKLFNVtSTLRINT,O-GlcNAc glycosylation; protein stabilization; ubiquitination,"carcinogenesis, induced",34315872,C2-set_2,inhibits ubiquitination,,,
+CD274,Cd274,T285-p,1876861204,NSKKQSDtHLEET__,"protein stabilization; molecular association, regulation","carcinogenesis, induced",35385574,,inhibits ubiquitination,SPOP,Spop,DISRUPTS
+CD274,Cd274,K162-me,1885688704,CQAEGYPkAEVIWTS,"molecular association, regulation","carcinogenesis, inhibited",37235656,, required for SETD7-mediated antitumor immunity; restricts its immunosuppressive function,PD-1,Pdcd1,DISRUPTS
+CD274,Cd274,Y112-p,1015586,KLQDAGVyRCMISYG,"protein stabilization; molecular association, regulation",,31305264,V-set,"glycosylation, prevents ubiquitination",ITM1,Ier3,INDUCES
+CD274,Cd274,K178-ub,1883389001,DHQVLSGkTTTTNSK,ubiquitination,,36376293,,,,,
+CD274,Cd274,K263-ac,1875250200,TFIFRLRkGRMMDVK,intracellular localization,"transcription, inhibited",32839551,,nuclear localization that governs immune-response gene expression,KPNA1,Kpna1,DISRUPTS
+CD274,Cd274,K263-ac,1875250200,TFIFRLRkGRMMDVK,intracellular localization,"transcription, inhibited",32839551,,nuclear localization that governs immune-response gene expression,HIP1R,Hip1r,DISRUPTS

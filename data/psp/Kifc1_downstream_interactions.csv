@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIFC1,Kifc1,S26-p,477789,RPLIKAPsQLPLSGS,protein stabilization; ubiquitination,"cell cycle regulation; carcinogenesis, induced; DNA repair, induced; chromatin organization, altered",33397932,,inhibits ubiquitination,,,
+KIFC1,Kifc1,S6-p,12667678,__MDPQRsPLLEVKG,protein stabilization,cell cycle regulation,24510915,,,,,

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CSNK2A1,Csnk2a1,S362-p,449986,ISSVPTPsPLGPLAG,"molecular association, regulation; enzymatic activity, induced",,19941816; 30392930; 36646788,,,CK2A1,Csnk2a1,INDUCES
+CSNK2A1,Csnk2a1,S362-p,449986,ISSVPTPsPLGPLAG,"molecular association, regulation; enzymatic activity, induced",,19941816; 30392930; 36646788,,,PGK1,Pgk1,INDUCES
+CSNK2A1,Csnk2a1,S7-p,7445625,_MSGPVPsRARVYTD,"intracellular localization; enzymatic activity, induced","cell cycle regulation; cell growth, induced; transcription, induced",37907238,,,,,
+CSNK2A1,Csnk2a1,T13-p,31012808,PSRARVYtDVNTHRP,,"transcription, induced",24297901,,rRNA synthesis induced,,,
+CSNK2A1,Csnk2a1,T360-p,449985,SGISSVPtPSPLGPL,"molecular association, regulation; enzymatic activity, induced",,19941816; 30392930; 36646788,,,CK2A1,Csnk2a1,INDUCES
+CSNK2A1,Csnk2a1,T360-p,449985,SGISSVPtPSPLGPL,"molecular association, regulation; enzymatic activity, induced",,19941816; 30392930; 36646788,,,PGK1,Pgk1,INDUCES
+CSNK2A1,Csnk2a1,K102-ac,11322071,ITLADIVkDPVSRTP,"enzymatic activity, induced",,20608637,Pkinase,,,,

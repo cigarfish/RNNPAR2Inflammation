@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EDC3,Edc3,Y475-p,1880539206,GEHAGRIyLCDIGIP,"molecular association, regulation; phosphorylation",,36476517,,primes phosphorylation at S131 and S161,DCP1A,Dcp1a,DISRUPTS
+EDC3,Edc3,Y475-p,1880539206,GEHAGRIyLCDIGIP,"molecular association, regulation; phosphorylation",,36476517,,primes phosphorylation at S131 and S161,DCP1B,Dcp1b,DISRUPTS
+EDC3,Edc3,Y475-p,1880539206,GEHAGRIyLCDIGIP,"molecular association, regulation; phosphorylation",,36476517,,primes phosphorylation at S131 and S161,DDX6,Ddx6,DISRUPTS
+EDC3,Edc3,S161-p,1211074,SFRRRHNsWSSSSRH,"molecular association, regulation",,20051463,Edc3_linker,,14-3-3 beta,Ywhab,INDUCES

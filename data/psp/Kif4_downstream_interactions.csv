@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF4A,Kif4,S1186-p,459846,KKTPPAPsPFDLPEL,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered",30576375,,chromosome binding and scaffold formation,CNAP1,Ndc80,INDUCES
+KIF4A,Kif4,S1186-p,459846,KKTPPAPsPFDLPEL,"molecular association, regulation; intracellular localization","cell cycle regulation; chromatin organization, altered",30576375,,chromosome binding and scaffold formation,SMC2L1,Smc2,INDUCES
+KIF4A,Kif4,T799-p,479906,PPKLRRRtFSLTEVR,"molecular association, regulation; intracellular localization; enzymatic activity, induced",cell cycle regulation; cytoskeletal reorganization,23940115; 25512391; 28992084; 31881080,,,PRC1,Prc1,INDUCES
+KIF4A,Kif4,K460-sm,610814348,TLEDQELkENVEIIC,"molecular association, regulation",cell cycle regulation,32591481,,"KIF4A regulates abscission, enhances binding to STMN1 identified by mass spectrometry",STMN1,Stmn1,INDUCES
+KIF4A,Kif4,S801-p,459849,KLRRRTFsLTEVRGQ,intracellular localization,cell cycle regulation,28992084; 31881080,,,,,
+KIF4A,Kif4,T1161-p,459852,FFNPVCAtPNSKILK,intracellular localization,cell cycle regulation,29771379,,regulates its chromosomal localization in early mitosis;  critical for the functions of Kif4A required for early mitotic progression,,,

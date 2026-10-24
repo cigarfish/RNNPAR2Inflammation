@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+USP9X,Usp9x,S2547-p,483796,YEGSEEVsPPQTKDQ,"molecular association, regulation; enzymatic activity, induced",,32152317,,,WIT1,Wt1,INDUCES

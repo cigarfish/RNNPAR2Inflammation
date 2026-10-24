@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP17,Arhgap17,S702-p,472376,LSAPRRYsSSLSPIQ,"molecular association, regulation; intracellular localization",,26507661; 36571786,,regulates invadopodia disassembly,TRIP10,Trip10,DISRUPTS
+ARHGAP17,Arhgap17,S702-p,472376,LSAPRRYsSSLSPIQ,"molecular association, regulation; intracellular localization",,26507661; 36571786,,regulates invadopodia disassembly,FNBP1L,Fnbp1l,INDUCES

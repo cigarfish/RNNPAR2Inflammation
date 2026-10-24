@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HRAS,Hras,Y137-p,41198101,AQDLARSyGIPYIET,"molecular association, regulation",,25999467,Ras,,RASA1,Rasa1,INDUCES
+HRAS,Hras,Y137-p,41198101,AQDLARSyGIPYIET,"molecular association, regulation",,25999467,Ras,,RAF1,Raf1,INDUCES
+HRAS,Hras,K117-ub,31914117,PMVLVGNkCDLAART,"enzymatic activity, induced",,24247240,Ras,,,,
+HRAS,Hras,Y32-p,15228776,QNHFVDEyDPTIEDS,"activity, inhibited","carcinogenesis, inhibited; signaling pathway regulation",33413561,Ras,inhibits MAPK signaling,,,
+HRAS,Hras,Y64-p,5840738,DTAGQEEySAMRDQY,"molecular association, regulation; protein conformation",,38297137,Ras,,ARAF,Araf,DISRUPTS
+HRAS,Hras,T144-p,25324400,YGIPYIEtSAKTRQG,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",22494971; 30413483,Ras,"ERK phosphorylation, ERK pathway activation",CTNNB1,Ctnnb1,DISRUPTS
+HRAS,Hras,T144-p,25324400,YGIPYIEtSAKTRQG,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",22494971; 30413483,Ras,"ERK phosphorylation, ERK pathway activation",BTRC,Btrc,INDUCES
+HRAS,Hras,K104-ac,1880796800,REQIKRVkDSDDVPM,sumoylation,,29435114,,,,,
+HRAS,Hras,T35-p,450197,FVDEYDPtIEDSYRK,,"apoptosis, induced",9264402,Ras,,,,
+HRAS,Hras,T148-p,23113995,YIETSAKtRQGVEDA,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",22494971; 30413483,Ras,"ERK phosphorylation, ERK pathway activation",CTNNB1,Ctnnb1,DISRUPTS
+HRAS,Hras,T148-p,23113995,YIETSAKtRQGVEDA,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, inhibited; cell growth, inhibited; transcription, inhibited; signaling pathway regulation",22494971; 30413483,Ras,"ERK phosphorylation, ERK pathway activation",BTRC,Btrc,INDUCES

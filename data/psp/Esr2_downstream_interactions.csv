@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ESR2,Esr2,Y36-p,34425602,SIYIPSSyVDSHHEY,"molecular association, regulation; ubiquitination","cell growth, inhibited; cell motility, inhibited; transcription, induced",24960160; 27323858,ERbeta_N,,p300,Ep300,INDUCES
+ESR2,Esr2,Y488-p,450057,CKNVVPVyDLLLEML,"activity, induced; molecular association, regulation; protein conformation",,25386784,,based on in-vitro binding affinities of phosphorylated ER-beta to corresponding coregulator peptides,SRC-2,Ncoa2,INDUCES
+ESR2,Esr2,Y488-p,450057,CKNVVPVyDLLLEML,"activity, induced; molecular association, regulation; protein conformation",,25386784,,based on in-vitro binding affinities of phosphorylated ER-beta to corresponding coregulator peptides,PGC-1 alpha,Ppargc1a,INDUCES
+ESR2,Esr2,Y488-p,450057,CKNVVPVyDLLLEML,"activity, induced; molecular association, regulation; protein conformation",,25386784,,based on in-vitro binding affinities of phosphorylated ER-beta to corresponding coregulator peptides,NR0B1,Nr0b1,INDUCES
+ESR2,Esr2,Y488-p,450057,CKNVVPVyDLLLEML,"activity, induced; molecular association, regulation; protein conformation",,25386784,,based on in-vitro binding affinities of phosphorylated ER-beta to corresponding coregulator peptides,RIP140,Nrip1,INDUCES
+ESR2,Esr2,Y488-p,450057,CKNVVPVyDLLLEML,"activity, induced; molecular association, regulation; protein conformation",,25386784,,based on in-vitro binding affinities of phosphorylated ER-beta to corresponding coregulator peptides,SRC-1,Ncoa1,INDUCES
+ESR2,Esr2,S105-p,447914,LYAEPQKsPWCEARS,"activity, induced; intracellular localization",,15862947; 20696772,ERbeta_N,expressed in nucleus and as nuclear speckles,,,
+ESR2,Esr2,S87-p,447915,WPTPGHLsPLVVHRQ,"activity, induced",,15862947,ERbeta_N,,,,
+ESR2,Esr2,S176-p,23068600,CKAFFKRsIQGHNDY,"molecular association, regulation","transcription, induced",22266331; 34147032,zf-C4,,,,
+ESR2,Esr2,S200-p,23068601,IDKNRRKsCQACRLR,"molecular association, regulation",,34147032,zf-C4,,,,

@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ILK,Ilk,T173-p,479406,DTFWKGTtRTRPRNG,intracellular localization,"cell motility, altered; signaling pathway regulation",17420447; 22521536,,"PKCA-ILK signaling pathway for growth cone collapse, RGC axon guidance, repulsive axon turning induced by Shh",,,
+ILK,Ilk,S343-p,448495,SMADVKFsFQCPGRM,"molecular association, regulation",,11313365,PK_Tyr_Ser-Thr,,Akt1,Akt1,INDUCES
+ILK,Ilk,T181-p,6191018,RTRPRNGtLNKHSGI,,signaling pathway regulation,22521536,,"PKCA-ILK signaling pathway for growth cone collapse, RGC axon guidance, repulsive axon turning induced by Shh",,,
+ILK,Ilk,S246-p,479407,CPRLRIFsHPNVLPV,intracellular localization; phosphorylation,"carcinogenesis, induced; cell motility, induced; cell growth, induced; cell motility, altered; transcription, induced",17420447; 35810788,PK_Tyr_Ser-Thr,"regulates GSK3B phosphorylation, and ?-catenin phosphorylation and nuclear translocation",,,

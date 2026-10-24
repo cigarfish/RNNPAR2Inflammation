@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+FIS1,Fis1,Y38-p,1875830300,SKSTQFEyAWCLVRS,,"carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization",34848680,Fis1_TPR_N,recruits Drp1 to mitochondria,DRP1,Dnm1l,INDUCES
+FIS1,Fis1,K149-sm,1883432306,LIGLAVSkSKS____,intracellular localization,,34994490,,"more likely to localize to areas of the cell in which ER islocalized, SENP3-mediated deSUMOylation of Fis1 is required for mitophagy ",,,

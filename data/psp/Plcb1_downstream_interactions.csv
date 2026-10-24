@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLCB1,Plcb1,S887-p,450172,HSQPAPGsVKAPAKT,intracellular localization,,21338571,,,,,
+PLCB1,Plcb1,S982-p,4787475,KKKSEPSsPDHGSST,"enzymatic activity, induced",,11287604,,S982 critical in IGF mediated activation of nuclear PI cycle ,,,

@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLE1,Gle1,S92-p,50831365,VPKSPDAsSAFSPAS,"molecular association, regulation",,30429220,,"self-association stress granules' assembly and disassembly, DDX3-ATPase activity inhibited",GLE1,Gle1,INDUCES
+GLE1,Gle1,S93-p,31084897,PKSPDASsAFSPASP,"molecular association, regulation",,30429220,,"self-association stress granules' assembly and disassembly, DDX3-ATPase activity inhibited",GLE1,Gle1,INDUCES
+GLE1,Gle1,S99-p,18010022,SSAFSPAsPATPNGT,"molecular association, regulation",,30429220,,"self-association stress granules' assembly and disassembly, DDX3-ATPase activity inhibited",GLE1,Gle1,INDUCES
+GLE1,Gle1,T102-p,472369,FSPASPAtPNGTKGK,"molecular association, regulation",,30429220,,"self-association stress granules' assembly and disassembly, DDX3-ATPase activity inhibited",GLE1,Gle1,INDUCES
+GLE1,Gle1,S88-p,12667856,QPSFVPKsPDASSAF,"molecular association, regulation",,30429220,,"self-association stress granules' assembly and disassembly, DDX3-ATPase activity inhibited",GLE1,Gle1,INDUCES

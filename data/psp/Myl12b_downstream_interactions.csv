@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYL12A,Myl12b,T18-p,7382101,KKRPQRAtSNVFAMF,"protein conformation; enzymatic activity, induced","cell cycle regulation; exocytosis, induced; cytoskeletal reorganization",10944522; 15069078; 15753305; 8530442,,,,,
+MYL12A,Myl12b,Y142-p,11102602,DEEVDELyREAPIDK,intracellular localization,,32502416,EF-hand_11,,,,
+MYL12A,Myl12b,Y155-p,7382105,DKKGNFNyIEFTRIL,"molecular association, regulation; intracellular localization; protein conformation; phosphorylation","cytoskeletal reorganization; cell motility, inhibited; cell adhesion, inhibited",32502416,EF-hand_11,induces phosphorylation at the other sites,MYH2,Myh2,DISRUPTS
+MYL12A,Myl12b,S19-p,7382102,KRPQRATsNVFAMFD,"molecular association, regulation; protein conformation; enzymatic activity, induced","cell cycle regulation; exocytosis, induced; cytoskeletal reorganization",10944522; 12446732; 15069078; 15753305; 8530442; 9651368; 9786863,,,MRLC3,Myl12a,DISRUPTS

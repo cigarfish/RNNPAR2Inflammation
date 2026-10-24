@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDX3X,Ddx3x,S102-p,11183059,RFDDRGRsDYDGIGS,"molecular association, regulation; phosphorylation",,23478265,,102A (mutant) increased autophosphorylation of IRF3,IRF3,Irf3,INDUCES
+DDX3X,Ddx3x,K55-ub,22243166,ATKGFYDkDSSGWSS,,"transcription, induced",34445801,,RIG-I-mediated IFNB1 gene induction;  in?uenza A virus non-structural protein 1 (NS1) disrupts the TRIM25-DDX3X interaction,,,
+DDX3X,Ddx3x,T204-p,457783,LTRYTRPtPVQKHAI,"enzymatic activity, inhibited","translation, altered; cell growth, altered",16280325; 17379183,DEAD,,,,
+DDX3X,Ddx3x,K118-ac,461737,GDRSGFGkFERGGNS,,"transcription, induced",34158847,,"malonylation on lysine 66, 130 and 62  inhibits transcription ",,,
+DDX3X,Ddx3x,T323-p,457784,GCHLLVAtPGRLVDM,"enzymatic activity, inhibited","translation, altered; cell growth, altered",16280325; 17379183,DEAD,,,,

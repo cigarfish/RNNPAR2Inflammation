@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+UBXN1,Ubxn1,S132-gl,1891436502,RRQGQELsAARQRLQ,"molecular association, regulation",,38294905,,,MAVS,Mavs,DISRUPTS
+UBXN1,Ubxn1,S75-gl,1891436501,EQGGLEGsGSAAGEG,"molecular association, regulation",,38294905,,,MAVS,Mavs,DISRUPTS
+UBXN1,Ubxn1,T95-gl,1891436500,EEERQEQtKRMLELV,"molecular association, regulation",,38294905,,,MAVS,Mavs,DISRUPTS

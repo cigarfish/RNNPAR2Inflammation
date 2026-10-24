@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KRT19,Krt19,K208-sm,25027604,EMQIEGLkEELAYLK,,cytoskeletal reorganization,21062750,Filament," sumoylation regulate solubility;  modified by poly-SUMO-2/3 chains, oxidative stress, apoptosis, and/or phosphatase inhibition increase sumoylation in primary hepatocytes; K to R mutants show filament disorganization",,,
+KRT19,Krt19,S35-p,449970,GVAFRAPsIHGGSGG,"molecular association, regulation; intracellular localization","carcinogenesis, induced; cytoskeletal reorganization",10212274; 25342465,,membrane localization;  Phosphorylation fo K19 regulates its 'Subcellular shape- filamentous to granulated morphology'.,HER2,Erbb2,INDUCES

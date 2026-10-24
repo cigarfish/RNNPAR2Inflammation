@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PARN,Parn,K566-ac,466276,TAPSTVGkRNLSPSQ,"enzymatic activity, inhibited",,32457045,,K566 regulates levels of adenylated hTR,,,
+PARN,Parn,S557-p,483559,NHYYRNNsFTAPSTV,,cell cycle regulation,20932473,,,,,

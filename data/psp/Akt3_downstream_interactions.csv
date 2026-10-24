@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AKT3,Akt3,T305-p,448521,TDAATMKtFCGTPEY,phosphorylation,"carcinogenesis, induced; cell growth, induced",36476861,Pkinase,induces TSC2 phosphorylation,,,
+AKT3,Akt3,S472-p,447937,RPHFPQFsYSASGRE,phosphorylation,"carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; cell motility, altered; endocytosis, inhibited",26523971; 29038347; 36476861,Pkinase_C,induces TSC2 phosphorylation,,,

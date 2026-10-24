@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRAP2,Grap2,T262-p,451895,ALMHRRHtDPVQLQA,"intracellular localization; activity, inhibited; phosphorylation",,25452106,,PLC-gamma phosphorylation. Gads functions as a regulated modulator of cellular signaling to TCR signaling,,,
+GRAP2,Grap2,Y45-p,451894,ELGSQEGyVPKNFID,,"transcription, induced; signaling pathway regulation",33931484,SH3_1,induces TCR signaling,,,

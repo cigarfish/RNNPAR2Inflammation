@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DUT,Dut,S11-p,451166,SEETPAIsPSKRARP,intracellular localization; protein conformation,,24311590,,S11 phosphorylation excludes nuclear entry.,KPNA2,Kpna2,DISRUPTS

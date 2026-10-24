@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CRKL,Crkl,Y207-p,447954,IPEPAHAyAQPQTTT,"molecular association, regulation; enzymatic activity, inhibited; activity, inhibited","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited; signaling pathway regulation",20697350; 22169110; 9710592,,Y207 is a negative regulatory phosphorylation site in CrkL; RAF-MEK-ERK pathway,PXN,Pxn,DISRUPTS

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RANBP9,Ranbp9,S181-p,54363506,KFSYIGLsQNNLRVH,intracellular localization,,26943034,,nuclear accumulation,,,
+RANBP9,Ranbp9,S603-p,482142,TEMEVDSsQLRRQLC,intracellular localization,,26943034,CTLH,nuclear accumulation,,,

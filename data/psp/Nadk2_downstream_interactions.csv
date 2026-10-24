@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NADK2,Nadk2,K304-ac,1195255,DGPWEKQkSSGLNLC,"enzymatic activity, induced",,35868311,,"K76Q and K304Q mutants reduced proline production,  K76Q and K304Q mutants and S116A showed reduced catalytic activity, phosphorylation, succinylation, or acetylation could generate a charge repulsion in the active site",,,
+NADK2,Nadk2,S289-p,25746483,ESLSSRAsYYEISVD,"enzymatic activity, inhibited",,26577408,,,,,
+NADK2,Nadk2,S188-p,485700,VNTDPERsEGHLCLP,"enzymatic activity, inhibited; enzymatic activity, induced",,26577408; 35868311,NAD_kinase,"K76Q and K304Q mutants reduced proline production,  K76Q and K304Q mutants and S116A showed reduced catalytic activity, phosphorylation, succinylation, or acetylation could generate a charge repulsion in the active site",,,
+NADK2,Nadk2,K76-ac,25541818,SRVVVVAkTTRYEFE,"enzymatic activity, induced",,35868311,NAD_kinase,"K76Q and K304Q mutants reduced proline production,  K76Q and K304Q mutants and S116A showed reduced catalytic activity, phosphorylation, succinylation, or acetylation could generate a charge repulsion in the active site",,,
+NADK2,Nadk2,S376-p,17439149,EEPKILFsIREPIAN,"enzymatic activity, inhibited",,26577408,,,,,

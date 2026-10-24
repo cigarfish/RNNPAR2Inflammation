@@ -1,0 +1,17 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC25C,Cdc25c,S75-p,125104500,PKRCLDLsNLSSGEI,,cell cycle regulation,28591578,,,,,
+CDC25C,Cdc25c,S263-p,486328,LCLKKTVsLCDITIT,intracellular localization,,17662724,M-inducer_phosp,negatively regulates translocation from cytoplasm to nucleus,,,
+CDC25C,Cdc25c,T48-p,448419,VCPDVPRtPVGKFLG,"protein degradation; molecular association, regulation","cell cycle regulation; cell adhesion, altered",10037602; 24710276; 8119945,,,NEDD4,Nedd4,INDUCES
+CDC25C,Cdc25c,T48-p,448419,VCPDVPRtPVGKFLG,"protein degradation; molecular association, regulation","cell cycle regulation; cell adhesion, altered",10037602; 24710276; 8119945,,,PIN1,Pin1,INDUCES
+CDC25C,Cdc25c,T236-p,451436,VEKFKDNtIPDKVKK,"molecular association, regulation; intracellular localization",,15064744,M-inducer_phosp,,KPNB3,Kpnb1,DISRUPTS
+CDC25C,Cdc25c,S216-p,448418,SGLYRSPsMPENLNR,"molecular association, regulation; enzymatic activity, inhibited; intracellular localization",cell cycle regulation,10681541; 11333986; 12766774; 15629715; 15735676; 15975956; 17409144; 20637859; 25809478; 34168048; 7982962; 9278512; 9543386,M-inducer_phosp,,14-3-3 beta,Ywhab,INDUCES
+CDC25C,Cdc25c,S216-p,448418,SGLYRSPsMPENLNR,"molecular association, regulation; enzymatic activity, inhibited; intracellular localization",cell cycle regulation,10681541; 11333986; 12766774; 15629715; 15735676; 15975956; 17409144; 20637859; 25809478; 34168048; 7982962; 9278512; 9543386,M-inducer_phosp,,14-3-3 epsilon,Ywhae,INDUCES
+CDC25C,Cdc25c,T130-p,449911,PAQLLCStPNGLDRG,,"cell cycle regulation; cell adhesion, altered",20668692; 8119945,,,,,
+CDC25C,Cdc25c,S198-p,448636,SDELMEFsLKDQEAK,intracellular localization,,11897663,M-inducer_phosp,,,,
+CDC25C,Cdc25c,S191-p,450979,EDQAEEIsDELMEFS,intracellular localization,,14968113,M-inducer_phosp,,,,
+CDC25C,Cdc25c,S214-p,448417,SRSGLYRsPSMPENL,"molecular association, regulation; enzymatic activity, induced","cell cycle regulation; cell adhesion, altered",12766774; 20530684; 8119945,M-inducer_phosp,,14-3-3 beta,Ywhab,DISRUPTS
+CDC25C,Cdc25c,K151-ub,485772,MCSSSANkENDNGNL,protein degradation,"cell cycle regulation; cell growth, inhibited",11842186,,,,,
+CDC25C,Cdc25c,S168-p,449022,SEMKYLGsPITTVPK,"enzymatic activity, inhibited","cell cycle regulation; cell adhesion, altered",20220133; 8119945,,,,,
+CDC25C,Cdc25c,T67-p,448420,LSILSGGtPKRCLDL,"protein degradation; molecular association, regulation","cell cycle regulation; cell adhesion, altered",10037602; 20668692; 8119945,,,NEDD4,Nedd4,INDUCES
+CDC25C,Cdc25c,T67-p,448420,LSILSGGtPKRCLDL,"protein degradation; molecular association, regulation","cell cycle regulation; cell adhesion, altered",10037602; 20668692; 8119945,,,PIN1,Pin1,INDUCES
+CDC25C,Cdc25c,S122-p,449910,DQHLMKCsPAQLLCS,,"cell cycle regulation; cell adhesion, altered",8119945,,,,,

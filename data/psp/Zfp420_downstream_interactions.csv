@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ZNF420,Zfp420,S68-p,7669300,NTYETELsQWEMSDR,"molecular association, regulation",,19377469,,"in response to DNA damage, ZNF420 (Apak) dissociates from p53 and activates p53-mediated apoptosis",p53,Trp53,DISRUPTS

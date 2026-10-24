@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNFAIP1,Tnfaip1,S280-p,3195881,SRSQASPsEDEETFE,"molecular association, regulation; intracellular localization",,19851886,,nuclear localization,PCNA,Pcna,INDUCES

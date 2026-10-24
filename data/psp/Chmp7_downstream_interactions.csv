@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHMP7,Chmp7,S441-p,4763991,GLVPSSKsPKRQLEP,"molecular association, regulation",cell cycle regulation,34286694,Snf7,,CHMP7,Chmp7,DISRUPTS
+CHMP7,Chmp7,S441-p,4763991,GLVPSSKsPKRQLEP,"molecular association, regulation",cell cycle regulation,34286694,Snf7,,LEMD2,Lemd2,DISRUPTS
+CHMP7,Chmp7,S3-p,54367850,_____MWsPEREAEA,"molecular association, regulation",cell cycle regulation,34286694,,,CHMP7,Chmp7,DISRUPTS
+CHMP7,Chmp7,S3-p,54367850,_____MWsPEREAEA,"molecular association, regulation",cell cycle regulation,34286694,,,LEMD2,Lemd2,DISRUPTS

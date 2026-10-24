@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GLUD1,Glud1,K503-ub,21175438,RISGASEkDIVHSGL,protein degradation; ubiquitination,"cell growth, inhibited",37416474,,ubiquitination of GLUD1 on K503 inhibits tumor growth of lung adenocarcinoma cells,,,
+GLUD1,Glud1,K503-ac,461125,RISGASEkDIVHSGL,protein stabilization,,37092319,,HIF-1a stability and promoting CRC progression,,,
+GLUD1,Glud1,K527-ac,461126,QIMRTAMkYNLGLDL,protein stabilization,,37092319,,HIF-1a stability and promoting CRC progression,,,
+GLUD1,Glud1,S384-p,25739562,DILIPAAsEKQLTKS,"activity, induced; molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; transcription, induced; signaling pathway regulation",31447391,ELFV_dehydrog,induces NF-kB activity and signaling,IKKB,Ikbkb,INDUCES
+GLUD1,Glud1,S384-p,25739562,DILIPAAsEKQLTKS,"activity, induced; molecular association, regulation; enzymatic activity, induced","carcinogenesis, induced; transcription, induced; signaling pathway regulation",31447391,ELFV_dehydrog,induces NF-kB activity and signaling,NFkB-p65,Rela,INDUCES

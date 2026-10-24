@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LDLRAP1,Ldlrap1,S14-p,3198716,AGRALIRsPSLAKQS,,cell cycle regulation,21778424,,,,,
+LDLRAP1,Ldlrap1,S186-p,482659,KEKRDKAsQEGGDVL,,cell cycle regulation,21778424,PID_2,,,,

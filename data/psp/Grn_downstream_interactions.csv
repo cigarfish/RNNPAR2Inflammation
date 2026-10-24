@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GRN,Grn,S81-p,41198100,IFTVSGTsSCCPFPE,"molecular association, regulation",,26005049,Granulin,,TNF-R2,Tnfrsf1b,DISRUPTS
+GRN,Grn,S81-p,41198100,IFTVSGTsSCCPFPE,"molecular association, regulation",,26005049,Granulin,,TNF-R1,Tnfrsf1a,DISRUPTS
+GRN,Grn,S81-p,41198100,IFTVSGTsSCCPFPE,"molecular association, regulation",,26005049,Granulin,,TNFRSF25,Tnfrsf25,DISRUPTS

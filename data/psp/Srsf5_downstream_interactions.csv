@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SRSF5,Srsf5,K125-ub,21184544,RVSWQDLkDFMRQAG,protein degradation,,29942010,RRM_1,,,,
+SRSF5,Srsf5,K125-ac,1880644400,RVSWQDLkDFMRQAG,"protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; RNA splicing, induced; apoptosis, inhibited",29942010,,,SMURF1,Smurf1,DISRUPTS

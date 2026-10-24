@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ITSN1,Itsn1,T839-p,11125309,TPAPLAVtSSEPSTT,"molecular association, regulation; intracellular localization",,29078407,INTAP,presynaptic nanoscale distribution of synapsin I,SYN1,Syn1,INDUCES
+ITSN1,Itsn1,T832-p,280867300,PKLALREtPAPLAVT,"molecular association, regulation; intracellular localization",,29078407,INTAP,presynaptic nanoscale distribution of synapsin I,SYN1,Syn1,INDUCES

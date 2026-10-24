@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CENPE,Cenpe,S2647-p,3194054,PKSCFFDsRSKSLPS,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS
+CENPE,Cenpe,S2654-p,459191,SRSKSLPsPHPVRYF,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS
+CENPE,Cenpe,S2649-p,36126557,SCFFDSRsKSLPSPH,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS
+CENPE,Cenpe,S2651-p,460551,FFDSRSKsLPSPHPV,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS
+CENPE,Cenpe,S2639-p,459190,QDPVPKEsPKSCFFD,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS
+CENPE,Cenpe,S2664-p,23092695,PVRYFDNsSLGLCPE,"molecular association, regulation",,37592895,,,PRC1,Prc1,DISRUPTS

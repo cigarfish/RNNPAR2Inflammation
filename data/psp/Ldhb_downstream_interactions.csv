@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LDHB,Ldhb,S162-p,31882222,PKHRVIGsGCNLDSA,"enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell growth, induced",31804482,,promotes glycolysis,,,

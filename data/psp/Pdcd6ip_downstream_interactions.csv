@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDCD6IP,Pdcd6ip,Y319-p,457636,KKDNDFIyHDRVPDL,"molecular association, regulation; protein conformation","cell adhesion, altered",12771190; 15557335; 34688656,BRO1,,Pyk2,Ptk2b,INDUCES
+PDCD6IP,Pdcd6ip,Y319-p,457636,KKDNDFIyHDRVPDL,"molecular association, regulation; protein conformation","cell adhesion, altered",12771190; 15557335; 34688656,BRO1,,Src iso1,Src,INDUCES
+PDCD6IP,Pdcd6ip,Y319-p,457636,KKDNDFIyHDRVPDL,"molecular association, regulation; protein conformation","cell adhesion, altered",12771190; 15557335; 34688656,BRO1,,Alix,Pdcd6ip,DISRUPTS
+PDCD6IP,Pdcd6ip,Y319-p,457636,KKDNDFIyHDRVPDL,"molecular association, regulation; protein conformation","cell adhesion, altered",12771190; 15557335; 34688656,BRO1,,FAK,Ptk2,INDUCES
+PDCD6IP,Pdcd6ip,S721-p,34504755,AREPSAPsIPTPAYQ,"molecular association, regulation",cell cycle regulation,26859355,,"EIAV budding, cytokinetic abscission ",Alix,Pdcd6ip,DISRUPTS
+PDCD6IP,Pdcd6ip,K501-ub,3935334,NFRTVLDkAVQADGQ,"molecular association, regulation; ubiquitination",,30760577,ALIX_LYPXL_bnd,interaction with Gag and Alix,,,
+PDCD6IP,Pdcd6ip,S718-p,8080236,QSIAREPsAPSIPTP,"molecular association, regulation",cell cycle regulation,26859355,,"EIAV budding, cytokinetic abscission ",Alix,Pdcd6ip,DISRUPTS

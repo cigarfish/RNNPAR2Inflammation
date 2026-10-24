@@ -1,0 +1,27 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAVS,Mavs,K10-ub,89115600,FAEDKTYkYICRNFS,"molecular association, regulation",,27992402,CARD_2,,MAVS,Mavs,INDUCES
+MAVS,Mavs,R43-me,1883504203,ARDQDRLrATCTLSG,"activity, inhibited",,36028484,,PRMT9-mediated MAVS methylation inhibits MAVS aggregation and activation.,,,
+MAVS,Mavs,S233-p,3204105,SFQPLARsTPRASRL,"molecular association, regulation",,19546225,,,PLK1,Plk1,INDUCES
+MAVS,Mavs,S330-gl,1872691000,PSKLPTSsKPPGAVP,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,S347-gl,1872691007,ALTNPAPsKLPINST,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,K311-ub,89115601,PVNTVALkVPANPAS,"protein degradation; molecular association, regulation","autophagy, induced; transcription, inhibited",27992402; 31304625; 39213157,,,MAVS,Mavs,INDUCES
+MAVS,Mavs,K461-ub,14991109,GPEENEYkSEGTFGI,"protein degradation; molecular association, regulation",,20483786; 27992402; 31270229,,,MAVS,Mavs,INDUCES
+MAVS,Mavs,K420-ub,1880642404,GLGSELSkPGVLASQ,protein degradation,"transcription, inhibited",29769269,,,,,
+MAVS,Mavs,K500-ub,7761223,PRPQADRkFQEREVP,"protein degradation; molecular association, regulation","transcription, inhibited; signaling pathway regulation",19380491; 26246171; 29769269,,,IKKE,Tbk1,INDUCES
+MAVS,Mavs,R41-me,1883504204,LTARDQDrLRATCTL,"activity, inhibited",,36028484,,PRMT9-mediated MAVS methylation inhibits MAVS aggregation and activation.,,,
+MAVS,Mavs,K297-ub,1878325801,PANSLPSkVPTTLMP,protein degradation; phosphorylation,signaling pathway regulation,39266719,,regulates IFN-I  signaling and phosphorylation of TBK1 and IRF3,,,
+MAVS,Mavs,T342-gl,1872691006,AVPSNALtNPAPSKL,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,K7-sc,33344549,_MPFAEDkTYKYICR,"activity, induced",,32301534,CARD_2,cellular antiviral response,,,
+MAVS,Mavs,T328-gl,1872691003,TVPSKLPtSSKPPGA,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,T234-p,3204129,FQPLARStPRASRLP,"molecular association, regulation",,19546225,,,PLK1,Plk1,INDUCES
+MAVS,Mavs,Y9-p,25687502,PFAEDKTyKYICRNF,"protein degradation; molecular association, regulation","autophagy, induced; transcription, induced; signaling pathway regulation",22844514; 28141795,CARD_2," NF-kB-dependent transcription ;  RIG-I-mediated IFN-beta signaling; phosphorylation of MAVS at Y9 enhances phosphorylation of IRF3; IFN-B promoter activation, MPTP induced microglial activation and neurotoxicity",TRAF3,Traf3,INDUCES
+MAVS,Mavs,Y9-p,25687502,PFAEDKTyKYICRNF,"protein degradation; molecular association, regulation","autophagy, induced; transcription, induced; signaling pathway regulation",22844514; 28141795,CARD_2," NF-kB-dependent transcription ;  RIG-I-mediated IFN-beta signaling; phosphorylation of MAVS at Y9 enhances phosphorylation of IRF3; IFN-B promoter activation, MPTP induced microglial activation and neurotoxicity",LC3A,Map1lc3a,INDUCES
+MAVS,Mavs,Y9-p,25687502,PFAEDKTyKYICRNF,"protein degradation; molecular association, regulation","autophagy, induced; transcription, induced; signaling pathway regulation",22844514; 28141795,CARD_2," NF-kB-dependent transcription ;  RIG-I-mediated IFN-beta signaling; phosphorylation of MAVS at Y9 enhances phosphorylation of IRF3; IFN-B promoter activation, MPTP induced microglial activation and neurotoxicity",TRAF6,Traf6,INDUCES
+MAVS,Mavs,S324-gl,1872691002,ASVSTVPsKLPTSSK,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,R52-m1,1881446400,TCTLSGNrDTLWHLF,"molecular association, regulation",,34171297,,abolishes MAVS agregation  ,RIGI,Rigi,DISRUPTS
+MAVS,Mavs,K362-ub,12302372,RAGMVPSkVPTSMVL,protein degradation,,20483786; 31270229,,,,,
+MAVS,Mavs,S442-p,58984003,CFEDLAIsASTSLGM,"molecular association, regulation; phosphorylation",signaling pathway regulation,25636800; 31461653,,"induces phosphorylation of IRF3, regulates IFN signaling; induces IFN production",IRF3,Irf3,INDUCES
+MAVS,Mavs,K7-ub,27197145,_MPFAEDkTYKYICR,protein degradation,"autophagy, induced; transcription, inhibited; signaling pathway regulation",26246171; 28965816,CARD_2,type I IFN signaling; inhibits RLR-mediated antiviral signaling,,,
+MAVS,Mavs,K371-ub,1880642402,PTSMVLTkVSASTVP,protein degradation,"transcription, inhibited",29769269,,,,,
+MAVS,Mavs,S329-gl,1872691005,VPSKLPTsSKPPGAV,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,
+MAVS,Mavs,S338-gl,1872691001,KPPGAVPsNALTNPA,phosphorylation,,31461653,,positively regulates phosphorylation of S442 (data from MAVS 7A mutant),,,

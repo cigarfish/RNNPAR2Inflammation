@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TLE1,Tle1,S286-p,5707650,LKKDASSsPASTASS,"molecular association, regulation","transcription, induced",19956621; 24270405,,,,,
+TLE1,Tle1,S253-p,23940705,DNLVVDVsNEDPSSP,,"apoptosis, inhibited",22354967,,,,,
+TLE1,Tle1,S239-p,454385,KDSSHYDsDGDKSDD,"activity, induced","apoptosis, inhibited; transcription, induced; transcription, altered; cell growth, altered",15367661; 22354967; 24270405,,,,,
+TLE1,Tle1,S289-p,24987529,DASSSPAsTASSASS,,"transcription, induced",24270405,,,,,

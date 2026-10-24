@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SNU13,Snu13,K33-m1,58123004,VQQSCNYkQLRKGAN,"molecular association, regulation",,23583077,Ribosomal_L7Ae,,L3MBTL iso4,L3mbtl2,INDUCES

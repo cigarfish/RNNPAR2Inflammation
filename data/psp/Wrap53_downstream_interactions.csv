@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+WRAP53,Wrap53,S64-p,482238,PVAGSAVsQELREGD,"molecular association, regulation","DNA repair, induced",27715493,,,H2AX,H2ax,INDUCES

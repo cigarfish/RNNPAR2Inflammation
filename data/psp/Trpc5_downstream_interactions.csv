@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPC5,Trpc5,S794-p,20834807,SGGARAKsKSVSFNL,"intracellular localization; activity, inhibited",signaling pathway regulation,21734191,,,,,
+TRPC5,Trpc5,S796-p,20834808,GARAKSKsVSFNLGC,"intracellular localization; activity, inhibited",signaling pathway regulation,21734191,,,,,

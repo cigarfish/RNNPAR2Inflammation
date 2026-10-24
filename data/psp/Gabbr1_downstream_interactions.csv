@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABBR1,Gabbr1,K905-ub,54191600,LEKIIAEkEERVSEL,protein degradation; ubiquitination,,26817839,,,,,
+GABBR1,Gabbr1,S868-p,15167000,ITRGEWQsEAQDTMK,protein degradation,,37686242,,,,,
+GABBR1,Gabbr1,Y230-p,3436001,GQATKYLyELLYNDP,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",34778730,ANF_receptor,"binding to PTP-PEST inhibits PTP-PEST binding to EGFR, induces EGFR phosphorylation, thus regulating AKT signaling",PTP-PEST,Ptpn12,INDUCES
+GABBR1,Gabbr1,Y404-p,1875398100,ADNWFKIyDPSINCT,"molecular association, regulation; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",34778730,ANF_receptor,"binding to PTP-PEST inhibits PTP-PEST binding to EGFR, induces EGFR phosphorylation, thus regulating AKT signaling",PTP-PEST,Ptpn12,INDUCES
+GABBR1,Gabbr1,K887-ub,54191602,TNNNEEEkSRLLEKE,protein degradation; ubiquitination,,26817839,,,,,
+GABBR1,Gabbr1,K893-ub,7251351,EKSRLLEkENRELEK,protein degradation; ubiquitination,,26817839,,,,,
+GABBR1,Gabbr1,K900-ub,54191601,KENRELEkIIAEKEE,protein degradation; ubiquitination,,26817839,,,,,
+GABBR1,Gabbr1,T873-p,4786155,WQSEAQDtMKTGSST,protein degradation,,37686242,,,,,

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LIN52,Lin52,S24-p,4758466,FEKLDRAsPDLWPEQ,"protein degradation; molecular association, regulation","cell cycle regulation; cell growth, inhibited; transcription, inhibited",21498570; 30206359; 34728711,LIN52,,P130Cas,Bcar1,INDUCES

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARID4B,Arid4b,K429-sm,12004427,NVKEIKVkEENETEI,,"cell cycle regulation; cell growth, inhibited; transcription, inhibited",16479010,,,,,
+ARID4B,Arid4b,K440-sm,12004426,ETEIKEIkMEEERNI,,"cell cycle regulation; cell growth, inhibited; transcription, inhibited",16479010,,,,,

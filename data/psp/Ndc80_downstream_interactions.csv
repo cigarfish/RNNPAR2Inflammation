@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NDC80,Ndc80,S7-p,1881198900,_MKRSSVsSGGAGRL,,cell cycle regulation,36897279,,,,,
+NDC80,Ndc80,S15-p,474511,SGGAGRLsMQELRSQ,,cell cycle regulation; cytoskeletal reorganization,17129782; 35878017; 36897279,,,,,
+NDC80,Ndc80,S76-p,459765,SQLGIFSsSEKIKDP,,cytoskeletal reorganization,35878017,Ndc80_HEC,,,,
+NDC80,Ndc80,S165-p,449867,LGYPFALsKSSMYTV,"molecular association, regulation","cell cycle regulation; cell growth, induced",12386167; 18297113; 21832156; 24662830,Ndc80_HEC,,NEK2,Nek2,INDUCES
+NDC80,Ndc80,S69-p,474513,SGHGSRNsQLGIFSS,,cell cycle regulation; cytoskeletal reorganization,17129782; 29187526; 35878017; 36897279,Ndc80_HEC,,,,
+NDC80,Ndc80,S55-p,459763,PTSERKVsLFGKRTS,,"cell cycle regulation; chromatin organization, altered; cytoskeletal reorganization",17129782; 33988677; 35638575; 35878017; 36897279,Ndc80_HEC,,,,
+NDC80,Ndc80,S5-p,474510,___MKRSsVSSGGAG,,cell cycle regulation,17129782; 36897279,,,,,
+NDC80,Ndc80,T49-p,474512,KLSINKPtSERKVSL,,cell cycle regulation; cytoskeletal reorganization,17129782; 35878017,,,,,
+NDC80,Ndc80,S75-p,1877641900,NSQLGIFsSSEKIKD,,cytoskeletal reorganization,35878017,Ndc80_HEC,,,,
+NDC80,Ndc80,S50-p,12667684,LSINKPTsERKVSLF,,cytoskeletal reorganization,35878017,,,,,
+NDC80,Ndc80,S44-p,474539,KPTFGKLsINKPTSE,,cell cycle regulation; cytoskeletal reorganization,17129782; 32027339; 35878017,,,,,
+NDC80,Ndc80,T31-p,23112540,VNKQGLYtPQTKEKP,,cell cycle regulation; cytoskeletal reorganization,35878017; 36897279,,,,,

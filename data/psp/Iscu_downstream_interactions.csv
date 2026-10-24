@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ISCU,Iscu,S14-p,469833,FRLRRAAsALLLRSP,"protein stabilization; molecular association, regulation",,21725060; 23508953,,,14-3-3 beta,Ywhab,INDUCES

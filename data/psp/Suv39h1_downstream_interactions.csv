@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SUV39H1,Suv39h1,S391-p,469894,GLAGLPGsPKKRVRI,"molecular association, regulation",cell cycle regulation,24728993,,"disassociation of SUV39H, leading to H3K9m3 reduction, and heterochromatin replication during cell cycle progression",,,
+SUV39H1,Suv39h1,K266-ac,1876066700,RTLEKIRkNSFVMEY,"enzymatic activity, inhibited","transcription, inhibited",18004385,SET,,,,
+SUV39H1,Suv39h1,Y308-p,1871199002,LDYVEDVyTVDAAYY,"methylation; enzymatic activity, induced",signaling pathway regulation,30833073,SET, NRG-1/ErbB4 signaling,,,
+SUV39H1,Suv39h1,Y297-p,1867984203,YDRQGATyLFDLDYV,"methylation; enzymatic activity, induced",signaling pathway regulation,30833073,SET, NRG-1/ErbB4 signaling,,,
+SUV39H1,Suv39h1,K105-m1,63128910,LRRHHRSkTPRHLDP,"enzymatic activity, inhibited","chromatin organization, altered; cell growth, inhibited; transcription, induced",23509280,,facilitated genomic instability,,,
+SUV39H1,Suv39h1,K87-ub,63128901,LKCVRILkQFHKDLE,protein degradation,,28059589,Chromo,,,,
+SUV39H1,Suv39h1,Y303-p,1871199001,TYLFDLDyVEDVYTV,"methylation; enzymatic activity, induced",signaling pathway regulation,30833073,SET, NRG-1/ErbB4 signaling,,,
+SUV39H1,Suv39h1,K123-m1,63128911,NYLVQKAkQRRALRR,"enzymatic activity, inhibited","chromatin organization, altered; cell growth, inhibited; transcription, induced",23509280,,facilitated genomic instability,,,

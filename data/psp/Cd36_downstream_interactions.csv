@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD36,Cd36,K469-ub,2363100,SYCACRSkTIK____,"protein degradation; molecular association, regulation; ubiquitination",,18316598; 29269414,,"inhibits insulin-stimulated IRS1 degradation, disrupts IRS1 interaction with CUL7 and Fyn, regulates IRS1 ubiquitination ",IRS1,Irs1,INDUCES
+CD36,Cd36,K472-ub,2363101,ACRSKTIk_______,"protein degradation; molecular association, regulation; ubiquitination",,18316598; 29269414,,"inhibits insulin-stimulated IRS1 degradation, disrupts IRS1 interaction with CUL7 and Fyn, regulates IRS1 ubiquitination ",IRS1,Irs1,INDUCES
+CD36,Cd36,T92-p,23017300,VKQRGPYtYRVRFLA,"molecular association, regulation",signaling pathway regulation,22247259,CD36,,THBS1,Thbs1,DISRUPTS

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DYRK1A,Dyrk1a,Y147-p,463250,YDDDNYDyIVKNGEK,intracellular localization,"cell cycle regulation; cell differentiation, altered",21878370,,,,,
+DYRK1A,Dyrk1a,Y145-p,449566,DGYDDDNyDYIVKNG,intracellular localization,"cell cycle regulation; cell differentiation, altered",21878370,,,,,
+DYRK1A,Dyrk1a,S529-p,475065,SNSGRARsDPTHQHR,"molecular association, regulation; enzymatic activity, induced",,17229891,,14-3-3 binding increases catalytic activity of DYRK1A.  ,14-3-3 beta,Ywhab,INDUCES

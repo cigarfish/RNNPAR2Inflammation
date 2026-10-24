@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTH,Pth,S34-p,23135905,SVKKRSVsEIQLMHN,"molecular association, regulation",signaling pathway regulation,25158085,Parathyroid,,PTHR,Pthr1,INDUCES
+PTH,Pth,S32-p,23135902,GKSVKKRsVSEIQLM,"molecular association, regulation",signaling pathway regulation,25158085,Parathyroid,,PTHR,Pthr1,INDUCES
+PTH,Pth,S48-p,25750949,NLGKHLNsMERVEWL,"molecular association, regulation",signaling pathway regulation,25158085,Parathyroid,,PTHR,Pthr1,INDUCES

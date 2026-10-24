@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KCNK18,Kcnk18,S262-p,13383300,ELVLGRLsYSIISNL,"intracellular localization; activity, inhibited","transcription, inhibited",25202008; 30327410,,,,,
+KCNK18,Kcnk18,S267-p,13383301,RLSYSIIsNLDEVGQ,"intracellular localization; activity, inhibited","transcription, inhibited",30327410,,,,,
+KCNK18,Kcnk18,S252-p,2712200,QAMERSNsCPELVLG,"intracellular localization; activity, inhibited","transcription, inhibited",25202008; 30327410,,,,,
+KCNK18,Kcnk18,S264-p,12525800,VLGRLSYsIISNLDE,"intracellular localization; activity, inhibited","transcription, inhibited",25202008; 30327410; 30992311,,,,,

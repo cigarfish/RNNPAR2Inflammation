@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PTPN5,Ptpn5,T255-p,20745210,SLTLDMCtPGCNEEG,protein stabilization,,21777200,,,,,
+PTPN5,Ptpn5,S245-p,448294,GLQERRGsNVSLTLD,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited",,20427654; 21777200; 26574547,,,ERK1,Mapk3,DISRUPTS
+PTPN5,Ptpn5,S245-p,448294,GLQERRGsNVSLTLD,"protein stabilization; molecular association, regulation; enzymatic activity, inhibited",,20427654; 21777200; 26574547,,,ERK2,Mapk1,DISRUPTS
+PTPN5,Ptpn5,S184-p,51170600,PPEDRRQsVSRQPSF,"molecular association, regulation; enzymatic activity, inhibited",,26574547,,,ERK1,Mapk3,DISRUPTS
+PTPN5,Ptpn5,S184-p,51170600,PPEDRRQsVSRQPSF,"molecular association, regulation; enzymatic activity, inhibited",,26574547,,,ERK2,Mapk1,DISRUPTS
+PTPN5,Ptpn5,S268-p,20745211,EGFGYLMsPREESAR,protein stabilization,,21777200,,,,,

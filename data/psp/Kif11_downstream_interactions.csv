@@ -1,0 +1,10 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF11,Kif11,K146-ac,11323854,TLHQIFEkLTDNGTE,protein conformation,cell cycle regulation,29432173,Kinesin,,,,
+KIF11,Kif11,K1034-ub,12107803,INTLERSkVEETTEH,intracellular localization,,37728657,Microtub_bind,UHRF1 polyubiquitination is required for the interaction of KIF11 and TPX2 and localization on the spindle.,TPX2,Tpx2,INDUCES
+KIF11,Kif11,Y231-p,14567513,AATLMNAySSRSHSV,,cytoskeletal reorganization,28646493,Kinesin,spindle morphology,,,
+KIF11,Kif11,Y211-p,463258,VHNKDEVyQILEKGA,,cytoskeletal reorganization,28646493,Kinesin,spindle morphology,,,
+KIF11,Kif11,T926-p,448410,LDIPTGTtPQRKSYL,"molecular association, regulation; intracellular localization",cell cycle regulation,21642957; 35977011; 8548803,Microtub_bind,helps in centrosome separation and normal progression through mitosis; regulates association with the spindle apparatus,ERCC2,Ercc2,INDUCES
+KIF11,Kif11,Y125-p,4251398,ERSPNEEyTWEEDPL,,cytoskeletal reorganization,28646493,Kinesin,spindle morphology,,,
+KIF11,Kif11,K771-ac,1876332700,KMTFHSQkFCADSDG,protein stabilization; ubiquitination; intracellular localization; phosphorylation,"cell cycle regulation; carcinogenesis, induced; cell growth, induced",35210604,,inhibits ubiquitination and primes phosphorylation at T926,,,
+KIF11,Kif11,S1033-p,20798600,GINTLERsKVEETTE,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21642957; 29276125; 35977011; 38458397,Microtub_bind,,TPX2,Tpx2,INDUCES
+KIF11,Kif11,S1033-p,20798600,GINTLERsKVEETTE,"molecular association, regulation; intracellular localization",cell cycle regulation; cytoskeletal reorganization,21642957; 29276125; 35977011; 38458397,Microtub_bind,,ERCC2,Ercc2,DISRUPTS

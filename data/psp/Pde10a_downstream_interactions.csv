@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE10A,Pde10a,C11-pa,15169800,GPSNNAScFRRLTEC,intracellular localization,,20610737,,,,,
+PDE10A,Pde10a,T16-p,478273,ASCFRRLtECFLSPS,intracellular localization; palmitoylation,,14604994; 20610737,,,,,

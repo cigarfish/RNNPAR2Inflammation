@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TUBG1,Tubg1,K344-ub,486350,LQRIRERkLANFIPW,intracellular localization,cell cycle regulation; cytoskeletal reorganization,16166645,Tubulin_C,,,,
+TUBG1,Tubg1,S385-p,34424909,MANHTSIsSLFERTC,"molecular association, regulation; intracellular localization","cell cycle regulation; transcription, altered",24942739,Tubulin_C,transient increase in nuclear TUBG1,TUBG1,Tubg1,DISRUPTS
+TUBG1,Tubg1,Y443-p,1876567500,HAATRPDyISWGTQE,"molecular association, regulation",cytoskeletal reorganization,35231444,,,GCP5,Tubgcp5,INDUCES
+TUBG1,Tubg1,S131-p,10045600,READGSDsLEGFVLC,intracellular localization,cell cycle regulation,19648910,Tubulin,regulates centrosome biogenesis and homeostasis,,,
+TUBG1,Tubg1,K48-ub,486349,ATEGTDRkDVFFYQA,,cell cycle regulation; cytoskeletal reorganization,15367667; 16166645,Tubulin,,,,

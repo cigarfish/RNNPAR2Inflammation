@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CETN1,Cetn1,T138-p,34405000,NELGENLtDEELQEM,"molecular association, regulation",,24918055,EF-hand_7,,G-beta 1,Gnb1,DISRUPTS
+CETN1,Cetn1,T138-p,34405000,NELGENLtDEELQEM,"molecular association, regulation",,24918055,EF-hand_7,,SFI1,Sfi1,DISRUPTS
+CETN1,Cetn1,S170-p,1430241100,LRIMKKTsLY_____,"molecular association, regulation; protein conformation",,30682474,,,SFI1,Sfi1,DISRUPTS

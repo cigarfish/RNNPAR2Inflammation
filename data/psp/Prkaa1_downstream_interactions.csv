@@ -1,0 +1,12 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRKAA1,Prkaa1,T490-p,3195170,EAKSGTAtPQRSGSV,protein conformation; phosphorylation,"transcription, induced; autophagy, inhibited; translation, induced",23623684,AdenylateSensor,induces phosphorylation of T482 and S486 and inhibits phosphorylation at T172 and of ACC and Raptor,,,
+PRKAA1,Prkaa1,K396-ub,21128822,LDELNPQkSKHQGVR,"enzymatic activity, inhibited",,31996460,,,,,
+PRKAA1,Prkaa1,T183-p,448786,SDGEFLRtSCGSPNY,"molecular association, regulation; intracellular localization; phosphorylation; enzymatic activity, induced","cell differentiation, inhibited; cell cycle regulation; carcinogenesis, induced; carcinogenesis, altered; cell growth, inhibited; apoptosis, induced; transcription, induced; signaling pathway regulation; autophagy, induced; cell growth, induced; apoptosis, inhibited; cell growth, altered",12391032; 14511394; 14614828; 14985505; 15980064; 17082196; 19110428; 19414597; 19884317; 21042744; 21918180; 22039048; 26771234; 27864418; 28778925; 30022161; 30309849; 30413706; 34807950; 35413286; 35670018; 37661833,Pkinase,,EGLN1,Egln1,INDUCES
+PRKAA1,Prkaa1,K485-ub,21128826,DDEITEAkSGTATPQ,"enzymatic activity, inhibited",,31996460,AdenylateSensor,,,,
+PRKAA1,Prkaa1,K285-ub,21128824,WFKQDLPkYLFPEDP,"enzymatic activity, inhibited",,31996460,,,,,
+PRKAA1,Prkaa1,S494-p,4717473,GTATPQRsGSVSNYR,phosphorylation,,23623684,AdenylateSensor,enhances T479 phosphorylation and T172 dephosphorylation,,,
+PRKAA1,Prkaa1,S496-p,450431,ATPQRSGsVSNYRSC,"enzymatic activity, inhibited",,27784766,AdenylateSensor,,,,
+PRKAA1,Prkaa1,S467-p,7445995,LQLYQVDsRTYLLDF,"enzymatic activity, inhibited; phosphorylation","carcinogenesis, induced; cell motility, induced; cell growth, induced",31358902,AdenylateSensor,inhibits phosphorylation at T172,,,
+PRKAA1,Prkaa1,S172-p,15407586,KIADFGLsNMMSDGE,"activity, induced; enzymatic activity, induced","carcinogenesis, inhibited; apoptosis, induced; apoptosis, inhibited; signaling pathway regulation",31679687; 33400734; 34418433; 35154579,Pkinase,,,,
+PRKAA1,Prkaa1,K71-ub,964497636,RSLDVVGkIRREIQN,"enzymatic activity, inhibited",,31996460,Pkinase,,,,
+PRKAA1,Prkaa1,K118-sm,1877447402,ELFDYICkNGRLDEK,protein stabilization,,34971706,Pkinase,,,,

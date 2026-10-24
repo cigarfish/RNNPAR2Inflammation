@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+POLM,Polm,S372-p,28758702,HQHSCCEsPTRLAQQ,"molecular association, regulation; enzymatic activity, inhibited; protein conformation",,23933132; 31138645,DNA_pol_B_palm,Increase the stability of Loop1,,,
+POLM,Polm,T21-p,469478,SGDAASStPPSTRFP,"molecular association, regulation; enzymatic activity, inhibited",,23933132,,,,,
+POLM,Polm,S12-p,469477,RRRARVGsPSGDAAS,"molecular association, regulation; enzymatic activity, inhibited",,23933132,,,,,

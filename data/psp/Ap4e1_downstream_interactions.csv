@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AP4E1,Ap4e1,S871-p,22598800,VEKFSYCsLSTPSLF,"receptor recycling, inhibited",,21810154,,,,,
+AP4E1,Ap4e1,S847-p,15407703,DKELKKFsLTSELLD,"receptor recycling, inhibited",,21810154,,,,,
+AP4E1,Ap4e1,S868-p,22598801,LPLVEKFsYCSLSTP,"receptor recycling, inhibited",,21810154,,,,,

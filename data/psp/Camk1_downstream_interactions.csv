@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CAMK1,Camk1,T177-p,448527,DPGSVLStACGTPGY,"enzymatic activity, induced",,24841198,Pkinase,,,,
+CAMK1,Camk1,K59-ub,28070705,AKEALEGkEGSMENE,protein degradation,,23707388,Pkinase,,,,

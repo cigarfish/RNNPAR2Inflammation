@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TAB2,Tab2,K329-sm,31089526,RKNQIEIkLEPPQRN,"molecular association, regulation","signaling pathway regulation; transcription, inhibited",24096733; 33184450,,inhibition of TRAF6/TAB2/TAK1 complex and downstream MAPK and NF-?B pathway,,,
+TAB2,Tab2,K562-sm,1877015600,KKKLDKLkSEVNEME,"molecular association, regulation","transcription, inhibited; signaling pathway regulation",33184450,,inhibition of TRAF6/TAB2/TAK1 complex and downstream MAPK and NF-?B pathway,,,
+TAB2,Tab2,S419-p,456006,NSGASAAsRNMSGQV,"molecular association, regulation; intracellular localization",,12150997; 27992601,,,ER-alpha,Esr1,INDUCES
+TAB2,Tab2,K611-ub,12317282,IDIDCLTkEIDLFQA,protein degradation,,36681779,,,,,
+TAB2,Tab2,S423-p,456007,SAASRNMsGQVSMGP,"molecular association, regulation; intracellular localization",,12150997; 27992601,,,ER-alpha,Esr1,INDUCES

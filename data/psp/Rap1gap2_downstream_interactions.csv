@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAP1GAP2,Rap1gap2,S7-p,455267,_MFGRKRsVSFGGFG,"molecular association, regulation","cell adhesion, induced",18039662,,,14-3-3 zeta,Ywhaz,DISRUPTS
+RAP1GAP2,Rap1gap2,S7-p,455267,_MFGRKRsVSFGGFG,"molecular association, regulation","cell adhesion, induced",18039662,,,14-3-3 beta,Ywhab,DISRUPTS
+RAP1GAP2,Rap1gap2,S9-p,1319201,FGRKRSVsFGGFGWI,"molecular association, regulation",,18039662,,14-3-3 binding attenuates Rap1GAP2 mediated inhibition of cell adhesion,14-3-3 beta,Ywhab,INDUCES
+RAP1GAP2,Rap1gap2,S9-p,1319201,FGRKRSVsFGGFGWI,"molecular association, regulation",,18039662,,14-3-3 binding attenuates Rap1GAP2 mediated inhibition of cell adhesion,14-3-3 zeta,Ywhaz,INDUCES

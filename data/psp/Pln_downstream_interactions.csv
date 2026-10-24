@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PLN,Pln,S16-p,448114,RSAIRRAsTIEMPQQ,"activity, induced; molecular association, regulation; activity, inhibited; protein conformation; enzymatic activity, induced",,11854448; 12134142; 18708665; 33897445; 35605666; 35805951,Phospholamban,,SERCA2,Atp2a2,DISRUPTS
+PLN,Pln,S16-p,448114,RSAIRRAsTIEMPQQ,"activity, induced; molecular association, regulation; activity, inhibited; protein conformation; enzymatic activity, induced",,11854448; 12134142; 18708665; 33897445; 35605666; 35805951,Phospholamban,,ATP2A1,Atp2a1,DISRUPTS
+PLN,Pln,T17-p,448115,SAIRRAStIEMPQQA,"molecular association, regulation; protein conformation",,11854448; 18708665,Phospholamban,,SERCA2,Atp2a2,DISRUPTS
+PLN,Pln,T17-p,448115,SAIRRAStIEMPQQA,"molecular association, regulation; protein conformation",,11854448; 18708665,Phospholamban,,ATP2A1,Atp2a1,DISRUPTS

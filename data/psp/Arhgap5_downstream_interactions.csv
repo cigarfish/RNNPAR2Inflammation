@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ARHGAP5,Arhgap5,Y306-p,449920,NHPDYEEyINLEGTR,intracellular localization,"cell differentiation, altered",12705864,RhoGAP-FF1,,,,
+ARHGAP5,Arhgap5,Y1109-p,455068,KGYSDEIyVVPDDSQ,"activity, induced","cell motility, altered; cell growth, altered",18829532,RhoGAP_pG1_pG2,"inhibits Rho activity, activates Ras activity",,,

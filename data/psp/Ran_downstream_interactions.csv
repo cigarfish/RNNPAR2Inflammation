@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAN,Ran,S135-p,469112,DRKVKAKsIVFHRKK,"molecular association, regulation; intracellular localization",cell cycle regulation,16930555; 20805321,Ras,,RANGAP1,Rangap1,DISRUPTS
+RAN,Ran,S135-p,469112,DRKVKAKsIVFHRKK,"molecular association, regulation; intracellular localization",cell cycle regulation,16930555; 20805321,Ras,,RCC1,Rcc1,DISRUPTS
+RAN,Ran,K134-ac,36958832,KDRKVKAkSIVFHRK,"molecular association, regulation",cell cycle regulation,29040603,Ras,regulates chromosome segregation,RCC1,Rcc1,INDUCES
+RAN,Ran,K134-ac,36958832,KDRKVKAkSIVFHRK,"molecular association, regulation",cell cycle regulation,29040603,Ras,regulates chromosome segregation,RANGRF,Rangrf,DISRUPTS

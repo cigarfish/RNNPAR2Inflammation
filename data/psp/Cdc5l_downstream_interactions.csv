@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC5L,Cdc5l,T438-p,3210129,PKPVINStPGRTPLR,,"RNA splicing, altered",18583928,Myb_Cef,,,,
+CDC5L,Cdc5l,T411-p,469436,TPNTVLStPFRTPSN,,"RNA splicing, altered",18583928,Myb_Cef,,,,

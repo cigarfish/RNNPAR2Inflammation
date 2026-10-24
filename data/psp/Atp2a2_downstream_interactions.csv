@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ATP2A2,Atp2a2,K480-sm,25092201,SVIKQLMkKEFTLEF,"protein stabilization; molecular association, regulation; ubiquitination; enzymatic activity, induced",,21900893,Cation_ATPase,"induces ATP binding, inhibits ubiquitination",,,
+ATP2A2,Atp2a2,K460-ub,12336210,NVFDTELkGLSKIER,protein degradation,,35611810,Cation_ATPase,SIGMAR1 interacts with Q615 site and mediates SERCA2 degradation,,,
+ATP2A2,Atp2a2,K541-ub,486899,VPMTSGVkQKIMSVI,protein degradation,,35611810,,SIGMAR1 interacts with Q615 site and mediates SERCA2 degradation,,,
+ATP2A2,Atp2a2,K585-sm,25092200,EDSANFIkYETNLTF,"protein stabilization; molecular association, regulation; ubiquitination; enzymatic activity, induced",,21900893,,"induces ATP binding, inhibits ubiquitination",,,
+ATP2A2,Atp2a2,K514-ac,36296433,SMSKMFVkGAPEGVI,"protein degradation; enzymatic activity, inhibited",,36834924,Cation_ATPase,impairs cardiomyocyte function,,,
+ATP2A2,Atp2a2,S663-p,452253,EFDELNPsAQRDACL,"enzymatic activity, inhibited","cell growth, inhibited",37291092,,",regulates Ca2+ homeostasis",,,
+ATP2A2,Atp2a2,K464-ac,11322808,TELKGLSkIERANAC,"enzymatic activity, induced",,29385061,Cation_ATPase,,,,

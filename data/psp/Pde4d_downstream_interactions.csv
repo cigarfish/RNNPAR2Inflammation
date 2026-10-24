@@ -1,0 +1,20 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PDE4D,Pde4d,S13-p,2188800,NFPFRRHsWICFDVD,"molecular association, regulation",,15182229; 18845247,,,NDEL1,Ndel1,DISRUPTS
+PDE4D,Pde4d,S13-p,2188800,NFPFRRHsWICFDVD,"molecular association, regulation",,15182229; 18845247,,,AKAP6,Akap6,INDUCES
+PDE4D,Pde4d,S651-p,451090,YQSTIPQsPSPAPDD,"enzymatic activity, altered",,31209056,,,,,
+PDE4D,Pde4d,K140-ub,7388020,SDYDLSPkSMSRNSS,"molecular association, regulation; ubiquitination",,19372219,,primes ubiquitination at other sites,RACK1,Rack1,DISRUPTS
+PDE4D,Pde4d,K140-ub,7388020,SDYDLSPkSMSRNSS,"molecular association, regulation; ubiquitination",,19372219,,primes ubiquitination at other sites,ARRB1,Arrb1,INDUCES
+PDE4D,Pde4d,S579-p,451090,YQSTIPQsPSPAPDD,"enzymatic activity, inhibited",,10022832; 10828059; 16973330,,,,,
+PDE4D,Pde4d,K48-ub,7388021,EKSKTARkSVSPKLS,"molecular association, regulation",,19372219,,,RACK1,Rack1,DISRUPTS
+PDE4D,Pde4d,K48-ub,7388021,EKSKTARkSVSPKLS,"molecular association, regulation",,19372219,,,ARRB1,Arrb1,INDUCES
+PDE4D,Pde4d,K323-sm,13310804,SIPRFGVkTEQEDVL,"enzymatic activity, induced",,20196770,,,,,
+PDE4D,Pde4d,S490-p,451090,YQSTIPQsPSPAPDD,"enzymatic activity, induced",,10828059,,,,,
+PDE4D,Pde4d,S54-p,458388,VHSQRREsFLYRSDS,"enzymatic activity, induced",,15131123; 16973330; 20106966; 8663227,,,,,
+PDE4D,Pde4d,S126-p,458388,VHSQRREsFLYRSDS,"enzymatic activity, induced",,12023945,,,,,
+PDE4D,Pde4d,K78-ub,7388018,LLSSNIPkQRRFTVA,"molecular association, regulation",,19372219,,,RACK1,Rack1,DISRUPTS
+PDE4D,Pde4d,K78-ub,7388018,LLSSNIPkQRRFTVA,"molecular association, regulation",,19372219,,,ARRB1,Arrb1,INDUCES
+PDE4D,Pde4d,S413-p,451090,YQSTIPQsPSPAPDD,"enzymatic activity, inhibited",,10828059,,,,,
+PDE4D,Pde4d,S126-p,458388,VHSQRREsFLYRSDS,"enzymatic activity, altered; enzymatic activity, induced",,23826796; 31209056,,,,,
+PDE4D,Pde4d,S239-p,469621,KKLMHSSsLTNSSIP,"enzymatic activity, induced",,16973330,,switches the effect of S579 phosphorylation from inhibition to activation  ,,,
+PDE4D,Pde4d,K53-ub,7388019,ARKSVSPkLSPVISP,"molecular association, regulation",,19372219,,,RACK1,Rack1,DISRUPTS
+PDE4D,Pde4d,K53-ub,7388019,ARKSVSPkLSPVISP,"molecular association, regulation",,19372219,,,ARRB1,Arrb1,INDUCES

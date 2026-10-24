@@ -1,0 +1,11 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Stat3,Dusp2,DUSP2,DUSP2,STAT3,S727,"Phosphatases, in vitro"
+Stat3,Dusp2,DUSP2,DUSP2,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptpn1,PTPN1,PTP1B,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptpn11,PTPN11,SHP-2,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptpn13,PTPN13,PTPN13,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptpn2,PTPN2,PTPN2,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptpn6,PTPN6,SHP-1,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptprd,PTPRD,PTPRD,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptprm,PTPRM,PTPRM,STAT3,Y705,"Phosphatases, in vitro"
+Stat3,Ptprt,PTPRT,PTPRT,STAT3,Y705,"Phosphatases, in vitro"

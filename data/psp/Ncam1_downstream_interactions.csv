@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCAM1,Ncam1,S774-p,456432,AAFSKDEsKEPIVEV,phosphorylation,"cell growth, induced",22419107,,CREB phosphorylation and activation,,,
+NCAM1,Ncam1,T803-p,15721468,HTEPNETtPLTEPEK,,"endocytosis, induced; cell growth, inhibited",28193531,,shorter neurite outgrowth,,,
+NCAM1,Ncam1,Y744-p,454070,VVVDITCyFLNKCGL,,"cell growth, altered",15313190,,phosphorylation of this residue plays a role in the FGFR1- mediated cell signaling ,,,

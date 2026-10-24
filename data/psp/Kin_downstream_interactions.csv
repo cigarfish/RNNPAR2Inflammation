@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIN,Kin,K135-m1,27278513,CKVDETPkGWYIQYI,"molecular association, regulation; intracellular localization",,24140279,Kin17_mid,relocalization from chromatin to cytosol ,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GABRB3,Gabrb3,S433-p,450246,THLRRRSsQLKIKIP,"receptor internalization, inhibited","apoptosis, inhibited",24513087,Neur_chan_memb,,,,
+GABRB3,Gabrb3,S432-p,450245,KTHLRRRsSQLKIKI,"receptor internalization, inhibited","apoptosis, inhibited",24513087,Neur_chan_memb,,,,

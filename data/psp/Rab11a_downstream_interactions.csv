@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RAB11A,Rab11a,S177-p,22826101,TEIYRIVsQKQMSDR,"activity, inhibited","endocytosis, inhibited",22188018; 28696251,,transient BK current AUC through Rab11A S177; S177D mutant led to retained transferrin in the endocytic recycling compartment,,,
+RAB11A,Rab11a,K145-ub,15395883,EARAFAEkNGLSFIE,"receptor recycling, induced; enzymatic activity, induced",,24190883,Ras,,,,

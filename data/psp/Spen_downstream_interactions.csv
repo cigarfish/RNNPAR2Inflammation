@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SPEN,Spen,T3568-p,455622,EGVARRMtVETDYCL,,"transcription, altered",15824732,SPOC,,,,
+SPEN,Spen,S3486-p,455623,QPAPKQDsSPHLTSQ,,"transcription, altered",15824732,,,,,

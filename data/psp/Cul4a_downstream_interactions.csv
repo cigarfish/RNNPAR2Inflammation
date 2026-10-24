@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CUL4A,Cul4a,Y103-p,1886848205,HKVSPMLyKQLRQAC,"molecular association, regulation",,37040401,,,Abl,Abl1,INDUCES
+CUL4A,Cul4a,Y87-p,1886848204,RYNLEELyQAVENLC,"molecular association, regulation",,37040401,,,Abl,Abl1,INDUCES

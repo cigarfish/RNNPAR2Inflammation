@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CEP83,Cep83,S698-p,14571164,KQLEELGsSGE____,intracellular localization,cytoskeletal reorganization,31455668,,"affects recruitment of TCTN2 and NPHP1, thus regulating ciliogenesis",,,

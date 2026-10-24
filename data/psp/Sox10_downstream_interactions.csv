@@ -1,0 +1,11 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOX10,Sox10,S45-p,456247,GGSGLRAsPGPGELG,protein stabilization,,29315345,Sox_N,,,,
+SOX10,Sox10,T244-p,628303300,GPPTPPTtPKTELQS,"sumoylation; molecular association, regulation; activity, inhibited","transcription, inhibited",29295999,,inhibits sumoylation,UBC9,Ube2i,DISRUPTS
+SOX10,Sox10,S24-p,7103084,SEEPRCLsPGSAPSL,protein stabilization,"cell differentiation, induced; transcription, induced; transcription, inhibited",29315345; 37481722,Sox_N,,,,
+SOX10,Sox10,T240-p,56655880,GQSHGPPtPPTTPKT,"sumoylation; protein stabilization; molecular association, regulation; activity, inhibited","transcription, inhibited",29295999; 29315345,,pMITF expression; inhibits sumoylation,UBC9,Ube2i,DISRUPTS
+SOX10,Sox10,K55-sm,3875804,PGELGKVkKEQQDGE,"activity, induced; molecular association, regulation","transcription, induced; transcription, inhibited",16494873; 29295999; 34087780,Sox_N,SOX10 sumoylation at K55 were essential for expression of SAMMSON induced by vemurafenib.,EGR2,Egr2,DISRUPTS
+SOX10,Sox10,K55-sm,3875804,PGELGKVkKEQQDGE,"activity, induced; molecular association, regulation","transcription, induced; transcription, inhibited",16494873; 29295999; 34087780,Sox_N,SOX10 sumoylation at K55 were essential for expression of SAMMSON induced by vemurafenib.,PAX3,Pax3,DISRUPTS
+SOX10,Sox10,K246-sm,3875803,PTPPTTPkTELQSGK,"molecular association, regulation","transcription, inhibited",16494873,,,EGR2,Egr2,DISRUPTS
+SOX10,Sox10,K246-sm,3875803,PTPPTTPkTELQSGK,"molecular association, regulation","transcription, inhibited",16494873,,,PAX3,Pax3,DISRUPTS
+SOX10,Sox10,K357-sm,3875805,VDAKAQVkTETAGPQ,"molecular association, regulation","transcription, inhibited",16494873,,,EGR2,Egr2,DISRUPTS
+SOX10,Sox10,K357-sm,3875805,VDAKAQVkTETAGPQ,"molecular association, regulation","transcription, inhibited",16494873,,,PAX3,Pax3,DISRUPTS

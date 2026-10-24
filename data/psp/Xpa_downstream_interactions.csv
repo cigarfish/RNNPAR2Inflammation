@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+XPA,Xpa,S196-p,460698,RSLEVWGsQEALEEA,"protein stabilization; molecular association, regulation","DNA repair, induced; apoptosis, altered",16540648; 23178497; 35216341,,,H2AX,H2ax,INDUCES
+XPA,Xpa,S196-p,460698,RSLEVWGsQEALEEA,"protein stabilization; molecular association, regulation","DNA repair, induced; apoptosis, altered",16540648; 23178497; 35216341,,,HERC2,Herc2,DISRUPTS
+XPA,Xpa,S196-p,460698,RSLEVWGsQEALEEA,"protein stabilization; molecular association, regulation","DNA repair, induced; apoptosis, altered",16540648; 23178497; 35216341,,,RPA1,Rpa1,INDUCES

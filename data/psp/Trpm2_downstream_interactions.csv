@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRPM2,Trpm2,K1216-ub,1881559700,VPTLASQkAAEEPDA,,"apoptosis, induced",34903714,,lncTRPM2-AS blocks the ubiquitylation of TRPM2 and inhibits autophagy induced apoptosis ,,,
+TRPM2,Trpm2,S38-p,27462696,SNLRRSNsSLFKSWR,"activity, induced",,38308841,,,,,
+TRPM2,Trpm2,S39-p,30312508,NLRRSNSsLFKSWRL,,"apoptosis, induced",24337049,, induces Ca2+ entry and apoptosis ,,,

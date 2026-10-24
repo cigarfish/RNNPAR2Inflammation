@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RRAS,Rras,Y66-p,448122,DPTIEDSyTKICSVD,"molecular association, regulation","cell motility, altered; cytoskeletal reorganization; cell adhesion, altered",10570155; 11682467; 16522685,Ras,Y66E blocks activated (38V) R-Ras-induced cell retraction (cells with spikes).  Y66F blocks activated R-Ras inhibition of cell migration during ephrin-B1 stimulation (effect present but not as intense in Y66F non-activated R-ras allele). Y66F inhibits ephrin-A1-induced growth cone collapse.,,,
+RRAS,Rras,S201-p,18015221,QEQELPPsPPSAPRK,"activity, induced",,27086924,,,,,

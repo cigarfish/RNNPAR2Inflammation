@@ -1,0 +1,13 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCL,Ncl,S28-p,452262,PKEVEEDsEDEEMSE,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,T76-p,483581,TKKVAVAtPAKKAAV,"molecular association, regulation","cell cycle regulation; cell motility, induced; cell growth, induced",29440146; 30320343; 37276927,,,DDX31,Ddx31,INDUCES
+NCL,Ncl,S145-p,449269,KNAKKEDsDEEEDDD,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,T84-p,9765542,PAKKAAVtPGKKAAA,"molecular association, regulation","cell cycle regulation; cell growth, induced",29440146; 37276927,,,DDX31,Ddx31,INDUCES
+NCL,Ncl,S34-p,466005,DSEDEEMsEDEEDDS,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,T641-p,21697920,EIDGNKVtLDWAKPK,"molecular association, regulation; protein stabilization","carcinogenesis, induced; cell growth, induced; RNA stability, induced; translation, induced",21998300; 25173817,RRM_1, induces binding to Sp1 RNA and  IRES-mediated Sp1 expression ,,,
+NCL,Ncl,S206-p,466007,DDDEEDDsEEEAMET,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,T707-p,21697921,HKPQGKKtKFE____,"molecular association, regulation; protein stabilization","carcinogenesis, induced; cell growth, induced; RNA stability, induced; translation, induced",21998300; 25173817,, induces binding to Sp1 RNA and  IRES-mediated Sp1 expression ,,,
+NCL,Ncl,S184-p,466006,AAAAAPAsEDEDDED,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,K294-sm,38557700,QKAAPEAkKQKVEGT,"molecular association, regulation; intracellular localization","apoptosis, induced; RNA stability, induced",25561743,,,,,
+NCL,Ncl,S153-p,449270,DEEEDDDsEEDEEDD,intracellular localization,"cell cycle regulation; cell growth, induced",25313645,,,,,
+NCL,Ncl,S328-p,31867151,PELKTGIsDVFAKND,"molecular association, regulation; intracellular localization","transcription, induced",31182601,RRM_1,"miR-93 and miR-484 interactions inhibited, increase KLF2 and eNOS protein expression",DROSHA,Drosha,DISRUPTS

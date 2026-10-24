@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CDC42,Cdc42,K166-ub,12294209,ALTQKGLkNVFDEAI,"protein degradation; molecular association, regulation","carcinogenesis, inhibited; cell growth, inhibited; cytoskeletal reorganization",28661476,Ras,,PAK6,Pak6,DISRUPTS
+CDC42,Cdc42,Y64-p,450272,DTAGQEDyDRLRPLS,"activity, induced; molecular association, regulation","cell growth, altered",14506284,Ras,Cdc42 Y64A mutant is impaired in transforming NIH 3T3 cells.  ,RhoGDI alpha,Arhgdia,INDUCES

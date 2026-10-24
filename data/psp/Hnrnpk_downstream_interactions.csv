@@ -1,0 +1,28 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+HNRNPK,Hnrnpk,Y72-p,455999,IKALRTDyNASVSVP,,"translation, altered",12052863,KH_1,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,K139-m1,58123401,CLNYQHYkGSDFDCE,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES
+HNRNPK,Hnrnpk,Y380-p,456004,YAGGRGSyGDLGGPI,,"translation, altered",12052863,,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,R299-m1,8092824,PPPGRGGrGGSRARN,"molecular association, regulation; phosphorylation","apoptosis, inhibited",25104022,,"methylation of R296 and R299 suppress S302 phosphorylation, R296/R299 methylation reduces apoptosis in U2OS-K- 2RK cells after DNA damage",PKCD,Prkcd,DISRUPTS
+HNRNPK,Hnrnpk,R299-m2,476714,PPPGRGGrGGSRARN,protein stabilization; phosphorylation,"cell motility, induced",17191129; 31110205,,,,,
+HNRNPK,Hnrnpk,K422-sm,2894422,HESGASIkIDEPLEG,"protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; transcription, induced",23092970,KH_1,prevents ubiquitination,MDM2,Mdm2,DISRUPTS
+HNRNPK,Hnrnpk,K422-sm,2894422,HESGASIkIDEPLEG,"protein stabilization; molecular association, regulation; ubiquitination; intracellular localization","cell cycle regulation; transcription, induced",23092970,KH_1,prevents ubiquitination,p53,Trp53,INDUCES
+HNRNPK,Hnrnpk,R296-m1,8092821,PPPPPPGrGGRGGSR,"molecular association, regulation; phosphorylation","apoptosis, inhibited",25104022,,"methylation of R296 and R299 suppress S302 phosphorylation, R296/R299 methylation reduces apoptosis in U2OS-K- 2RK cells after DNA damage",PKCD,Prkcd,DISRUPTS
+HNRNPK,Hnrnpk,S379-p,483629,SYAGGRGsYGDLGGP,,"cell cycle regulation; cell motility, inhibited",31110205,,"downregulates Twist, upregulates MMP12, upregulates and stabilizes beta catenin",,,
+HNRNPK,Hnrnpk,R256-m2,6742804,RPVGFPMrGRGGFDR,"molecular association, regulation","translation, inhibited",33660773,,suppression of ALOX15 mRNA translation initiation,RPS19,Rps19,INDUCES
+HNRNPK,Hnrnpk,Y458-p,465997,LQNSVKQySGKFF__,"molecular association, regulation",,24642125,,UCP2 mRNA,,,
+HNRNPK,Hnrnpk,S116-p,452369,EEGLQLPsPTATSQL,intracellular localization,,20960454,,,,,
+HNRNPK,Hnrnpk,S353-p,450147,DSAIDTWsPSEWQMA,"activity, induced; intracellular localization","translation, altered; cell growth, induced; transcription, induced; transcription, altered",11231586; 11259409; 24236111,,localized to nuclear matrix,,,
+HNRNPK,Hnrnpk,Y230-p,456001,QPYDPNFyDETYDYG,,"translation, altered",12052863,,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,S284-p,448185,RRDYDDMsPRRGPPP,"molecular association, regulation; intracellular localization","translation, altered; cell growth, induced; transcription, induced; transcription, inhibited",11231586; 16564677; 24236111; 25410660; 26804170,,localized to nuclear matrix,PPP1CA,Ppp1ca,INDUCES
+HNRNPK,Hnrnpk,S284-p,448185,RRDYDDMsPRRGPPP,"molecular association, regulation; intracellular localization","translation, altered; cell growth, induced; transcription, induced; transcription, inhibited",11231586; 16564677; 24236111; 25410660; 26804170,,localized to nuclear matrix,TDP-43,Tardbp,INDUCES
+HNRNPK,Hnrnpk,Y225-p,456000,IKGRAQPyDPNFYDE,,"translation, altered",12052863,,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,R258-m2,6742805,VGFPMRGrGGFDRMP,"molecular association, regulation","translation, inhibited",33660773,,suppression of ALOX15 mRNA translation initiation,RPS19,Rps19,INDUCES
+HNRNPK,Hnrnpk,S116-p,452369,EEGLQLPsPTATSQL,protein degradation; intracellular localization,"cell growth, induced; transcription, induced",20960454; 24236111; 28423622,,localized to nuclear matrix,,,
+HNRNPK,Hnrnpk,S216-p,450148,ILDLISEsPIKGRAQ,"activity, induced; molecular association, regulation; intracellular localization","transcription, altered",11259409; 25410660,,,TDP-43,Tardbp,INDUCES
+HNRNPK,Hnrnpk,S302-p,457408,GRGGRGGsRARNLPL,"molecular association, regulation; phosphorylation","apoptosis, inhibited",10329716; 25104022,,"methylation of R296 and R299 suppress S302 phosphorylation, R296/R299 methylation reduces apoptosis in U2OS-K- 2RK cells after DNA damage",PKCD,Prkcd,INDUCES
+HNRNPK,Hnrnpk,S302-p,457408,GRGGRGGsRARNLPL,"molecular association, regulation; phosphorylation","apoptosis, inhibited",10329716; 25104022,,"methylation of R296 and R299 suppress S302 phosphorylation, R296/R299 methylation reduces apoptosis in U2OS-K- 2RK cells after DNA damage",PKCD,Prkcd,DISRUPTS
+HNRNPK,Hnrnpk,R268-m2,26358525,FDRMPPGrGGRPMPP,"molecular association, regulation","translation, inhibited",33660773,,suppression of ALOX15 mRNA translation initiation,RPS19,Rps19,INDUCES
+HNRNPK,Hnrnpk,Y234-p,456002,PNFYDETyDYGGFTM,,"translation, altered",12052863,,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,T120-p,3193372,QLPSPTAtSQLPLES,protein degradation,,28423622,,,,,
+HNRNPK,Hnrnpk,Y236-p,456003,FYDETYDyGGFTMMF,,"translation, altered",12052863,,based on Y72/225/230/234/236/380A mutant,,,
+HNRNPK,Hnrnpk,R296-m2,476739,PPPPPPGrGGRGGSR,protein stabilization; phosphorylation,"cell motility, induced",17191129; 31110205,,,,,

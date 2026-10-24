@@ -1,0 +1,15 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DAXX,Daxx,S176-p,3214944,TNAENTAsQSPRTRG,protein stabilization; ubiquitination,"apoptosis, induced",19789334; 19789335,,required for TNF alpha -dependent accumulation of Daxx in cells ; phosphorylation induces K63-linked polyubiquitination of DAXX at K122,,,
+DAXX,Daxx,S178-p,1189200,AENTASQsPRTRGSR,"protein degradation; molecular association, regulation","apoptosis, inhibited",17938171,,,PIN1,Pin1,INDUCES
+DAXX,Daxx,S668-p,448623,KKICTLPsPPSPLAS,"activity, induced; molecular association, regulation; intracellular localization; phosphorylation","transcription, induced; signaling pathway regulation",12968034; 15128734; 22199361; 23260419,,"activates c-Jun phosphorylation, increases SF1 activity, increases CYP11A1 expression in steroidogenesis; necrotic cell death induced",Exportin-1,Xpo1,INDUCES
+DAXX,Daxx,S712-p,482266,RLSQTPHsQPPRPGT,intracellular localization,,37163376,,,,,
+DAXX,Daxx,S707-p,18905005,IPSPARLsQTPHSQP,intracellular localization,,37163376,,,,,
+DAXX,Daxx,K122-ub,11998602,RARSRPAkLYVYINE,phosphorylation,"apoptosis, induced",19789334,Daxx,induces JNK phosphorylation/activation,,,
+DAXX,Daxx,S184-p,10438000,QSPRTRGsRRQIQRL,protein stabilization; ubiquitination,"apoptosis, induced",19789334; 19789335,,required for TNF alpha -dependent accumulation of Daxx in cells ; phosphorylation induces K63-linked polyubiquitination of DAXX at K122,,,
+DAXX,Daxx,K630-sm,2407410,GDSGPPCkKSRKEKK,"molecular association, regulation; intracellular localization","cell growth, inhibited; transcription, inhibited",16818774,,,PML,Pml,INDUCES
+DAXX,Daxx,K631-sm,2407411,DSGPPCKkSRKEKKQ,"molecular association, regulation; intracellular localization","cell growth, inhibited; transcription, inhibited",16818774,,,PML,Pml,INDUCES
+DAXX,Daxx,S739-p,467727,EIIVLSDsD______,"sumoylation; molecular association, regulation","apoptosis, altered; transcription, altered",21474068,,,SUMO1,Sumo1,INDUCES
+DAXX,Daxx,S739-p,467727,EIIVLSDsD______,"sumoylation; molecular association, regulation","apoptosis, altered; transcription, altered",21474068,,,PML,Pml,INDUCES
+DAXX,Daxx,S737-p,467726,PEEIIVLsDSD____,"sumoylation; molecular association, regulation","apoptosis, altered; transcription, altered",21474068,,,SUMO1,Sumo1,INDUCES
+DAXX,Daxx,S737-p,467726,PEEIIVLsDSD____,"sumoylation; molecular association, regulation","apoptosis, altered; transcription, altered",21474068,,,PML,Pml,INDUCES
+DAXX,Daxx,S564-p,27571800,LEEESPVsQLFELEI,"activity, induced; molecular association, regulation",,23405218,,p53 transcription activity stimulated,MDM2,Mdm2,DISRUPTS

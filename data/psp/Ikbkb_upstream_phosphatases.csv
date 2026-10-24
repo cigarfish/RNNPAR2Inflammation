@@ -1,0 +1,6 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Ikbkb,Ppm1a,PPM1A,PPM1A,IKBKB,S177,"Phosphatases, in vitro"
+Ikbkb,Ppm1a,PPM1A,PPM1A,IKBKB,S181,"Phosphatases, in vitro"
+Ikbkb,Ppm1b,PPM1B,PPM1B,IKBKB,S177,"Phosphatases, in vitro"
+Ikbkb,Ppm1b,PPM1B,PPM1B,IKBKB,S181,"Phosphatases, in vitro"
+Ikbkb,Ppp2ca,PPP2CA,PPP2CA,IKBKB,S181,Putative upstream phosphatases

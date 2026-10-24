@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CHKB,Chkb,S39-p,5208526,TPKRRRAsSLSRDAE,"enzymatic activity, induced",,27149373,,,,,
+CHKB,Chkb,S40-p,3857922,PKRRRASsLSRDAER,"enzymatic activity, induced",,27149373,,,,,

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CCNB1,Ccnb1,S128-p,448815,LVDTASPsPMETSGC,intracellular localization,,20117088; 22726437,,enhances nuclear import,,,
+CCNB1,Ccnb1,S147-p,448446,EDLCQAFsDVILAVN,intracellular localization,,11242082; 20117088; 22726437,,The phosphorylation of S133 and S147 is necessary for the nuclear translocation of cyclin B1 during G2/M phase.; enhances nuclear import,,,
+CCNB1,Ccnb1,S116-p,13256100,PVKEEKLsPEPILVD,intracellular localization,,20117088; 22726437,,enhances nuclear import,,,
+CCNB1,Ccnb1,K36-ub,603484742,TAPAATSkPGLRPRT,protein degradation,cell cycle regulation,12198152,,,,,
+CCNB1,Ccnb1,S126-p,448814,PILVDTAsPSPMETS,intracellular localization,"cell cycle regulation; carcinogenesis, induced",20117088; 22726437; 24582498; 24910099; 25849598,,nuclear localization,,,
+CCNB1,Ccnb1,S133-p,448445,SPSPMETsGCAPAEE,intracellular localization,,11242082; 12447691; 20117088; 22726437,,S133-p is required for accelerated nuclear import.  ; The phosphorylation of S133 and S147 is necessary for the nuclear translocation of cyclin B1 during G2/M phase.; enhances nuclear import,,,
+CCNB1,Ccnb1,K242-ub,1885690004,QNNCVPKkMLQLVGV,protein degradation,"cell cycle regulation; cell growth, induced",37302347,,USP39 reverses K29-linked polyubiquitination of Cyclin B1 at K242 and reverses its downstream effects ,,,

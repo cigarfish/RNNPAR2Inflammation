@@ -1,0 +1,28 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DDX5,Ddx5,T69-p,1875793000,HPDLARRtAQEVETY,"sumoylation; protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced",34936874,,inhibits ubiquitination,PIAS1,Pias1,INDUCES
+DDX5,Ddx5,T69-p,1875793000,HPDLARRtAQEVETY,"sumoylation; protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced",34936874,,inhibits ubiquitination,DROSHA,Drosha,INDUCES
+DDX5,Ddx5,T69-p,1875793000,HPDLARRtAQEVETY,"sumoylation; protein stabilization; molecular association, regulation; ubiquitination","carcinogenesis, induced; cell motility, induced; cell growth, induced",34936874,,inhibits ubiquitination,DGCR8,Dgcr8,INDUCES
+DDX5,Ddx5,R482-m2,1877752101,VEDRGSGrSRGRGGM,"molecular association, regulation",,31267554,,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,R502-m1,6008922,DRYSAGKrGGFNTFR,"molecular association, regulation",,31267554,P68HR,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,K45-ac,15211500,GEKLVKKkWNLDELP,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K45-ac,15211500,GEKLVKKkWNLDELP,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES
+DDX5,Ddx5,S198-p,27807802,CRACRLKsTCIYGGA,"molecular association, regulation; intracellular localization","cell growth, inhibited",23482664,DEAD,"micro-RNA processing, c-Myc abundance reduced",DROSHA,Drosha,INDUCES
+DDX5,Ddx5,T564-p,27156800,SFRTGNPtGTYQNGY,,"apoptosis, induced",23110695,P68HR,,,,
+DDX5,Ddx5,R478-m2,1877752102,LLQLVEDrGSGRSRG,"molecular association, regulation",,31267554,,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,R502-m2,476729,DRYSAGKrGGFNTFR,"molecular association, regulation",,31267554,P68HR,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,T446-p,15409321,GTAYTFFtPNNIKQV,,"apoptosis, induced",23110695,,,,,
+DDX5,Ddx5,K32-ac,466258,RAGPLSGkKFGNPGE,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K32-ac,466258,RAGPLSGkKFGNPGE,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES
+DDX5,Ddx5,K33-ac,466259,AGPLSGKkFGNPGEK,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K33-ac,466259,AGPLSGKkFGNPGEK,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES
+DDX5,Ddx5,R484-m2,27280649,DRGSGRSrGRGGMKD,"molecular association, regulation",,31267554,,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,Y595-p,478485,MNQQAYAyPATAAAP,,"apoptosis, inhibited",17384675,,,,,
+DDX5,Ddx5,R486-m2,27280653,GSGRSRGrGGMKDDR,"molecular association, regulation",,31267554,,represses R-loops,XRN2,Xrn2,INDUCES
+DDX5,Ddx5,K44-ac,15211502,PGEKLVKkKWNLDEL,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K44-ac,15211502,PGEKLVKkKWNLDEL,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES
+DDX5,Ddx5,Y593-p,470084,NGMNQQAyAYPATAA,"molecular association, regulation; intracellular localization","cell growth, induced; apoptosis, inhibited; transcription, induced; cytoskeletal reorganization",17018282; 17384675; 17412694,,transcription of cyclin D1 and c-Myc genes,CTNNB1,Ctnnb1,INDUCES
+DDX5,Ddx5,K53-sm,12004408,WNLDELPkFEKNFYQ,"protein stabilization; molecular association, regulation","chromatin organization, altered; transcription, induced; transcription, inhibited",17369852; 19995069,,transcription of an estrogen response element,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K43-ac,15211501,NPGEKLVkKKWNLDE,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K43-ac,15211501,NPGEKLVkKKWNLDE,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES
+DDX5,Ddx5,K40-ac,11321885,KFGNPGEkLVKKKWN,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC1,Hdac1,INDUCES
+DDX5,Ddx5,K40-ac,11321885,KFGNPGEkLVKKKWN,"protein stabilization; molecular association, regulation","carcinogenesis, induced; transcription, induced",20663877,,,HDAC2,Hdac2,INDUCES

@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAFG,Mafg,K14-sm,12004419,GNKALKVkREPGENG,,"transcription, inhibited",16738329,,,,,
+MAFG,Mafg,K71-ac,458966,YAASCRVkRVTQKEE,"molecular association, regulation",,11154691,bZIP_Maf,,,,
+MAFG,Mafg,K60-ac,458965,KQRRRTLkNRGYAAS,"molecular association, regulation",,11154691,bZIP_Maf,,,,
+MAFG,Mafg,S124-p,18011934,FARTVARsPVAPARG,protein stabilization,"transcription, inhibited",25219500; 26787892,,,,,
+MAFG,Mafg,K53-ac,458964,KEEIVQLkQRRRTLK,"molecular association, regulation",,11154691,bZIP_Maf,,,,
+MAFG,Mafg,K76-ac,458967,RVKRVTQkEELEKQK,"molecular association, regulation",,11154691,bZIP_Maf,,,,

@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TNFRSF1A,Tnfrsf1a,S381-p,20831307,FVRRLGLsDHEIDRL,"molecular association, regulation","cell motility, induced; transcription, induced",21724995,Death,,TRADD,Tradd,INDUCES
+TNFRSF1A,Tnfrsf1a,Y401-p,455157,RCLREAQySMLATWR,"molecular association, regulation","apoptosis, inhibited; transcription, induced",21724995; 38789573,Death,,RIPK1,Ripk1,DISRUPTS
+TNFRSF1A,Tnfrsf1a,Y401-p,455157,RCLREAQySMLATWR,"molecular association, regulation","apoptosis, inhibited; transcription, induced",21724995; 38789573,Death,,TRADD,Tradd,DISRUPTS
+TNFRSF1A,Tnfrsf1a,T411-p,1868023606,LATWRRRtPRREATL,"molecular association, regulation; phosphorylation","apoptosis, induced; signaling pathway regulation",32159413,Death," decrease ERK, Akt and STAT3 phosphorylation; non-canonical TNF-alpha signaling, necrosis induced",GRB2,Grb2,DISRUPTS
+TNFRSF1A,Tnfrsf1a,Y360-p,464365,TDDPATLyAVVENVP,"molecular association, regulation","apoptosis, inhibited; transcription, induced",21724995; 38789573,Death,,RIPK1,Ripk1,DISRUPTS
+TNFRSF1A,Tnfrsf1a,Y360-p,464365,TDDPATLyAVVENVP,"molecular association, regulation","apoptosis, inhibited; transcription, induced",21724995; 38789573,Death,,TRADD,Tradd,DISRUPTS
+TNFRSF1A,Tnfrsf1a,T417-p,11077252,RTPRREAtLELLGRV,"molecular association, regulation; phosphorylation","apoptosis, induced; signaling pathway regulation",32159413,Death," decrease ERK, Akt and STAT3 phosphorylation; non-canonical TNF-alpha signaling, necrosis induced",GRB2,Grb2,DISRUPTS

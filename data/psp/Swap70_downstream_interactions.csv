@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SWAP70,Swap70,Y426-p,23149858,VRELEDMyLKLQEAL,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,31932501,,,ACTN1 iso2,Actn1,DISRUPTS
+SWAP70,Swap70,Y426-p,23149858,VRELEDMyLKLQEAL,"molecular association, regulation; intracellular localization",cytoskeletal reorganization,31932501,,,SWAP-70,Swap70,DISRUPTS

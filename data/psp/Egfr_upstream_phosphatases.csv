@@ -1,0 +1,12 @@
+SUBSTRATE_GENE_MOUSE,PHOSPHATASE_MOUSE,PHOSPHATASE_HUMAN,PHOSPHATASE_RAW,SUBSTRATE_GENE,MOD_RSD,SECTION
+Egfr,Dusp3,DUSP3,DUSP3,EGFR,Y869,"Phosphatases, in vitro"
+Egfr,Ptpra,PTPRA,PTPRA,EGFR,Y1016,"Phosphatases, in vitro"
+Egfr,Cdc25a,CDC25A,CDC25A,EGFR,Y1092,Putative upstream phosphatases
+Egfr,Ppp3ca,PPP3CA,PPP3CA,EGFR,S1070,Putative upstream phosphatases
+Egfr,Ppp3ca,PPP3CA,PPP3CA,EGFR,S1071,Putative upstream phosphatases
+Egfr,Ptpn1,PTPN1,PTP1B,EGFR,Y1092,Putative upstream phosphatases
+Egfr,Ptpn11,PTPN11,SHP-2,EGFR,Y1016,Putative upstream phosphatases
+Egfr,Ptpn11,PTPN11,SHP-2,EGFR,Y869,Putative upstream phosphatases
+Egfr,Ptpn3,PTPN3,PTPN3,EGFR,Y1197,Putative upstream phosphatases
+Egfr,Ptprg,PTPRG,PTPRG,EGFR,Y1092,Putative upstream phosphatases
+Egfr,Ptprh,PTPRH,PTPRH,EGFR,Y1197,Putative upstream phosphatases

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+AANAT,Aanat,T31-p,452141,PSCQRRHtLPASEFR,"molecular association, regulation",,28387381,,,14-3-3 zeta,Ywhaz,INDUCES

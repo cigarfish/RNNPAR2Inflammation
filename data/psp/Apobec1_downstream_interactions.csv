@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+APOBEC1,Apobec1,S72-p,450067,NFIKKFTsERDFHPS,"enzymatic activity, inhibited",,11463337,APOBEC4_like,,,,
+APOBEC1,Apobec1,S47-p,448433,YEIKWGMsRKIWRSS,"enzymatic activity, induced",,11463337,APOBEC4_like,,,,

@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+PRNP,Prnp,S43-p,10273948,SRYPGQGsPGGNRYP,protein conformation,,25572400,,exacerbate PRNP mutant conversion,,,
+PRNP,Prnp,Y145-p,38520206,IIHFGSDyEDRYYRE,protein conformation,,25572400,Prion,exacerbate PRNP mutant conversion,,,

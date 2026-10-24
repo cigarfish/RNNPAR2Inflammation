@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TCF7L2,Tcf7l2,T212-p,11499002,TYSNEHFtPGNPPPH,"molecular association, regulation",,12556497,CTNNB1_binding,Beta-catenin-TCF7L2 complex DNA binding,,,
+TCF7L2,Tcf7l2,S177-p,14918200,QALKDARsPSPAHIV,,"transcription, induced",20530691,CTNNB1_binding,,,,
+TCF7L2,Tcf7l2,T201-p,11499003,PHHVHPLtPLITYSN,"molecular association, regulation",,12556497,CTNNB1_binding,Beta-catenin-TCF7L2 complex DNA binding,,,
+TCF7L2,Tcf7l2,K173-ac,31077502,LQSRQALkDARSPSP,protein conformation,"transcription, induced",23613959,CTNNB1_binding,"decreases susceptibility to HBP1 mediated repression, has a strong influence on the structure of TCF7L2-DNA complex",,,

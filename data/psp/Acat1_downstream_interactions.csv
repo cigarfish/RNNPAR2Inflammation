@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ACAT1,Acat1,Y407-p,10943316,HALKQGEyGLASICN,"activity, induced; protein stabilization; protein conformation","carcinogenesis, induced; cell growth, induced",27867011,Thiolase_C,tetramer accumulation,,,

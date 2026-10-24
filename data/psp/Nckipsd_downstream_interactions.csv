@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+NCKIPSD,Nckipsd,T242-p,1868827200,PGSSCSPtPPPVPRR,"molecular association, regulation",,31358736,,,RAB5A,Rab5a,INDUCES
+NCKIPSD,Nckipsd,T242-p,1868827200,PGSSCSPtPPPVPRR,"molecular association, regulation",,31358736,,,GAPVD1,Gapvd1,INDUCES

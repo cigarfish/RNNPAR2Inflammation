@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+LIMK1,Limk1,S323-p,459630,KDLGRSEsLRVVCRP,"enzymatic activity, induced","cell motility, altered",16456544,,important for VEGF-induced stress fiber formation,,,
+LIMK1,Limk1,S307-p,3191869,DRSPGAGsLGSPASQ,"intracellular localization; enzymatic activity, induced",cell cycle regulation; cytoskeletal reorganization,22214762,,,,,
+LIMK1,Limk1,T508-p,447808,PDRKKRYtVVGNPYW,"activity, induced; molecular association, regulation; phosphorylation; enzymatic activity, induced","cell cycle regulation; cell motility, induced",10652353; 11784854; 15660133; 18332102; 21423216; 22214762; 23934191; 29058761,PK_Tyr_Ser-Thr,cytokinesis failure that acted as a precursor to centrosome ampli?cation; neutrophil crawling behavior,NISCH,Nisch,INDUCES

@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SAFB,Safb,K231-sm,15511917,TCKSEPVkEESSELE,"molecular association, regulation","transcription, inhibited",21527249,,,HDAC3,Hdac3,INDUCES
+SAFB,Safb,K294-sm,9859930,DSLLAVVkREPAEQP,"molecular association, regulation","transcription, inhibited",21527249,,,HDAC3,Hdac3,INDUCES
+SAFB,Safb,K226-m1,58123205,DILGETCkSEPVKEE,"molecular association, regulation",,23583077,,,L3MBTL iso4,L3mbtl2,INDUCES

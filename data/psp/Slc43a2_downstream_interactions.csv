@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SLC43A2,Slc43a2,S274-p,2508983,TTVGRRLsVGSSMRS,"protein stabilization; intracellular localization; activity, inhibited",,30379325,MFS_1,"membrane localization & transport activity decreased, leades to mature, core-glycosylated form, regulation of amino acid absorption",,,
+SLC43A2,Slc43a2,S297-p,3206079,EGHKLCLsTVDLEVK,"activity, induced; protein stabilization; intracellular localization",,30379325,MFS_1,"transporter activity increased, stabilize terminally glycosylated mature form, amino acid absorption",,,

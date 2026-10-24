@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+OTULIN,Otulin,K66-ub,12317109,ADEIEKEkELLIHER,protein conformation,,35939695,,"genotoxic stress induces FAM105B dimerization, FAM105B self-deubiquitination, NF-kB Activation",FAM105B,Fam105b,INDUCES
+OTULIN,Otulin,Y56-p,3560103,AEHEEDMyRAADEIE,"molecular association, regulation","carcinogenesis, induced; transcription, induced; signaling pathway regulation; transcription, inhibited",24726323; 24726327; 32770022,,Wnt/?-catenin pathway,RNF31,Rnf31,DISRUPTS
+OTULIN,Otulin,Y56-p,3560103,AEHEEDMyRAADEIE,"molecular association, regulation","carcinogenesis, induced; transcription, induced; signaling pathway regulation; transcription, inhibited",24726323; 24726327; 32770022,,Wnt/?-catenin pathway,CTNNB1,Ctnnb1,INDUCES
+OTULIN,Otulin,K64-ub,12327312,RAADEIEkEKELLIH,protein conformation,,35939695,,"genotoxic stress induces FAM105B dimerization, FAM105B self-deubiquitination, NF-kB Activation",FAM105B,Fam105b,INDUCES

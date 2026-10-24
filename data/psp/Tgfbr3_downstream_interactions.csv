@@ -1,0 +1,3 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TGFBR3,Tgfbr3,S831-p,23940713,SPPASENsSAAHSIG,"molecular association, regulation",,22427868,,,TRAF6,Traf6,INDUCES
+TGFBR3,Tgfbr3,T843-p,455562,SIGSTQStPCSSSST,"molecular association, regulation; receptor internalization, altered; intracellular localization",,12958365,,,ARRB1,Arrb1,INDUCES

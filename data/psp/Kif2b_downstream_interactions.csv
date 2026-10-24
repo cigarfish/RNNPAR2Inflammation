@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+KIF2B,Kif2b,S200-p,25247531,EYRRHLDsSKISVLE,intracellular localization,cell cycle regulation,22535524,,,,,
+KIF2B,Kif2b,S204-p,25247528,HLDSSKIsVLEPPQE,"activity, induced; intracellular localization",cell cycle regulation; cytoskeletal reorganization,22535524,,"involved in the corrections of k-MT attachment errors in early mitosis, microtubule depolymerization activity",,,
+KIF2B,Kif2b,S616-p,25247526,TTISGKGsSQWLENI,intracellular localization,cell cycle regulation,22535524,,,,,
+KIF2B,Kif2b,S617-p,25247530,TISGKGSsQWLENIQ,intracellular localization,cell cycle regulation,22535524,,,,,
+KIF2B,Kif2b,T125-p,25247520,MIPQKNQtASGDSLD,,cell cycle regulation; cytoskeletal reorganization,22535524,,"involved in the corrections of k-MT attachment errors in early mitosis, microtubule depolymerization activity",,,
+KIF2B,Kif2b,S201-p,25247534,YRRHLDSsKISVLEP,intracellular localization,cell cycle regulation,22535524,,,,,

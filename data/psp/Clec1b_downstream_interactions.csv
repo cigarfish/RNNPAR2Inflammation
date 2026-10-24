@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CLEC1B,Clec1b,Y7-p,13244602,_MQDEDGyITLNIKT,"molecular association, regulation; activity, inhibited",,20154219,,Clec1b Y7F mutant has an inhibitory effect on signaling by wt Clec1b,Syk,Syk,INDUCES

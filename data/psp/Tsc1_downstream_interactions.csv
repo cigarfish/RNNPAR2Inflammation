@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TSC1,Tsc1,S468-p,36132604,GFLGDLAsEEDSIEK,intracellular localization,"cell cycle regulation; cell growth, altered",29559472,Hamartin,decreased  lysosomal  localization  of  the  TSC complex,,,
+TSC1,Tsc1,S487-p,5277800,AAISRELsEITTAEA,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",17693255,Hamartin,"induces S6K1 phosphorylation, activates mTOR pathway",TSC2,Tsc2,DISRUPTS
+TSC1,Tsc1,S579-p,911089200,CQTSLETsIFTPSPC,intracellular localization,"cell cycle regulation; cell growth, altered",29559472,Hamartin,decreased  lysosomal  localization  of  the  TSC complex,,,
+TSC1,Tsc1,S511-p,3208191,DSPFYRDsLPGSQRK,"protein degradation; molecular association, regulation; ubiquitination; phosphorylation","carcinogenesis, induced; cell growth, induced; signaling pathway regulation",17693255,Hamartin,"induces S6K1 phosphorylation, activates mTOR pathway",TSC2,Tsc2,DISRUPTS
+TSC1,Tsc1,T310-p,478102,SYGCATStPYSTSRL,"molecular association, regulation",,16339216,Hamartin,,PLK1,Plk1,INDUCES
+TSC1,Tsc1,T417-p,450279,SLPQATVtPPRKEER,"molecular association, regulation; intracellular localization","apoptosis, altered",20006582,Hamartin,,TSC2,Tsc2,INDUCES
+TSC1,Tsc1,T417-p,450279,SLPQATVtPPRKEER,"molecular association, regulation; intracellular localization","apoptosis, altered",20006582,Hamartin,,HSP70,Hspa1a,INDUCES

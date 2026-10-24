@@ -1,0 +1,50 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,SFRS6,Srsf6,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,PLEKHQ1,Plekho1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,SFRS4,Srsf4,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,DOK3,Dok3,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,TSC2,Tsc2,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,ARAF,Araf,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,LARP,Larp1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,SRm300,Srsf10,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,SF2,Srsf1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,TSC22D1,Tsc22d1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,YAP1,Yap1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,GAB2,Gab2,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,RAF1,Raf1,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,VASP,Vasp,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,HDAC4,Hdac4,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,TRA2B,Tra2b,DISRUPTS
+YWHAE,Ywhae,K50-ac,11315836,NLLSVAYkNVIGARR,"molecular association, regulation; intracellular localization",,19608861; 36341908,14-3-3,,GBF1,Gbf1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,SFRS6,Srsf6,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,PLEKHQ1,Plekho1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,SFRS4,Srsf4,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,DOK3,Dok3,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,TSC2,Tsc2,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,ARAF,Araf,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,LARP,Larp1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,SRm300,Srsf10,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,SF2,Srsf1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,TSC22D1,Tsc22d1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,GAB2,Gab2,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,RAF1,Raf1,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,VASP,Vasp,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,HDAC4,Hdac4,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,TRA2B,Tra2b,DISRUPTS
+YWHAE,Ywhae,K123-ac,11315832,ESKVFYYkMKGDYHR,"molecular association, regulation",,19608861,14-3-3,,GBF1,Gbf1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,SFRS6,Srsf6,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,PLEKHQ1,Plekho1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,SFRS4,Srsf4,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,DOK3,Dok3,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,TSC2,Tsc2,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,ARAF,Araf,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,LARP,Larp1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,SRm300,Srsf10,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,SF2,Srsf1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,TSC22D1,Tsc22d1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,GAB2,Gab2,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,RAF1,Raf1,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,VASP,Vasp,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,HDAC4,Hdac4,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,TRA2B,Tra2b,DISRUPTS
+YWHAE,Ywhae,K118-ac,474724,AANTGESkVFYYKMK,"molecular association, regulation",,19608861,14-3-3,,GBF1,Gbf1,DISRUPTS

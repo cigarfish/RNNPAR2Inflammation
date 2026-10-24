@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CARD9,Card9,K125-ub,50760800,LLMTEVMkLQKKVQD,"activity, induced","transcription, induced; signaling pathway regulation",26488816,,regulates anti-fungal innate immune signaling via C-type lectin receptor,,,
+CARD9,Card9,T231-p,23017301,CKVERKHtLKLRHAM,"molecular association, regulation; phosphorylation",signaling pathway regulation,22265677,,induces TAK1 phosphorylation and Dectin1 signaling,Bcl-10,Bcl10,INDUCES
+CARD9,Card9,T531-p,1206001,NTTGSDNtDTEGS__,"activity, inhibited",,17936701,,impairs ability of CARD9 to activate NF-kB ,,,
+CARD9,Card9,T533-p,1206000,TGSDNTDtEGS____,"activity, inhibited",,17936701,,impairs ability of CARD9 to activate NF-kB ,,,

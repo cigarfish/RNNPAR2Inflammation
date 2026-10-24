@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RGS5,Rgs5,S166-p,482845,HALMEKDsLPRFVRS,"activity, induced; molecular association, regulation",,17540411,RGS, increase intracellular Ca2+; GTPase activating function,G-alpha 13,Gna13,DISRUPTS

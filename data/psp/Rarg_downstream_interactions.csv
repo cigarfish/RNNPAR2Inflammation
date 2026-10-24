@@ -1,0 +1,5 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+RARG,Rarg,S79-p,455544,EMVPSSPsPPPPPRV,"activity, induced","transcription, induced",10748061,,Transactivation of mRARb2 promoter,,,
+RARG,Rarg,S371-p,62884000,YARRRRPsQPYMFPR,"activity, induced",,31740618,Hormone_recep,,,,
+RARG,Rarg,S77-p,455543,SEEMVPSsPSPPPPP,"activity, induced","transcription, induced",10748061,,Transactivation of mRARb2 promoter,,,
+RARG,Rarg,S390-p,1869601000,ITDLRGIsTKGAERA,"activity, induced",,31740618,Hormone_recep,,,,

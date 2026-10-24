@@ -1,0 +1,6 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+EGLN2,Egln2,S132-p,4213804,GGDAPSPsKRPWARQ,"enzymatic activity, inhibited",,18710826,,,,,
+EGLN2,Egln2,S130-p,31088285,EDGGDAPsPSKRPWA,"molecular association, regulation",cell cycle regulation,26644182,,,HIF1A,Hif1a,DISRUPTS
+EGLN2,Egln2,S234-p,4213802,QRAIPPRsIRGDQIA,"enzymatic activity, inhibited",,18710826,,,,,
+EGLN2,Egln2,T405-p,50777944,VPVSQPPtPT_____,"protein degradation; molecular association, regulation; ubiquitination",,28036276,,,FBXW7,Fbxw7,INDUCES
+EGLN2,Egln2,S401-p,62873403,KGVQVPVsQPPTPT_,"protein degradation; molecular association, regulation; ubiquitination",,28036276,,,FBXW7,Fbxw7,INDUCES

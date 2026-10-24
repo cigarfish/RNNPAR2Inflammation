@@ -1,0 +1,59 @@
+drug,targets,target_class,relevance,notes
+Pimasertib,Map2k1;Map2k2,MEK,high,
+Selumetinib,Map2k1;Map2k2,MEK,high,
+Refametinib,Map2k1;Map2k2,MEK,high,
+GDC0994,Mapk1;Mapk3,ERK,high,
+Ulixertinib,Mapk1;Mapk3,ERK,high,
+Encorafenib,Braf,BRAF,high,can paradoxically activate ERK in BRAF-wild-type cells
+Bafetinib,Abl1;Lyn,ABL/LYN,high,Src-family arm
+TG100572,Src;Yes1;Fyn;Lyn;Kdr,SRC family/VEGFR,high,Src-family arm
+MK2206,Akt1;Akt2;Akt3,AKT,high,allosteric
+GSK2110183,Akt1;Akt2;Akt3,AKT,high,afuresertib
+Omipalisib,Pik3ca;Pik3cb;Pik3cd;Pik3cg;Mtor,PI3K/mTOR,high,
+PF04691502,Pik3ca;Pik3cb;Pik3cd;Pik3cg;Mtor,PI3K/mTOR,high,
+BGT226,Pik3ca;Pik3cb;Pik3cd;Pik3cg;Mtor,PI3K/mTOR,high,
+Apitolisib,Pik3ca;Pik3cb;Pik3cd;Pik3cg;Mtor,PI3K/mTOR,high,GDC-0980
+AZD2014,Mtor,mTORC1/2,high,vistusertib
+AZD8186,Pik3cb;Pik3cd,PI3K beta/delta,high,
+TG100115,Pik3cg;Pik3cd,PI3K gamma/delta,high,
+Losmapimod,Mapk14;Mapk11,p38,high,
+Talmapimod,Mapk14,p38,high,
+PH797804,Mapk14,p38,high,
+VX702,Mapk14,p38,high,
+Tanzisertib,Mapk8;Mapk9;Mapk10,JNK,high,CC-930
+Ruxolitinib,Jak1;Jak2,JAK,high,
+Tofacitinib,Jak1;Jak3,JAK,high,
+Filgotinib,Jak1,JAK,high,
+Momelotinib,Jak1;Jak2,JAK,high,
+Pacritinib,Jak2;Flt3;Irak1,JAK2/FLT3/IRAK1,high,
+BMS911543,Jak2,JAK,high,
+IMD0354,Ikbkb,IKKbeta,high,
+ONO4059analogue,Btk,BTK,high,tirabrutinib analogue
+Afatinib,Egfr;Erbb2;Erbb4,EGFR/HER,medium,
+Lapatinib,Egfr;Erbb2,EGFR/HER,medium,
+Neratinib,Egfr;Erbb2;Erbb4,EGFR/HER,medium,
+Poziotinib,Egfr;Erbb2;Erbb4,EGFR/HER,medium,
+AC480,Egfr;Erbb2;Erbb4,EGFR/HER,medium,BMS-599626
+Mubritinib,Erbb2,HER2,medium,also inhibits mitochondrial complex I (relevant to mtDNA/apoptosis)
+Vandetanib,Kdr;Egfr;Ret,VEGFR/EGFR/RET,medium,
+Capmatinib,Met,MET,medium,
+SGX523,Met,MET,medium,
+AMG208,Met,MET,medium,
+MK2461,Met,MET,medium,multi-kinase
+Apatinib,Kdr,VEGFR,low,
+Lenvatinib,Flt1;Kdr;Flt4;Fgfr1;Ret;Kit;Pdgfra,VEGFR/FGFR multi,low,
+Telatinib,Kdr;Flt4;Pdgfrb;Kit,VEGFR/PDGFR,low,
+Vatalanib,Flt1;Kdr;Flt4,VEGFR,low,
+OSI930,Kit;Kdr,KIT/VEGFR,low,
+Midostaurin,Prkca;Flt3;Kit,PKC/FLT3 multi,low,promiscuous
+X396,Alk,ALK,low,ensartinib
+AZD1208,Pim1;Pim2;Pim3,PIM,low,
+SGI1776,Pim1;Flt3,PIM/FLT3,low,
+Silmitasertib,Csnk2a1;Csnk2a2,CK2,low,
+GSK461364,Plk1,PLK1,low,cell cycle
+Volasertib,Plk1,PLK1,low,cell cycle
+NMS1286937,Plk1,PLK1,low,cell cycle
+MK5108,Aurka,Aurora A,low,cell cycle
+SNS314,Aurka;Aurkb;Aurkc,Aurora,low,cell cycle
+BMS387032,Cdk2;Cdk7;Cdk9,CDK,low,SNS-032; CDK9 also blocks transcription
+XL413,Cdc7,CDC7,low,cell cycle

@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+ABCG2,Abcg2,T362-p,1818104,GEKKKKItVFKEISY,"activity, induced; molecular association, regulation; intracellular localization",,18056989,,drug resistance/efflux,ABCG2,Abcg2,INDUCES

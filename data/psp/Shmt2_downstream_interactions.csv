@@ -1,0 +1,4 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SHMT2,Shmt2,K95-ac,15291421,LGSCLNNkYSEGYPG,"protein degradation; molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited",30367038,SHMT,,ubiquitin,Ubc,INDUCES
+SHMT2,Shmt2,K95-ac,15291421,LGSCLNNkYSEGYPG,"protein degradation; molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited",30367038,SHMT,,SQSTM1,Sqstm1,INDUCES
+SHMT2,Shmt2,K95-ac,15291421,LGSCLNNkYSEGYPG,"protein degradation; molecular association, regulation; enzymatic activity, inhibited","carcinogenesis, inhibited; autophagy, induced; cell growth, inhibited",30367038,SHMT,,SHMT2,Shmt2,DISRUPTS

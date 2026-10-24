@@ -1,0 +1,8 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOS1,Sos1,S1178-p,451315,IMSKHLDsPPAIPPR,"molecular association, regulation",,8816480,,,GRB2,Grb2,DISRUPTS
+SOS1,Sos1,S1193-p,451316,QPTSKAYsPRYSISD,"molecular association, regulation",,8816480,,,GRB2,Grb2,DISRUPTS
+SOS1,Sos1,S1132-p,451313,TLPHGPRsASVSSIS,"molecular association, regulation",,8816480,,,GRB2,Grb2,DISRUPTS
+SOS1,Sos1,S1197-p,451317,KAYSPRYsISDRTSI,"molecular association, regulation",,8816480,,,GRB2,Grb2,DISRUPTS
+SOS1,Sos1,S1161-p,9413177,PPRRRPEsAPAESSP,"molecular association, regulation",signaling pathway regulation,22827337,,,14-3-3 epsilon,Ywhae,INDUCES
+SOS1,Sos1,S1134-p,483244,PHGPRSAsVSSISLT,"molecular association, regulation",signaling pathway regulation,22827337,,,14-3-3 epsilon,Ywhae,INDUCES
+SOS1,Sos1,S1167-p,451314,ESAPAESsPSKIMSK,"molecular association, regulation",,8816480,,,GRB2,Grb2,DISRUPTS

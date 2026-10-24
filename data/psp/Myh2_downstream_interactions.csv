@@ -1,0 +1,7 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MYH2,Myh2,K1733-ac,9931418,NTSLINTkKKLETDI,protein conformation,,37602753,Myosin_tail_1,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,
+MYH2,Myh2,K763-ac,36305627,DIDHTQYkFGHTKVF,protein conformation,,37602753,Myosin_head,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,
+MYH2,Myh2,K35-ac,1885721102,QNRPFDAkTSVFVAE,protein conformation,,37602753,,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,
+MYH2,Myh2,K1360-ac,1885721104,YEEEQESkAELQRAL,protein conformation,,37602753,,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,
+MYH2,Myh2,K663-ac,36308183,LFRENLNkLMTNLRS,protein conformation,,37602753,Myosin_head,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,
+MYH2,Myh2,K1171-ac,36300285,SAQIEMNkKREAEFQ,protein conformation,,37602753,Myosin_tail_1,"in the presence of RYR1 mutations, myopathy MyH7 sites are added, and MYH2 sitesa are missing, ATP turnover time was significantly decreased",,,

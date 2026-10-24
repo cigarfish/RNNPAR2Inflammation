@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+DOCK1,Dock1,S1250-p,28698600,HAKLLKWsEDVCVAH,"molecular association, regulation","carcinogenesis, induced; cell motility, induced; cell growth, induced; signaling pathway regulation",23728337; 25468898,DHR-2_Lobe_A,"plays a role in EGFR-based glioblastoma carcinogenesis; PDGFRA initiated signaling-Rac1-Akt, ERK1/2",RAC1,Rac1,INDUCES

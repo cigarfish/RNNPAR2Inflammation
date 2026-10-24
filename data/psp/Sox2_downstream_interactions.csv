@@ -1,0 +1,16 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+SOX2,Sox2,S250-p,6738003,VVKSEASsSPPVVTS,"molecular association, regulation","cell cycle regulation; cell differentiation, induced",34497381,,,Oct4,Pou5f1,INDUCES
+SOX2,Sox2,K115-ub,1878299900,YKYRPRRkTKTLMKK,protein degradation,,30894683,,AKT1 phosphorylation at T116 blocks UBR5-induced ubiquitination at K115 of SOX2,,,
+SOX2,Sox2,S251-p,6738002,VKSEASSsPPVVTSS,"protein stabilization; molecular association, regulation; ubiquitination","cell differentiation, inhibited; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",34193614; 37349645,,inhibits ubiquitination,WWP2,Wwp2,DISRUPTS
+SOX2,Sox2,S251-p,6738002,VKSEASSsPPVVTSS,"protein stabilization; molecular association, regulation; ubiquitination","cell differentiation, inhibited; carcinogenesis, induced; cell growth, induced; apoptosis, inhibited",34193614; 37349645,,inhibits ubiquitination,CUL4A,Cul4a,DISRUPTS
+SOX2,Sox2,K117-m1,1880605702,YRPRRKTkTLMKKDK,"molecular association, regulation",,29358331,,,PHF20L1,Phf20l1,INDUCES
+SOX2,Sox2,K73-ac,8537503,MHNSEISkRLGAEWK,protein degradation; intracellular localization,,38473392,HMG_box,CBP/p300-mediated accetylation induces with nuclear export and degradation. Binding occurs with HDAC4 through  K73 site,HDAC4,Hdac4,INDUCES
+SOX2,Sox2,Y277-p,27722639,LRDMISMyLPGAEVP,"protein stabilization; molecular association, regulation","carcinogenesis, induced; autophagy, induced",31823521,,decrease ubiquitination and subsequent autophagic degradation,SQSTM1,Sqstm1,DISRUPTS
+SOX2,Sox2,K117-me,1880692602,YRPRRKTkTLMKKDK,protein degradation,"cell growth, inhibited",29358331,,,,,
+SOX2,Sox2,S246-gl,25794231,SMGSVVKsEASSSPP,protein stabilization,,38473392,,"stability of Sox2 during CRC progression, role of O-GlcNAcylation in Sox2 stability",,,
+SOX2,Sox2,S249-p,6738004,SVVKSEAsSSPPVVT,"molecular association, regulation","cell cycle regulation; cell differentiation, induced",34497381,,,Oct4,Pou5f1,INDUCES
+SOX2,Sox2,K42-me,1880498700,KNSPDRVkRPMNAFM,protein degradation; ubiquitination,"cell growth, inhibited",29358331; 30089852,,,,,
+SOX2,Sox2,K245-sm,12004415,GSMGSVVkSEASSSP,,"transcription, inhibited",23515309,,,,,
+SOX2,Sox2,K42-m1,1880605700,KNSPDRVkRPMNAFM,"molecular association, regulation",,29358331,,,PHF20L1,Phf20l1,INDUCES
+SOX2,Sox2,T116-p,17490601,KYRPRRKtKTLMKKD,protein degradation; protein stabilization,,30894683,SOXp,"AKT1 phosphorylation at T116 blocks UBR5-induced ubiquitination at K115 of SOX2; AKT protects SOX2 from UBR5, TRIM3,  and CUL9-mediated degradation",UBR5,Ubr5,DISRUPTS
+SOX2,Sox2,T256-p,1883303000,SSSPPVVtSSSHSRA,phosphorylation,,37349645,,primes phosphorylation at S251,,,

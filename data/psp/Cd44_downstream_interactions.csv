@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+CD44,Cd44,S704-p,465561,SGLNGEAsKSQEMVH,"molecular association, regulation; intracellular localization","cell motility, altered",1281449; 19582779,,,MMP9,Mmp9,DISRUPTS
+CD44,Cd44,S325-p,450988,LNGEASKsQEMVHLV,,"cell adhesion, inhibited",25809479,,monocyte-adhesive hyaluronan coats on keratinocytes,,,
+CD44,Cd44,S672-p,455524,AVCIAVNsRRRCGQK,"molecular association, regulation; protein conformation",cytoskeletal reorganization,12032545; 37218130,,,Radixin,Rdx,DISRUPTS
+CD44,Cd44,S672-p,455524,AVCIAVNsRRRCGQK,"molecular association, regulation; protein conformation",cytoskeletal reorganization,12032545; 37218130,,,Ezrin,Ezr,INDUCES
+CD44,Cd44,S706-p,450988,LNGEASKsQEMVHLV,"activity, induced; molecular association, regulation; intracellular localization; protein conformation","cell motility, altered; transcription, induced",1281449; 19582779; 22865879; 37218130; 9580567,,nuclear localization,MMP9,Mmp9,DISRUPTS
+CD44,Cd44,S706-p,450988,LNGEASKsQEMVHLV,"activity, induced; molecular association, regulation; intracellular localization; protein conformation","cell motility, altered; transcription, induced",1281449; 19582779; 22865879; 37218130; 9580567,,nuclear localization,Radixin,Rdx,INDUCES
+CD44,Cd44,S697-p,465669,AVEDRKPsGLNGEAS,,"cell motility, altered",16785995,,critical for chemotaxis,,,
+CD44,Cd44,S291-p,455524,AVCIAVNsRRRCGQK,"molecular association, regulation; protein conformation",,25925953; 26217011,,"regulates dimer formation and ectodomain cleavage; inhibits clevage, TPA induced CD44 cleavage requires dephosphorylation of S291",Moesin,Msn,DISRUPTS

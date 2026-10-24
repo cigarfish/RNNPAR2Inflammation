@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+GNAQ,Gnaq,S53-p,482964,GTGESGKsTFIKQMR,"enzymatic activity, inhibited",,17531806,G-alpha,inhibits G-alpha(q) signaling following infection of bacteria Yersinia pseudotuberculosis,,,

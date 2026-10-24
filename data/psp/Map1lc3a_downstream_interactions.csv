@@ -1,0 +1,9 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+MAP1LC3A,Map1lc3a,K49-ac,38557704,KQLPVLDkTKFLVPD,"molecular association, regulation; intracellular localization","autophagy, inhibited",25601754,ATG8,,DOR-1,Tpbg,DISRUPTS
+MAP1LC3A,Map1lc3a,K49-ac,38557704,KQLPVLDkTKFLVPD,"molecular association, regulation; intracellular localization","autophagy, inhibited",25601754,ATG8,,ATG7,Atg7,DISRUPTS
+MAP1LC3A,Map1lc3a,K51-ac,36293441,LPVLDKTkFLVPDHV,"molecular association, regulation; intracellular localization","autophagy, inhibited",25601754,ATG8,,DOR-1,Tpbg,DISRUPTS
+MAP1LC3A,Map1lc3a,K51-ac,36293441,LPVLDKTkFLVPDHV,"molecular association, regulation; intracellular localization","autophagy, inhibited",25601754,ATG8,,ATG7,Atg7,DISRUPTS
+MAP1LC3A,Map1lc3a,S12-p,15116600,RPFKQRRsFADRCKE,"molecular association, regulation; intracellular localization","autophagy, altered",20713600; 27390127; 32589943,,,SQSTM1,Sqstm1,DISRUPTS
+MAP1LC3A,Map1lc3a,S87-p,1884001500,FLLVNQHsMVSVSTP,"molecular association, regulation","carcinogenesis, induced; autophagy, induced; signaling pathway regulation",37595580,,drives autophagy through the  RAB3GAP1/2-Rab18 pathway ,FYCO1,Fyco1,INDUCES
+MAP1LC3A,Map1lc3a,S87-p,1884001500,FLLVNQHsMVSVSTP,"molecular association, regulation","carcinogenesis, induced; autophagy, induced; signaling pathway regulation",37595580,,drives autophagy through the  RAB3GAP1/2-Rab18 pathway ,RAB3GAP1,Rab3gap1,INDUCES
+MAP1LC3A,Map1lc3a,S87-p,1884001500,FLLVNQHsMVSVSTP,"molecular association, regulation","carcinogenesis, induced; autophagy, induced; signaling pathway regulation",37595580,,drives autophagy through the  RAB3GAP1/2-Rab18 pathway ,RAB3GAP2,Rab3gap2,INDUCES

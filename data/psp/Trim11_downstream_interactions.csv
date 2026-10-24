@@ -1,0 +1,2 @@
+gene,gene_mouse,mod_rsd,site_grp_id,nmer,on_function,on_process,pmids,domain,notes,partner_gene,partner_gene_mouse,interaction_type
+TRIM11,Trim11,K458-ub,57951823,PMTICRPkGGSGDTL,"molecular association, regulation","autophagy, induced",27498865,,promotes AIM2 degradation via SQSTM1-dependent autophagy,SQSTM1,Sqstm1,INDUCES
