@@ -58,7 +58,10 @@ external_contrasts:
   GSE219229_Ulixertinib: {target: ERK, weight: 0.1}
 
 # perturbation studies kept out of training; used only for validation
-holdout_studies: [PAR2_26, PAR2_29, PAR2_30]
+# 2026-10-27 (user): PAR2_26 and PAR2_30 leave the validation set; only PAR2_29 is simulated,
+# as a plain F2rl1 KO under its LPS background (NO Tlr4 knockdown for the albumin carrier).
+# Both have use_for_training = 0, so they are now neither trained on nor scored.
+holdout_studies: [PAR2_29]
 
 # prior route F2rl1 -> ERK -> Bcl2 family -> Bak/Bax -> mtDNA -> Cgas -> Sting1
 route_genes: [F2rl1, Arrb1, Arrb2, Gnaq, Map2k1, Map2k2, Mapk1, Mapk3,
@@ -224,34 +227,25 @@ route_edges:
   - [Arrb1, Mapk3, 1]
   - [Arrb2, Mapk1, 1, prior, "cellsignal scaffold"]
   - [Arrb2, Mapk3, 1, prior, "cellsignal scaffold"]
-  # ERK -> BCL2 family (Bim, Mcl1, Gsk3b, RSK-Bad)
-  - [Mapk1, Bcl2l11, -1]
-  - [Mapk3, Bcl2l11, -1]
-  - [Mapk1, Mcl1, 1]
-  - [Mapk3, Mcl1, 1]
-  - [Mapk1, Gsk3b, -1]
-  - [Mapk3, Gsk3b, -1]
-  - [Mapk1, Rps6ka1, 1]
-  - [Mapk3, Rps6ka1, 1]
-  - [Mapk1, Rps6ka3, 1]
-  - [Mapk3, Rps6ka3, 1]
-  - [Mapk1, Bad, -1]
-  - [Mapk3, Bad, -1]
-  - [Rps6ka1, Bad, -1]
-  - [Rps6ka3, Bad, -1]
-  - [Rps6ka1, Gsk3b, -1]
-  - [Rps6ka3, Gsk3b, -1]
-  - [Gsk3b, Bax, 1]
-  - [Gsk3b, Mcl1, -1]
-  - [Bcl2l11, Bax, 1]
-  - [Bcl2l11, Bak1, 1]
-  - [Bcl2l11, Bcl2, -1]
-  - [Bcl2l11, Bcl2l1, -1]
-  - [Bcl2l11, Mcl1, -1]
-  - [Bad, Bcl2, -1]
-  - [Bad, Bcl2l1, -1]
-  - [Mcl1, Bak1, -1]
-  - [Mcl1, Bax, -1]
+  # ERK -| BCL2 / BCL-xL (2026-10-27, user). REPLACES the pro-survival ERK -> BCL2-family block
+  # (ERK -| Bim, ERK -> Mcl1, ERK -| Gsk3b, ERK -> RSK -| Bad, and the Bim/Bad/Mcl1/Gsk3b edges
+  # below them). That block made PAR2 KO RAISE Bax/Bak1 -> mtDNA -> Sting1, the opposite of what
+  # is observed; the old story needed TLR4 in T0 to pull Sting1 back down. Those edges are NOT
+  # deleted: every one is curated and stays in the network at T1 with its curated sign.
+  # New logic: PAR2 KO -> ERK down -> Bcl2/Bcl2l1 up -> Bax/Bak1 down -> mtDNA down -> Cgas ->
+  # Sting1 down. Data: PAR2_13 (AZ3451) Fig 4C-D, Bcl-2 up and BAX down under PAR2 antagonism.
+  #
+  # Evidence status, stated so it is not mistaken for curated agreement:
+  #   Mapk1/3 -> Bcl2   OmniPath lists BOTH is_stimulation and is_inhibition (consensus:
+  #                     stimulation); PSP site function gives +1 (ERK S70). Merged curated sign
+  #                     is +1, so -1 here is a deliberate OVERRIDE of the curated consensus,
+  #                     recorded per edge as sign_source = prior_override.
+  #   Mapk1/3 -> Bcl2l1 NO curated record in any source (Mapk3-Bcl2l1 is STRING-only; Mapk1 has
+  #                     nothing). Added purely from the prior.
+  - [Mapk1, Bcl2, -1, override, "OmniPath stim+inh (consensus stim), PSP +1; user decision 2026-10-27 on PAR2_13 Fig 4C-D"]
+  - [Mapk3, Bcl2, -1, override, "OmniPath stim+inh (consensus stim), PSP +1; user decision 2026-10-27 on PAR2_13 Fig 4C-D"]
+  - [Mapk1, Bcl2l1, -1, prior, "no curated record; user decision 2026-10-27, by analogy to Bcl2"]
+  - [Mapk3, Bcl2l1, -1, prior, "STRING-only pair; user decision 2026-10-27, by analogy to Bcl2"]
   - [Bcl2, Bax, -1]
   - [Bcl2, Bak1, -1]
   - [Bcl2l1, Bax, -1]
@@ -261,7 +255,7 @@ route_edges:
   - [Bak1, SE_CYTO_MTDNA, 1]
   - [Bcl2, SE_CYTO_MTDNA, -1]
   - [Bcl2l1, SE_CYTO_MTDNA, -1]
-  - [Mcl1, SE_CYTO_MTDNA, -1]
+  # [Mcl1, SE_CYTO_MTDNA, -1] left T0 2026-10-27 with the rest of the Mcl1 arm (stays T1)
   # step 22 (2026-10-19): the terminal arm is DEMOTED out of T0, and a competing Ca2+ arm added.
   #
   # Why. T0 gave 2640/2640 paths F2rl1 -> Sting1 predicting UP, but that is a property of T0
@@ -301,6 +295,14 @@ route_edges:
   - [Tbk1, Irf3, 1]
   - [Irf3, Ifnb1, 1]
   # ------------------------------------------------------------------------------------------
+  # ==========================================================================================
+  # 2026-10-27 (user): TLR4 is taken OUT of the story. Every T0 edge of the step-33 TLR4 cascade
+  # and the step-38 TLR4-branch Sting1 in-edges (Tbk1 -> Sting1, Map3k7 -> Sting1) is commented
+  # out below. They are all curated, so they stay in the network at T1 with their curated signs;
+  # they only lose the T0 privilege. Sting1's direction must now come from the ERK -| BCL2 route.
+  # Tbk1 -> Sting1 also goes because with the TRIF edges gone it would only close a T0 2-cycle
+  # with Sting1 -> Tbk1. LPS still ENTERS at Tlr4/Cd14 as the background stimulus (T1).
+  # ==========================================================================================
   # step 33 (2026-10-20): the TLR4 cascade is promoted to T0.
   # PRE-REGISTERED IN FULL BEFORE RUNNING: curation/TLR4_T0_prereg_2026-10-19.md (+ addenda 7b,
   # 7c). Read that file before changing anything here. All 19 edges were ALREADY curated T1 with
@@ -319,34 +321,34 @@ route_edges:
   # cut moves Sting1 NEGATIVE, and promotion amplifies that.
   #
   # Block A - receptor complex
-  - [Cd14, Tlr4, 1]
-  - [Ly96, Tlr4, 1]
+  # REMOVED 2026-10-27: - [Cd14, Tlr4, 1]
+  # REMOVED 2026-10-27: - [Ly96, Tlr4, 1]
   # Block B - MyD88 branch. DYNAMIN-INDEPENDENT: dynasore does NOT cut these.
-  - [Tlr4, Tirap, 1]
-  - [Tirap, Myd88, 1]
-  - [Tlr4, Myd88, 1]
-  - [Myd88, Irak4, 1]
-  - [Irak4, Irak1, 1]
-  - [Irak1, Traf6, 1]
-  - [Irak4, Traf6, 1]
-  - [Traf6, Map3k7, 1]
-  - [Map3k7, Ikbkb, 1]
+  # REMOVED 2026-10-27: - [Tlr4, Tirap, 1]
+  # REMOVED 2026-10-27: - [Tirap, Myd88, 1]
+  # REMOVED 2026-10-27: - [Tlr4, Myd88, 1]
+  # REMOVED 2026-10-27: - [Myd88, Irak4, 1]
+  # REMOVED 2026-10-27: - [Irak4, Irak1, 1]
+  # REMOVED 2026-10-27: - [Irak1, Traf6, 1]
+  # REMOVED 2026-10-27: - [Irak4, Traf6, 1]
+  # REMOVED 2026-10-27: - [Traf6, Map3k7, 1]
+  # REMOVED 2026-10-27: - [Map3k7, Ikbkb, 1]
   # Block C - NF-kB release via IkBa. Two negatives in series = activation.
   # Ikbkb -> Nfkb1 is EXCLUDED on purpose: its sign is conflicted (signor -1, psp -1, trrust +1,
   # omnipath 0) because of the p105-vs-active-complex ambiguity. This route is unambiguous.
-  - [Ikbkb, Nfkbia, -1]
-  - [Nfkbia, Nfkb1, -1]
+  # REMOVED 2026-10-27: - [Ikbkb, Nfkbia, -1]
+  # REMOVED 2026-10-27: - [Nfkbia, Nfkb1, -1]
   # Block D - TRIF branch. DYNAMIN-DEPENDENT: this is the ONLY block dynasore cuts.
-  - [Tlr4, Ticam2, 1]
-  - [Ticam2, Ticam1, 1]
-  - [Tlr4, Ticam1, 1]
-  - [Ticam1, Traf3, 1]
+  # REMOVED 2026-10-27: - [Tlr4, Ticam2, 1]
+  # REMOVED 2026-10-27: - [Ticam2, Ticam1, 1]
+  # REMOVED 2026-10-27: - [Tlr4, Ticam1, 1]
+  # REMOVED 2026-10-27: - [Ticam1, Traf3, 1]
   # NOTE the declared cost of the next two: Tbk1's only T0 in-edge was Sting1 -> Tbk1 at 1.0.
   # Adding these takes its T0 fan-in 1 -> 3, so Sting1 -> Tbk1 falls to 0.333 - this promotion
   # WEAKENS STING's own output arm, and Ifnb1 is a scored holdout. Prereg 3 fixes the fallback
   # (drop these two, TRIF terminates at Ticam1) if the Ifnb1 cost is too large.
-  - [Traf3, Tbk1, 1]
-  - [Ticam1, Tbk1, 1]
+  # REMOVED 2026-10-27: - [Traf3, Tbk1, 1]
+  # REMOVED 2026-10-27: - [Ticam1, Tbk1, 1]
   # ------------------------------------------------------------------------------------------
   # step 38 (2026-10-20): Sting1 gets a SYMMETRIC T0 in-edge set, and Cgas is diluted.
   # EXPLORATORY MODEL REVISION, applied after PAR2_29 Fig 3N and the dynasore RNA-seq were read.
@@ -365,8 +367,8 @@ route_edges:
   # This REVERSES the step-22 demotion of Cgas -> Sting1, deliberately: that demotion was made to
   # stop one edge dominating, and fan-in 3 achieves the same end without silencing the node.
   - [Cgas, Sting1, 1]
-  - [Tbk1, Sting1, 1]
-  - [Map3k7, Sting1, 1]
+  # REMOVED 2026-10-27: - [Tbk1, Sting1, 1]
+  # REMOVED 2026-10-27: - [Map3k7, Sting1, 1]
   # Cgas dilution. SE_CYTO_MTDNA -> Cgas alone at T0 (w 1.0007) carried 94% of the node (step 27).
   # SE_DSDNA is the sibling of the SAME evidence class (signal_entity direct_receiver), and CST's
   # STING diagram shows cGAS responding to cytosolic ds DNA generally, not mtDNA specifically.
@@ -863,6 +865,9 @@ step13:
   reversal_threshold: 0.005            # sign-free probe: median dSting1 < -thr reverses, |.| <= thr indifferent
   sign_null_permutations: 200          # secondary null: random T0 signs, prior-only model
   branches:                            # ERK -> BCL2-family branches for ablation / attribution
+    # T0 since 2026-10-27; the four below are T1 now (kept to show what they still carry)
+    Bcl2: [[Mapk1, Bcl2], [Mapk3, Bcl2]]
+    Bcl2l1: [[Mapk1, Bcl2l1], [Mapk3, Bcl2l1]]
     Mcl1: [[Mapk1, Mcl1], [Mapk3, Mcl1]]
     Gsk3b: [[Mapk1, Gsk3b], [Mapk3, Gsk3b], [Rps6ka1, Gsk3b], [Rps6ka3, Gsk3b]]
     Bad: [[Mapk1, Bad], [Mapk3, Bad], [Rps6ka1, Bad], [Rps6ka3, Bad]]

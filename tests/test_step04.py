@@ -64,10 +64,14 @@ print(f"[INFO] nodes in network: {n_in}/{len(nodes)} "
 
 # ---------- 2. T0 route ----------
 print("\n== T0 route edges")
-ok_status = rc.status.isin(["data_agrees", "sign_from_prior", "added_from_prior"])
-check(f"all {len(rc)} route edges confirmed by data (or prior-signed)", ok_status.all(),
+# override_prior (2026-10-27): a flagged prior that knowingly contradicts the curated sign
+ok_status = rc.status.isin(["data_agrees", "sign_from_prior", "added_from_prior", "override_prior"])
+check(f"all {len(rc)} route edges confirmed by data (or prior-signed / flagged override)", ok_status.all(),
       rc[~ok_status][["source", "target", "status", "db_signs"]].values.tolist())
-prior = rc[rc.status.isin(["sign_from_prior", "added_from_prior"])]
+ov = rc[rc.status == "override_prior"]
+print(f"[INFO] route edges OVERRIDING the curated sign: "
+      f"{ov[['source', 'target', 'route_sign', 'db_signs']].values.tolist()}")
+prior = rc[rc.status.isin(["sign_from_prior", "added_from_prior", "override_prior"])]
 check("prior-signed route edges are only the flagged ones",
       set(zip(prior.source, prior.target)) == set(zip(rc[rc.prior].source, rc[rc.prior].target)),
       prior[["source", "target"]].values.tolist())
@@ -78,7 +82,8 @@ if len(flagged_but_data):
     print(f"[INFO] flagged 'prior' but data already agrees: {flagged_but_data[['source', 'target']].values.tolist()}")
 check("T0 count == route edges", int((E.tier == "T0").sum()) == len(rc), int((E.tier == "T0").sum()))
 
-# every T0 path from F2rl1 to Sting1 must give F2rl1 -> Sting1 sign -1 (KO raises Sting1)
+# every T0 path from F2rl1 to Sting1 must give F2rl1 -> Sting1 sign +1 (KO lowers Sting1).
+# Was -1 until 2026-10-27, when ERK -| BCL2/BCL-xL replaced the pro-survival ERK arm.
 G0 = nx.DiGraph()
 for r in E[E.tier == "T0"].itertuples():
     G0.add_edge(r.source, r.target, sign=int(r.sign))
@@ -90,8 +95,8 @@ for p in paths:
         s *= G0[u][v]["sign"]
     signs.append(s)
 check("T0 paths F2rl1 -> Sting1 exist", len(paths) > 0, f"{len(paths)} simple paths")
-check("every T0 path gives F2rl1 -| Sting1 (net sign -1)", all(s == -1 for s in signs),
-      f"+1 paths: {[' > '.join(p) for p, s in zip(paths, signs) if s == 1][:5]}")
+check("every T0 path gives F2rl1 -> Sting1 (net sign +1)", all(s == 1 for s in signs),
+      f"-1 paths: {[' > '.join(p) for p, s in zip(paths, signs) if s == -1][:5]}")
 G01 = nx.DiGraph()
 for r in E[E.tier.isin(["T0", "T1"])].itertuples():
     G01.add_edge(r.source, r.target, sign=int(r.sign))

@@ -5,13 +5,40 @@ LEMBAS formulation (Nilsson *et al.* 2022). Node activities propagate along lite
 signed edges until the network reaches a steady state; transcription-factor activities read out
 of that state predict measured TF activity and gene expression.
 
-This repository reproduces the three perturbation predictions reported:
+This repository reproduces the perturbation predictions reported:
 
 | case | what it represents | command |
 |---|---|---|
-| **PAR2 KO** | PAR2 knockout alone, no TLR4 engagement | `python scripts/run_step34_studies.py` |
-| **PAR2 KO + TLR4 KD** | PAR2 editing delivered by an albumin carrier that independently suppresses TLR4 | same script — setup B, with a κ sweep |
+| **PAR2 KO** | PAR2 knockout in the LPS context: PAR2 → ERK⊣BCL2/BCL-xL → BAX/BAK1 → mtDNA → cGAS → STING | `python scripts/run_step51_par2ko_panel_route.py` |
+| **PAR2_29 holdout** | the sealed literature study, simulated as a plain PAR2 KO under LPS | `python scripts/run_step45_panelC_table.py` |
 | **dynasore** | dynamin inhibition: the endosomal routes are cut, the membrane routes are not | `python scripts/run_step46_dynasore_route.py` |
+
+### What changed in this revision (2026-10-27)
+
+* **The prior route (tier T0) was rewritten.** ERK now *inhibits* BCL2 and BCL-xL
+  (`Mapk1/Mapk3 ⊣ Bcl2/Bcl2l1`), so PAR2 KO lowers ERK, raises BCL2/BCL-xL, lowers BAX/BAK1 and
+  cytosolic mtDNA, and STING falls. This replaces the pro-survival ERK → BCL2-family block
+  (ERK ⊣ BIM, ERK → MCL1, ERK ⊣ GSK3B, ERK → RSK ⊣ BAD), which made STING *rise* under PAR2 KO.
+  Those edges are not deleted; they remain in the network at tier T1 with their curated signs.
+* **The `Mapk1/3 → Bcl2` sign is a declared override of the curated consensus.** OmniPath lists
+  the interaction as both stimulatory and inhibitory (consensus stimulation) and PhosphoSitePlus
+  gives +1, so the curated sign is +1. The −1 used here follows the PAR2_13 data (PAR2 antagonism
+  raises BCL-2 and lowers BAX, Fig 4C–D) and is recorded per edge as `sign_source = prior_override`
+  (route-edge flag `override` in `config.yaml`). `Mapk1/3 → Bcl2l1` has no curated record and is
+  added from the prior alone.
+* **TLR4 left T0.** The TLR4 → MyD88/TRIF cascade edges that had been added to T0, plus
+  `Tbk1 → Sting1` and `Map3k7 → Sting1`, are removed from the prior (commented out in
+  `config.yaml`); the curated edges stay in the network at their normal tiers. T0 is now 54 edges.
+* **One holdout study.** PAR2_26 and PAR2_30 left the validation set; only PAR2_29 is scored, as
+  a plain F2rl1 KO under LPS with **no** TLR4 knockdown for the albumin carrier. The κ_TLR4 sweep
+  (setup B of `run_step34_studies.py`) is retired.
+* **Data correction.** The PAR2_13 BAX/BCL-2 ratio row in
+  `data/perturbation/perturbation_observations_v0_2.csv` recorded both proteins as down (and, as a
+  `protein_ratio`, was never used). It is split into BAX down and BCL-2 up, both `total_protein`.
+
+`run_step34_studies.py`, `run_step41_verify.py`, `run_step48_tf_influence.py` and
+`run_step49_si_misses.py` are kept as the record of the previous route's analyses; they refer to
+PAR2_26/PAR2_30 and the TLR4 knockdown, which this revision no longer uses.
 
 ---
 
@@ -68,7 +95,7 @@ python tests/test_step06.py    # build conditions and training targets (ULM TF a
 ```
 
 After step 6 you should have 8,393 nodes and 253,950 signalling edges, a regulon of 45,195
-TF→gene pairs, and 144 conditions (57 drug, 48 GEO, 36 perturbation-paper, 3 sealed holdout).
+TF→gene pairs, and 142 conditions (57 drug, 48 GEO, 36 perturbation-paper, 1 sealed holdout).
 
 If you change anything in `curation/` or `config.yaml`, re-run the affected steps with
 
@@ -102,31 +129,21 @@ python scripts/run_cv_20.py                                      # 5 folds x 3 s
 python scripts/run_benchmark_16.py --lembas-variant R4           # vs 8 baseline learners
 ```
 
-## 5. Reproduce the three predictions
+## 5. Reproduce the predictions
 
-### 5.1 PAR2 knockout, and PAR2 knockout + TLR4 knockdown
+### 5.1 PAR2 knockout
 
-```bash
-python scripts/run_step34_studies.py
-```
-
-Simulates three setups and prints each node's response:
-
-* **A** — PAR2 KO with no TLR4 input. The pure genetic perturbation.
-* **A′** — the same with the LPS context switched on, as a sensitivity check.
-* **B** — PAR2 KO **plus** a TLR4 knockdown representing the albumin carrier, with κ_TLR4 swept
-  from 0 to 0.95.
-
-The script prints the dose–response over κ_TLR4 with the experimentally measured TLR4 reductions
-marked, and applies the call threshold (10⁻³) when stating a verdict — a correct sign below that
-threshold is reported as *no call*, not as agreement.
+Every PAR2 KO run knocks out the `F2rl1` node in the LPS context and reports all five seeds.
 
 ```bash
-python scripts/run_step45_panelC_table.py      # the literature holdout table
+python scripts/run_step51_par2ko_panel_route.py   # 17-gene panel + route changes and ranks
+python scripts/run_step52_figure_data.py          # per-seed values for figures
+python scripts/run_step53_top_ranked.py           # most-changed nodes and genes
+python scripts/run_step45_panelC_table.py         # the PAR2_29 holdout
 ```
 
-scores the three sealed studies, running each as its own perturbation and mapping each observation
-to the model layer that matches its assay (activity vs transcript).
+`run_step45_panelC_table.py` maps each observation to the model layer that matches its assay
+(activity vs transcript) and applies the call threshold (10⁻³).
 
 ### 5.2 Dynasore
 
@@ -167,7 +184,6 @@ python scripts/run_step48_tf_influence.py      # readout-layer TF influence
 `run_step40_contributions.py` decomposes a node's response into `weight × Δ(source)` over its
 in-edges, which is how the manuscript attributes a prediction to specific interactions.
 
-
 ## 6. Repository layout
 
 ```
@@ -180,7 +196,6 @@ lembas_par2/        the model: core solver, network assembly, loss, training, ev
   conditions.py       condition construction, ULM TF activities
 scripts/            pipeline runs, training, and every analysis in the manuscript
 tests/              step-by-step build and validation; test_step0*.py construct the network
-figures/            panel scripts, one per figure
 curation/           this study's curated decisions and pre-registrations
 config.yaml         every parameter, path and threshold, with the reason for each in comments
 ```
@@ -197,7 +212,8 @@ config.yaml         every parameter, path and threshold, with the reason for eac
 * **Tier T0 is the study's structural hypothesis.** It is specified in `config.yaml: route_edges`
   and is the only place where a prior route enters the topology. Its membership, and the
   consequence that a T0 edge's weight is `1/(T0 fan-in of its target)`, are analysed explicitly in
-  the manuscript.
+  the manuscript. A route edge flagged `override` replaces a curated sign and is recorded as
+  `sign_source = prior_override`; `tests/test_step04.py` lists every such edge.
 * `curation/*_prereg_*.md` record analyses whose rules were fixed before they were run. Where a
   model revision was made after the comparison data had been seen, the manuscript says so.
 

@@ -81,10 +81,16 @@ def build_network(cfg, universe=None, cur=None):
     added = []
     for item in cfg.route_edges:
         s, t, sg = item[0], item[1], int(item[2])
-        prior = len(item) > 3 and item[3] == "prior"
+        # 'override' = a prior that knowingly contradicts the curated consensus sign; it is
+        # also allowed where 'prior' is (unsigned/absent), and is recorded per edge
+        override = len(item) > 3 and item[3] == "override"
+        prior = len(item) > 3 and item[3] in ("prior", "override")
         why = item[4] if len(item) > 4 else ""
         i = key.get((s, t))
-        if i is None and prior:
+        if i is not None and override and m.at[i, "sign"] not in (0, sg):
+            status = "override_prior"
+            m.at[i, "sign"], m.at[i, "sign_source"] = sg, "prior_override"
+        elif i is None and prior:
             status = "added_from_prior"
             added.append(dict(source=s, target=t, sign=sg, sign_rule="prior", dbs="prior",
                               db_signs=f"prior:{sg:+d}", n_dbs=0, mechanism="prior",
@@ -98,7 +104,7 @@ def build_network(cfg, universe=None, cur=None):
             m.at[i, "sign"], m.at[i, "sign_source"] = sg, "prior"
         else:
             status = f"data_sign_{m.at[i, 'sign']:+d}"
-        if i is not None and status in ("data_agrees", "sign_from_prior"):
+        if i is not None and status in ("data_agrees", "sign_from_prior", "override_prior"):
             m.at[i, "tier"] = rt
         route_check.append(dict(source=s, target=t, route_sign=sg, prior=prior, status=status,
                                 db_signs=m.at[i, "db_signs"] if i is not None else "", prior_source=why))

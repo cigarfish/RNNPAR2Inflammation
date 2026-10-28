@@ -35,8 +35,9 @@ cfg = load_config()
 out = cfg.paths.output_dir
 dev = "cuda" if torch.cuda.is_available() else "cpu"
 m = build_model(cfg, device=dev)
-EXPECT = {"Mapk1": -1, "Mapk3": -1, "Rps6ka1": -1, "Gsk3b": 1, "Bcl2l11": 1, "Bad": 1, "Mcl1": -1,
-          "Bax": 1, "Bak1": 1, "SE_CYTO_MTDNA": 1, "Cgas": 1, "Sting1": 1, "Tbk1": 1, "Irf3": 1, "Ifnb1": 1}
+# 2026-10-27 route: ERK -| BCL2/BCL-xL, so PAR2 KO -> Sting1 DOWN
+EXPECT = {"Mapk1": -1, "Mapk3": -1, "Bcl2": 1, "Bcl2l1": 1,
+          "Bax": -1, "Bak1": -1, "SE_CYTO_MTDNA": -1, "Cgas": -1, "Sting1": -1, "Tbk1": -1, "Irf3": -1, "Ifnb1": -1}
 
 # ---------- 1. initialisation ----------
 print(f"== initialisation ({dev})")
@@ -106,11 +107,11 @@ tr = pd.DataFrame(trows)
 print(tr.to_string(index=False, float_format=lambda v: f"{v:+.3f}"))
 main = tr[(tr.context == "LPS + PAR2 agonist") & (tr.perturbation == "PAR2_KO")].iloc[0]
 check("PAR2 KO under LPS + agonist: all 15 route nodes move as predicted", main.wrong_signs == "", main.wrong_signs)
-check("PAR2 KO under LPS + agonist: Sting1 change is visible (> 0.01)", main.dSting1 > 0.01, f"{main.dSting1:+.3f}")
+check("PAR2 KO under LPS + agonist: Sting1 falls visibly (< -0.01)", main.dSting1 < -0.01, f"{main.dSting1:+.3f}")
 mek = tr[(tr.context == "pooled reference") & (tr.perturbation == "MEKi")].iloc[0]
-check("MEK inhibition under the pooled reference: Sting1 up", mek.dSting1 > 0.01, f"{mek.dSting1:+.3f}")
+check("MEK inhibition under the pooled reference: Sting1 down", mek.dSting1 < -0.01, f"{mek.dSting1:+.3f}")
 core_ctx = tr[tr.context != "LPS + PAR2 agonist"]
-ok = core_ctx[(core_ctx.wrong_signs == "") & (core_ctx.dSting1 > 0.01)]
+ok = core_ctx[(core_ctx.wrong_signs == "") & (core_ctx.dSting1 < -0.01)]
 check("route transmits with correct signs under no input / pooled reference (PAR2 KO and MEKi)",
       len(ok) == len(core_ctx), core_ctx[~core_ctx.index.isin(ok.index)][["context", "perturbation", "dSting1", "wrong_signs"]].values.tolist())
 ag = tr[(tr.context == "LPS + PAR2 agonist") & (tr.perturbation == "MEKi")].iloc[0]
@@ -148,7 +149,7 @@ with torch.no_grad():
             v = o["gene_pred"][m.genes.index(r.node), i].item() if r.node in m.genes else np.nan
         hrows.append(dict(condition=r.condition_id, node=r.node, layer=r.layer, observed=r.sign, predicted=v,
                           agree=bool(np.sign(v) == r.sign) if np.isfinite(v) else None))
-    for c in ["PAR2_26_C1", "PAR2_29_C1", "PAR2_30_C1"]:
+    for c in m.design.cond.condition_id[m.design.cond.source == "holdout"]:
         hrows.append(dict(condition=c, node="Sting1 (activity)", layer="signal", observed=np.nan,
                           predicted=o["delta"][m.idx["Sting1"], cond_pos[c]].item(), agree=None))
 hb = pd.DataFrame(hrows)

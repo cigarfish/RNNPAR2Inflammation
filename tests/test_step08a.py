@@ -101,8 +101,8 @@ check("Pimasertib treated arm inhibits Map2k1/2 with learnable kappa",
 h = c[c.source == "holdout"]
 f2 = D.idx["F2rl1"]
 hk = {r.condition_id: S[f2, 2 * i + 1].item() for i, r in h.iterrows()}
-check("holdout PAR2 KOs inhibit F2rl1 (CRISPR KO 0.95, knockdown 0.7)",
-      abs(hk["PAR2_26_C1"] - 0.05) < 1e-6 and abs(hk["PAR2_29_C1"] - 0.05) < 1e-6 and abs(hk["PAR2_30_C1"] - 0.3) < 1e-6, hk)
+check("holdout PAR2 KO inhibits F2rl1 (PAR2_29 only since 2026-10-27; CRISPR KO 0.95)",
+      set(hk) == {"PAR2_29_C1"} and abs(hk["PAR2_29_C1"] - 0.05) < 1e-6, hk)
 check("geo chemical inhibitors use the geo_chemical kappa",
       set(inh[inh.kind == "geo_chemical"].node) == {"Lrp5", "Lrp6", "Pparg", "Egfr"})
 check("U and S finite, S within [0, 1]", bool(torch.isfinite(U).all() and ((S >= 0) & (S <= 1)).all()))

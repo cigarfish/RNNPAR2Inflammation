@@ -52,7 +52,7 @@ print(f"[INFO] conditions by source: {n}")
 check("57 drug conditions (56 GSE219229 + GSE134486)", n.get("drug") == 57, n.get("drug"))
 check("48 GEO conditions", n.get("geo") == 48, n.get("geo"))
 check("perturbation training contrasts loaded", n.get("perturb", 0) > 0, n.get("perturb"))
-check("3 holdout contrasts", n.get("holdout") == 3, sorted(cond[cond.source == "holdout"].condition_id))
+check("1 holdout contrast (PAR2_29 only since 2026-10-27)", n.get("holdout") == 1, sorted(cond[cond.source == "holdout"].condition_id))
 check("skipped drugs absent", not cond.name.isin(c["drug_skip"]).any())
 used = {x for col in ["ref_inputs", "trt_inputs", "trt_inhibit"] for v in cond[col] for x in v}
 check("every input / inhibited node is a signalling node", used <= signal_nodes, sorted(used - signal_nodes))

@@ -40,7 +40,9 @@ runs = pd.read_csv(out / "runs.csv")
 print("== mechanics")
 check("binomial tail: P(X >= 9 | 10) = 11/1024", abs(binom_tail(9, 10) - 11 / 1024) < 1e-12)
 obs = holdout_observations(cfg)
-check("10 unique scored holdout observations (Ifnb1 duplicate removed)", len(obs) == 10, len(obs))
+# 2026-10-27: PAR2_29 is the only holdout; PAR2_26/30 left validation
+check("scored holdout observations all come from PAR2_29",
+      len(obs) > 0 and set(obs.condition_id) == {"PAR2_29_C1"}, f"{len(obs)} from {sorted(set(obs.condition_id))}")
 m = build_model(cfg, device="cpu", seed=0)
 m.initialize()
 s, tab = score_holdouts(m, obs, st["call_threshold"], st["route_subset"])

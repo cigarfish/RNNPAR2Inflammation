@@ -1,13 +1,11 @@
-"""Step 45: the Panel C table — model predictions for the PAR2_26 / 29 / 30 holdouts.
+"""Step 45: the Panel C table — model predictions for the PAR2_29 holdout.
 
-Each study is a DIFFERENT perturbation and must be run as one (protocols: prereg section 7c):
+2026-10-27 (user): PAR2_26 and PAR2_30 left the validation set, and TLR4 left the story. PAR2_29
+is simulated as a plain F2rl1 KO under its LPS background -- NO Tlr4 knockdown for the albumin
+carrier (the step-34/45 setup B is retired). Its Tlr4 observation is therefore a prediction again
+and is scored like any other.
 
-  PAR2_26  4T1 / Raw264.7, pure PAR2 KO          -> F2rl1 KO alone, NO TLR4 input
-  PAR2_30  shPAR2 vs shCtrl, pure PAR2 KO        -> same as 26
-  PAR2_29  albumin-delivered editing in vivo     -> F2rl1 KO + Tlr4 knockdown (the CARRIER)
-
-Both contexts are printed for 26/30 (no LPS input, and LPS on) because that is a judgement call
-and the difference should be visible rather than chosen silently.
+  PAR2_29  albumin-delivered editing, Raw264.7 / in vivo  -> F2rl1 KO, LPS on
 
 LAYER MAPPING is not invented here: it is `conditions.readout_layers` from config.yaml, the same
 mapping `lembas_par2/step13.py` scores with --
@@ -18,7 +16,6 @@ A prediction with |value| < call_threshold (1e-3) is NO CALL and counts as a dis
 is how step 13 scores it -- a correct sign below the threshold is not a success.
 
     python scripts/run_step45_panelC_table.py
-    python scripts/run_step45_panelC_table.py --kappa-tlr4 0.77    # in-vivo TLR4 reduction
 """
 import argparse
 import sys
@@ -36,7 +33,8 @@ from lembas_par2.eval_harness import load_model
 from lembas_par2.core import simulate
 
 torch.set_grad_enabled(False)
-STUDIES = ("PAR2_26", "PAR2_29", "PAR2_30")
+STUDIES = ("PAR2_29",)
+SETUP = "29 PAR2 KO (LPS on, no Tlr4 KD)"
 SIGN = {"up": 1, "down": -1}
 
 
@@ -61,7 +59,6 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--variant", default="R4")
     ap.add_argument("--seeds", type=int, nargs="+", default=[0, 1, 2, 3, 4])
-    ap.add_argument("--kappa-tlr4", type=float, default=0.60)
     a = ap.parse_args()
 
     cfg = load_config()
@@ -76,11 +73,7 @@ def main():
     obs["layer"] = obs.readout_type.map(layers)
     obs["obs_sign"] = obs.effect_direction.map(SIGN)
 
-    setups = {
-        "26/30 pure PAR2 KO (no TLR4 input)": ([], {"F2rl1": kap}),
-        "26/30 pure PAR2 KO (LPS on)": (lps, {"F2rl1": kap}),
-        f"29 PAR2 KO + Tlr4 KD {a.kappa_tlr4}": (lps, {"F2rl1": kap, "Tlr4": a.kappa_tlr4}),
-    }
+    setups = {SETUP: (lps, {"F2rl1": kap})}
     per_seed = {k: [] for k in setups}
     for s in a.seeds:
         run = a.variant if s == 0 else f"{a.variant}_s{s}"
@@ -107,31 +100,24 @@ def main():
         print(f"  {run}: ok", flush=True)
     if not any(per_seed.values()):
         sys.exit("no checkpoints found. Train first:" 
-                 "\n  python scripts/run_source_variants.py --seeds 0 1 2 3 4 --variants R4 R0")
+                 "
+  python scripts/run_source_variants.py --seeds 0 1 2 3 4 --variants R4 R0")
 
     out = cfg.paths.output_dir / "step45_panelC"
     out.mkdir(parents=True, exist_ok=True)
     rows = []
     for r in obs.itertuples():
-        lab = (f"29 PAR2 KO + Tlr4 KD {a.kappa_tlr4}" if r.study == "PAR2_29"
-               else "26/30 pure PAR2 KO (no TLR4 input)")
-        v = [sd[r.observation_id] for sd in per_seed[lab]]
+        v = [sd[r.observation_id] for sd in per_seed[SETUP]]
         med = float(np.nanmedian(v))
-        alt = float(np.nanmedian([sd[r.observation_id] for sd in
-                                  per_seed["26/30 pure PAR2 KO (LPS on)"]])) \
-            if r.study != "PAR2_29" else np.nan
         call = np.isfinite(med) and abs(med) >= thr
         agree = bool(call and np.isfinite(r.obs_sign) and np.sign(med) == r.obs_sign)
-        # PAR2_29's Tlr4 is IMPOSED under this setup, so it cannot be scored as a prediction
-        imposed = (r.study == "PAR2_29" and r.graph_target_id == "Tlr4")
         rows.append(dict(
             study=r.study, observation=r.observation_id, target=r.graph_target_id,
             readout=r.readout_type, layer=r.layer, figure=r.source_figure,
-            observed=r.effect_direction, predicted=med, alt_LPS_on=alt,
+            observed=r.effect_direction, predicted=med,
             seeds_same_sign=int(np.nansum(np.sign(v) == np.sign(med))),
             call="yes" if call else "NO CALL",
-            verdict=("INPUT, not a prediction" if imposed
-                     else "unscored (direction unknown)" if not np.isfinite(r.obs_sign)
+            verdict=("unscored (direction unknown)" if not np.isfinite(r.obs_sign)
                      else "agree" if agree else "disagree")))
     T = pd.DataFrame(rows).sort_values(["study", "observation"])
     T.to_csv(out / "panelC_table.csv", index=False)
@@ -149,8 +135,7 @@ def main():
     dedup = scored.drop_duplicates(["study", "target", "layer"])
     k, n = int((dedup.verdict == "agree").sum()), len(dedup)
     print(f"\n=== SCORED {k}/{n} (after de-duplicating on study+target+layer, as step 13 does) ===")
-    print(f"    excluded: {int((T.verdict == 'INPUT, not a prediction').sum())} imposed input, "
-          f"{int((T.verdict == 'unscored (direction unknown)').sum())} direction unknown, "
+    print(f"    excluded: {int((T.verdict == 'unscored (direction unknown)').sum())} direction unknown, "
           f"{len(scored) - len(dedup)} duplicate (same target+layer, second assay)")
     print(f"    call threshold {thr}; a correct sign below it is NO CALL and counts as disagree.")
     print(f"\nwrote {out / 'panelC_table.csv'}")

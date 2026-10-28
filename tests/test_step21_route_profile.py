@@ -46,15 +46,18 @@ check("the MAPK core the user asked for is present (RAF, MEK, ERK)",
 check("every route node resolved to a network node", R.delta_lps.notna().all())
 
 print("\n== direction: no step contradicts its curated sign")
+# 2026-10-27 route: PAR2 -> ERK -| BCL2/BCL-xL -| BAX/BAK1 -> mtDNA -> cGAS -> STING. The old
+# RSK/MCL1/GSK3B/BAD/BIM arm is T1 now and makes no directional claim, so it is not checked.
 d = R.set_index("node").delta_lps
 down = ["F2rl1", "Gnaq", "Plcb1", "Plcb3", "SE_DAG", "Kras", "Hras", "Raf1", "Braf",
-        "Map2k1", "Map2k2", "Mapk1", "Mapk3", "Rps6ka1", "Rps6ka3", "Mcl1", "Bcl2", "Bcl2l1"]
-up = ["Gsk3b", "Bad", "Bcl2l11", "Bax", "Bak1", "SE_CYTO_MTDNA", "Cgas", "Sting1", "Tbk1", "Irf3"]
+        "Map2k1", "Map2k2", "Mapk1", "Mapk3",
+        "Bax", "Bak1", "SE_CYTO_MTDNA", "Cgas", "Sting1", "Tbk1", "Irf3"]
+up = ["Bcl2", "Bcl2l1"]
 bad_down = [n for n in down if n in d.index and d[n] > 0]
 bad_up = [n for n in up if n in d.index and d[n] < 0]
-check("ERK and everything it activates goes DOWN on PAR2 KO", not bad_down, bad_down)
-check("everything ERK inhibits, and the whole STING arm, goes UP", not bad_up, bad_up)
-check("the claim arrives: Sting1 is positive", float(d["Sting1"]) > 0, f"{d['Sting1']:+.4f}")
+check("ERK, the pore, mtDNA and the whole STING arm go DOWN on PAR2 KO", not bad_down, bad_down)
+check("what ERK inhibits (BCL2, BCL-xL) goes UP", not bad_up, bad_up)
+check("the claim arrives: Sting1 is negative", float(d["Sting1"]) < 0, f"{d['Sting1']:+.4f}")
 
 print("\n== attenuation and ranking, reported with the caveat")
 atten = abs(float(d["F2rl1"])) / abs(float(d["Sting1"]))

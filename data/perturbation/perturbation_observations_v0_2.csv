@@ -19,7 +19,8 @@ PAR2_13_C1_O05,PAR2_13_C1,gene,COX2,Ptgs2,rat_mouse_ortholog,downstream_output,t
 PAR2_13_C1_O06,PAR2_13_C1,gene,MMP13,Mmp13,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,Figs. 5-6,
 PAR2_13_C1_O07,PAR2_13_C1,gene,cleaved caspase-3,Casp3,rat_mouse_ortholog,downstream_output,protein_cleavage,,down,,,,,,,1,1,Figs. 5-6,
 PAR2_13_C1_O08,PAR2_13_C1,gene,LC3-II,Map1lc3b,rat_mouse_ortholog,downstream_output,total_protein,,up,,,,,,,1,1,Figs. 5-6,
-PAR2_13_C1_O09,PAR2_13_C1,gene,BAX/Bcl-2 ratio,Bax;Bcl2,rat_mouse_ortholog,mechanistic_intermediate,protein_ratio,,down,,,,,,,1,1,Fig.4C-D,composite protein-ration observation
+PAR2_13_C1_O09A,PAR2_13_C1,gene,BAX,Bax,rat_mouse_ortholog,mechanistic_intermediate,total_protein,,down,,,,,,,1,1,Fig.4C-D,split 2026-10-27 from the BAX/Bcl-2 ratio row (old row: Bax;Bcl2 both 'down' as protein_ratio - never used); user reading of Fig 4C-D: AZ3451 lowers BAX
+PAR2_13_C1_O09B,PAR2_13_C1,gene,Bcl-2,Bcl2,rat_mouse_ortholog,mechanistic_intermediate,total_protein,,up,,,,,,,1,1,Fig.4C-D,split 2026-10-27 from the BAX/Bcl-2 ratio row (old row inverted Bcl2 as 'down'); user reading of Fig 4C-D: AZ3451 raises Bcl-2
 PAR2_15_C1_O01,PAR2_15_C1,gene,TNF-alpha,Tnf,rat_mouse_ortholog,downstream_output,transcript/protein,,down,,,,,,,1,1,,
 PAR2_15_C1_O02,PAR2_15_C1,gene,COX2,Ptgs2,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,,
 PAR2_15_C1_O03,PAR2_15_C1,gene,MMP13,Mmp13,rat_mouse_ortholog,downstream_output,total_protein,,down,,,,,,,1,1,,

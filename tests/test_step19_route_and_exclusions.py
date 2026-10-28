@@ -38,7 +38,8 @@ check("no Fos edge is listed in config route_edges any more",
 check("the revert is recorded in config, with the reason",
       "step 19 REVERTED" in Path(ROOT / "config.yaml").read_text(encoding="utf-8"))
 t0 = e[e.tier == "T0"]
-check("the prior route is back to its original size (77 edges)", len(t0) == 77, len(t0))
+check("no Fos edge at T0, and T0 matches config route_edges (54 since 2026-10-27)",
+      len(t0) == len(cfg.route_edges) and not (t0.target == "Fos").any(), len(t0))
 m = build_model(cfg, device="cpu")
 w = m.weights().detach().numpy()
 k = np.flatnonzero(((m.edges.source.isin(["Mapk1", "Mapk3"])) & (m.edges.target == "Fos")).values)
