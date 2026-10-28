@@ -118,35 +118,8 @@ python scripts/run_step45_panelC_table.py         # the PAR2_29 holdout
 `run_step45_panelC_table.py` maps each observation to the model layer that matches its assay
 (activity vs transcript) and applies the call threshold (10⁻³).
 
-### 5.2 Dynasore
 
-```bash
-python scripts/run_step46_dynasore_route.py    # the two competing routes, 5 seeds
-python scripts/run_step32_dynasore.py          # single-seed diagnostic, each cut separately
-```
-
-**Dynasore is simulated as an edge cut, not a node knockout**, because it blocks dynamin-dependent
-internalisation rather than removing a protein. The script removes
-
-* the endosomal β-arrestin ERK scaffold, `Arrb1/Arrb2 → {Raf1, Map2k1, Map2k2, Mapk1, Mapk3}`, and
-* the endosomal TLR4→TRIF edges, `Tlr4 → Ticam1`, `Tlr4 → Ticam2`,
-
-while leaving `F2rl1 → Arrb1/2`, `Arrb1 → Src` and the entire dynamin-**independent** MyD88 branch
-intact. A node knockout of `Arrb1` would additionally delete β-arrestin-mediated receptor
-desensitisation and the `Arrb1 → Src` arm, which is not what the drug does.
-
-The pre-registered out-of-sample gene-panel test:
-
-```bash
-python scripts/run_step43_dynasore_panel.py
-```
-
-This scores 13 genes against a protocol fixed in writing beforehand
-(`curation/dynasore_panel_prereg_2026-10-20.md`). It reports the panel's position against a
-permutation null rather than sign agreement, because ~83 % of the transcriptome moves in the same
-direction under this cut and sign agreement alone is therefore uninformative.
-
-### 5.3 Mechanistic analysis
+### 5.2 Mechanistic analysis
 
 ```bash
 python scripts/run_step40_contributions.py     # per-edge contributions into a node
