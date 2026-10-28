@@ -13,33 +13,6 @@ This repository reproduces the perturbation predictions reported:
 | **PAR2_29 holdout** | the sealed literature study, simulated as a plain PAR2 KO under LPS | `python scripts/run_step45_panelC_table.py` |
 | **dynasore** | dynamin inhibition: the endosomal routes are cut, the membrane routes are not | `python scripts/run_step46_dynasore_route.py` |
 
-### What changed in this revision (2026-10-27)
-
-* **The prior route (tier T0) was rewritten.** ERK now *inhibits* BCL2 and BCL-xL
-  (`Mapk1/Mapk3 ⊣ Bcl2/Bcl2l1`), so PAR2 KO lowers ERK, raises BCL2/BCL-xL, lowers BAX/BAK1 and
-  cytosolic mtDNA, and STING falls. This replaces the pro-survival ERK → BCL2-family block
-  (ERK ⊣ BIM, ERK → MCL1, ERK ⊣ GSK3B, ERK → RSK ⊣ BAD), which made STING *rise* under PAR2 KO.
-  Those edges are not deleted; they remain in the network at tier T1 with their curated signs.
-* **The `Mapk1/3 → Bcl2` sign is a declared override of the curated consensus.** OmniPath lists
-  the interaction as both stimulatory and inhibitory (consensus stimulation) and PhosphoSitePlus
-  gives +1, so the curated sign is +1. The −1 used here follows the PAR2_13 data (PAR2 antagonism
-  raises BCL-2 and lowers BAX, Fig 4C–D) and is recorded per edge as `sign_source = prior_override`
-  (route-edge flag `override` in `config.yaml`). `Mapk1/3 → Bcl2l1` has no curated record and is
-  added from the prior alone.
-* **TLR4 left T0.** The TLR4 → MyD88/TRIF cascade edges that had been added to T0, plus
-  `Tbk1 → Sting1` and `Map3k7 → Sting1`, are removed from the prior (commented out in
-  `config.yaml`); the curated edges stay in the network at their normal tiers. T0 is now 54 edges.
-* **One holdout study.** PAR2_26 and PAR2_30 left the validation set; only PAR2_29 is scored, as
-  a plain F2rl1 KO under LPS with **no** TLR4 knockdown for the albumin carrier. The κ_TLR4 sweep
-  (setup B of `run_step34_studies.py`) is retired.
-* **Data correction.** The PAR2_13 BAX/BCL-2 ratio row in
-  `data/perturbation/perturbation_observations_v0_2.csv` recorded both proteins as down (and, as a
-  `protein_ratio`, was never used). It is split into BAX down and BCL-2 up, both `total_protein`.
-
-`run_step34_studies.py`, `run_step41_verify.py`, `run_step48_tf_influence.py` and
-`run_step49_si_misses.py` are kept as the record of the previous route's analyses; they refer to
-PAR2_26/PAR2_30 and the TLR4 knockdown, which this revision no longer uses.
-
 ---
 
 ## 1. Install
