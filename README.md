@@ -5,14 +5,6 @@ LEMBAS formulation (Nilsson *et al.* 2022). Node activities propagate along lite
 signed edges until the network reaches a steady state; transcription-factor activities read out
 of that state predict measured TF activity and gene expression.
 
-This repository reproduces the perturbation predictions reported:
-
-| case | what it represents | command |
-|---|---|---|
-| **PAR2 KO** | PAR2 knockout in the LPS context: PAR2 → ERK⊣BCL2/BCL-xL → BAX/BAK1 → mtDNA → cGAS → STING | `python scripts/run_step51_par2ko_panel_route.py` |
-| **PAR2_29 holdout** | the sealed literature study, simulated as a plain PAR2 KO under LPS | `python scripts/run_step45_panelC_table.py` |
-| **dynasore** | dynamin inhibition: the endosomal routes are cut, the membrane routes are not | `python scripts/run_step46_dynasore_route.py` |
-
 ---
 
 ## 1. Install
